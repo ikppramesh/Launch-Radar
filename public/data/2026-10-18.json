@@ -1,0 +1,543 @@
+{
+ "date": "2026-10-18",
+ "items": [
+  {
+   "id": "a416c4784f3c",
+   "title": "Apple Expected to Release New Products on Next Four Fridays",
+   "summary": "Apple likely plans to release MacBook Pro models with OLED displays, 14-inch MacBook Pro and iMac models with M6 chips, and/or an iPad mini 8 with an OLED display on Friday, November 6, according to Bloomberg 's Mark Gurman . The devices are expected to be announced on Tuesday, O",
+   "link": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/",
+   "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg",
+   "publishedAt": "2026-10-18T18:01:53.000Z",
+   "date": "2026-10-18",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "7e0565ef2d1b",
+   "title": "Apple launches new MacBook Pro devices with M5 Pro and M5 Max processors and revolutionary \"Fusion\" architecture",
+   "summary": "Apple launches new MacBook Pro devices with M5 Pro and M5 Max processors and revolutionary \"Fusion\" architecture آي-فون إسلام",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVUJ1bzhzeU1BMi1uZFlmcEUtY0JrQmVDUmlXRTBBSnRlRHU5N2xuRjVnRU4yTFlFZEZGcld5LThxM1NDTlV4OV92OE16Rm9FWGNETzVjTWI4QkpQZkxZZmVSM0JWYjN2cmhtQ2oyZEFSenItMGpqMk11aXRWZUZCVnBYY2F6Y3YyWlp5RVhzQm1vb0lTbGtPRUliZl90ZGtBM196UEZMbmJfSVZNeTBoaUFTbEJVQTBJMlF0T0tWQkhIcXZNeGZSM2k1REF2a0dUa3h5NHdmRS1jR1BhX01ObWs2QnB1WTBURGNWMWVKWXZnMEQ1Ujc1Yw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T17:47:06.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "آي-فون إسلام",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVUJ1bzhzeU1BMi1uZFlmcEUtY0JrQmVDUmlXRTBBSnRlRHU5N2xuRjVnRU4yTFlFZEZGcld5LThxM1NDTlV4OV92OE16Rm9FWGNETzVjTWI4QkpQZkxZZmVSM0JWYjN2cmhtQ2oyZEFSenItMGpqMk11aXRWZUZCVnBYY2F6Y3YyWlp5RVhzQm1vb0lTbGtPRUliZl90ZGtBM196UEZMbmJfSVZNeTBoaUFTbEJVQTBJMlF0T0tWQkhIcXZNeGZSM2k1REF2a0dUa3h5NHdmRS1jR1BhX01ObWs2QnB1WTBURGNWMWVKWXZnMEQ1Ujc1Yw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "0e04d6f398a3",
+   "title": "Apple officially announces the end of iPhone X: The iconic phone joins the obsolete list",
+   "summary": "Apple officially announces the end of iPhone X: The iconic phone joins the obsolete list آي-فون إسلام",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHBlRXJoZUk3WjhrWmJYNzlVNTZialNlQlJQVXJiVlhXVk1zbWZSWXVTekhNVzlBNExVVkxlVzRvc2lqNGhtak9LRmFXNm5ZQV9RVWVJLU54ZzZzUWxTNGdTa2t2VGhNQU0zT2VxNU5uaHFwemJuRmE3TlEydjZxV1hIT3B4dEljZ0ZXYTRlVHFCXzliNHM1UzJlVHFIZGNEX0JIRFREaEJKWGtadF9fdE5YWW5uMWo2eExJQUVGWXRScXJXQjBlM0xURDRVaDMwWEpRTQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T17:31:31.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "آي-فون إسلام",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHBlRXJoZUk3WjhrWmJYNzlVNTZialNlQlJQVXJiVlhXVk1zbWZSWXVTekhNVzlBNExVVkxlVzRvc2lqNGhtak9LRmFXNm5ZQV9RVWVJLU54ZzZzUWxTNGdTa2t2VGhNQU0zT2VxNU5uaHFwemJuRmE3TlEydjZxV1hIT3B4dEljZ0ZXYTRlVHFCXzliNHM1UzJlVHFIZGNEX0JIRFREaEJKWGtadF9fdE5YWW5uMWo2eExJQUVGWXRScXJXQjBlM0xURDRVaDMwWEpRTQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "fe198a9f4a82",
+   "title": "Which smartphones will be released by the end of October: iQOO Neo12, Honor WIN 2 and REDMI K100",
+   "summary": "Which smartphones will be released by the end of October: iQOO Neo12, Honor WIN 2 and REDMI K100 gizchina.net",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHhuNjU0cElFWllmdUFrMDVkZmZPNEgzc3Jna1BvdlhKYnBrTUgwSDNrS0t6cGNFNnZsYkFwaW5qRUhsSzFwNGZzLXpHU3pRTk5QMTBYSFd6YWJJdzFta3J0a3loUmpTNXN1YXIzT001SzZRU1BVaWdqdkVQWEFuemhqeV9SOVpiY1N0eXJDTnVnZXNraVI1OWJEeUl6RlE1TWRzWldMVTlhOGsybnY4WXpiNHl1OG1PWGYxVkU1SS1RV1A2TVdacllwQVc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T17:11:12.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "iQOO",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "gizchina.net",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHhuNjU0cElFWllmdUFrMDVkZmZPNEgzc3Jna1BvdlhKYnBrTUgwSDNrS0t6cGNFNnZsYkFwaW5qRUhsSzFwNGZzLXpHU3pRTk5QMTBYSFd6YWJJdzFta3J0a3loUmpTNXN1YXIzT001SzZRU1BVaWdqdkVQWEFuemhqeV9SOVpiY1N0eXJDTnVnZXNraVI1OWJEeUl6RlE1TWRzWldMVTlhOGsybnY4WXpiNHl1OG1PWGYxVkU1SS1RV1A2TVdacllwQVc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "b1404d564d6b",
+   "title": "Brax launches Wink modular compact phone with detachable QWERTY keyboard and privacy-focused OS",
+   "summary": "Brax launches Wink modular compact phone with detachable QWERTY keyboard and privacy-focused OS Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRVBqQVNrRE1nT0t6bFdzYk83SVV1b0RLOE84N2ZvTVp2V2JUR1BIODEtcHpvMGxxYWoxZXdTbWtSNzhLR28zRkhtRVpDODEydWZ3NlBsUW1ud1ZkSUVNZ2NIUm9mWnJneF9BLVhkdW5UcGlJM240NUtDNi05UmF4LU1wYlZHeElfV2l6eEpZdEJYT1hWMmlaRTRZVlB2RVFBVnRqRmRMaVJ0M2dRMjNacnZGSXJGQmJMcE1OOGJKak5sMF9PcURZNlZlVWpCQVptaVFGdEFVRQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T16:55:00.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRVBqQVNrRE1nT0t6bFdzYk83SVV1b0RLOE84N2ZvTVp2V2JUR1BIODEtcHpvMGxxYWoxZXdTbWtSNzhLR28zRkhtRVpDODEydWZ3NlBsUW1ud1ZkSUVNZ2NIUm9mWnJneF9BLVhkdW5UcGlJM240NUtDNi05UmF4LU1wYlZHeElfV2l6eEpZdEJYT1hWMmlaRTRZVlB2RVFBVnRqRmRMaVJ0M2dRMjNacnZGSXJGQmJMcE1OOGJKak5sMF9PcURZNlZlVWpCQVptaVFGdEFVRQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "abab68664adb",
+   "title": "Xiaomi Mijia Dust Mite Remover 3 launches with 16 kPa suction, 65 °C hot-air drying, smarter dust handling",
+   "summary": "Xiaomi has quietly opened full-payment pre-orders in China for the Mijia Mite Remover 3. On paper it looks like a modest upgrade, but the changes should make a real difference for anyone trying to keep mattresses, sofas, and bedding clean. The big change is the motor. It now pull",
+   "link": "https://www.gizmochina.com/2026/10/18/xiaomi-mijia-dust-mite-remover-3-launches-with-16-kpa-suction-65-c-hot-air-drying-smarter-dust-handling/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/8d90704e_6f7e_4bbc_9355_706d287b20351-300x169.png?x96852",
+   "publishedAt": "2026-10-18T15:31:47.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Xiaomi",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/18/xiaomi-mijia-dust-mite-remover-3-launches-with-16-kpa-suction-65-c-hot-air-drying-smarter-dust-handling/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "459bf3c4b44f",
+   "title": "Vivo V80 FE India launch expected soon as smartphone appears on BIS website",
+   "summary": "Vivo V80 FE India launch expected soon as smartphone appears on BIS website India TV News",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVVUVXc4eHdwRFVBQWJlVmM1NDNrdG5UUnNyRVdsdVpDQVpNYl9heEViU3VDNWFwMktxMkNfOUJFLS00b3BIWEkxN2d5Wlc1cTVjQ0ZadjJ6ZF9udkNJaXNnbllpV2YwaWxpTDA1SFU4Y2hKT1gzNjlNRVpuYUx4U2I1QlhmZ18wUDFoTFZXZFc4UHVZc1hYYkRFZjNLTWJUSG5OM3B6bEFmZDczcnNLVHBIMHZDXzJJMXhTYVE4WEUtMzJONDVSSDQxT3QyTXRHMXk3NtIB2gFBVV95cUxNQnBZc3pEYWJ3T2t1bnlJZDg3SjZYdHBramgzRTNvUG9CTTdHbGhlbTZrNVN3WlVWeDFRQTROZndudDV3T01IMTJDNHlUeFliUWJPa1h3MURta014eW5ha0pBNUVBUnRvbk9GaXBHbDRaX3Z1THRxMHdlWjUtS204RWFiUEM3Z1IxY3NfV2dBbmUtX1NUTGNRSjlwWXF6UHlmRGNicFdrLXk3WXliTVU1OU9FSG5vUENQbEl1WUtmZUtLSjhYeVlVTXFyQXNySHROZ3l2VFZJT2RDZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T15:04:18.000Z",
+   "date": "2026-10-18",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Vivo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "India TV News",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVVUVXc4eHdwRFVBQWJlVmM1NDNrdG5UUnNyRVdsdVpDQVpNYl9heEViU3VDNWFwMktxMkNfOUJFLS00b3BIWEkxN2d5Wlc1cTVjQ0ZadjJ6ZF9udkNJaXNnbllpV2YwaWxpTDA1SFU4Y2hKT1gzNjlNRVpuYUx4U2I1QlhmZ18wUDFoTFZXZFc4UHVZc1hYYkRFZjNLTWJUSG5OM3B6bEFmZDczcnNLVHBIMHZDXzJJMXhTYVE4WEUtMzJONDVSSDQxT3QyTXRHMXk3NtIB2gFBVV95cUxNQnBZc3pEYWJ3T2t1bnlJZDg3SjZYdHBramgzRTNvUG9CTTdHbGhlbTZrNVN3WlVWeDFRQTROZndudDV3T01IMTJDNHlUeFliUWJPa1h3MURta014eW5ha0pBNUVBUnRvbk9GaXBHbDRaX3Z1THRxMHdlWjUtS204RWFiUEM3Z1IxY3NfV2dBbmUtX1NUTGNRSjlwWXF6UHlmRGNicFdrLXk3WXliTVU1OU9FSG5vUENQbEl1WUtmZUtLSjhYeVlVTXFyQXNySHROZ3l2VFZJT2RDZw?oc=5"
+    },
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzFoa24xWVdjNC1McXRpb3RsN041cHQ4X1JIb1BuZlZwZzJDZ2E3aDdEUDgya3hJZEtZOTNWcnhLbmtCdm94NDdEdmN1U2I0dFRiYzhlbHYwUzViUjlRWC02MmpnX3RONzZ4RnJnVVh0X0ZyTFE3R05jTWpTZ1YzZmcyLUtzSDg2TWg5MW9Cdmp5NjNYcFgxX3RnLXc3RndjYVAxazdkRGlFYVV4ZW9taTZJREtqRkU3TXpraHZ4UjFVbmEzckdMSm5vVmZWMWxkekHSAdgBQVVfeXFMT3NFajVFdGpxby14a1k3VVZjMjdwdWR4bnZXbHRyY3ZIMV9sVXJVSFVJdDdub0FOTm1HU3cxa0txTUhHVE9CenJ6YURHczVHdzE0MmhCOTVrem05QzZZVTc5V3dBdHNyZkVVOE9FSkxlODI3aEU2cDNXcHVmRWY4eW5hZEIxTU5DdjJTOTZnUE9XbG9ZYmtIdVBfZ2xqcktDRUhEd001SEFNS2hrN0daNzdobFVfRzI5RzZ6dnV1dXd3SjN0WTVVMEw3Q1JKYzVSMWZCeHVuS1ls?oc=5"
+    },
+    {
+     "name": "The Sunday Guardian",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNnBSb2lnVUY3RnpESlZMV3ZyZ3FWRzFIUC1vbHBMaFN2YzNhMDNaRzdLVmRibENIUzE5MEZUcHVnV3FERC1iczRnMFVzdkZ1T3R0YUY0UjZZdFdGMDFvQ2xnY010RFVoNmlYa1NTaU5ES0VZaExqXzN5RF9KdURhQnJmajVCTVh6TjcyQTFoMnVtMm1xbWdiV0NIMnUzb0kxeE9ZQlJBZmxtNDEwR0U5anFVNW9fZ25mc2hYTU5tVnQ0LTdBVWQ5LVJzSFlpZXY2d0FhT05PV2xQUVlDWk1KSVNXd3lEZXJaWW02N3dqSmYwQU5yRUNfTHZKdEdYaTB4akFUS2h4Y1hkT2d5eDh5Y3pB0gGXAkFVX3lxTE4wMEpmTm9sckk0NGZXSURqZ3F6bWxFa051emVhcHpwY1g5ZThjNUNFWmF1bTZEazAxVUFDbjU1ZVpURW9zTzJDVm9kQWF5OHF2bVQ1NTQ5eE0wSThPYUZyMlI2eTdkVWJZVVc0elBnVTFzLV9YTTZjSDQwbmExQU1fckJhUGpWS2IwNmVfWl8zcjZTNVh3RW11WmJYS2U4MHc5bXpHel9xYW9kLXFIX00wSC10SEhWczRlU01Eb3pSRE11R2dDZkhfS21Dc2p4VzRGMWRHYklyNXFleUNYVTd2YWRXUVZDdy12d2lWUEhSOWJEWHZvSVhhbi1XUkJENlBjekhWWUxhVjRsUlRBLTQxX0Q1eGlaaw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "fed945e5bc12",
+   "title": "NVIDIA RTX Spark Laptops Launch with 128GB RAM and AI",
+   "summary": "NVIDIA RTX Spark Laptops Launch with 128GB RAM and AI RS Web Solutions",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObndQSE1TbWFjNkpOa0loa3NPMHRTVDhHd0xFYXYwdENzX3pIWDRNNllzd01zeGlpc19VWm9TS21IWWdTWmJIRUxFUnNQN3dqMFc4UEJNVFZCZFhXZEl5RTFHMnNEVXZnb05kQ0ZfSGpKOVNVbWhOYi1vdjBKbGZFZ2lDanZNSU1qNHFvd3FrYUx3akxNUkgwZHRKeHQwbEM0dFpVd1NNdTlhcHl1UWpZOUZsZFpWU05HR3pEY2VPQjg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T13:00:00.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Nvidia",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "RS Web Solutions",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObndQSE1TbWFjNkpOa0loa3NPMHRTVDhHd0xFYXYwdENzX3pIWDRNNllzd01zeGlpc19VWm9TS21IWWdTWmJIRUxFUnNQN3dqMFc4UEJNVFZCZFhXZEl5RTFHMnNEVXZnb05kQ0ZfSGpKOVNVbWhOYi1vdjBKbGZFZ2lDanZNSU1qNHFvd3FrYUx3akxNUkgwZHRKeHQwbEM0dFpVd1NNdTlhcHl1UWpZOUZsZFpWU05HR3pEY2VPQjg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "e4c60fb7a426",
+   "title": "Xiaomi launches Mijia Washing Machine 6kg that handles 26 T-shirts at once, costs less than $100",
+   "summary": "Xiaomi has quietly dropped an affordable top-load washing machine. It’s the Mijia Washing Machine with Giant Washing Pulsator 6kg (model XQB60MJ101), and it’s currently on pre-sale in the home country. Put down a 50 yuan deposit and the full price is just 587 yuan, roughly $88. N",
+   "link": "https://www.gizmochina.com/2026/10/18/xiaomi-launches-mijia-washing-machine-6kg-that-handles-26-t-shirts-at-once-costs-less-than-100/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Screenshot-2026-10-18-180948-1024x597-1-300x175.png?x96852",
+   "publishedAt": "2026-10-18T12:53:22.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Xiaomi",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/18/xiaomi-launches-mijia-washing-machine-6kg-that-handles-26-t-shirts-at-once-costs-less-than-100/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "abd3d291ad75",
+   "title": "Poco X8s Gets Listed on Another Certification Website, Hinting at Imminent Launch",
+   "summary": "After several leaks and rumours, Poco’s unannounced X8s’s moniker has finally been confirmed thanks to a certification website. The phone which showed up with a single model number on various certification websites across countries has now shown up on Thailand’s NBTC, but reveals",
+   "link": "https://www.gadgets360.com/mobiles/news/poco-x8s-listed-on-certification-thailand-nbtc-website-reveals-moniker-launch-12205511",
+   "image": "https://i.gadgets360cdn.com/large/poco_x8_5g_xiaomi_1788325937907.jpg",
+   "publishedAt": "2026-10-18T12:37:55.000Z",
+   "date": "2026-10-18",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Poco",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/poco-x8s-listed-on-certification-thailand-nbtc-website-reveals-moniker-launch-12205511"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGx0SU8yZmFKLUMtRWtJQm9nalVfYlAtUnFPRjVOajROMHlsT09RRklybGFLNUp6UkozSnR0YXUxRjVJU2RUOFBjZndxczdUWmgzUURsdm9lSk4zY1RSNmtBMVFEYUFUdWdlOS1jZUNocFRBUGcxMi1ibU5Qd3Z1WVNTUG4wZm9fU2hac2tYaF9EYk5rLUZPVXBjM3hjQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "57e818bd0ff6",
+   "title": "Microsoft Unveils Surface Pro 12-inch and Laptop 13-inch with AI Boost",
+   "summary": "Microsoft Unveils Surface Pro 12-inch and Laptop 13-inch with AI Boost Small Business Trends",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkpDWlBCeXJmbDIwRXlCbVNwcENSc1ZXRDVpZXEtSjg2d2lJLVJpUjBnci1GbjVac3M3TXlnVmRqcTgxVVJEbUdKUF9KUm9ETmxWeEFCOTVGUk1lSE9ObklwNXpEMWQ2LUpORmkxTGRWUTBRbjZrbjBxa0VHWXU1RWxkdEpCY3dObmdmSTFEZHZFeGdXeTlVazZMRUhEVk0?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T12:11:00.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Microsoft",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Small Business Trends",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkpDWlBCeXJmbDIwRXlCbVNwcENSc1ZXRDVpZXEtSjg2d2lJLVJpUjBnci1GbjVac3M3TXlnVmRqcTgxVVJEbUdKUF9KUm9ETmxWeEFCOTVGUk1lSE9ObklwNXpEMWQ2LUpORmkxTGRWUTBRbjZrbjBxa0VHWXU1RWxkdEpCY3dObmdmSTFEZHZFeGdXeTlVazZMRUhEVk0?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "4b23da53ee57",
+   "title": "China's StepFun launches agent-based STEPX Neo smartphone, redesigns OS from scratch",
+   "summary": "China's StepFun launches agent-based STEPX Neo smartphone, redesigns OS from scratch 디지털투데이",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT252aVVNc0tNX0tOQWE5cFB0bTVJRUI5dXdyNUtuMV9lMkUwN2sySkRpaXdZRGRzejZYR1BFQUMwX0kwcExpWUpNSGFSYWhPVVU1bFNFbkY5OTR2bURrZFNwVDBFeXg0T0xnWnBWbVVINlB4WVhZel83RnY4LWZaUVNhU0Vxc3lVaEIycS1jTGVaSEVrUHpJZVdVb0JWRk8zWEM5LVJWQzNsYlptU01GUV92a25jUnJOT003aXBMSjMta2NWUWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T11:56:04.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "디지털투데이",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT252aVVNc0tNX0tOQWE5cFB0bTVJRUI5dXdyNUtuMV9lMkUwN2sySkRpaXdZRGRzejZYR1BFQUMwX0kwcExpWUpNSGFSYWhPVVU1bFNFbkY5OTR2bURrZFNwVDBFeXg0T0xnWnBWbVVINlB4WVhZel83RnY4LWZaUVNhU0Vxc3lVaEIycS1jTGVaSEVrUHpJZVdVb0JWRk8zWEM5LVJWQzNsYlptU01GUV92a25jUnJOT003aXBMSjMta2NWUWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "38fc0224e30b",
+   "title": "Google’s latest smartphone is already £130 cheaper just weeks after launch: Pixel 11 drops to new record-low price",
+   "summary": "Google’s latest smartphone is already £130 cheaper just weeks after launch: Pixel 11 drops to new record-low price Tech Advisor",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkdIZWcxaUcwUjhBM3lfSDNudWo5TTdsQU4xbmxZaGdOclVaS1BHLVlpQmlyTS04YjRkOVp2a2ZjUkZiZGNrWC1ST3Q2WS1oUi0zV2x1NVdRV19VZ1FIS2M5b0Qwa0VscV82NzN5SkF6NWs0cjFfRzRpSVZQXzBZVE4wUHRjTmJ5V3lTNEx1ajI?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T11:49:20.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Google",
+   "region": "UK",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Tech Advisor",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkdIZWcxaUcwUjhBM3lfSDNudWo5TTdsQU4xbmxZaGdOclVaS1BHLVlpQmlyTS04YjRkOVp2a2ZjUkZiZGNrWC1ST3Q2WS1oUi0zV2x1NVdRV19VZ1FIS2M5b0Qwa0VscV82NzN5SkF6NWs0cjFfRzRpSVZQXzBZVE4wUHRjTmJ5V3lTNEx1ajI?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "e7d6f0ed0d82",
+   "title": "Honor launches new 10,000mAh and 20,000mAh power banks in striking red finish",
+   "summary": "Honor launches new Honor Life power banks in China with 10,000mAh and 20,000mAh capacities, digital displays. Check full specs and price here. The post Honor launches new 10,000mAh and 20,000mAh power banks in striking red finish appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/10/18/honor-life-10000mah-20000mah-powerbank-launch-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Honor-Life-Power-Bank-10000mAh-20000mAh-300x200.jpg?x96852",
+   "publishedAt": "2026-10-18T10:31:52.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Honor",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/18/honor-life-10000mah-20000mah-powerbank-launch-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "28c6a49b146d",
+   "title": "Cube Unveils 2027 Aruba Hybrid: A Sophisticated City E-Bike for €2,700 with Enhanced Bosch Motor",
+   "summary": "Cube Unveils 2027 Aruba Hybrid: A Sophisticated City E-Bike for €2,700 with Enhanced Bosch Motor Gagadget.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHBNNGlOV0t0RHp2dHRvbjlaU3B3UlVSZjdUNFExOGd2bloweWR3eGF6UFF5RGtIb3cweWlnem1RUy1FdEVzc3ROdVVFbGRHUEJjb1NkbzZfR2MyNm9MWm5NZU1xOUFmQzZaRG9lMlFqZmw2NWZjV1VGN3lqU2MwTHVwUkxSNmVUY3lobi11cEtYQ01ESVNUTDh5VlhEUmZITXh6RkE1UnFoWTlKLURmQ0dsR0Z0aDdwR1Y1bU1xaS1Cemt3Tzk00gHMAUFVX3lxTE5teFB0Y3hZanAySUoyQzRZSmRSQ3h1MVNqRF9rSVoxdUY1bVdEdGpjc1hDLVB3R3BnOUpUR1FuX0FwUVVwdVJmdVk4UTM1VlRrTVpSLURXY19NZkR5aEQ5RWlkblczSk1UWjZsYmNIYVl0T0JhczZzOVRaeHJHX2RxR3UxM1VJN2UyWlJfdUN0WWczS0Y3UTNnclFtX2xpTkxxQnI5UnBhTVJGN2d2TThrLUJnVHdaYnY4MGNnQ2VCREFZMWl5N3hid19iMQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T09:29:57.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Mobility & EV",
+   "brand": "—",
+   "region": "Europe",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gagadget.com",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHBNNGlOV0t0RHp2dHRvbjlaU3B3UlVSZjdUNFExOGd2bloweWR3eGF6UFF5RGtIb3cweWlnem1RUy1FdEVzc3ROdVVFbGRHUEJjb1NkbzZfR2MyNm9MWm5NZU1xOUFmQzZaRG9lMlFqZmw2NWZjV1VGN3lqU2MwTHVwUkxSNmVUY3lobi11cEtYQ01ESVNUTDh5VlhEUmZITXh6RkE1UnFoWTlKLURmQ0dsR0Z0aDdwR1Y1bU1xaS1Cemt3Tzk00gHMAUFVX3lxTE5teFB0Y3hZanAySUoyQzRZSmRSQ3h1MVNqRF9rSVoxdUY1bVdEdGpjc1hDLVB3R3BnOUpUR1FuX0FwUVVwdVJmdVk4UTM1VlRrTVpSLURXY19NZkR5aEQ5RWlkblczSk1UWjZsYmNIYVl0T0JhczZzOVRaeHJHX2RxR3UxM1VJN2UyWlJfdUN0WWczS0Y3UTNnclFtX2xpTkxxQnI5UnBhTVJGN2d2TThrLUJnVHdaYnY4MGNnQ2VCREFZMWl5N3hid19iMQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "2d1098165a9b",
+   "title": "Samsung Galaxy F70 arrives with familiar specs",
+   "summary": "Samsung’s latest F-series smartphone is now official in India with the launch of the Galaxy F70. This is the third entry in the F70 series, following the Galaxy F70e from February and the Galaxy F70 Pro, which launched in August. The new Galaxy F70 is the midpoint in the F-series",
+   "link": "https://www.gsmarena.com/samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-f70-ofic/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-18T08:24:29.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104.php"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/18/samsung-galaxy-f70-launched-price-specs/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-f70-5g-price-in-india-sale-date-launch-specifications-features-12205085"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495303/samsung-galaxy-f70-5g-price-india-specifications.html"
+    },
+    {
+     "name": "India News Network",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWpCUHkwVkVFSHdzQXhieUtwVGlSeHFRc1hwS2hiZUFnbUlVeWZQM2RLVU51M3ZKdkpPWGU0RF9fcWpWN09XU0FOT1BPaFVsUEZNWk4wTU9ZUU9HMkkwNWQxMWNMNXp5UEtNSnZyRU9LOUk2SHdPOFhGSXRnTjF0QlZmSkJPZTExN2NmUkJQZmJEbDMxR29R?oc=5"
+    },
+    {
+     "name": "TelecomTalk",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdG9ZbzBkYUNrS1NOYUkwWkl0TXhZSG0tZ3hEYWpiOGRuSUtjV2VDM0gxalhmT0NNWTdFejdtZlZXeS1nZ24tMFNURmdUUGJBMTRmWmlBazgxUTVuVmlmbnZuZ0lmWmF4MW9DRnRZSVJtS01OMnFIenNfSlNfZjlXRQ?oc=5"
+    },
+    {
+     "name": "CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNREQ5dU5zT2dlNHBkOU1OaEhRSHVmVU1aVFNkY0tpTEY4NnRiRTZ6YUpGbnZjZVI2dWJCMlF0WFRqbVZtM3pOTURRVmRCVGJyd2JSb1RQNmtob2tSNDZWUEl0N2VLdHd6YzN5c3hTR1VhTEdtVDJ4SVJlaEF6Y2hoUXpSRnFXNlhROEwwZkdQSWFWMTRXRjFQOXFJWlBWa3UySW1tRzUyWGpjbC1SUlB5SEFQOG9GZ3RKWDluQTNyNW9lWGVYalA00gHMAUFVX3lxTE0xckN1a0JkN242VU5XTTFJT1lNR09WWEJKdGRSZlYwZVQtek5RdnpxT3JvcTNjbWF5MnpHLXN5UGtnX0t0dUxfRTM1T21PVjVBTGF5d3k4dkhnUDJVYU1udEM4Vm91c0RQVU5zZlpGN05hX3laTktudkNFYUVXcWxRS05JTFo3SU5sNWFFSG9vbEZVWlU5ZWpoY3lpZVhKekRjUjhXTG5iWkRTRjY1Sy1lU3BVRFh2QzhaVDV2VGVnd0VqVWFJYVRtamxXTw?oc=5"
+    },
+    {
+     "name": "News18",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ3JTT0ZRX1ZUVmRxd2hSZ2FXUW5NNTNEdzNnN3FUaVJaa3ZZb2tWdkY2aTEwSXF4blA3Z003ZzlzNUlYdjlRbHBIS1llTXF0WlJMOUw5U0U1dU1EWU1fdjU0ZE1OY040TlhNbG9ac2RvcjlfM19DNkJqUHhKY1BMY2V1Mm8tWDlxVEVuMEFCd05HZncyNzc2bUJXWlNHeFpCWjBTSU8xWmJBUGNxTV9CVTBmMkZGTmd4RHVPMDhLSU5uZ1dGWlhURXFnX0tqZV9QZGF3R9IB2gFBVV95cUxOTWszVEt4dEZnNkdEM2ZOTEhuSkowdVRBNGxqd09fdDR6eTdkRmFZWlRoYjlGbTBoQVpOaGpyTThfeUhRNjJRUW5mcm5WQUtQTW1iRVFselFnTVZVY3JSdXF2bFE1dndwMUpjT1pnTnRzSzRNaE1jQ0VvWFBxcEV2bFhoOHBZRURCM1Fwb0w3aU5xRmYxNDk2YXFRbDNsLVBJNExMcFZvQ0ZhTEJMUDBXVHhlZmt5T0F6NFppemdmRmJUcFVCa004X25reVM5d2hKa1hkTnR6Z1JXUQ?oc=5"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWlnRG1rOWJDUS1fX3pCS2hYbkhpUmpfc1ZhVEYxR3ViSmVNeE9yOWoxNlhoMks5UUNOblFZbTFXSXF2OUt3b2pZQi1UYkMtNWJJZmlOMGlhTHRyazdqZGFpTnhJNG84V0pWVjJiQl9PdkNDQ2FZeGZfRVVyQl9lSGxfNTIyWmVCOGpSZ0Q0TVVpSkFyQndoOVFmd0I3LTcyWldBaXRmTmZ4bXlJRUtxQlFlRW00Smo4R2xpZWdPWndNZw?oc=5"
+    },
+    {
+     "name": "Sammy Fans",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORjJwZUZvc0d6U2JQdFJaU3RYQVh5bHZYc2VhOTk4SjlmS01hc0tCWWFVMlRxZHYyUFBUMUdRS2NCRHBHU3Z3b2R6TVBYdWJldmxKUHlvczZpMkRHMHI1NVdBcFdEcG5kMW1IVi1RblV0THQ5ME5mOHNRaWJsc2YxNEZ5QWlJWVctcFJr0gGQAUFVX3lxTE84TV93Sk0wUzVEQjdjU1VsYUhBb09lNzJqU1I0NUxLUkIxdjlmdVJWQWZxSjVybHVUazRMX0tTNlM4YVFDanVFaDI3V2hIQlJZZjRVVngxRGZMX3lVQkRIVkxPcFJkOXRQWERtUW9yeHZlYTlaTWI1d1dlcENlVzhTQ1l5UFVJaDlvdXZJeXU2eg?oc=5"
+    },
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV05SZXpDNWNVc0hJY2ZSRGFLc2xadm8tQ3hVRVVBTm42b2tlbzRBMnVMYjRZU0ppUVNpUU0yMHI4S3MtbmRySEpyUXI4LXlpZTBQU0VRbzRYZjhPbDR2ZnRiNk8zdEdwdkhyT0xoQXhHUjNsTFVPWVZyQzhiNFhRNGFFZlVDYWdndTZTdWtkR1AtTW1D?oc=5"
+    },
+    {
+     "name": "ETV Bharat",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmFmRHZES19mZk45X256TXBGQ1BXZzdhRl9DcDhCSHN1dUVfVWlMUVBEcjFtYWFBV3owUTkwZzFXRF9GMFJpQkF2Vy1DZFFscUo5U08wbmI0YlpTSFhaSFo0bWRvb1NxdHZabEYxSENJcW5CMUlRbjFnY3JFZzhHeXlYc0JGSFplSlZWeXBBaXhNdXRuSWtELW9oRGxkZ1hrNEZBRkhVSndLeU9qZ3oyQTZxdGpPOUhoYllfNjNiVDlGUdIBxwFBVV95cUxQYWR5ak9HRmV5UGhOS3ZCNHlhcTJQX3V2aTMtR0pyWE9GVGJxcExtdEdmek5iV3JGaE9wT0VVRWc0QzVEYWN6LWY1S2haQ2hfZTVCYTJUcWl3RE9Tai1qT1pETk9tMU5lTHVQMkRJbzlJeFplS3NtS3dOa1FxNzYyX0xydHpQZV9GeERzZTFZZXpZbUx0WklZc2o3NnpaUjNaSzhrTk4yTXItRmZBNl9ERDVKSnpUMEQ1eGE1UTBCRFV0eF9xSkE0?oc=5"
+    },
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQk5XMmVTRHFpR25TRm52d29fX21ldE5UYkQ2eHJzbWk2b3VzUkw1clFJeENwMFcxVHJ3U0Fob21tQk5WSk9ZcmVMeG52S1g5QUM1UWtjZDh4WVFCY2VGbTg3UmU4d09IekctbjBScFZKT1U0bUVpRG8xaC1QaGxEY0RsQ1VXcVVPTWFUYnJVbm9IUdIBlwFBVV95cUxQcnNpVGU3RUxKdmV0M0Vmd3NIN1dBR2twTlYxeFZJWV9TbVd3OHMzOGZXUHdvbTlTWTB3OThidk5scU5RbkJ4aVpnVTRxdTZrV1ZRSWh5OWFTZElGcDEtcEN2WGNXa0pOREV0TXJKcXE5WDhEWTVZYUdhczhKSjAwWXJna3dISHhlRFVtc2piN1JtTUhndWZj?oc=5"
+    },
+    {
+     "name": "Times Now",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWnFFcTRxdmo4bE5DZno3MjVXZXhEb2FVZnQwUU9ES3NjbzEzLWlKV0NXYV9pTmNKNzQ1aVl3M1FUU3VfbE9ONWdxalFSTTg2a1p0RjJUZTUzemtkV0lqeThSZl9wVzg3QTFRY1dadzYtRUV3YTVER1RNSXVibjJrT3VaTnN6S0l2NXF3am9Ec3FmNGM1UlZYNzM1MVVXa2FabFVHNjlubjRXZFdZdXhsdEFzYWtwWnQ4Q2d5bW9ad0VMUldhenVZTzliWF9RM2J3czNtck5SZTlfQU8yTmFNZEhXeFdTbk9EZ1ExVlQzSzJBUdIB9wFBVV95cUxOOVdlYXQ5eFltRHRIU2xCdnZadlJYbFRseWpPWW1ac3NLNDZuMzRSVkVpdzFDSkpyV3VEbl85NTJ5YXlnRXlQWUdmajdnME5BbGlzVUg2alhLZGRTSVhmRmU4eEdXdGZBa1dZRjVZRGRSY0VtVnRGc2RkOElpMExER3Z0SXJJblBvWUdmcWNfSDAyUXJRcXNLYU5taTFtRnNzMlNSOGt6RkFfcm1keFczNDEzaEUtdi12R2hEUjdnT2JPTGowTW8wNmpPQm9ZOXB2dlVwSUJvVlhudTZ3VU5NdEVBbDF1bmZSZ0ZpNFh3X0ZWZEU2cWtF?oc=5"
+    },
+    {
+     "name": "Smartprix",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXBOa1FySkctX0Q5TXcwRFFHYTRTbEV2ZkNXY1lBcmVyV0tZZ3pMMktKRmNfc0dPTHBqRVBFSjRETnE3Tmd4d3cteDNQWU1UNzVwWng2ZnB4dHRnNURMUVhyemtkWnV6SVh6Y2lfV3N0RGpBbC05dElLRXRfOENZVUVkZ0N0UTdEXzB0ZFFqaTM3bG9FblVBYVU1UGk5d1VnN0h4dEx1MlJaQWc?oc=5"
+    },
+    {
+     "name": "https://streamlinefeed.co.ke/",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdXl1dTQxVmgwSFIxN1Bpdms3RXZNblZFT3AwSXVvZXFIVFpna2EtSUFsNWRSWm1MLXpSMWFnbHhzOHpaaWh3ZURjNWVQMmxyQ2FGZWZZRUNpc25JeGlJNEVNMW92ejVzb2JVLWs3T1VHLTF1Y3lkdmphNnRXa2tFZWV6UjU3U2VtVlhGaXdJM3dhTmo5LWczN3lkV3p1UmNn?oc=5"
+    },
+    {
+     "name": "Mathrubhumi English",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHd2eVpHVVNXQ0hjT1JBNmZId1JFcGpXaFFCQlFaTS1HSDJlZ3M0b2xwancxTHJpWmpla3o0VE1sYnBkYkVNamxpTWQxTlN6OGdFZXlobFRVNmhIM3dQNEZ0YS1wZEh5TFpxZXdEX3JEejNzQmo4TjM5U2l4XzEzZU1MaUNhQ1VYMExnbGVFcWhadFdWUUQwV0I0U2VqUTZhbXNNQWUwNml3d1RzZ0U4VHFQendCVmR1QkV1TW530gG-AUFVX3lxTE1Ed3Z5WkdVU1dDSGNPUkE2Zkh3UkVwaldoUUJCUVpNLUdIMmVnczRvbHBqdzFMcmlaamVrejRUTWxicGRiRU1qbGlNZDFOU3o4Z0VleWhsVFU2aEgzd1A0RnRhLXBkSHlMWnFld0RfckR6M3NCajhOMzlTaXhfMTNlTUxpQ2FDVVgwTGdsZUVxaFp0V1ZRRDBXQjRTZWpRNmFtc01BZTA2aXd3VHNnRThUcVB6d0JWZHVCRXVNbnc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "a0d6ce32b398",
+   "title": "Why Apple waited years to launch its foldable iPhone",
+   "summary": "Why Apple waited years to launch its foldable iPhone Báo VietNamNet",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalhTR0FLT0U0SU9jc21sYjg3b0xYSVhWbDNZNkd0cUsxZ3JiTnB0U3ZLYmMxQnUtWkRhb3RWSE5FMDB2dE54UWo3VXJNVmFFdDZLSkVyaWpvSkE1a281dVVTTlRrYUZKRTNxYTY5VXVPUHFtMElyMUZsTEtqM1hjSFl6ekJyM1ZIV3ZZMEVDazMyeWlH?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-18T08:21:00.000Z",
+   "date": "2026-10-18",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Báo VietNamNet",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalhTR0FLT0U0SU9jc21sYjg3b0xYSVhWbDNZNkd0cUsxZ3JiTnB0U3ZLYmMxQnUtWkRhb3RWSE5FMDB2dE54UWo3VXJNVmFFdDZLSkVyaWpvSkE1a281dVVTTlRrYUZKRTNxYTY5VXVPUHFtMElyMUZsTEtqM1hjSFl6ekJyM1ZIV3ZZMEVDazMyeWlH?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "23ed190e4967",
+   "title": "Poco X8s moniker finally confirmed via new certification, launch imminent",
+   "summary": "The Poco X8s could be another addition to the brand’s upcoming smartphone lineup. Its appearance across multiple certification platforms has fuelled speculation about its eventual debut. Now, a new development from Thailand adds another important clue about the device. Poco X8s n",
+   "link": "https://www.gizmochina.com/2026/10/18/poco-x8s-nbtc-certified/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Poco-X8-4-300x154.jpeg?x96852",
+   "publishedAt": "2026-10-18T07:22:17.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Poco",
+   "region": "China",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/18/poco-x8s-nbtc-certified/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "a77e5d27026a",
+   "title": "Redmi Pad 3 4G bags multiple certifications, key specs emerge as launch nears",
+   "summary": "Xiaomi recently launched the new Xiaomi Pad 9 series tablets in China, and some of these models are expected to release globally. Before that, it appears the company’s sub-brand Redmi may launch the Redmi Pad 3 (4G) as a successor to the Redmi Pad 2 (4G), which launched in June 2",
+   "link": "https://www.gizmochina.com/2026/10/18/redmi-pad-3-4g-ncc-nbtc-certified-key-specs-revealed/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2025/07/Redmi-Pad-2-300x188.png?x96852",
+   "publishedAt": "2026-10-18T06:58:56.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Redmi",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/18/redmi-pad-3-4g-ncc-nbtc-certified-key-specs-revealed/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "86487f322844",
+   "title": "Samsung Galaxy SmartTag 3 isn’t launching in India until 2027",
+   "summary": "It’s been a couple of weeks since Samsung announced the Galaxy SmartTag 3. However, the tracker still hasn’t hit the Indian market, and it’s now confirmed it won’t launch there until 2027. Daill Kim, Samsung India’s Head of Tablet, Note PC and Wearable, said in a LinkedIn post th",
+   "link": "https://www.gizmochina.com/2026/10/18/samsung-galaxy-smarttag-3-isnt-launching-in-india-until-2027/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Samsung-Galaxy-SmartTag-3-1-300x188.png?x96852",
+   "publishedAt": "2026-10-18T04:15:43.000Z",
+   "date": "2026-10-18",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Samsung",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/18/samsung-galaxy-smarttag-3-isnt-launching-in-india-until-2027/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "ba1b9b3a9644",
+   "title": "Sony unveils three premium Walkman music players",
+   "summary": "Three new premium Walkmans The post Sony unveils three premium Walkman music players appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/sony-unveils-three-premium-walkman-music-players/",
+   "image": "https://www.gadgetmatch.com/wp-content/uploads/2026/10/NW_ZX900_lifestyle-sony-signature-series-walkman-20261018.jpg",
+   "publishedAt": "2026-10-18T04:00:29.000Z",
+   "date": "2026-10-18",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Sony",
+   "region": "Southeast Asia",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/sony-unveils-three-premium-walkman-music-players/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  }
+ ]
+}

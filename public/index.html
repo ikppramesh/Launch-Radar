@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Launch Radar</title>
+  <meta name="description" content="Every gadget launched worldwide, day by day, with links to the coverage.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='none' stroke='%23ff5a1f' stroke-width='3'/><circle cx='16' cy='16' r='4' fill='%23ff5a1f'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="logo">
+        <span class="radar" aria-hidden="true"><span></span></span>
+        <div>
+          <h1>Launch Radar</h1>
+          <p class="tag">Every gadget launched on Earth, logged daily.</p>
+        </div>
+      </div>
+      <div class="status">
+        <span id="refreshInfo" class="muted">Loading…</span>
+        <button id="refreshBtn" class="btn ghost" hidden>Refresh now</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="days" aria-label="Pick a day">
+      <div class="days-head">
+        <h2 id="dayTitle">Today</h2>
+        <div class="day-controls">
+          <button class="btn chip" data-range="today">Today</button>
+          <button class="btn chip" data-range="yesterday">Yesterday</button>
+          <button class="btn chip" data-range="week">Last 7 days</button>
+          <label class="date-pick">
+            <span class="sr">Pick a date</span>
+            <input type="date" id="datePicker">
+          </label>
+        </div>
+      </div>
+      <div id="dayStrip" class="day-strip" role="list"></div>
+    </section>
+
+    <section class="stats" id="stats"></section>
+
+    <section class="filters" aria-label="Filters">
+      <input id="search" type="search" placeholder="Search gadgets, brands, specs…" autocomplete="off">
+      <div class="seg" role="group" aria-label="Status">
+        <button data-status="Launched" class="on">Launched</button>
+        <button data-status="Upcoming">Upcoming</button>
+        <button data-status="all">All</button>
+      </div>
+      <select id="brand" aria-label="Brand"><option value="">All brands</option></select>
+      <select id="region" aria-label="Region"><option value="">All regions</option></select>
+      <select id="sort" aria-label="Sort">
+        <option value="time">Newest first</option>
+        <option value="coverage">Most covered</option>
+        <option value="brand">Brand A–Z</option>
+      </select>
+      <button id="exportBtn" class="btn ghost">Export CSV</button>
+    </section>
+    <div id="categoryChips" class="cat-chips" role="group" aria-label="Category"></div>
+
+    <section class="table-wrap">
+      <table id="table">
+        <thead>
+          <tr>
+            <th class="c-time">Launched</th>
+            <th>Gadget</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>Region</th>
+            <th class="c-cov" title="How many outlets covered it">Buzz</th>
+            <th class="c-link">Link</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <div id="empty" class="empty" hidden></div>
+    </section>
+
+    <footer class="foot">
+      <p>Headlines are collected automatically from gadget news outlets and Google News across six country editions, then filtered for launches. Every row links to the original coverage. <a href="#" id="healthLink">Source status</a></p>
+      <div id="health" class="health" hidden></div>
+    </footer>
+  </main>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

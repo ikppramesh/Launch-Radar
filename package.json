@@ -1,0 +1,12 @@
+{
+  "name": "latest-gadgets",
+  "version": "1.0.0",
+  "description": "Daily-refreshing portal of gadgets launched worldwide, with links to the source coverage.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "fetch": "node src/fetcher.js"
+  }
+}

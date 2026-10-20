@@ -1,0 +1,49 @@
+{
+ "date": "2026-10-17",
+ "items": [
+  {
+   "id": "beafc8ab2645",
+   "title": "EE announces iPhone Handoff pricing details for UK customers",
+   "summary": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details. more…",
+   "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rc.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-17T15:54:02.000Z",
+   "date": "2026-10-17",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "UK",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "0e9287513218",
+   "title": "KINGDOM HEARTS Collection [I–III] now available on PS5, Switch 2",
+   "summary": "All-in-one collection launches The post KINGDOM HEARTS Collection [I–III] now available on PS5, Switch 2 appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/kingdom-hearts-collection-i-iii-now-available-on-ps5-switch-2/",
+   "image": "",
+   "publishedAt": "2026-10-17T04:00:37.000Z",
+   "date": "2026-10-17",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Sony",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/kingdom-hearts-collection-i-iii-now-available-on-ps5-switch-2/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  }
+ ]
+}

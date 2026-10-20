@@ -1,0 +1,334 @@
+{
+ "lastRefresh": "2026-10-20T08:05:19.828Z",
+ "timezone": "Asia/Calcutta",
+ "tookMs": 3225,
+ "feedsOk": 54,
+ "feedsTotal": 54,
+ "added": 0,
+ "days": [
+  {
+   "date": "2026-10-20",
+   "count": 19
+  },
+  {
+   "date": "2026-10-19",
+   "count": 57
+  },
+  {
+   "date": "2026-10-18",
+   "count": 21
+  },
+  {
+   "date": "2026-10-17",
+   "count": 2
+  },
+  {
+   "date": "2026-10-16",
+   "count": 17
+  },
+  {
+   "date": "2026-10-15",
+   "count": 13
+  },
+  {
+   "date": "2026-10-14",
+   "count": 6
+  },
+  {
+   "date": "2026-10-13",
+   "count": 1
+  },
+  {
+   "date": "2026-10-12",
+   "count": 1
+  },
+  {
+   "date": "2026-10-11",
+   "count": 1
+  },
+  {
+   "date": "2026-10-10",
+   "count": 1
+  },
+  {
+   "date": "2026-10-09",
+   "count": 1
+  },
+  {
+   "date": "2026-10-08",
+   "count": 2
+  }
+ ],
+ "health": [
+  {
+   "name": "GSMArena",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "name": "The Verge",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "name": "Engadget",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "name": "Gizmodo",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "name": "Android Authority",
+   "ok": true,
+   "count": 80
+  },
+  {
+   "name": "Android Police",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "name": "Android Headlines",
+   "ok": true,
+   "count": 35
+  },
+  {
+   "name": "9to5Mac",
+   "ok": true,
+   "count": 100
+  },
+  {
+   "name": "9to5Google",
+   "ok": true,
+   "count": 100
+  },
+  {
+   "name": "MacRumors",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "name": "XDA",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "name": "TechRadar",
+   "ok": true,
+   "count": 50
+  },
+  {
+   "name": "Tom's Guide",
+   "ok": true,
+   "count": 50
+  },
+  {
+   "name": "Pocket-lint",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "name": "Notebookcheck",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "name": "New Atlas",
+   "ok": true,
+   "count": 60
+  },
+  {
+   "name": "Yanko Design",
+   "ok": true,
+   "count": 16
+  },
+  {
+   "name": "CNX Software",
+   "ok": true,
+   "count": 32
+  },
+  {
+   "name": "SamMobile",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "name": "Gizmochina",
+   "ok": true,
+   "count": 40
+  },
+  {
+   "name": "Huawei Central",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "name": "Gadgets 360",
+   "ok": true,
+   "count": 100
+  },
+  {
+   "name": "FoneArena",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "name": "GadgetMatch",
+   "ok": true,
+   "count": 50
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
+   "count": 51
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
+   "count": 57
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
+   "count": 44
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
+   "count": 44
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
+   "count": 48
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 49
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 56
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 45
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 46
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 50
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 57
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 57
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 46
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 47
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 48
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 57
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 56
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 47
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 47
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 49
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 57
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 58
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 43
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 44
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 49
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 57
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 58
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 43
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 44
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 48
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "date": "2026-10-08",
+ "items": [
+  {
+   "id": "32d285d2b5a0",
+   "title": "OPPO Find X10 Series launches globally October 21",
+   "summary": "OPPO’s latest flagship phones The post OPPO Find X10 Series launches globally October 21 appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/oppo-find-x10-series-launches-globally-october-21/",
+   "image": "",
+   "publishedAt": "2026-10-08T14:28:09.000Z",
+   "date": "2026-10-08",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/oppo-find-x10-series-launches-globally-october-21/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  },
+  {
+   "id": "e508eee72f20",
+   "title": "Amazon launches new Alexa+ tablets with full Google Play access",
+   "summary": "Alexa+ arrives on three tablets. The post Amazon launches new Alexa+ tablets with full Google Play access appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/amazon-launches-new-alexa-tablets-with-full-google-play-access/",
+   "image": "https://www.gadgetmatch.com/wp-content/uploads/2026/10/alexa-plus-tablets-gadgetmatch-20261008-20.jpg",
+   "publishedAt": "2026-10-08T13:01:40.000Z",
+   "date": "2026-10-08",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Amazon",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/amazon-launches-new-alexa-tablets-with-full-google-play-access/"
+    }
+   ],
+   "firstSeen": "2026-10-20T08:01:16.942Z"
+  }
+ ]
+}
