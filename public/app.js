@@ -68,7 +68,7 @@ function renderHeader() {
   const when = new Date(meta.lastRefresh);
   const mins = Math.round((Date.now() - when) / 60e3);
   const ago = mins < 1 ? 'just now' : mins < 60 ? `${mins} min ago` : `${Math.round(mins / 60)} h ago`;
-  $('#refreshInfo').innerHTML = `<span class="dot"></span>Updated ${ago} · ${meta.feedsOk}/${meta.feedsTotal} sources live`;
+  $('#refreshInfo').innerHTML = `<span class="dot"></span><span class="upd-word">Updated </span>${ago}<span class="src-count"> · ${meta.feedsOk}/${meta.feedsTotal} sources live</span>`;
   $('#refreshInfo').title = when.toLocaleString();
 }
 
@@ -126,6 +126,10 @@ function render() {
   document.querySelectorAll('.seg button').forEach((b) => b.classList.toggle('on', b.dataset.status === state.status));
   $('#search').value = state.q;
   $('#sort').value = state.sort;
+  // On phones brand/region/sort sit behind the Filters button, so show how many are active.
+  const active = [state.brand, state.region, state.sort !== 'time'].filter(Boolean).length;
+  $('#moreCount').hidden = !active;
+  $('#moreCount').textContent = active;
 
   renderStats(rows);
   renderRows(rows);
@@ -182,7 +186,8 @@ function renderRows(rows) {
     const open = expanded.has(i.id);
     html.push(`<tr class="row" data-id="${i.id}" aria-expanded="${open}">
       <td class="time"><b>${time}</b>${date}</td>
-      <td class="g"><div class="gadget">${img}<div><span class="badge ${i.status}">${i.status}</span><span class="t">${esc(i.title)}</span></div></div></td>
+      <td class="g"><div class="gadget">${img}<div><span class="badge ${i.status}">${i.status}</span><span class="t">${esc(i.title)}</span>
+        <div class="meta"><b>${esc(i.brand)}</b><span>${esc(i.category)}</span><span>${esc(i.region)}</span><span class="m-buzz">${i.sources.length} outlet${i.sources.length > 1 ? 's' : ''}</span></div></div></div></td>
       <td class="brand">${esc(i.brand)}</td>
       <td class="cat"><span class="pill">${esc(i.category)}</span></td>
       <td class="reg"><span class="pill">${esc(i.region)}</span></td>
@@ -266,16 +271,23 @@ function bind() {
     a.click();
     URL.revokeObjectURL(a.href);
   };
+  $('#moreBtn').onclick = () => {
+    const open = $('#moreFilters').classList.toggle('is-open');
+    $('#moreBtn').setAttribute('aria-expanded', open);
+  };
+  const toTop = $('#toTop');
+  addEventListener('scroll', () => { toTop.hidden = scrollY < 900; }, { passive: true });
+  toTop.onclick = () => scrollTo({ top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
   $('#healthLink').onclick = (e) => { e.preventDefault(); renderHealth(); $('#health').hidden = !$('#health').hidden; };
   $('#refreshBtn').onclick = async () => {
     const b = $('#refreshBtn');
-    b.disabled = true; b.textContent = 'Scanning sources…';
+    b.disabled = true; b.querySelector('.lbl').textContent = 'Scanning…';
     try {
       const r = await (await fetch('api/refresh', { method: 'POST' })).json();
       await reloadAll();
       toast(r.added ? `${r.added} new item${r.added > 1 ? 's' : ''} found` : 'Up to date. Nothing new since the last scan.');
     } catch { toast('Refresh failed. Is the server running?'); }
-    b.disabled = false; b.textContent = 'Refresh now';
+    b.disabled = false; b.querySelector('.lbl').textContent = 'Refresh now';
   };
 }
 

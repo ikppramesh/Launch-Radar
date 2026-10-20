@@ -126,21 +126,90 @@ tr.detail td { background: color-mix(in srgb, var(--bg) 60%, var(--panel)); padd
 .health .bad { color: var(--accent); }
 .toast { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 10px 16px; border-radius: 999px; font-size: 14px; box-shadow: var(--shadow); cursor: pointer; z-index: 10; }
 
-/* Phone: rows become cards */
+.filter-main, .filter-more { display: contents; }
+.more-btn { display: none; }
+.more-btn .count[hidden] { display: none; }
+.more-btn .count { display: inline-grid; place-items: center; min-width: 18px; height: 18px; margin-left: 6px; border-radius: 9px; background: var(--accent); color: #fff; font: 600 11px 'JetBrains Mono', monospace; }
+.meta { display: none; }
+.btn .ico { display: none; }
+.to-top { position: fixed; right: max(16px, env(safe-area-inset-right)); bottom: max(16px, env(safe-area-inset-bottom)); width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--line); background: var(--panel); color: var(--ink); font: 600 18px Inter, sans-serif; box-shadow: var(--shadow); cursor: pointer; z-index: 6; }
+.to-top[hidden] { display: none; }
+.wrap { padding-left: max(16px, env(safe-area-inset-left)); padding-right: max(16px, env(safe-area-inset-right)); }
+.toast { bottom: max(20px, env(safe-area-inset-bottom)); max-width: calc(100vw - 32px); text-align: center; }
+
+/* Tablet: fold brand / category / region under the title so the link column always fits */
+@media (max-width: 1024px) {
+  .c-brand, .c-cat, .c-reg, td.brand, td.cat, td.reg { display: none; }
+  .meta { display: flex; flex-wrap: wrap; gap: 4px 10px; margin-top: 6px; font-size: 12px; color: var(--muted); }
+  .meta b { color: var(--ink); font-weight: 600; }
+  .meta .m-buzz { display: none; }
+}
+
+/* Touch screens: comfortable tap targets */
+@media (pointer: coarse) {
+  .btn, .seg button, .filters select, .date-pick input, .open { min-height: 40px; }
+  .cat-chips button { min-height: 36px; padding: 6px 12px; }
+  .detail-box .srcs a { padding: 8px 12px; font-size: 13px; }
+}
+
+/* Phone: compact header, swipeable strips, pinned search, rows become cards */
 @media (max-width: 760px) {
-  .days-head h2 { font-size: 24px; }
+  body { font-size: 14px; }
+  .top { position: static; }
+  .top-inner { padding-top: 10px; padding-bottom: 10px; flex-wrap: nowrap; }
+  .logo { gap: 10px; min-width: 0; }
+  .logo h1 { font-size: 19px; white-space: nowrap; }
+  .tag, .src-count, .btn .lbl { display: none; }
+  .radar { width: 28px; height: 28px; }
+  .status { gap: 8px; font-size: 12px; white-space: nowrap; }
+  #refreshBtn { width: 40px; padding: 0; font-size: 18px; }
+  .btn .ico { display: inline; }
+
+  .days { margin-top: 16px; }
+  /* Block, not column-flex: a flex item's min-content width would let the nowrap chip row widen the page. */
+  .days-head { display: block; }
+  .day-controls { margin-top: 10px; }
+  .days-head h2 { font-size: 22px; }
+  .day-controls, .cat-chips, .stats { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; scroll-padding-left: 16px; }
+  .day-controls::-webkit-scrollbar, .cat-chips::-webkit-scrollbar, .stats::-webkit-scrollbar, .day-strip::-webkit-scrollbar { display: none; }
+  .day-controls > * { flex: none; }
+  .day-strip { margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; scrollbar-width: none; }
+  .day { width: 56px; padding: 6px 4px 4px; }
+
+  .stats { display: flex; gap: 8px; margin-top: 14px; scroll-snap-type: x proximity; }
+  .stat { flex: 0 0 auto; min-width: 118px; max-width: 170px; padding: 8px 12px; scroll-snap-align: start; border-radius: 12px; }
+  .stat .v { font-size: 18px; }
+
+  .filters { position: sticky; top: 0; z-index: 4; display: block; margin: 14px -16px 0; padding: 10px 16px; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
+  .filter-main { display: grid; grid-template-columns: 1fr auto; gap: 8px; }
+  .filter-main input[type=search] { grid-column: 1 / -1; font-size: 16px; /* 16px stops iOS zooming on focus */ }
+  .seg { display: grid; grid-template-columns: repeat(3, 1fr); }
+  .seg button { padding: 8px 6px; }
+  .more-btn { display: inline-flex; align-items: center; }
+  .filter-more { display: none; }
+  .filter-more.is-open { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 8px; }
+  .filter-more select { font-size: 16px; width: 100%; }
+  .cat-chips { margin-top: 10px; padding-bottom: 2px; }
+  .cat-chips button { flex: none; }
+
+  .table-wrap { margin-left: -16px; margin-right: -16px; border-radius: 0; border-left: 0; border-right: 0; box-shadow: none; }
   thead { display: none; }
   table, tbody, tr, td { display: block; width: 100%; }
-  tbody tr.row { padding: 12px 14px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; }
+  tbody tr.row { padding: 14px 16px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+  tbody tr.row:hover td { background: none; }
   tbody tr.row td { padding: 0; border: 0; width: auto; }
   tbody tr.row td.g { width: 100%; order: -1; }
-  tbody tr.row td.time { width: 100%; }
+  tbody tr.row td.time { flex: 1; }
   tbody tr.row td.time b { display: inline; margin-right: 6px; }
   tbody tr.row td.cov { display: none; }
-  tbody tr.row td.lnk { margin-left: auto; }
-  .detail-box { padding-left: 0; }
-  .stats { grid-template-columns: 1fr 1fr; }
-  .stat .v { font-size: 20px; }
-  .filters select, .seg { flex: 1 1 auto; }
-  .date-pick input { max-width: 150px; }
+  .meta .m-buzz { display: inline; }
+  .thumb { width: 64px; height: 48px; }
+  .gadget .t { font-size: 15px; }
+  tr.detail td { padding: 0 16px 14px; border-bottom: 1px solid var(--line); }
+  .detail-box { padding: 0; }
+  .day-sep td { padding: 8px 16px; }
+  .foot { margin-bottom: 80px; }
+}
+@media (max-width: 400px) {
+  .upd-word { display: none; }
 }
