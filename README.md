@@ -2,7 +2,7 @@
 
 Every gadget launched worldwide, logged day by day, with a link to the coverage.
 
-**Live site:** https://ikppramesh.github.io/Launch-Radar/
+**Live site:** https://gadgets-ir.vercel.app/ (Vercel) · https://ikppramesh.github.io/Launch-Radar/ (GitHub Pages)
 
 ## How it stays up to date
 
