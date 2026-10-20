@@ -35,12 +35,16 @@
    "category": "Other gadget",
    "brand": "Oppo",
    "region": "India",
-   "confidence": 1,
+   "confidence": 2,
    "aggregator": false,
    "sources": [
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/tablets/news/oppo-pad-mini-matte-display-edition-enco-x4-india-launch-date-specifications-features-12184145"
+    },
+    {
+     "name": "Gogi Tech",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xclZaeHc5OUMzWnlYbzlienNxTlFnNnlKb1hCQXBlM1ZfNURCTHlzdWRpaEJia01oUFNNcERTd0NYTjAzYVgwUk5mYl9VMEZvVGE3MlRmZ2VnUDBpZnlHMNIBZkFVX3lxTE1ESXpqUmp4SUVOUkRkZlphUGY2X1F0a19heDVpQmFPaVRlTXB4SU5yUHZsdTdiVjVGdmIwSGhYbnlHMGhBUFFxWTBDc19Qb2lpSVd3bkdic0x5Ulp5Z1V6WFk4SGFXUQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"
