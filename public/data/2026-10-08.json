@@ -12,13 +12,17 @@
    "status": "Launched",
    "category": "Smartphone",
    "brand": "Oppo",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "GadgetMatch",
      "link": "https://www.gadgetmatch.com/oppo-find-x10-series-launches-globally-october-21/"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0oyVEctX0djOV9VTFo5Y053dFExY1VtMjF0bkdjRmoxLVBGMVlvSFQ2TUdKUHJROUF2NlVIMjZjOGVMYkJFOVMxTF9XeG8tcHRLd3d2S0tPMncwbkNpRW5NMVNVbVBzekRuSWZWLWF2czcwNHRuaTVQaFZPRjk0cU9iZm9nWGxYZml3Zmc3dUhQUUVTTWxtcXRhR3hiaUFqcHdwNA?oc=5"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"
