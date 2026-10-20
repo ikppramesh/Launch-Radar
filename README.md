@@ -2,7 +2,12 @@
 
 Every gadget launched worldwide, logged day by day, with a link to the coverage.
 
-**Live site:** https://gadgets-ir.vercel.app/ (Vercel) · https://ikppramesh.github.io/Launch-Radar/ (GitHub Pages)
+## Live site
+
+- **Vercel:** https://gadgets-ir.vercel.app/
+- **GitHub Pages:** https://ikppramesh.github.io/Launch-Radar/
+
+Both serve the same site from the `public/` folder and update on their own. You don't need to do anything.
 
 ## How it stays up to date
 
@@ -14,9 +19,12 @@ Nothing needs to run on your computer. A GitHub Actions workflow
 2. Keeps only headlines about a hardware **launch**. Rumours, leaks, deals, reviews and software updates are dropped.
    Each item is tagged *Launched* or *Upcoming*, plus brand, category and market.
 3. Merges the same launch reported by several outlets into one row. The **Buzz** column shows how many outlets covered it.
-4. Saves one file per day in `public/data/YYYY-MM-DD.json`, commits it, and redeploys the site.
+4. Saves one file per day in `public/data/YYYY-MM-DD.json` and commits it to `main`.
+5. Both sites redeploy from that commit:
+   - **GitHub Pages** is deployed by the same workflow.
+   - **Vercel** is connected to this repo and redeploys automatically on every push to `main`.
 
-To force an update right now: **Actions → Update gadget launches → Run workflow**.
+To force an update right now: **Actions → Update gadget launches → Run workflow**. Both sites will pick up the new data within a couple of minutes.
 
 ## Using the site
 
