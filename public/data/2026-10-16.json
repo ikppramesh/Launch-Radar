@@ -203,7 +203,7 @@
    "category": "Smartphone",
    "brand": "Redmi",
    "region": "China",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -233,6 +233,10 @@
     {
      "name": "My Mobile India",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFFfWmtOLWRDNGc4ZlNWVzdSR0NyNzZLalpsaGlqY3N1Q0d5czE0THJPTWpUaVJhS0hqN09GWDdvV0NvcnE0NXdNdmJSeDFES2pnNkJfbmZ1dDQtUUVkXzhPSERSX3NZLS1oREpyWXpHRG5XaDJ1V25WUE0zVWxJZnRQWjc2QjlaYkZrYmloRmh0NVlhMk1DX0tmamtnQ3N6MVVGTGpmSDNwTGg1TDlubjBYRHBMWUlyRndpaHIxbXgwQQ?oc=5"
+    },
+    {
+     "name": "Gagadget.com",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0JzUG4tSnpOaFBPWnJBTUR5NklRSnRmNFpobVIyTzZfTm5SWVIzZVpIVEo5aDZqM2JQLWpoQUt1Q19WM0YtZjlqWG1xY0x6b2J5QVlPNXd5bzdKc1VUUW1KVUhWcmpGUkwxX0UzQVVkTTRBM0UyX1ZEcFpYeDR6OHBlX2hxdGJ6TVhPcWtBcklTWlJGT1JhV3JWRlFEcWFnVEVicGlrVkw2TkRLNHZVbEhfVF9MeFJD0gG-AUFVX3lxTE5zZ1Vhd0xGTjNhS01Ec3c1dEhsc3JiaHJIdndGQWQzMHN1RGY0VHg1T1pMel9tbElteElVc192TG1zOWhIU2hLUEYwaXo2SkllT2tCSDVqQWtldkFYV29iVERNRHJBQk9QdHZVX2xMcjcxX3dlWWF2QlhSTzZLbEdFYmlRaGwtNFU2eDhrRUhCeV9UclpVQldCTkJwUHp6LXYtTWFBaEV1VURFSXNsRVEwaEVKZFU4TS0zVndEcWc?oc=5"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"
