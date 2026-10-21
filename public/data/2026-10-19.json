@@ -160,6 +160,28 @@
    "firstSeen": "2026-10-20T08:01:16.942Z"
   },
   {
+   "id": "a6be18b1b6cf",
+   "title": "10 Showstopping Watches Launched at New York’s Most Prestigious Watch Show",
+   "summary": "10 Showstopping Watches Launched at New York’s Most Prestigious Watch Show Gear Patrol",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iY2cwM2N4ZnlWMFVyZS1PNlk2clEzQnR4dFN5U3d6UVllNUc0Y0tyZ3VnbEZ2a01OU2w3Vmh3Z0t6UDlsTXJZOEpIWGtRZGhPNHZzUXNUSVdRdWRmTVJPeFVYc0ozNmlTZFpUcUR3V3pJRE1oWkxZ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-19T16:11:33.000Z",
+   "date": "2026-10-19",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gear Patrol",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iY2cwM2N4ZnlWMFVyZS1PNlk2clEzQnR4dFN5U3d6UVllNUc0Y0tyZ3VnbEZ2a01OU2w3Vmh3Z0t6UDlsTXJZOEpIWGtRZGhPNHZzUXNUSVdRdWRmTVJPeFVYc0ozNmlTZFpUcUR3V3pJRE1oWkxZ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T11:38:30.343Z"
+  },
+  {
    "id": "108f0f309cd0",
    "title": "Apple Announcing New Products Next Week: 'Pro and Tell'",
    "summary": "Apple's Greg Joswiak today hinted at new product announcements coming next week, sharing a social media post that says \"Can't wait to pro and tell next week.\" Rumors suggest Apple is planning to debut the new MacBook Pro with an OLED touchscreen display, an M6 entry-level &zwnj;M",
@@ -433,22 +455,26 @@
   },
   {
    "id": "2e44c394b4b1",
-   "title": "Realme C01 Listed Online Before Official Launch; Price and Specifications Revealed",
-   "summary": "Realme C01 Listed Online Before Official Launch; Price and Specifications Revealed My Mobile India",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0lqcjR5bmhhanB3WXhyOGZvOFZPUVluSTlJVlZsNmhmd3JTdXBFdVJ0TjZHZWpYaGlmV3FkOFdZUm5PTTZBUm9fLXpXS2VUVXdiTVQ0TFZNZ1pxLXZlY01CenBheDdGUGFkYXdsZUlueExQbGQ1YlFfaERqd0VhdWNINUVtX21Hd1dHemJwOXg5bzZLYXpsVEtTSnM1bTk1N2VWODFGNURfaEI3ZGNuM2Z3?oc=5",
-   "image": "",
+   "title": "Realme C01 Price, Colour Options and Key Specifications Revealed via Retailer’s Website Ahead of Launch",
+   "summary": "Realme C01 could be launched soon, as the smartphone has been spotted on a retailer website in Vietnam. In terms of specifications, the Realme C01 appears to feature a 6.8-inch HD+ (720 x 1,520 pixels) LCD touchscreen, delivering up to a 120Hz refresh rate and up to 900 nits peak",
+   "link": "https://www.gadgets360.com/mobiles/news/realme-c01-price-design-colour-options-launch-listed-specifications-features-12213914",
+   "image": "https://i.gadgets360cdn.com/large/realme_c100i_launch_main_1787815024461.png",
    "publishedAt": "2026-10-19T11:34:55.000Z",
    "date": "2026-10-19",
    "status": "Upcoming",
    "category": "Smartphone",
    "brand": "Realme",
-   "region": "Global",
+   "region": "India",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "My Mobile India",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0lqcjR5bmhhanB3WXhyOGZvOFZPUVluSTlJVlZsNmhmd3JTdXBFdVJ0TjZHZWpYaGlmV3FkOFdZUm5PTTZBUm9fLXpXS2VUVXdiTVQ0TFZNZ1pxLXZlY01CenBheDdGUGFkYXdsZUlueExQbGQ1YlFfaERqd0VhdWNINUVtX21Hd1dHemJwOXg5bzZLYXpsVEtTSnM1bTk1N2VWODFGNURfaEI3ZGNuM2Z3?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/realme-c01-price-design-colour-options-launch-listed-specifications-features-12213914"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"
