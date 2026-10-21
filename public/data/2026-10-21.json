@@ -2,6 +2,72 @@
  "date": "2026-10-21",
  "items": [
   {
+   "id": "1ff4e4c19dc2",
+   "title": "Serato DJ Launches iPhone and iPad Compatible Version",
+   "summary": "Serato DJ Launches iPhone and iPad Compatible Version EDMTunes",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUERucTgzTjNGd0tYaXZaS0pNM2R2NHlpT0NfMThUcWFNN0RXOTBSMTNDQW5qbThOQzhoREQ5Q0JSczZ2Mi1kR29tY2RrN3dwa1VrX1ZLTEdmT3c5OEpOYXdfeGs2R1JBVndVSEZfSE5lWHVNVmJEdFBneVdUVDQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T18:10:48.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "EDMTunes",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUERucTgzTjNGd0tYaXZaS0pNM2R2NHlpT0NfMThUcWFNN0RXOTBSMTNDQW5qbThOQzhoREQ5Q0JSczZ2Mi1kR29tY2RrN3dwa1VrX1ZLTEdmT3c5OEpOYXdfeGs2R1JBVndVSEZfSE5lWHVNVmJEdFBneVdUVDQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
+  },
+  {
+   "id": "df47ccba8e11",
+   "title": "Samsung launches Certified Re-Newed Galaxy phones on Amazon starting at $489",
+   "summary": "They come with new batteries and a one-year limited warranty.",
+   "link": "https://www.androidauthority.com/samsung-certified-re-newed-phones-amazon-3726236/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/Samsung-Galaxy-S24-Ultra_1-scaled.jpg",
+   "publishedAt": "2026-10-21T17:51:18.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/samsung-certified-re-newed-phones-amazon-3726236/"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
+  },
+  {
+   "id": "3b309fb082a7",
+   "title": "When Is the iPhone 18 Launching? Expected Date, Price, Features and Everything Reported So Far",
+   "summary": "When Is the iPhone 18 Launching? Expected Date, Price, Features and Everything Reported So Far Brut",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0RDSmMwaFJDcTZld0cyNWF6M0pIdHdBbzhwY1NDM1lmeWFacXhNekwwZ3FsTE5abXV1Z0tMdENiUU9YemFHNER6WjRmUUJNMnk4d0MyOWJNa3ZUaVFOdDNNcW5pRGdhRVp2dHR5c3BnM3dlaUZGaUlWVXZ3U2g0Z1VYM0ljZExESW04alE3cDBJaFVQT1dUR1VwQUF0M0ZIOVprZ3BydThwbEx1S21fc0RfUjI1dWdIaGNTUTU3US0xckpSY2czNVJOcGR0LVQ4UVJaZFFaSHVNVndLdEdaM1RLWWpEVFFJYnB4eQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T17:12:08.000Z",
+   "date": "2026-10-21",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Brut",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0RDSmMwaFJDcTZld0cyNWF6M0pIdHdBbzhwY1NDM1lmeWFacXhNekwwZ3FsTE5abXV1Z0tMdENiUU9YemFHNER6WjRmUUJNMnk4d0MyOWJNa3ZUaVFOdDNNcW5pRGdhRVp2dHR5c3BnM3dlaUZGaUlWVXZ3U2g0Z1VYM0ljZExESW04alE3cDBJaFVQT1dUR1VwQUF0M0ZIOVprZ3BydThwbEx1S21fc0RfUjI1dWdIaGNTUTU3US0xckpSY2czNVJOcGR0LVQ4UVJaZFFaSHVNVndLdEdaM1RLWWpEVFFJYnB4eQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
+  },
+  {
    "id": "736f1cfcb117",
    "title": "Apple Music's New Look Officially Announced",
    "summary": "Following the introduction of a new Apple Music logo and app icon earlier this month, Apple today officially introduced Apple Music's new brand identity. In a YouTube video shared today, Apple said the new Apple Music visuals were \"made by sound.\" More specifically, Apple said it",
@@ -24,6 +90,28 @@
    "firstSeen": "2026-10-21T17:04:11.676Z"
   },
   {
+   "id": "18acbe9755e5",
+   "title": "Rollme launches Hero K1 rugged smartwatch with offline maps, flashlight",
+   "summary": "Rollme launches Hero K1 rugged smartwatch with offline maps, flashlight news.lavx.hu",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGY3QU5NV1E3RTd6c2dDZkhYOG93X3NFQk9ZTVBhWklnamlqWmtKTFE4LTM3VzFtZFMzNWdwak94UmQ1azRDMVRxaXpqOFNCU1RIX2FveGJTNEhRV1lwWFdoamdHVnFRelBlNVVKSW1HNF9oVDVYVjVhVUk2cTh2MkMwal9PSElwVlNtMVZUVG44NzNsQmpwSTNUZmFmNnlC?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T16:13:14.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGY3QU5NV1E3RTd6c2dDZkhYOG93X3NFQk9ZTVBhWklnamlqWmtKTFE4LTM3VzFtZFMzNWdwak94UmQ1azRDMVRxaXpqOFNCU1RIX2FveGJTNEhRV1lwWFdoamdHVnFRelBlNVVKSW1HNF9oVDVYVjVhVUk2cTh2MkMwal9PSElwVlNtMVZUVG44NzNsQmpwSTNUZmFmNnlC?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
+  },
+  {
    "id": "c36a0dd4fa47",
    "title": "Sony's PlayStation Pulse headset arrives on November 19 for $100",
    "summary": "Pre-orders open on October 29.",
@@ -44,6 +132,28 @@
     }
    ],
    "firstSeen": "2026-10-21T17:04:11.676Z"
+  },
+  {
+   "id": "348bc18bb4a5",
+   "title": "Dell 14S Launches Globally with Intel Wildcat Lake Processors",
+   "summary": "Dell 14S Launches Globally with Intel Wildcat Lake Processors Technetbook",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNck9lX0xFUGFPajNRSkNZUk5uZnM5OF8zVEFvN25xMTEtbjNPMTY0TVptRTBlTko1TGlfNlVPVWluV1JTQmxFVFp2MnRfMHNoY1NqN1dwLXE2SlUxTU1FUzRtUlpDa3RuMW9ncnVmY2RucEtUb2l2NlFfdS1aenRJX3BuU0Z1Zw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T16:07:00.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Dell",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Technetbook",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNck9lX0xFUGFPajNRSkNZUk5uZnM5OF8zVEFvN25xMTEtbjNPMTY0TVptRTBlTko1TGlfNlVPVWluV1JTQmxFVFp2MnRfMHNoY1NqN1dwLXE2SlUxTU1FUzRtUlpDa3RuMW9ncnVmY2RucEtUb2l2NlFfdS1aenRJX3BuU0Z1Zw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
   },
   {
    "id": "90ce4f1c40d4",
@@ -132,6 +242,28 @@
     }
    ],
    "firstSeen": "2026-10-21T17:04:11.676Z"
+  },
+  {
+   "id": "f996902e17f6",
+   "title": "Honor Unveils MagicPad 4 (12.1) and X10 Pro Max Tablets",
+   "summary": "Honor Unveils MagicPad 4 (12.1) and X10 Pro Max Tablets TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYklHWWRsWXFBUGJDaTBwdFVkTFNrb1pBOFk4RmNoTWwxeDF0VmZOV3dlZTFGTVRDaHMyQUlzQmRkYXlXdTBmcl8yLTIzQTZKa2xnRkV1WUlzSjdQZWlhaHd4QldpYlNsSjhJR2ZzZ0U4SldvblFucUJhR3hNM3RrUUs0WHYzUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T15:09:16.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Honor",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYklHWWRsWXFBUGJDaTBwdFVkTFNrb1pBOFk4RmNoTWwxeDF0VmZOV3dlZTFGTVRDaHMyQUlzQmRkYXlXdTBmcl8yLTIzQTZKa2xnRkV1WUlzSjdQZWlhaHd4QldpYlNsSjhJR2ZzZ0U4SldvblFucUJhR3hNM3RrUUs0WHYzUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
   },
   {
    "id": "414c7d424faf",
@@ -397,6 +529,10 @@
     {
      "name": "GSMArena",
      "link": "https://www.gsmarena.com/vivo_buds_ultra_launch_in_europe_with_60db_anc_and_dual_drivers-news-75146.php"
+    },
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFlKUEdjeDJPNkFtRVZqZHF0RmlHMlY5Q2l5dlNONjNGbFNlUHRQS01DN3VUbW91NWtpM1RQOXpORDZvbVpvcVRBQnZqX2JTZV83TTYxdlhfdE8wR0F1czBOM1hhVFkyaE9JbVc0QjdpMVpUVXJFX2VBbHQwWDFJRVAzdi1DTGZEcmxzd2h1MjNkNXZrOGpZ?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T17:04:11.676Z"
@@ -590,6 +726,28 @@
    "firstSeen": "2026-10-21T11:38:30.343Z"
   },
   {
+   "id": "b6ed8ad16436",
+   "title": "Lava Aura Curve launched in India with 6.67-inch AMOLED display, Dimensity 7100, 6,000mAh battery and more",
+   "summary": "Lava Aura Curve launched in India with 6.67-inch AMOLED display, Dimensity 7100, 6,000mAh battery and more 91Mobiles",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFJ2UHh1YS1obWhqSlg3Q3BuUUh4Yy1qVjZMc1NwSUp2TkptcWp2YVpkY05XcmVZZnlpSXRDaVBvWDRsR1NUYTFMWmtiN3d5bUJqczJudEdfRmplQmdkWUFKNUNwSjlHSXREZVd0OFBDNWlRdVZkN1A0UTM2M2hSRDBjZ1BhYVlLUUhxdXZwei1mWTNZWVFBMWZOZ9IBoAFBVV95cUxNcmpsM1VvNG9qbUFUQXZjRms2RnhVNm5BS1VEOU42U0RsU1k2N0twd1VNbWxHZE5LUDdOZk1ldDZJbUFmMVJLRnp1R0dUZjV4LUg5X0VjSFpPLUlrM29HRXpWb25qUkVJaUhFdl9QekNBMnFHZnR6enZTbldzaGozNldLSDNkX2d5dFlFV0dyMkM4dUoxTDNRVy1ZWk9oMzZ3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T09:39:26.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Lava",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFJ2UHh1YS1obWhqSlg3Q3BuUUh4Yy1qVjZMc1NwSUp2TkptcWp2YVpkY05XcmVZZnlpSXRDaVBvWDRsR1NUYTFMWmtiN3d5bUJqczJudEdfRmplQmdkWUFKNUNwSjlHSXREZVd0OFBDNWlRdVZkN1A0UTM2M2hSRDBjZ1BhYVlLUUhxdXZwei1mWTNZWVFBMWZOZ9IBoAFBVV95cUxNcmpsM1VvNG9qbUFUQXZjRms2RnhVNm5BS1VEOU42U0RsU1k2N0twd1VNbWxHZE5LUDdOZk1ldDZJbUFmMVJLRnp1R0dUZjV4LUg5X0VjSFpPLUlrM29HRXpWb25qUkVJaUhFdl9QekNBMnFHZnR6enZTbldzaGozNldLSDNkX2d5dFlFV0dyMkM4dUoxTDNRVy1ZWk9oMzZ3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
+  },
+  {
    "id": "e780e7ec6b49",
    "title": "HONOR WIN 2, WIN RT2, and WIN Turbo2 with 2K 185Hz display, IP69K ratings, up to 12070mAh battery announced",
    "summary": "At its “HONOR WIN Gaming Universe Carnival” event held in Hangzhou, HONOR introduced three new gaming-oriented smartphones: the flagship HONOR WIN 2, the performance-focused HONOR WIN RT2, and the entry-tier HONOR WIN Turbo2. Across the lineup, the devices emphasize high refresh ",
@@ -747,28 +905,6 @@
     {
      "name": "파이낸셜뉴스",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uWXRVYTF1ZHhLazJienNyS2tadGxHMGJLeXJTR3h6N2Q0OXN3ckkxWFYxOFlaRkNhVzNHODRockVad0VJdDAwbFF4VW9aVzlTWWtiempKeHM?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-21T11:38:30.343Z"
-  },
-  {
-   "id": "3c2a43eb50c9",
-   "title": "Meta VR Glasses: Price, Release Date, Specs & Everything We Know",
-   "summary": "Meta VR Glasses: Price, Release Date, Specs & Everything We Know https://vr.org/",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NaTZIS044SjVad0gwSXUtMGh4OVBkblhmWmJUR1dabVcyWHAwZEgwOWZXaGQzcXhoZWlzd2VzTW1FUEl3?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-21T07:22:39.000Z",
-   "date": "2026-10-21",
-   "status": "Upcoming",
-   "category": "Wearable",
-   "brand": "Meta",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "https://vr.org/",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NaTZIS044SjVad0gwSXUtMGh4OVBkblhmWmJUR1dabVcyWHAwZEgwOWZXaGQzcXhoZWlzd2VzTW1FUEl3?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T11:38:30.343Z"
@@ -1097,6 +1233,10 @@
     {
      "name": "news.lavx.hu",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSkU1SjBxU3lfdG9QcTZzWHluZWpza0xZV1ZXWGtzRmwwNmZTZjlSTGJaNDFya3EwUUpTNkg0WHFEMDlNaEZwQ1R1TVRvc2wxb29HdzJsaG9TWnI5dXVLUElmVE5MY2NuWDdGVzJfSm94TVhEQThmZm1iWkFOQWR0V0NHbTlmckFtVjA0bHNwUFNmczRCWGc?oc=5"
+    },
+    {
+     "name": "GSMArena.com",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVUtOWNPZEdla1I5NGt1U3plMXM4RUhpZlVDeDhHM1UzOGpFbnFxTnhtTlZTbnV0NXFYLVZ6ZjA4LUx5Y1AtaTZaOG0tRW81NFN5TlNJLThLaGIzOHEycTJkUmJUbWNvdnJMWTh6Sy1FeGMwQ1gzQ3hjcXN3OEtpTS0xTlZsanZYaVhOOGNQbkFIaWwyS1JoUWUyR3RCTVlJUm9IT3FwUlVEbFXSAacBQVVfeXFMTmFucDVuMnZYak1TTUJEYV9iRUFqYlRCNmVmN1RfWU5UbFU2QXdoellCS2s2YTNELVAtcVRuT1JyMVRZRkNyVml0czZqT1RSdEJqNG5mVDQ3VDhMekFkUlhpejhiLVBPVjlvc3l3REVQMVZhUVVCYzJNWDRZMDIzX01ISFpKdDROTUExWFY4UWZaSF9PTEtZU1ByS3F3TEV0ZGRTM25yS00?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T04:29:57.862Z"
@@ -1122,6 +1262,28 @@
     }
    ],
    "firstSeen": "2026-10-21T04:29:57.862Z"
+  },
+  {
+   "id": "791260c2e3b5",
+   "title": "Chargers in Your Favorite Color Too! Elecom Launches USB-C Charger & Cable Sets in 6 Colors",
+   "summary": "Chargers in Your Favorite Color Too! Elecom Launches USB-C Charger & Cable Sets in 6 Colors ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XZnhHMnpHNFpBWEtpS3lJaWtyS09pTk84VFlVdHd4c3lRdkVIX2JCVDJCNkY2SDhaZGFETERHaG8zcGZIeFFkMzhpTXU5RzJkTGp1a0RYOEk?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T03:45:00.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XZnhHMnpHNFpBWEtpS3lJaWtyS09pTk84VFlVdHd4c3lRdkVIX2JCVDJCNkY2SDhaZGFETERHaG8zcGZIeFFkMzhpTXU5RzJkTGp1a0RYOEk?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
   },
   {
    "id": "fefd249864d5",
