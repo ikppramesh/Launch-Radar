@@ -975,10 +975,10 @@
   },
   {
    "id": "f43d47abd29d",
-   "title": "Lenovo Launches RTX Spark-Powered Yoga Pro 9n in South Korea",
-   "summary": "Lenovo Launches RTX Spark-Powered Yoga Pro 9n in South Korea THE ELEC, Korea Electronics Industry Media",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HeUt4Q2NCLUI3OWxLTERuaE5oQVVMODBINUpfR0dPUGdWbGQxUFpXRzllVkR5VWJ1WEkzb05qMWRwVFhoc3piWUdzY0JoWWRXZm5BTHdwbmxNQzFHUzBFNlFqanlZLWc?oc=5",
-   "image": "",
+   "title": "Lenovo Yoga Pro 9n, Yoga 9n 2-in-1 With Nvidia RTX Spark Launched in India: Price, Specifications",
+   "summary": "Lenovo Yoga Pro 9n and Yoga 9n 2-in-1 laptops launched in India with Nvidia RTX Spark superchip. New AI PCs feature OLED displays. The new Lenovo laptops also feature Lenovo Powerhub and Lenovo AI Engine+. Lenovo Yoga 9n 2-in-1 features a convertible design. The Lenovo Yoga Pro 9",
+   "link": "https://www.gadgets360.com/laptops/news/lenovo-yoga-pro-9n-and-yoga-9n-2-in-1-have-been-launched-in-india-12220769",
+   "image": "https://i.gadgets360cdn.com/large/yoga_pro_9n_lenovo_1792671619203.jpg",
    "publishedAt": "2026-10-19T00:43:43.000Z",
    "date": "2026-10-19",
    "status": "Launched",
@@ -986,7 +986,7 @@
    "brand": "Lenovo",
    "region": "South Korea",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "THE ELEC, Korea Electronics Industry Media",
@@ -995,6 +995,14 @@
     {
      "name": "Inven Global",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWdQYjBMSFVKWGhFaUJUdFpIcUlLWEFFUlRZUHBfZ2REeFRkTjBFdG9LMmw3S3hBc0VKM09Ob2Y3MDJmejFZOU9IdV9kYlVXbXhBNmF4aGJyTzV1MXFGLXJ1OXdISG5YT0puelZZc0RnVThSSFhydlFibWdaZE5XZ09PS3o2UFRUNk4yckxKdDRHSDdUX3FXSGNtOFdHbmZfV0JScg?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/laptops/news/lenovo-yoga-pro-9n-and-yoga-9n-2-in-1-have-been-launched-in-india-12220769"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495524/lenovo-yoga-pro-9n-yoga-9n-2-in-1-price-india-features.html"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"

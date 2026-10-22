@@ -68,28 +68,6 @@
    "firstSeen": "2026-10-21T21:33:17.047Z"
   },
   {
-   "id": "3b309fb082a7",
-   "title": "When Is the iPhone 18 Launching? Expected Date, Price, Features and Everything Reported So Far",
-   "summary": "When Is the iPhone 18 Launching? Expected Date, Price, Features and Everything Reported So Far Brut",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0RDSmMwaFJDcTZld0cyNWF6M0pIdHdBbzhwY1NDM1lmeWFacXhNekwwZ3FsTE5abXV1Z0tMdENiUU9YemFHNER6WjRmUUJNMnk4d0MyOWJNa3ZUaVFOdDNNcW5pRGdhRVp2dHR5c3BnM3dlaUZGaUlWVXZ3U2g0Z1VYM0ljZExESW04alE3cDBJaFVQT1dUR1VwQUF0M0ZIOVprZ3BydThwbEx1S21fc0RfUjI1dWdIaGNTUTU3US0xckpSY2czNVJOcGR0LVQ4UVJaZFFaSHVNVndLdEdaM1RLWWpEVFFJYnB4eQ?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-21T17:12:08.000Z",
-   "date": "2026-10-21",
-   "status": "Upcoming",
-   "category": "Smartphone",
-   "brand": "Apple",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Brut",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0RDSmMwaFJDcTZld0cyNWF6M0pIdHdBbzhwY1NDM1lmeWFacXhNekwwZ3FsTE5abXV1Z0tMdENiUU9YemFHNER6WjRmUUJNMnk4d0MyOWJNa3ZUaVFOdDNNcW5pRGdhRVp2dHR5c3BnM3dlaUZGaUlWVXZ3U2g0Z1VYM0ljZExESW04alE3cDBJaFVQT1dUR1VwQUF0M0ZIOVprZ3BydThwbEx1S21fc0RfUjI1dWdIaGNTUTU3US0xckpSY2czNVJOcGR0LVQ4UVJaZFFaSHVNVndLdEdaM1RLWWpEVFFJYnB4eQ?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-21T21:33:17.047Z"
-  },
-  {
    "id": "f21a684daae6",
    "title": "Honor WIN 2 Launched With Snapdragon 8 Elite Extreme Gen 6, 2K 185Hz Display",
    "summary": "Honor WIN 2 Launched With Snapdragon 8 Elite Extreme Gen 6, 2K 185Hz Display My Mobile India",
@@ -330,6 +308,28 @@
     }
    ],
    "firstSeen": "2026-10-22T04:27:47.286Z"
+  },
+  {
+   "id": "2d98b895e29e",
+   "title": "Xiaomi Reveals Redmi K90 Max Design, Confirms K Pad 2 Launch This Month",
+   "summary": "Xiaomi Reveals Redmi K90 Max Design, Confirms K Pad 2 Launch This Month TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbk1QU19LYWF5UU9xSHVONTF0RmRsMGlFVDJlUmExLXFQUXc2eS1uSHZVMGdZTzhDdmxpNzg1LXQ1T041ZkNVWlBObGRNM3pBQlFOSUVTYVlUVEtwbzRGTU1naVZmRkljTmRuRTVnWEI4MjczRkxHZTAwVXdqemN4dmFWeFpUdDZqOEtLaUZCSzJwSTBCOFFJaVFCNUY?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T14:30:57.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbk1QU19LYWF5UU9xSHVONTF0RmRsMGlFVDJlUmExLXFQUXc2eS1uSHZVMGdZTzhDdmxpNzg1LXQ1T041ZkNVWlBObGRNM3pBQlFOSUVTYVlUVEtwbzRGTU1naVZmRkljTmRuRTVnWEI4MjczRkxHZTAwVXdqemN4dmFWeFpUdDZqOEtLaUZCSzJwSTBCOFFJaVFCNUY?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-22T17:03:12.301Z"
   },
   {
    "id": "414c7d424faf",
@@ -747,6 +747,10 @@
     {
      "name": "My Mobile India",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONndIdmRDb3JPNDlQeWFwVXp0V3BuWk92Zi00U2FSVzBYcUxpV09qVG52S3lvR3pSWWRwdk1kU1YyZWVfT19HMHl0VkxtYTljcDVrRTVIdVJ3R292TGpReXhudnIzODhqUEpIdHJtMERlWlg3cjFnWTBrOEtyZk1lQ0pMSWV0U0s4QlFQLVN1WWFJODZ4dzU4UEJoQjdST0pSbmJFVA?oc=5"
+    },
+    {
+     "name": "GIZGUIDE",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2QXBESzhucTBZa1JxUWV5S1ZZSjFoYS0zR19NM0NQMVVQVXFlcEJPZGZqcXNnV0gwTzBXZ0FxZV9TUUZpYm1MSTM5Q1JVUWtFaWNEU0VHYzBsbDJ5RG1HdTR3ekNScXc4bTc3Wg?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T11:38:30.343Z"
@@ -1056,6 +1060,28 @@
     }
    ],
    "firstSeen": "2026-10-21T11:38:30.343Z"
+  },
+  {
+   "id": "3b309fb082a7",
+   "title": "When Is the iPhone 18 Launching? Expected Date, Price, Features and Everything Reported So Far",
+   "summary": "When Is the iPhone 18 Launching? Expected Date, Price, Features and Everything Reported So Far Brut",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0RDSmMwaFJDcTZld0cyNWF6M0pIdHdBbzhwY1NDM1lmeWFacXhNekwwZ3FsTE5abXV1Z0tMdENiUU9YemFHNER6WjRmUUJNMnk4d0MyOWJNa3ZUaVFOdDNNcW5pRGdhRVp2dHR5c3BnM3dlaUZGaUlWVXZ3U2g0Z1VYM0ljZExESW04alE3cDBJaFVQT1dUR1VwQUF0M0ZIOVprZ3BydThwbEx1S21fc0RfUjI1dWdIaGNTUTU3US0xckpSY2czNVJOcGR0LVQ4UVJaZFFaSHVNVndLdEdaM1RLWWpEVFFJYnB4eQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T07:00:00.000Z",
+   "date": "2026-10-21",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Brut",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0RDSmMwaFJDcTZld0cyNWF6M0pIdHdBbzhwY1NDM1lmeWFacXhNekwwZ3FsTE5abXV1Z0tMdENiUU9YemFHNER6WjRmUUJNMnk4d0MyOWJNa3ZUaVFOdDNNcW5pRGdhRVp2dHR5c3BnM3dlaUZGaUlWVXZ3U2g0Z1VYM0ljZExESW04alE3cDBJaFVQT1dUR1VwQUF0M0ZIOVprZ3BydThwbEx1S21fc0RfUjI1dWdIaGNTUTU3US0xckpSY2czNVJOcGR0LVQ4UVJaZFFaSHVNVndLdEdaM1RLWWpEVFFJYnB4eQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-21T21:33:17.047Z"
   },
   {
    "id": "c495aeff2814",
