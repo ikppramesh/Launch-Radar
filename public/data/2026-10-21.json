@@ -90,6 +90,28 @@
    "firstSeen": "2026-10-21T21:33:17.047Z"
   },
   {
+   "id": "f21a684daae6",
+   "title": "Honor WIN 2 Launched With Snapdragon 8 Elite Extreme Gen 6, 2K 185Hz Display",
+   "summary": "Honor WIN 2 Launched With Snapdragon 8 Elite Extreme Gen 6, 2K 185Hz Display My Mobile India",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPakFvdi1Jb1NFTGNZVW1jV2Jhc3N1U2xNRFJEbE9KaDZscXhWaXFiT3o5UllScS1lUW1XWkRpLWxleDVMMEJFVVFLWC1SWVFXWnNWTWt3T0RaanJEZFhESDZLV1o2eGxxZHk0RzBNSDJMMGJkWVM1emNLRld1WWJuc1hzU3pJUTByTklST1J4ZUt5SllOek5zQW5qWnBOOGxxMS1lSWtHOUE3Zw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T17:00:25.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Honor",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPakFvdi1Jb1NFTGNZVW1jV2Jhc3N1U2xNRFJEbE9KaDZscXhWaXFiT3o5UllScS1lUW1XWkRpLWxleDVMMEJFVVFLWC1SWVFXWnNWTWt3T0RaanJEZFhESDZLV1o2eGxxZHk0RzBNSDJMMGJkWVM1emNLRld1WWJuc1hzU3pJUTByTklST1J4ZUt5SllOek5zQW5qWnBOOGxxMS1lSWtHOUE3Zw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-22T11:38:22.836Z"
+  },
+  {
    "id": "736f1cfcb117",
    "title": "Apple Music's New Look Officially Announced",
    "summary": "Following the introduction of a new Apple Music logo and app icon earlier this month, Apple today officially introduced Apple Music's new brand identity. In a YouTube video shared today, Apple said the new Apple Music visuals were \"made by sound.\" More specifically, Apple said it",
@@ -409,7 +431,7 @@
    "category": "Tablet",
    "brand": "Honor",
    "region": "Global",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -419,6 +441,10 @@
     {
      "name": "GSMArena.com",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamhIVm5qRXRBS3ltd3ZESFBLRTItZlp2a2J2Q3pJamd0YWR1Q1VhRkU0Q2FKYUU4VzdwdHZuY1JkTW9NYnZFUGl3amtod3dkTkdJZzJzbnl1RGJ1ZmJYd2xoMmxwczN0RlN3am40Y183ZVNvT3NYSXdOSWRISEpNbmphRDc2dllfMFpRSnZIWERkQXg3MmE3QUxmX1F2Wm9oQkFLS1pnRlJLQjJW0gGoAUFVX3lxTE44aDIwVU0yUVd2SHRRYWdCY1lwTC03aVFmaVVBTmw1OGpfT3BJS3ptSWFHd0lodE1RTDJROUhZR05rM3NiLURObzZKN0cyeFZHaUZKbWRUWXlYczc1S3J4dUlCUWdfMzk0VXF5TDhjcU5rWlRJWWVBRWFHWGFZaGt5NG9oZDF4WDFKUlU1S3ppRXdwWkJVUFRPVlNMUW9aX1JhbDZxZFhwdQ?oc=5"
+    },
+    {
+     "name": "Unbox PH",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtUjN0QU5ibXpqRWQ5TTkxWndydFV6c2VrNVd2M2I0OEVIRFNHeDJVNHR5eXNXR1lhclMyMGJ1eEU4X1AwMXktLVBobFlmNEFVYUpITVowYUVaREhP?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T17:04:11.676Z"
@@ -611,7 +637,7 @@
    "category": "Audio",
    "brand": "Vivo",
    "region": "Europe",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -621,6 +647,14 @@
     {
      "name": "news.lavx.hu",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFlKUEdjeDJPNkFtRVZqZHF0RmlHMlY5Q2l5dlNONjNGbFNlUHRQS01DN3VUbW91NWtpM1RQOXpORDZvbVpvcVRBQnZqX2JTZV83TTYxdlhfdE8wR0F1czBOM1hhVFkyaE9JbVc0QjdpMVpUVXJFX2VBbHQwWDFJRVAzdi1DTGZEcmxzd2h1MjNkNXZrOGpZ?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/vivo-buds-ultra-price-launch-availability-features-specifications-12218510"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmc3eWc2NlA0aHVRRm50RkZNM3VsTUhpSzh0QlYzR2Q4d2Ziakp1T0I2TE43ZHBCVjRBZDNyV01fNU1xNEtkWmR6SWhtMTF4WFBKYnpkajdWbmw1VkdPV0xxcHdSTENrNlBWYUdRTmx2NVNsT3RHVEhXUldQM0hlbWZNX1FsNjhqNEZBOUtVbHZDd29W?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T17:04:11.676Z"
@@ -1024,6 +1058,28 @@
    "firstSeen": "2026-10-21T11:38:30.343Z"
   },
   {
+   "id": "c495aeff2814",
+   "title": "[iPhone Duo Arrives] Foldable Smartphones: Which One Will You Get? A Must-Watch Live Stream to Ignite Your Shopping Urge! [Gadget Grant Giveaway Included]",
+   "summary": "[iPhone Duo Arrives] Foldable Smartphones: Which One Will You Get? A Must-Watch Live Stream to Ignite Your Shopping Urge! [Gadget Grant Giveaway Included] ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SQUxydEN6REFjQ0VJSS1pU3M3c0c1VDNnODNfazhOUVZKUW1kQU9MWXdMVFl5RHlQR2tWQnBnbmhIWlloMXdmZURkZUhHbkd2OHNZb0YyV1o?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T07:00:00.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SQUxydEN6REFjQ0VJSS1pU3M3c0c1VDNnODNfazhOUVZKUW1kQU9MWXdMVFl5RHlQR2tWQnBnbmhIWlloMXdmZURkZUhHbkd2OHNZb0YyV1o?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-22T11:38:22.836Z"
+  },
+  {
    "id": "d36ab3dff6d6",
    "title": "Lava Aura Curve 5G with 6.67″ FHD+ 120Hz curved AMOLED display, 6000mAh battery launched",
    "summary": "Lava has expanded its smartphone portfolio with the launch of the Aura series, targeted specifically at the offline retail segment. The lineup debuts with the Lava Aura Curve 5G after the phone was launched as Virat Curve for online markets last month. Display and Design The smar",
@@ -1351,6 +1407,10 @@
     {
      "name": "GSMArena.com",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVUtOWNPZEdla1I5NGt1U3plMXM4RUhpZlVDeDhHM1UzOGpFbnFxTnhtTlZTbnV0NXFYLVZ6ZjA4LUx5Y1AtaTZaOG0tRW81NFN5TlNJLThLaGIzOHEycTJkUmJUbWNvdnJMWTh6Sy1FeGMwQ1gzQ3hjcXN3OEtpTS0xTlZsanZYaVhOOGNQbkFIaWwyS1JoUWUyR3RCTVlJUm9IT3FwUlVEbFXSAacBQVVfeXFMTmFucDVuMnZYak1TTUJEYV9iRUFqYlRCNmVmN1RfWU5UbFU2QXdoellCS2s2YTNELVAtcVRuT1JyMVRZRkNyVml0czZqT1RSdEJqNG5mVDQ3VDhMekFkUlhpejhiLVBPVjlvc3l3REVQMVZhUVVCYzJNWDRZMDIzX01ISFpKdDROTUExWFY4UWZaSF9PTEtZU1ByS3F3TEV0ZGRTM25yS00?oc=5"
+    },
+    {
+     "name": "hi-Tech.ua",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGpUQURSbWlyd213RDMyZ0dBV004dmhGcVBrak8wbWxVWmhEeUwzMDFNbFdSZ1JjMDJITVpHajhhejF4enp4YW9jaTdfeGNCdGVoYjVjVkQ0WXVRcFpBRXFEQVloRkFISkVGNmdvNUhpWHVmWms3YUh2LXZZT2pzNG9xaGRGOUxKY1p5NHJn?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T04:29:57.862Z"
@@ -1535,6 +1595,10 @@
     {
      "name": "BigGo Finance",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwQU9NSkFqQzZVb2t3UVVnWVdKTkJpUTFFRXRyQ1NsTEkwVkZuUHhnYTBSS2ZCN0hIQ0ZEVENxa2hoRHB3UGVmT1U0ODZ6TGdOb2hja3FQbkJqaDJ5WEM1cnJXSzN5c2wteFdzNEhHenI4aW1CQlE?oc=5"
+    },
+    {
+     "name": "매일경제",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QYmhxamV6RFNqcG16VDNhOGIwWlhIQnZON211RUxLSWg4Q1lzaVg0SHJOcGlyU0t2Vjc0amUwY3UyVl82Vk1zRkRKS2h6Qm5FZnc?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T04:29:57.862Z"
@@ -1674,6 +1738,32 @@
     }
    ],
    "firstSeen": "2026-10-21T11:38:30.343Z"
+  },
+  {
+   "id": "afbfd05d4c1c",
+   "title": "Rakuten Mobile and IIJmio announce Nothing Phone (4b) launch offers",
+   "summary": "Rakuten Mobile and IIJmio announce Nothing Phone (4b) launch offers Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcG5JeUd1bjAyMXpkelZqbjJGR2JIaEQtbk0xR2o1N2NUcWk5VS1pWnJURFpidmExbzdOOURTV0Q4MEdkZnhvUUgzam96dGx3NHRGblVSZHEwVzlXUUIyYlRfRFRldmV0R1dmaXBBTkEwYXB0aENVM0poT1NsRjYyNmVuVzBaWFNzUl9nMldfYjVsMWg3TFl3QWpsRUtYUGxxZGhwMFNDU2Z6TTBF?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-20T19:05:16.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Nothing",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Telecompaper",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcG5JeUd1bjAyMXpkelZqbjJGR2JIaEQtbk0xR2o1N2NUcWk5VS1pWnJURFpidmExbzdOOURTV0Q4MEdkZnhvUUgzam96dGx3NHRGblVSZHEwVzlXUUIyYlRfRFRldmV0R1dmaXBBTkEwYXB0aENVM0poT1NsRjYyNmVuVzBaWFNzUl9nMldfYjVsMWg3TFl3QWpsRUtYUGxxZGhwMFNDU2Z6TTBF?oc=5"
+    },
+    {
+     "name": "AndroidGuys",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2lKWWNrNzJZMThCdzhrTi1TX1FVNzB0RHpRd29sQ0t2MTJFNzhIdm0zVlBMamlNMVFqUVVpWGxraUlRVzhZUk0wVW5mTlBkWFNfdHAtRnl1RFFYb3FWSGprWTJCZFN3UWhyeThlQ2Jja0FiZFg2SGFnSTVBVXlvSy1pb1VnaW1Na21yZkRVWW1fdmJyakFlOER4UFRneF80NFdSZWtBNGVqMGlWck5aYlluY0kwdWZqZlE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-22T11:38:22.836Z"
   },
   {
    "id": "c05b8f3a39fc",

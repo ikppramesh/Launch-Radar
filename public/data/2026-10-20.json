@@ -2,6 +2,28 @@
  "date": "2026-10-20",
  "items": [
   {
+   "id": "4a79926b391a",
+   "title": "GameSir Announces Official Fortnite Mobile Controllers",
+   "summary": "GameSir Announces Official Fortnite Mobile Controllers TechPorn",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOE9UV21IY3ltWkRnYTBwMWI5aFNGbFgyVXExQV90U2RLQXBWSXlyVjFzSEJSSUhUendHbkVmN2xmRzRlamJvbVlyMFRteWg1TURFc2M1cXBHSWttRzgyVXhJRmNRVkV3X0toWUkxb2xBRk1zMEZpRy0tV0p5WEZCNTZWVU9pQQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-20T17:43:40.000Z",
+   "date": "2026-10-20",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechPorn",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOE9UV21IY3ltWkRnYTBwMWI5aFNGbFgyVXExQV90U2RLQXBWSXlyVjFzSEJSSUhUendHbkVmN2xmRzRlamJvbVlyMFRteWg1TURFc2M1cXBHSWttRzgyVXhJRmNRVkV3X0toWUkxb2xBRk1zMEZpRy0tV0p5WEZCNTZWVU9pQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-22T11:38:22.836Z"
+  },
+  {
    "id": "3d519f34c69b",
    "title": "JR East launches teppay so Mobile Suica can pay over ¥20,000",
    "summary": "JR East launches teppay so Mobile Suica can pay over ¥20,000 Railway Supply",
@@ -336,6 +358,28 @@
    "firstSeen": "2026-10-20T19:08:34.337Z"
   },
   {
+   "id": "be3b602abdf5",
+   "title": "Monaco launches free mobile protection against nuisance calls",
+   "summary": "Monaco launches free mobile protection against nuisance calls Monaco Life",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOEtPTlU4WUk3anUtcVJmdzFhTmxhcHhaNE16T2dGVlRIaGFKLTBCQlJobzVjcFlyUVVQOVIzZS1JeWwzbExWUkFZUDRQd3JtdTFGWmh4dE1YMjdMMjF5ZGZhaHVaYVNnNzlQMGFVdnVObWIyX1F4NzI3eS1xU1JGNFFjSVo3a05DcmRhaV9R?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-20T14:09:16.000Z",
+   "date": "2026-10-20",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Monaco Life",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOEtPTlU4WUk3anUtcVJmdzFhTmxhcHhaNE16T2dGVlRIaGFKLTBCQlJobzVjcFlyUVVQOVIzZS1JeWwzbExWUkFZUDRQd3JtdTFGWmh4dE1YMjdMMjF5ZGZhaHVaYVNnNzlQMGFVdnVObWIyX1F4NzI3eS1xU1JGNFFjSVo3a05DcmRhaV9R?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-22T11:38:22.836Z"
+  },
+  {
    "id": "66028e01109a",
    "title": "Xiaomi has unveiled a 25,000 mAh / 250 W power bank with a hidden display and fast bidirectional charging",
    "summary": "Xiaomi has unveiled a 25,000 mAh / 250 W power bank with a hidden display and fast bidirectional charging Mezha",
@@ -465,12 +509,16 @@
    "category": "Other gadget",
    "brand": "Tecno",
    "region": "China",
-   "confidence": 1,
+   "confidence": 2,
    "aggregator": false,
    "sources": [
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/10/20/tecno-bbc-storyworks-100-portraits-of-becoming-film/"
+    },
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/tecno-100-portraits-of-becoming-3724853/"
     }
    ],
    "firstSeen": "2026-10-20T14:15:23.256Z"
@@ -1241,10 +1289,10 @@
   },
   {
    "id": "42b2eb6a6d5e",
-   "title": "Oppo K14 Lite launched in India: Check price, specs, offers and other details",
-   "summary": "Oppo K14 Lite launched in India: Check price, specs, offers and other details Digit",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzAySVFnSFBScm9JX3FHeFdTRU9YQ05Oc0NKbkppY19mT0RIdWxZd2FfdTFlNlY4LU01TTJoQ3h1NUFxZ3VYLUFSRF9tTE00NVM0R1JBdHk2Yzc0aTV3dkJybDJyUk9IekxIM2dKS21JTUVOZnpCbU1IQXFUdTFzSkFaOEdId21mZ1lmY2twZW8xaTdYc0J1eVJPbFVMbnE3UlNjSllET0F0djdFWkdqd0RIY252NkNnSFhJ0gHCAUFVX3lxTE4wX1pIUlprNlZySnRSMTFnZk9ncUZwcXdPUl9tTy1CRm1Kdi1Ldk5LV3dRaE51RXI0eXFjdXVRclBOMEFkRDByR2s3MTBTUDBacGJSWTdmejdEaklyN2x3SmxXT05feXRCLXhIdl92dFpVLXFNTFN4bVlaazljUGNteHNpSVluVUxUNjBaT3FzdUpOY0lidVJpN28zNGwwRV9LQjlSTXI3YjZtNTgxMkVkc0tkcEtMQmxBd09FLWxqTjBn?oc=5",
-   "image": "",
+   "title": "Oppo K14 Plus Price Hiked by Up to Rs. 5,000 in India Within Weeks of Launch",
+   "summary": "Oppo has raised the price of its recently launched Oppo K14 Plus. The price of the handset now starts at Rs. 32,999 for the base model offering 6GB of RAM and 128GB of storage. Meanwhile, the 8GB + 128GB RAM and storage configuration now costs Rs. 36,999. Lastly, the top-of-the-l",
+   "link": "https://www.gadgets360.com/mobiles/news/oppo-k14-plus-price-in-india-hiked-weeks-after-launch-specifications-features-12218770",
+   "image": "https://i.gadgets360cdn.com/large/oppo_k14_plus_5g_flipkart_main_1790325472839.png",
    "publishedAt": "2026-10-20T00:00:00.000Z",
    "date": "2026-10-20",
    "status": "Launched",
@@ -1252,11 +1300,15 @@
    "brand": "Oppo",
    "region": "India",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "Digit",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzAySVFnSFBScm9JX3FHeFdTRU9YQ05Oc0NKbkppY19mT0RIdWxZd2FfdTFlNlY4LU01TTJoQ3h1NUFxZ3VYLUFSRF9tTE00NVM0R1JBdHk2Yzc0aTV3dkJybDJyUk9IekxIM2dKS21JTUVOZnpCbU1IQXFUdTFzSkFaOEdId21mZ1lmY2twZW8xaTdYc0J1eVJPbFVMbnE3UlNjSllET0F0djdFWkdqd0RIY252NkNnSFhJ0gHCAUFVX3lxTE4wX1pIUlprNlZySnRSMTFnZk9ncUZwcXdPUl9tTy1CRm1Kdi1Ldk5LV3dRaE51RXI0eXFjdXVRclBOMEFkRDByR2s3MTBTUDBacGJSWTdmejdEaklyN2x3SmxXT05feXRCLXhIdl92dFpVLXFNTFN4bVlaazljUGNteHNpSVluVUxUNjBaT3FzdUpOY0lidVJpN28zNGwwRV9LQjlSTXI3YjZtNTgxMkVkc0tkcEtMQmxBd09FLWxqTjBn?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/oppo-k14-plus-price-in-india-hiked-weeks-after-launch-specifications-features-12218770"
     }
    ],
    "firstSeen": "2026-10-21T11:38:30.343Z"
