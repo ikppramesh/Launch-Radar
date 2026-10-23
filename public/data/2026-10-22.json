@@ -13,12 +13,16 @@
    "category": "Laptop",
    "brand": "AMD",
    "region": "Global",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "VideoCardz.com",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaktkejRBVmtJLXVGekNvRmdWUGlTRkFOY3V6N3hzWThicVNVV0YxN3NNOTlpQ3dJZWhqb0liMUUtVUYtVHM3Zm1XQUZnbFEyWHJ6TWVGQU9weEI5ZGJSS2N6dnpLOVBGN1RkTkdKTWpzTkY1MDYxOXl3eHBuM1dEWDhSZDJoWVluQ1BEQTNSVm9RcjB6cHEwZlFLbER2dWs4eXc?oc=5"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRmlrZGxxcTVrRVh1T0lrcThNSVhVczY5TFN4dEJ5eWswWlcwajcxLTByQ1RIU2NHSUR6VTV4akh2dE02eFpuazRxeXZpT3VkVTlvYl9TRnNabWVRdjE5ZGFjV2dYX3VmZGhCT0k0OHVNeC1PMkdCckFfVHlkZEVDSWNzYl91d0Z5Vk1GbkRFS2JKQlZDR21mYUFQWlNrMDF5RTZUYkZYNTgxSEF3aS11SFlBMHlLVENwMTFoQVJFNmhRM2ZldnJJNkhrNy0zVkpw?oc=5"
     }
    ],
    "firstSeen": "2026-10-22T17:03:12.301Z"
@@ -68,6 +72,28 @@
    "firstSeen": "2026-10-22T17:03:12.301Z"
   },
   {
+   "id": "13b73f945a5a",
+   "title": "Xiaomi 17T Series Specs and Prices Surface Ahead of Launch",
+   "summary": "Xiaomi 17T Series Specs and Prices Surface Ahead of Launch TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEdNdFE3aXdhVm56OGt6dU1zOGtsWkE0QzB5dENDbzNkLXBwYVJUZHhENlBhdXJDNTdHRThDeGEyeE9LX2RuZ1dlQ1pDcm5NZHhUdHVzQ2VHSkhzdzN6c1N2dlR3S1B3MXZOMVJ1SzhUQzNUc0tUVDV2NnY0Mk1aTno0NnpPcG5VSmtaZA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-22T15:13:32.000Z",
+   "date": "2026-10-22",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEdNdFE3aXdhVm56OGt6dU1zOGtsWkE0QzB5dENDbzNkLXBwYVJUZHhENlBhdXJDNTdHRThDeGEyeE9LX2RuZ1dlQ1pDcm5NZHhUdHVzQ2VHSkhzdzN6c1N2dlR3S1B3MXZOMVJ1SzhUQzNUc0tUVDV2NnY0Mk1aTno0NnpPcG5VSmtaZA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-23T16:56:23.122Z"
+  },
+  {
    "id": "1afcb4a3808d",
    "title": "Smartphone Launches in October 2026: From Redmi 17C 5G to Vivo V80 and Vivo S2 FE, Check Details of All",
    "summary": "Smartphone Launches in October 2026: From Redmi 17C 5G to Vivo V80 and Vivo S2 FE, Check Details of All LatestLY",
@@ -107,28 +133,6 @@
     {
      "name": "Android Authority",
      "link": "https://www.androidauthority.com/garmin-fenix-9-youtube-music-3726759/"
-    }
-   ],
-   "firstSeen": "2026-10-22T17:03:12.301Z"
-  },
-  {
-   "id": "8eaacb99fbbe",
-   "title": "Vivo Launches Buds Ultra With Hi-Fi DAC and 50-Hour Battery Life",
-   "summary": "Vivo Launches Buds Ultra With Hi-Fi DAC and 50-Hour Battery Life Analytics Insight",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUJpdTVKREIyVlIzck44dU4tdzVLckVidHFDa2ZWdTY0MTBKWmRSRHlxQkpCazRaa0x4eUgyTXRDek1DaGs3VVZNYjNDZ3JtQVFsUHZGYlhua1B0SzQ0Nk1HdndEODl0dUhRUW5XT1BGZXl2bVZtQWNMMWlUazNZQ0htRndUbnE1eXdiVTBvQ0NDMGlCa1B3VDNheUV4N083RldkcjJrcGswWmJOUlpxX1N30gGyAUFVX3lxTE1RQml1NUpEQjJWUjNyTjh1Ti13NUtyRWJ0cUNrZlZ1NjQxMEpaZFJEeXFCSkJrNFprTHh5SDJNdEN6TUNoazdVVk1iM0Nncm1BUWxQdkZiWG5rUHRLNDQ2TUd2d0Q4OXR1SFFRbldPUEZleXZtVm1BY0wxaVRrM1lDSG1Gd1RucTV5d2JVMG9DQ0MwaUJrUHdUM2F5RXg3TzdGV2RyMmtwazBaYk5SWnFfU3c?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-22T14:55:20.000Z",
-   "date": "2026-10-22",
-   "status": "Launched",
-   "category": "Audio",
-   "brand": "Vivo",
-   "region": "Global",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Analytics Insight",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUJpdTVKREIyVlIzck44dU4tdzVLckVidHFDa2ZWdTY0MTBKWmRSRHlxQkpCazRaa0x4eUgyTXRDek1DaGs3VVZNYjNDZ3JtQVFsUHZGYlhua1B0SzQ0Nk1HdndEODl0dUhRUW5XT1BGZXl2bVZtQWNMMWlUazNZQ0htRndUbnE1eXdiVTBvQ0NDMGlCa1B3VDNheUV4N083RldkcjJrcGswWmJOUlpxX1N30gGyAUFVX3lxTE1RQml1NUpEQjJWUjNyTjh1Ti13NUtyRWJ0cUNrZlZ1NjQxMEpaZFJEeXFCSkJrNFprTHh5SDJNdEN6TUNoazdVVk1iM0Nncm1BUWxQdkZiWG5rUHRLNDQ2TUd2d0Q4OXR1SFFRbldPUEZleXZtVm1BY0wxaVRrM1lDSG1Gd1RucTV5d2JVMG9DQ0MwaUJrUHdUM2F5RXg3TzdGV2RyMmtwazBaYk5SWnFfU3c?oc=5"
     }
    ],
    "firstSeen": "2026-10-22T17:03:12.301Z"
@@ -329,6 +333,14 @@
     {
      "name": "Smartprix",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX25KMHg0dHMwZmxHcFBWeTVvN0h1MGYySzJvdnpDbEFUd2ZFcHFMZXBHR3RlYW13YW9yemtSMnJOR0hCNE1YWENfVHh2SFgwMm90RzFmY1RiNm1kd3V4VmduU2MyaHlET2xTWXdOSll1UlVpU1VXQk1XVmItbTdjaEJZdzNPZTc4UkF6ZjlGcm1wZEhLQjJqUV9ycHVFUmFYbmJPYzRCWHN4eUtJb0dFaUU2T3VaMk1SQkRBTzlWQWo5U1AwNmc?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/23/oppo-enco-x4-launches-in-india-with-dual-driver-setup-13h-53h-battery-life-dual-device-pairing/"
+    },
+    {
+     "name": "The Tech Outlook",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSVdaX0sya1V4a0o3em1CTXpGOVppZU12WGRvZGRQSnBicFhxN3d5UnJySFh1Z3IyZWFqVXFyTGVzODZSMTBFaEpuVktHaFZ3YlRNRHBfZDFzVnJaNWUybkJzbXNlb2Fyb2pSVTNPQnZxeFhTWHJRaktMdXVaYUk5U24zVGNyY0d4MmJvNURxcTBBc1VKMDcwSmRVTkE3RTJNckJCUmtuaVJBbFNVMV94STRUN01OLThvSkxBcFA0UjJWdTZVMTZiN00tUlY3MXZBYVZUbHFxem5lTEV6aVNTNUE2MkJfSHFiOXZuWjlJMA?oc=5"
     }
    ],
    "firstSeen": "2026-10-22T17:03:12.301Z"
@@ -570,6 +582,50 @@
    "firstSeen": "2026-10-22T17:03:12.301Z"
   },
   {
+   "id": "f66f6f635fe4",
+   "title": "Rolls-Royce Spectre Series II Set for India Launch in December 2026",
+   "summary": "Rolls-Royce Spectre Series II Set for India Launch in December 2026 LatestLY",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREp1Q0lIRF9oMlpQb0JRTVl0QTVEeFJGRjVoMy1na2NKbDhFbnlqcUZ3V0xsWUhHcXRBaU0zX1pXUGxZWjFOTkRhZXdEZTE2WUdMRTNzVzB2bmtDZm1wSl96UXluNEhkNlZuM1cwSUhIOFBwbHBuUkNDbFFlQk56Y0g0Tk5rX2pQZ01uTmh6dWJQVEJ1OG9EWU82RkhxaXphc0QzUWFiOE9vYi0wVHVr0gG0AUFVX3lxTE9xbjFmTkQzMVVKN1dwNXRKYzQ3QTR5LW1hNVYwSDd3eFVOUU5qQmlhTmxnR3VULUtfX1ZvSmVhakVtZHI3NGJmaURwNHduaElrS3loalVmQWFOMDVRMW5JVUNLUTczZ0hJWFR2MnNGeG9GTTFZd3owd213R0ZfQmJqSzNaZ0NIRF9nNHRwTWFEQ2dDMFR0c2M4QzZPZ3E1OHpzV0ZwOElIOFlybzhVa2Ywd3dySQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-22T11:10:26.000Z",
+   "date": "2026-10-22",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "LatestLY",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREp1Q0lIRF9oMlpQb0JRTVl0QTVEeFJGRjVoMy1na2NKbDhFbnlqcUZ3V0xsWUhHcXRBaU0zX1pXUGxZWjFOTkRhZXdEZTE2WUdMRTNzVzB2bmtDZm1wSl96UXluNEhkNlZuM1cwSUhIOFBwbHBuUkNDbFFlQk56Y0g0Tk5rX2pQZ01uTmh6dWJQVEJ1OG9EWU82RkhxaXphc0QzUWFiOE9vYi0wVHVr0gG0AUFVX3lxTE9xbjFmTkQzMVVKN1dwNXRKYzQ3QTR5LW1hNVYwSDd3eFVOUU5qQmlhTmxnR3VULUtfX1ZvSmVhakVtZHI3NGJmaURwNHduaElrS3loalVmQWFOMDVRMW5JVUNLUTczZ0hJWFR2MnNGeG9GTTFZd3owd213R0ZfQmJqSzNaZ0NIRF9nNHRwTWFEQ2dDMFR0c2M4QzZPZ3E1OHpzV0ZwOElIOFlybzhVa2Ywd3dySQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-23T16:56:23.122Z"
+  },
+  {
+   "id": "b813ecd88d8d",
+   "title": "Govt Announces 500,000 Chromebooks for Students",
+   "summary": "Govt Announces 500,000 Chromebooks for Students ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVNzNFpQUXNBcG5Ra0JjOTQ0bElzTlFfV0tZc0tBaTZpTUlWUHVIRWJKREEwUDRHQmI5WDl5aWRiN1B5QTEteUE0YXJwM1dhUEtWLWgzcl9pR0RYSXhBM1ZrS0dObi1VV1hXcU9ZbnNsRmU0d0RoczB6OS0ySUZnUHRtanI5SFBPZVHSAZoDQVVfeXFMUHl3Q1lrRDlqUWx1SHpuOVNPVm1ib0RNcDdMNWVTWnZhSTZ5ZHJpdlVFSXRMaVhEd2FjamVkUy1oRDdYaEhSbk5QUGRXM1BPSWJfVlo0RDBXdkNTUnVzcmtzLTlQR0wyQmk3U3pocXlBNXNRYmd0QW5xaDRtbm1CcUxHS05scVN3YVMxeUdMNGh1b0oyY2oyWkdDT2x2SEU1VlNiWm03V0pITWNFaWVuNGlpVXlTUW5Qek9Mc3BkMjEyMTFEQVEyX2FLQzVKZVZRT1NMaEdLQjItSHJJOC1oMFpIREdVSUdhQmg1SU15bjB6SVBYYVFVeTl4Y2V6SDNOOHhhZkl2Zm1SUWJRcW9BSWxNZ0ZHcDZWdURTaDVlTnotMjFWblp1SlU3RTh3Q3I3MlZOQXdITGpCcFVtbG5TUVZfZGlxZ2tuam4zckdKUnRpNm5wSDJua0dGd1dXX1FDUzdMUVdOTU1aNjVKa2gzQkVCaTRoSXhteEVYM0ZkWW9wd1BnRFJvMDBsZTdoMFFxQktUd2tZU09qT2c?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-22T10:50:40.000Z",
+   "date": "2026-10-22",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVNzNFpQUXNBcG5Ra0JjOTQ0bElzTlFfV0tZc0tBaTZpTUlWUHVIRWJKREEwUDRHQmI5WDl5aWRiN1B5QTEteUE0YXJwM1dhUEtWLWgzcl9pR0RYSXhBM1ZrS0dObi1VV1hXcU9ZbnNsRmU0d0RoczB6OS0ySUZnUHRtanI5SFBPZVHSAZoDQVVfeXFMUHl3Q1lrRDlqUWx1SHpuOVNPVm1ib0RNcDdMNWVTWnZhSTZ5ZHJpdlVFSXRMaVhEd2FjamVkUy1oRDdYaEhSbk5QUGRXM1BPSWJfVlo0RDBXdkNTUnVzcmtzLTlQR0wyQmk3U3pocXlBNXNRYmd0QW5xaDRtbm1CcUxHS05scVN3YVMxeUdMNGh1b0oyY2oyWkdDT2x2SEU1VlNiWm03V0pITWNFaWVuNGlpVXlTUW5Qek9Mc3BkMjEyMTFEQVEyX2FLQzVKZVZRT1NMaEdLQjItSHJJOC1oMFpIREdVSUdhQmg1SU15bjB6SVBYYVFVeTl4Y2V6SDNOOHhhZkl2Zm1SUWJRcW9BSWxNZ0ZHcDZWdURTaDVlTnotMjFWblp1SlU3RTh3Q3I3MlZOQXdITGpCcFVtbG5TUVZfZGlxZ2tuam4zckdKUnRpNm5wSDJua0dGd1dXX1FDUzdMUVdOTU1aNjVKa2gzQkVCaTRoSXhteEVYM0ZkWW9wd1BnRFJvMDBsZTdoMFFxQktUd2tZU09qT2c?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-23T16:56:23.122Z"
+  },
+  {
    "id": "d5d141f4a2fd",
    "title": "Redmi Book 2027 Series Launch Date Set for October 27; Design, Specifications Teased",
    "summary": "Xiaomi has announced the launch date of its upcoming Redmi Book 2027 series. The lineup will launch on October 27 alongside the Redmi K100 smartphone. ship with a third-generation Intel Core Ultra processor manufactured using Intel's 18A process. The laptops will support LPDDR5X ",
@@ -662,6 +718,28 @@
    "firstSeen": "2026-10-22T11:38:22.836Z"
   },
   {
+   "id": "8eaacb99fbbe",
+   "title": "Vivo Launches Buds Ultra With Hi-Fi DAC and 50-Hour Battery Life",
+   "summary": "Vivo Launches Buds Ultra With Hi-Fi DAC and 50-Hour Battery Life Analytics Insight",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUJpdTVKREIyVlIzck44dU4tdzVLckVidHFDa2ZWdTY0MTBKWmRSRHlxQkpCazRaa0x4eUgyTXRDek1DaGs3VVZNYjNDZ3JtQVFsUHZGYlhua1B0SzQ0Nk1HdndEODl0dUhRUW5XT1BGZXl2bVZtQWNMMWlUazNZQ0htRndUbnE1eXdiVTBvQ0NDMGlCa1B3VDNheUV4N083RldkcjJrcGswWmJOUlpxX1N30gGyAUFVX3lxTE1RQml1NUpEQjJWUjNyTjh1Ti13NUtyRWJ0cUNrZlZ1NjQxMEpaZFJEeXFCSkJrNFprTHh5SDJNdEN6TUNoazdVVk1iM0Nncm1BUWxQdkZiWG5rUHRLNDQ2TUd2d0Q4OXR1SFFRbldPUEZleXZtVm1BY0wxaVRrM1lDSG1Gd1RucTV5d2JVMG9DQ0MwaUJrUHdUM2F5RXg3TzdGV2RyMmtwazBaYk5SWnFfU3c?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-22T09:37:44.000Z",
+   "date": "2026-10-22",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Vivo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Analytics Insight",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUJpdTVKREIyVlIzck44dU4tdzVLckVidHFDa2ZWdTY0MTBKWmRSRHlxQkpCazRaa0x4eUgyTXRDek1DaGs3VVZNYjNDZ3JtQVFsUHZGYlhua1B0SzQ0Nk1HdndEODl0dUhRUW5XT1BGZXl2bVZtQWNMMWlUazNZQ0htRndUbnE1eXdiVTBvQ0NDMGlCa1B3VDNheUV4N083RldkcjJrcGswWmJOUlpxX1N30gGyAUFVX3lxTE1RQml1NUpEQjJWUjNyTjh1Ti13NUtyRWJ0cUNrZlZ1NjQxMEpaZFJEeXFCSkJrNFprTHh5SDJNdEN6TUNoazdVVk1iM0Nncm1BUWxQdkZiWG5rUHRLNDQ2TUd2d0Q4OXR1SFFRbldPUEZleXZtVm1BY0wxaVRrM1lDSG1Gd1RucTV5d2JVMG9DQ0MwaUJrUHdUM2F5RXg3TzdGV2RyMmtwazBaYk5SWnFfU3c?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-22T17:03:12.301Z"
+  },
+  {
    "id": "95c2e18991b4",
    "title": "Xiaomi 18 Pro Max, Oppo Reno 17 5G Receive NBTC Certification Ahead of Global Launch",
    "summary": "Thailand’s NBTC database lists the Xiaomi 18 Pro Max as model 2611FPNFAG and the Oppo Reno 17 5G as CPH2975. Both phones support 5G, 4G LTE, 3G and 2G connectivity, and the listings hint at an imminent global launch. The Xiaomi 18 Pro Max and Xiaomi 18 Pro debuted in China with 8",
@@ -726,6 +804,28 @@
     }
    ],
    "firstSeen": "2026-10-22T11:38:22.836Z"
+  },
+  {
+   "id": "9283b6ed6e06",
+   "title": "Lava Aura Curve 5G Mobile With Dimensity 7100 SoC Launched In India: Specs, Price And Availability",
+   "summary": "Lava Aura Curve 5G Mobile With Dimensity 7100 SoC Launched In India: Specs, Price And Availability News18",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakdfb285bVdnMmxqQTViQjVaeVpHSmtRbTdRVGhxZmZkUTRNb05ObnZySHN3ZnVPSTlnUmtEa0gtSTlrVHFwRWRIUlVLQVppVS1jd0lqQVlaZXdSc1VqaTVEdU52M1YtYnNjUXBhRXU3VUhjcllJaXdJbi1kSVBScGRNYzluR1MzeXRuSkRVcFVJXzJWYVJYN2JIQ0RFckdMNUdDd20tcm4xbGpWVnBVVi1lTEdWcktBSk5kYVdiTVVwOXJYV3hsajZVVUJ4Nl9LcGZPbkkzcFNJdUNVTGfSAeMBQVVfeXFMTTczYmRua2VWck9LMlBIcV9sWVJROXVvc241ZWoxUVVMM0Y5YUk2S0NmQ3kwT3J2TE5sT3RlODdicFBrREJsa0N2WHVBbWdpZk10UnltSEd0T1lodVUxVWNaNXplaHZhd3lEeHg0V0I5cUlmTTRmS01VaEtxem85TUxXZEtjTkF5aTItLVdTU2R1RFhISG5WSXJTNUFCRC1RLVBpXy1kVGhJUGx4RUJUbHhvMS1WWEtsOElSMzlBR29RcmN2Uzd3QXJsc0NfeEVqSjdwR2dDenkxV2RwVEFkbFdrWUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-22T09:17:53.000Z",
+   "date": "2026-10-22",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Lava",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "News18",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakdfb285bVdnMmxqQTViQjVaeVpHSmtRbTdRVGhxZmZkUTRNb05ObnZySHN3ZnVPSTlnUmtEa0gtSTlrVHFwRWRIUlVLQVppVS1jd0lqQVlaZXdSc1VqaTVEdU52M1YtYnNjUXBhRXU3VUhjcllJaXdJbi1kSVBScGRNYzluR1MzeXRuSkRVcFVJXzJWYVJYN2JIQ0RFckdMNUdDd20tcm4xbGpWVnBVVi1lTEdWcktBSk5kYVdiTVVwOXJYV3hsajZVVUJ4Nl9LcGZPbkkzcFNJdUNVTGfSAeMBQVVfeXFMTTczYmRua2VWck9LMlBIcV9sWVJROXVvc241ZWoxUVVMM0Y5YUk2S0NmQ3kwT3J2TE5sT3RlODdicFBrREJsa0N2WHVBbWdpZk10UnltSEd0T1lodVUxVWNaNXplaHZhd3lEeHg0V0I5cUlmTTRmS01VaEtxem85TUxXZEtjTkF5aTItLVdTU2R1RFhISG5WSXJTNUFCRC1RLVBpXy1kVGhJUGx4RUJUbHhvMS1WWEtsOElSMzlBR29RcmN2Uzd3QXJsc0NfeEVqSjdwR2dDenkxV2RwVEFkbFdrWUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-23T16:56:23.122Z"
   },
   {
    "id": "a8e85e0bd9b0",
@@ -1001,6 +1101,10 @@
     {
      "name": "Kalinga TV",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY216YTBNWUlmOHkwbkoxS2U5ZHJRQ2V5Vk4wazdEWl9paVI0ek5QQTlvSmZqaXZiekxQWEItLTkyTzl6Mk5seWFfZWlublhrX3VCYjNiT253MkZzZDltcjhFVXdNVnA4X00wZE1qNXpnb29XNFlianRTTnk0b1pzX0ZEUWRLdHZ5MmRpZUVWRUxobDE0VEFReVFNeTZ1aGVBNXM4MzRCMl8wVWdvRFhR?oc=5"
+    },
+    {
+     "name": "Technetbook",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTZHY3NrMDZieFRIeF9qRGxlUVo1VVUtRnRKeXJWekhETjQxVTdWMFQzWTVONldxNVNkZS1hSGJtZEdvSHJ3YW80ZExQa2J0VVlhcllsOU44WlR3V0g1bUw4a21uV1FjVUg5ckFKeXVOUFcwWWpyNHNRMW1HNVczdFQ3SFdmT2M?oc=5"
     }
    ],
    "firstSeen": "2026-10-22T11:38:22.836Z"
