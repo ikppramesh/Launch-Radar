@@ -113,22 +113,26 @@
   },
   {
    "id": "18acbe9755e5",
-   "title": "Rollme launches Hero K1 rugged smartwatch with offline maps, flashlight",
-   "summary": "Rollme launches Hero K1 rugged smartwatch with offline maps, flashlight news.lavx.hu",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGY3QU5NV1E3RTd6c2dDZkhYOG93X3NFQk9ZTVBhWklnamlqWmtKTFE4LTM3VzFtZFMzNWdwak94UmQ1azRDMVRxaXpqOFNCU1RIX2FveGJTNEhRV1lwWFdoamdHVnFRelBlNVVKSW1HNF9oVDVYVjVhVUk2cTh2MkMwal9PSElwVlNtMVZUVG44NzNsQmpwSTNUZmFmNnlC?oc=5",
-   "image": "",
+   "title": "Rollme launches Hero K1 rugged smartwatch with offline GPS maps, LED flashlight & 40-day battery",
+   "summary": "Rollme has released its newest smartwatch, the Hero K1. It is an outdoor-focused wearable that prioritizes battery capacity and standalone navigation features over a sleek form factor. Rollme Hero K1 Specifications The Hero K1 packs a large 1,200mAh battery, considerably bigger t",
+   "link": "https://www.gizmochina.com/2026/10/22/rollme-hero-k1-rugged-smartwatch-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Rollme-Hero-K1-rugged-smartwatch-300x188.png?x13453",
    "publishedAt": "2026-10-21T16:13:14.000Z",
    "date": "2026-10-21",
    "status": "Launched",
    "category": "Wearable",
    "brand": "—",
-   "region": "Global",
+   "region": "China",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "news.lavx.hu",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGY3QU5NV1E3RTd6c2dDZkhYOG93X3NFQk9ZTVBhWklnamlqWmtKTFE4LTM3VzFtZFMzNWdwak94UmQ1azRDMVRxaXpqOFNCU1RIX2FveGJTNEhRV1lwWFdoamdHVnFRelBlNVVKSW1HNF9oVDVYVjVhVUk2cTh2MkMwal9PSElwVlNtMVZUVG44NzNsQmpwSTNUZmFmNnlC?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/22/rollme-hero-k1-rugged-smartwatch-launched-specs-price/"
     }
    ],
    "firstSeen": "2026-10-21T21:33:17.047Z"
@@ -686,6 +690,28 @@
    "firstSeen": "2026-10-21T17:04:11.676Z"
   },
   {
+   "id": "cdc5bffadc8a",
+   "title": "Valve Unveils New $99 Steam Controller: Release Date & Specs Confirmed",
+   "summary": "Valve Unveils New $99 Steam Controller: Release Date & Specs Confirmed TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmVSSENVNldZWUJfRmJVT2hMZ0dudG9nZlhpMlNXWlRnWnRKYi1WbWtLYjJHZ0FmSi1IRGgzM3kwMUtSUGRTVTJvTm1ubDBIcWd6bXl2RldfLXpRdlpFMFN4X2ZqNzhsdFNENlpVRmNTS3J0RXlHMm5MNzcxZ29hLUVlMkZmUVBybGJHY1puRkRzeFluNzFV?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T11:47:22.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Valve",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmVSSENVNldZWUJfRmJVT2hMZ0dudG9nZlhpMlNXWlRnWnRKYi1WbWtLYjJHZ0FmSi1IRGgzM3kwMUtSUGRTVTJvTm1ubDBIcWd6bXl2RldfLXpRdlpFMFN4X2ZqNzhsdFNENlpVRmNTS3J0RXlHMm5MNzcxZ29hLUVlMkZmUVBybGJHY1puRkRzeFluNzFV?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-23T04:33:20.839Z"
+  },
+  {
    "id": "e205705ae8ac",
    "title": "Honor WIN Pad launched as the first 240Hz display gaming tablet",
    "summary": "Honor WIN Pad launched as the first 240Hz display gaming tablet Huawei Central",
@@ -1105,6 +1131,28 @@
     {
      "name": "ASCII.jp",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SQUxydEN6REFjQ0VJSS1pU3M3c0c1VDNnODNfazhOUVZKUW1kQU9MWXdMVFl5RHlQR2tWQnBnbmhIWlloMXdmZURkZUhHbkd2OHNZb0YyV1o?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-22T11:38:22.836Z"
+  },
+  {
+   "id": "67cc6f8a93c9",
+   "title": "iQOO 16 launches with a 2K 165Hz 10,000-nit AMOLED display, 8,400mAh battery, Snapdragon 8 Elite Gen 6 Extreme, and triple 50MP cameras",
+   "summary": "iQOO 16 launches with a 2K 165Hz 10,000-nit AMOLED display, 8,400mAh battery, Snapdragon 8 Elite Gen 6 Extreme, and triple 50MP cameras Gizmochina",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWZBRl9pOEcyYkhId01rcTV3OEhUOHdnMmJuaVVkb1puSV9ZOXFKclJhbDM0MnB4R1BGSkhoWGFvNTRheWxRLVZYZHUyMlBTOGZNVU9IZHhrQ3YtQ2xwOWpQOFVFYkVqU0RaM09CbUk3Sk1fZHpsa1FFOHpWbU5nRGpR?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-21T07:00:00.000Z",
+   "date": "2026-10-21",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "iQOO",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWZBRl9pOEcyYkhId01rcTV3OEhUOHdnMmJuaVVkb1puSV9ZOXFKclJhbDM0MnB4R1BGSkhoWGFvNTRheWxRLVZYZHUyMlBTOGZNVU9IZHhrQ3YtQ2xwOWpQOFVFYkVqU0RaM09CbUk3Sk1fZHpsa1FFOHpWbU5nRGpR?oc=5"
     }
    ],
    "firstSeen": "2026-10-22T11:38:22.836Z"
