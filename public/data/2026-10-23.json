@@ -2,6 +2,28 @@
  "date": "2026-10-23",
  "items": [
   {
+   "id": "b64834a75418",
+   "title": "Microsoft Introduces Magnetic USB-C Charging With New Surface Laptop Ultra",
+   "summary": "Microsoft Introduces Magnetic USB-C Charging With New Surface Laptop Ultra eTeknix",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNElXQ1NhS1doVjctNHUyM0NBRkFZV21ETkZqZTRmZm9FZ3ZXWEgyWHN2MkoyMzViWFNnWDR6S182TkFCeHUyeS1VSEswUEVqdWQzcUwza0t6SmtBMHZjdl9wbXBELWNxaUJnN2U2TGhNcHJ2c1lZdS1mYnh3UHBGbGZRN2hBUmZRMjRXak5EYjBuaWVvWi1tM3RzU1RJY3kx?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-23T17:48:31.000Z",
+   "date": "2026-10-23",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Microsoft",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "eTeknix",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNElXQ1NhS1doVjctNHUyM0NBRkFZV21ETkZqZTRmZm9FZ3ZXWEgyWHN2MkoyMzViWFNnWDR6S182TkFCeHUyeS1VSEswUEVqdWQzcUwza0t6SmtBMHZjdl9wbXBELWNxaUJnN2U2TGhNcHJ2c1lZdS1mYnh3UHBGbGZRN2hBUmZRMjRXak5EYjBuaWVvWi1tM3RzU1RJY3kx?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T04:23:49.431Z"
+  },
+  {
    "id": "603f2b7329e7",
    "title": "Apple Marks the iPhone Duo Launch by Posing Giant Duos in Its Stores",
    "summary": "The post Apple Marks the iPhone Duo Launch by Posing Giant Duos in Its Stores appeared first on Android Headlines .",
@@ -44,6 +66,28 @@
     }
    ],
    "firstSeen": "2026-10-23T16:56:23.122Z"
+  },
+  {
+   "id": "b1cdd89f5cfe",
+   "title": "Apple’s iPhone Duo Foldable Smartphone Set to Launch Worldwide on October 23",
+   "summary": "Apple’s iPhone Duo Foldable Smartphone Set to Launch Worldwide on October 23 RS Web Solutions",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUVPSUFMeEo0eDM3ckRna2ZqOVFMd0plamoyU0hkcU5HNWVmM0FTN2JCd2pHMjItS0dyV0pMeGhTT0syRVpKSXpzdWlYcWx5TklPUGVFZEhGWUxFQkRSa3RrSDlfYmhZVTV4MUczMUFqQkRaSWFYRFU1NVNQT2JHcUQ4MUFySk9oeUNfOUlnNGNrdkhCc254ek02T3hnaURPc3hoUDVHdkRibW8?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-23T16:00:00.000Z",
+   "date": "2026-10-23",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "RS Web Solutions",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUVPSUFMeEo0eDM3ckRna2ZqOVFMd0plamoyU0hkcU5HNWVmM0FTN2JCd2pHMjItS0dyV0pMeGhTT0syRVpKSXpzdWlYcWx5TklPUGVFZEhGWUxFQkRSa3RrSDlfYmhZVTV4MUczMUFqQkRaSWFYRFU1NVNQT2JHcUQ4MUFySk9oeUNfOUlnNGNrdkhCc254ek02T3hnaURPc3hoUDVHdkRibW8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T04:23:49.431Z"
   },
   {
    "id": "cca70a3ac646",
@@ -132,6 +176,28 @@
     }
    ],
    "firstSeen": "2026-10-23T16:56:23.122Z"
+  },
+  {
+   "id": "26f0e4a14e92",
+   "title": "Serato DJ launches on mobile for the first time",
+   "summary": "Serato DJ launches on mobile for the first time DJ Mag",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjZ2xLVTNjMHFJVGdhdkhpdXRYVDB5dmF4bVB3RHlvTkJPRzhmMlM4VW5sVldwMlVXS2FXSTlBMG9tdmc3aVFqYlQ4X3NZUTVaUzJNNlBBaWZ5dFpGbl8tSU15dEtuQTRCZ2w4?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-23T13:51:04.000Z",
+   "date": "2026-10-23",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "DJ Mag",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjZ2xLVTNjMHFJVGdhdkhpdXRYVDB5dmF4bVB3RHlvTkJPRzhmMlM4VW5sVldwMlVXS2FXSTlBMG9tdmc3aVFqYlQ4X3NZUTVaUzJNNlBBaWZ5dFpGbl8tSU15dEtuQTRCZ2w4?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T04:23:49.431Z"
   },
   {
    "id": "a8e14f78d138",
