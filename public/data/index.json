@@ -1,18 +1,18 @@
 {
- "lastRefresh": "2026-10-24T15:49:05.918Z",
+ "lastRefresh": "2026-10-24T20:37:57.226Z",
  "timezone": "Asia/Kolkata",
- "tookMs": 3180,
+ "tookMs": 3121,
  "feedsOk": 52,
  "feedsTotal": 54,
- "added": 13,
+ "added": 19,
  "days": [
   {
    "date": "2026-10-24",
-   "count": 27
+   "count": 33
   },
   {
    "date": "2026-10-23",
-   "count": 72
+   "count": 85
   },
   {
    "date": "2026-10-22",
@@ -201,7 +201,12 @@
   {
    "name": "Google News US",
    "ok": true,
-   "count": 28
+   "count": 50
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
+   "count": 55
   },
   {
    "name": "Google News US",
@@ -211,12 +216,7 @@
   {
    "name": "Google News US",
    "ok": true,
-   "count": 55
-  },
-  {
-   "name": "Google News US",
-   "ok": true,
-   "count": 47
+   "count": 53
   },
   {
    "name": "Google News US",
@@ -226,84 +226,84 @@
   {
    "name": "Google News IN",
    "ok": true,
-   "count": 29
+   "count": 50
   },
   {
    "name": "Google News IN",
-   "ok": true,
-   "count": 56
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 53
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 45
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 37
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 28
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 56
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 54
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 46
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 37
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 28
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 56
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 53
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 25
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 37
-  },
-  {
-   "name": "Google News AU",
    "ok": true,
    "count": 27
   },
   {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 56
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 53
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 39
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 50
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 55
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 56
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 53
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 40
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 50
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 53
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 55
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 26
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 39
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 51
+  },
+  {
    "name": "Google News AU",
    "ok": true,
    "count": 55
@@ -311,22 +311,27 @@
   {
    "name": "Google News AU",
    "ok": true,
-   "count": 54
+   "count": 56
   },
   {
    "name": "Google News AU",
    "ok": true,
-   "count": 46
+   "count": 53
   },
   {
    "name": "Google News AU",
    "ok": true,
-   "count": 37
+   "count": 40
   },
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 28
+   "count": 49
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 55
   },
   {
    "name": "Google News CA",
@@ -336,17 +341,12 @@
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 54
+   "count": 26
   },
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 46
-  },
-  {
-   "name": "Google News CA",
-   "ok": true,
-   "count": 37
+   "count": 40
   }
  ]
 }
