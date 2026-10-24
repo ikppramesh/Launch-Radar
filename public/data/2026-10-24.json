@@ -2,6 +2,72 @@
  "date": "2026-10-24",
  "items": [
   {
+   "id": "38cd17be5518",
+   "title": "Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More",
+   "summary": "Yet another busy week for Apple saw a teaser for even more product announcements coming next week, plus we got the highly anticipated launch of Apple's first foldable smartphone, the iPhone Duo. Other news this week included Verizon announcing a hefty monthly charge for the iPhon",
+   "link": "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
+   "image": "https://images.macrumors.com/article-new/2026/10/top_stories_2026-10-24.jpg",
+   "publishedAt": "2026-10-24T13:00:14.000Z",
+   "date": "2026-10-24",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/"
+    }
+   ],
+   "firstSeen": "2026-10-24T15:49:05.918Z"
+  },
+  {
+   "id": "835dab83b0d1",
+   "title": "HMD Launches Classic Flip Phone With Built-In AI Companion",
+   "summary": "HMD Launches Classic Flip Phone With Built-In AI Companion ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1ZZREotTnNHYlhIX0NGVVRZTHB2SUV6VWhCQlItczhvUllrWXFwVmpUNEM1SDZQTkJWazhoeVJsM0NUa2Y2a1hmSE5yRXdtLU5MSVF4UWpOWXhtNmFwNW1VUFRFRkp1Y05ZeEZlbVZEOTZ5UGs5RmhYWkNrWFhTa05tb0Zrb19CdS1WakYzb2FqUFZ3SXdXVHpn0gGfAUFVX3lxTFB2ZWs4NFJjX1ZCd21RLWN1cHRVUGt1VVV1SEE5emRQVzc5dDRyRzhpZ09SS1hfRDdVbVlsMGJFYjNPb00ydXZHLV8wV1hEMjRBdFp4VWtRQ1BuMDRhbmdmcEZLSzVJenNreFVQdmN1blVGRUt5QUM1ZlQza1Z5eFhSZkJLNEx3ZjV1WE5CWWMtUUczd1RpU3ZicW4xRGlDTQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-24T12:20:14.000Z",
+   "date": "2026-10-24",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "HMD",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1ZZREotTnNHYlhIX0NGVVRZTHB2SUV6VWhCQlItczhvUllrWXFwVmpUNEM1SDZQTkJWazhoeVJsM0NUa2Y2a1hmSE5yRXdtLU5MSVF4UWpOWXhtNmFwNW1VUFRFRkp1Y05ZeEZlbVZEOTZ5UGs5RmhYWkNrWFhTa05tb0Zrb19CdS1WakYzb2FqUFZ3SXdXVHpn0gGfAUFVX3lxTFB2ZWs4NFJjX1ZCd21RLWN1cHRVUGt1VVV1SEE5emRQVzc5dDRyRzhpZ09SS1hfRDdVbVlsMGJFYjNPb00ydXZHLV8wV1hEMjRBdFp4VWtRQ1BuMDRhbmdmcEZLSzVJenNreFVQdmN1blVGRUt5QUM1ZlQza1Z5eFhSZkJLNEx3ZjV1WE5CWWMtUUczd1RpU3ZicW4xRGlDTQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T15:49:05.918Z"
+  },
+  {
+   "id": "0439625b2ee3",
+   "title": "Certus Hearing Launches Certus Max, a Bluetooth Hearing Aid With a Touchscreen Case",
+   "summary": "Certus Hearing Launches Certus Max, a Bluetooth Hearing Aid With a Touchscreen Case Digital Journal",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZFltQTNIZGZ1MDcxWXJ3SURnZFNNR0ZiNXViVXN6NGtkV3ppOHNoQjlLM2hCRTZHWkt6Y1JMUF94c29OZVNDMnFjSVhxNlVvMGN3UTBJYm1zcFBpUzFTZ2MybFIxTlUwOE14ZE5HRnlaMDN2MS1CSWZIV3FyLUtFbDA4dEFCWUg2OTl0alkzaDNxbjFrS3hOOGwtUHd0STNCMVV5c01sYlk?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-24T11:45:16.000Z",
+   "date": "2026-10-24",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digital Journal",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZFltQTNIZGZ1MDcxWXJ3SURnZFNNR0ZiNXViVXN6NGtkV3ppOHNoQjlLM2hCRTZHWkt6Y1JMUF94c29OZVNDMnFjSVhxNlVvMGN3UTBJYm1zcFBpUzFTZ2MybFIxTlUwOE14ZE5HRnlaMDN2MS1CSWZIV3FyLUtFbDA4dEFCWUg2OTl0alkzaDNxbjFrS3hOOGwtUHd0STNCMVV5c01sYlk?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T15:49:05.918Z"
+  },
+  {
    "id": "5ddeaaa5c30d",
    "title": "Apple iPhone Duo Launch Sparks Excitement Among Shoppers",
    "summary": "Apple iPhone Duo Launch Sparks Excitement Among Shoppers RS Web Solutions",
@@ -68,6 +134,50 @@
    "firstSeen": "2026-10-24T10:46:52.959Z"
   },
   {
+   "id": "749861c76e5f",
+   "title": "Framework Laptop Chromebook Edition launches in December",
+   "summary": "Framework Laptop Chromebook Edition launches in December Mashable",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZZUxYSUNrMUdYYWxtb2phbVJFekZTZHdwRjdDeXdJdmh1VDUzOXF3b1JhOXNmQU5QWExybkpGbDF3MXEtNGVNZmc3UFBQbU9nY2VDVHZRZHRfSVRvRWRPX3NVVGE1RUhVd0d6bWpKTGdZQQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-24T08:00:00.000Z",
+   "date": "2026-10-24",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Framework",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZZUxYSUNrMUdYYWxtb2phbVJFekZTZHdwRjdDeXdJdmh1VDUzOXF3b1JhOXNmQU5QWExybkpGbDF3MXEtNGVNZmc3UFBQbU9nY2VDVHZRZHRfSVRvRWRPX3NVVGE1RUhVd0d6bWpKTGdZQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T15:49:05.918Z"
+  },
+  {
+   "id": "481efc7933f0",
+   "title": "Vivo Y600 Unveiled with Multiple Configurations and Colors",
+   "summary": "Vivo Y600 Unveiled with Multiple Configurations and Colors NewzTodays",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVJIUG1PY3RRU05ZcUN0VmlVRGdudVp1VzBObW45RDNDWnpXaEpyNHQ0aTA4SG9OYTlmR1RsbmM5SDJ1akRIUGV4a2drbjR0aXBfY1pDazZZRDJtcFF6T1pkT1VDMWtIcmVSWVpWOUl4eUVzNVhvMmwwLVkzTW9sT2ttVnh6ay1aYkE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-24T07:50:03.000Z",
+   "date": "2026-10-24",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Vivo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "NewzTodays",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVJIUG1PY3RRU05ZcUN0VmlVRGdudVp1VzBObW45RDNDWnpXaEpyNHQ0aTA4SG9OYTlmR1RsbmM5SDJ1akRIUGV4a2drbjR0aXBfY1pDazZZRDJtcFF6T1pkT1VDMWtIcmVSWVpWOUl4eUVzNVhvMmwwLVkzTW9sT2ttVnh6ay1aYkE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T15:49:05.918Z"
+  },
+  {
    "id": "e7c5d04f5eb1",
    "title": "Apple unveils first foldable iPhone Duo – Features & prices explained",
    "summary": "Apple unveils first foldable iPhone Duo – Features & prices explained Daily Pakistan",
@@ -90,32 +200,6 @@
    "firstSeen": "2026-10-24T10:46:52.959Z"
   },
   {
-   "id": "5602c9e449ad",
-   "title": "MSI Malaysia unveils the Prestige N16 Flip AI+, the world's first Nvidia RTX Spark-powered 2-in-1 laptop",
-   "summary": "MSI Malaysia unveils the Prestige N16 Flip AI+, the world's first Nvidia RTX Spark-powered 2-in-1 laptop AsiaOne.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDlDVlVpYVpkaF9KYlpLM1BsYUZuV25XbG1ZWndyZ0VyMFFkWURaLXJHWTBnZ3ZVNXVla0lyR29mLWFpY3RJR3ZaUUlXNDZMSEJPLXgtOUljNEhIbi1aaVlTeEhxbkFLTnpjTUVuX2ZjQjJoejlTY0xudEV1LUh2amRIcmVLUDZ6VGFVdHRvc0diSzJLYjJaTnFqX29EUEVLY1g1OV9LeWtTam5ZQURsQzJpSS1PZlE1VnZHSHI3aw?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-24T05:20:23.000Z",
-   "date": "2026-10-24",
-   "status": "Launched",
-   "category": "Laptop",
-   "brand": "MSI",
-   "region": "Southeast Asia",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "AsiaOne.com",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDlDVlVpYVpkaF9KYlpLM1BsYUZuV25XbG1ZWndyZ0VyMFFkWURaLXJHWTBnZ3ZVNXVla0lyR29mLWFpY3RJR3ZaUUlXNDZMSEJPLXgtOUljNEhIbi1aaVlTeEhxbkFLTnpjTUVuX2ZjQjJoejlTY0xudEV1LUh2amRIcmVLUDZ6VGFVdHRvc0diSzJLYjJaTnFqX29EUEVLY1g1OV9LeWtTam5ZQURsQzJpSS1PZlE1VnZHSHI3aw?oc=5"
-    },
-    {
-     "name": "Malay Mail",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYVlBb1hKaXdnS3hNckx2OVlXOVdINGVUOGtzTHUyV0dleUV4bXNDWHYxaDZyMHNvQUkwUzhRZkd3ODYySEduUFVBaDZiOUlUMGJsSjMzQVZlSU9TTkt0WlN2WjhKc1EyNXRLZ3ZyZ3l4U0FHM1RCN3dhR3hMcmdYcndFRHZTazl6LWszNVYyZjF1U3l1dHF0RVFJZldJQUlKb2JiWU9OdENjZHpManB0WlJpLVdvU3d1SVdKYkJVRlpjWFJheXF0d29pNnRRZlg1eHFUbUMxRXg4YVV5LWRmZEFJRHhNYjdZSXJacWFqWVlTLWJRaVdCMklGRdIB-wFBVV95cUxPYVlBb1hKaXdnS3hNckx2OVlXOVdINGVUOGtzTHUyV0dleUV4bXNDWHYxaDZyMHNvQUkwUzhRZkd3ODYySEduUFVBaDZiOUlUMGJsSjMzQVZlSU9TTkt0WlN2WjhKc1EyNXRLZ3ZyZ3l4U0FHM1RCN3dhR3hMcmdYcndFRHZTazl6LWszNVYyZjF1U3l1dHF0RVFJZldJQUlKb2JiWU9OdENjZHpManB0WlJpLVdvU3d1SVdKYkJVRlpjWFJheXF0d29pNnRRZlg1eHFUbUMxRXg4YVV5LWRmZEFJRHhNYjdZSXJacWFqWVlTLWJRaVdCMklGRQ?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-24T10:46:52.959Z"
-  },
-  {
    "id": "3d3ecc228a50",
    "title": "Honor launches affordable tablet with 9.7-inch 2K display and 8,000mAh battery",
    "summary": "Honor launches affordable tablet with 9.7-inch 2K display and 8,000mAh battery Notebookcheck",
@@ -133,6 +217,36 @@
     {
      "name": "Notebookcheck",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmd4NWhCOE00TG8xNjhMejN1M09jUVh5MzgzTnVGTS1JNU5zbk5vMmlNbUE3UWkzMTM1SFotbzloN2puWGNrN1MzTFFHRzY2ZzJiNG0wZDVVLVRJMlp0OHVTZ0RLQXV5ZUZSTEVMMmlBYWg0cWNiWWtKUV9aTjdreWtScnZ3SnlNb1BoaW5peW5rMnNMQmQ1dHFvbVhndTEwczJaXzZkc2hIV3Z5a240eWF4aWRGakNrRlR1alV5WEs?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T10:46:52.959Z"
+  },
+  {
+   "id": "5602c9e449ad",
+   "title": "MSI Malaysia unveils the Prestige N16 Flip AI+, the world's first Nvidia RTX Spark-powered 2-in-1 laptop",
+   "summary": "MSI Malaysia unveils the Prestige N16 Flip AI+, the world's first Nvidia RTX Spark-powered 2-in-1 laptop AsiaOne.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDlDVlVpYVpkaF9KYlpLM1BsYUZuV25XbG1ZWndyZ0VyMFFkWURaLXJHWTBnZ3ZVNXVla0lyR29mLWFpY3RJR3ZaUUlXNDZMSEJPLXgtOUljNEhIbi1aaVlTeEhxbkFLTnpjTUVuX2ZjQjJoejlTY0xudEV1LUh2amRIcmVLUDZ6VGFVdHRvc0diSzJLYjJaTnFqX29EUEVLY1g1OV9LeWtTam5ZQURsQzJpSS1PZlE1VnZHSHI3aw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-24T03:57:00.000Z",
+   "date": "2026-10-24",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "MSI",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "AsiaOne.com",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDlDVlVpYVpkaF9KYlpLM1BsYUZuV25XbG1ZWndyZ0VyMFFkWURaLXJHWTBnZ3ZVNXVla0lyR29mLWFpY3RJR3ZaUUlXNDZMSEJPLXgtOUljNEhIbi1aaVlTeEhxbkFLTnpjTUVuX2ZjQjJoejlTY0xudEV1LUh2amRIcmVLUDZ6VGFVdHRvc0diSzJLYjJaTnFqX29EUEVLY1g1OV9LeWtTam5ZQURsQzJpSS1PZlE1VnZHSHI3aw?oc=5"
+    },
+    {
+     "name": "Malay Mail",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYVlBb1hKaXdnS3hNckx2OVlXOVdINGVUOGtzTHUyV0dleUV4bXNDWHYxaDZyMHNvQUkwUzhRZkd3ODYySEduUFVBaDZiOUlUMGJsSjMzQVZlSU9TTkt0WlN2WjhKc1EyNXRLZ3ZyZ3l4U0FHM1RCN3dhR3hMcmdYcndFRHZTazl6LWszNVYyZjF1U3l1dHF0RVFJZldJQUlKb2JiWU9OdENjZHpManB0WlJpLVdvU3d1SVdKYkJVRlpjWFJheXF0d29pNnRRZlg1eHFUbUMxRXg4YVV5LWRmZEFJRHhNYjdZSXJacWFqWVlTLWJRaVdCMklGRdIB-wFBVV95cUxPYVlBb1hKaXdnS3hNckx2OVlXOVdINGVUOGtzTHUyV0dleUV4bXNDWHYxaDZyMHNvQUkwUzhRZkd3ODYySEduUFVBaDZiOUlUMGJsSjMzQVZlSU9TTkt0WlN2WjhKc1EyNXRLZ3ZyZ3l4U0FHM1RCN3dhR3hMcmdYcndFRHZTazl6LWszNVYyZjF1U3l1dHF0RVFJZldJQUlKb2JiWU9OdENjZHpManB0WlJpLVdvU3d1SVdKYkJVRlpjWFJheXF0d29pNnRRZlg1eHFUbUMxRXg4YVV5LWRmZEFJRHhNYjdZSXJacWFqWVlTLWJRaVdCMklGRQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHZLRm9HT29TTnJBcVpkanZKdEZxU1RmRDlWa3R4YjJVYUluVXA3Y080aFZnU0UxcThwd2FrS1NrU0QyU1F3Mk5JdERPQjNzYlpmbE10N1NicUdETlJYOS1EUU9SVWhwY0M2VlZzRGZtY0oxOFpYcFRDMFl1ODdZQ2JvR2lYcVk?oc=5"
     }
    ],
    "firstSeen": "2026-10-24T10:46:52.959Z"
@@ -300,6 +414,28 @@
    "firstSeen": "2026-10-24T04:23:49.431Z"
   },
   {
+   "id": "03ee1ca709e3",
+   "title": "RISION Launches Torix: The Ultimate Handheld Thermal Camera",
+   "summary": "RISION Launches Torix: The Ultimate Handheld Thermal Camera AndroidGuys",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkxoVkljdEpoZXhnNk1ZSWJ3ZVhWOXhWNWN0M0QzQWJSRmVNbTR1M3AzdU1zeWdLSy01UklNNUNSMGc3LUdFR2ktcFRWaEJjdzlrOGlxWUdVWmxLb3ZCeExSR1pWOUhpTUJYRzRCYTh1OXJKNFRHZ1B4alNxRTRmdk95R3AtT2tnWjhaLXk4MkdoNGpxbUZ0dWxMdzlERVJ0ZHQ1YUJZN3BQaGZX?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-23T21:20:34.000Z",
+   "date": "2026-10-24",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "AndroidGuys",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONkxoVkljdEpoZXhnNk1ZSWJ3ZVhWOXhWNWN0M0QzQWJSRmVNbTR1M3AzdU1zeWdLSy01UklNNUNSMGc3LUdFR2ktcFRWaEJjdzlrOGlxWUdVWmxLb3ZCeExSR1pWOUhpTUJYRzRCYTh1OXJKNFRHZ1B4alNxRTRmdk95R3AtT2tnWjhaLXk4MkdoNGpxbUZ0dWxMdzlERVJ0ZHQ1YUJZN3BQaGZX?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T15:49:05.918Z"
+  },
+  {
    "id": "f108f8aea83f",
    "title": "Ugreen launches new M.2 SSD enclosures with built-in USB-C cables, up to 8TB support & 20Gbps speeds",
    "summary": "Ugreen has released two new M.2 NVMe SSD enclosures. There is a 10Gbps version available for $27.99 ($24.99 for Amazon Prime members) and a faster 20Gbps version priced at $39.99 ($34.99 with Prime). Ugreen M.2 NVMe SSD Enclosure Specifications Instead of relying on a separate, d",
@@ -452,6 +588,28 @@
     }
    ],
    "firstSeen": "2026-10-23T21:19:04.020Z"
+  },
+  {
+   "id": "bb477556e3a5",
+   "title": "India to Launch Homegrown Smartphones by 2028: Ashwini Vaishnaw",
+   "summary": "India to Launch Homegrown Smartphones by 2028: Ashwini Vaishnaw Lokmat Times",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFR4UU1kZTlaRVFISmhoQnlFaXQyZUxCWkhycDJTdDc4dmUyeG5ZQXZnZWFzYnFzRENmbUNlclMtdElGN3VJSGhYMTVqNjZBb0VqcENGUDhRd1hwNFF2dERpb2IwTWRGelpFN0xqUDBWbWFzUnVQS2Vyd2xIandLTjlZd0FPVEZaX3pPbGphNXdHdHFPRHgyWldtUnRaOVd4WmgwS2lSWVJCUlVVY1RiSdIBtgFBVV95cUxPYjlDVzNRVTRuc0V6TnF0XzVtc0dkUzh5YmJVNUI2bTYzb3dJV1M1YWhKbVpFX042VWJUcHRLYklSck94ejRCSWoxZDhuRGg5OWRfWVk4VGpMY1RHb25xNnlyZXJHclBnV0dORE5SdWpsMDA4YXFGdFVmQUN6TWg3NTVpY0FBMHNWVDZ1ZkJPOHFpNEhMY3h3bEJaV0JnaldPTHlUN3IwR01lZWYxZS0tcWMyRkhXdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-23T18:54:34.000Z",
+   "date": "2026-10-24",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Lokmat Times",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFR4UU1kZTlaRVFISmhoQnlFaXQyZUxCWkhycDJTdDc4dmUyeG5ZQXZnZWFzYnFzRENmbUNlclMtdElGN3VJSGhYMTVqNjZBb0VqcENGUDhRd1hwNFF2dERpb2IwTWRGelpFN0xqUDBWbWFzUnVQS2Vyd2xIandLTjlZd0FPVEZaX3pPbGphNXdHdHFPRHgyWldtUnRaOVd4WmgwS2lSWVJCUlVVY1RiSdIBtgFBVV95cUxPYjlDVzNRVTRuc0V6TnF0XzVtc0dkUzh5YmJVNUI2bTYzb3dJV1M1YWhKbVpFX042VWJUcHRLYklSck94ejRCSWoxZDhuRGg5OWRfWVk4VGpMY1RHb25xNnlyZXJHclBnV0dORE5SdWpsMDA4YXFGdFVmQUN6TWg3NTVpY0FBMHNWVDZ1ZkJPOHFpNEhMY3h3bEJaV0JnaldPTHlUN3IwR01lZWYxZS0tcWMyRkhXdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-24T15:49:05.918Z"
   }
  ]
 }

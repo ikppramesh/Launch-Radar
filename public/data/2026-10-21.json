@@ -284,13 +284,17 @@
    "status": "Launched",
    "category": "Tablet",
    "brand": "Honor",
-   "region": "Global",
+   "region": "China",
    "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "TechJuice",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYklHWWRsWXFBUGJDaTBwdFVkTFNrb1pBOFk4RmNoTWwxeDF0VmZOV3dlZTFGTVRDaHMyQUlzQmRkYXlXdTBmcl8yLTIzQTZKa2xnRkV1WUlzSjdQZWlhaHd4QldpYlNsSjhJR2ZzZ0U4SldvblFucUJhR3hNM3RrUUs0WHYzUQ?oc=5"
+    },
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmFUWW1sNjdNN3FCNGhSSERhNTBFRTl3eE9MLVVBR1E1dnhWSjJ2ai0ya3FWOTEtZ3A4X21kbDZnRFF6UVYtQk1rbjlvNVR3MlpDS0J2enVTSlotaWkzWGZUMjR2aFByWHVzX2FWaURlYWsxeW1SNnlrRzBYRFY3T2lGMU1ra1JRcmtmMVZuaklpWTZCRDVlbHJDMmhTLVZUSHY5Q0xlMW5OandsUzZETnhPLXI?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T21:33:17.047Z"
@@ -923,12 +927,16 @@
    "category": "Other gadget",
    "brand": "Honor",
    "region": "India",
-   "confidence": 1,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/495380/honor-win-2-win-rt2-win-turbo2-price-specifications.html"
+    },
+    {
+     "name": "MobileDokan",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ0NsMTI4b1FXanBiUDdBQm1zMFdLNkJrT3ZTVEtENjlvbE5uSVFGWVM1XzVlR3VuQmc5RGhVR0tESW1iR2J1WnJ2b3YyRm1sdjBxSHBVSVA4bXJhalNPbE1wek1aUXZJM2lDWjY1WTlKeUxwYnVfaU9QN29qTHlKOGg2OEdZVDhDZEp6X0V6ckY4M3kzeDJXbGktZDJmdXFRTHNUTllZR3V2WmVSdTFCTW00Qk1aV1haOHRyeEdvMWc3SEdUT0taRU9Zakd6d2ZsenpQSUU1anJ4YlVjcENoZm5aYkZyTFE?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T11:38:30.343Z"
