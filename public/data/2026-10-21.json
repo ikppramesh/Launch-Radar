@@ -275,10 +275,10 @@
   },
   {
    "id": "f996902e17f6",
-   "title": "Honor Unveils MagicPad 4 (12.1) and X10 Pro Max Tablets",
-   "summary": "Honor Unveils MagicPad 4 (12.1) and X10 Pro Max Tablets TechJuice",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYklHWWRsWXFBUGJDaTBwdFVkTFNrb1pBOFk4RmNoTWwxeDF0VmZOV3dlZTFGTVRDaHMyQUlzQmRkYXlXdTBmcl8yLTIzQTZKa2xnRkV1WUlzSjdQZWlhaHd4QldpYlNsSjhJR2ZzZ0U4SldvblFucUJhR3hNM3RrUUs0WHYzUQ?oc=5",
-   "image": "",
+   "title": "Honor Pad X10 Mini launched with 9.7-inch 90Hz display and 8000mAh battery",
+   "summary": "Honor has launched the Pad X10 Mini in China as a compact, family-friendly tablet. It packs a 9.7-inch 90Hz display, an all-metal body, and a large 8,000mAh battery, with prices starting at 1,099 yuan (~$165). Honor Pad X10 Mini specifications and features The Honor Pad X10 Mini ",
+   "link": "https://www.gizmochina.com/2026/10/25/honor-pad-x10-mini-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/honor-pad-x10-mini-featured-300x169.jpg?x62950",
    "publishedAt": "2026-10-21T15:09:16.000Z",
    "date": "2026-10-21",
    "status": "Launched",
@@ -286,7 +286,7 @@
    "brand": "Honor",
    "region": "China",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "TechJuice",
@@ -295,6 +295,10 @@
     {
      "name": "news.lavx.hu",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmFUWW1sNjdNN3FCNGhSSERhNTBFRTl3eE9MLVVBR1E1dnhWSjJ2ai0ya3FWOTEtZ3A4X21kbDZnRFF6UVYtQk1rbjlvNVR3MlpDS0J2enVTSlotaWkzWGZUMjR2aFByWHVzX2FWaURlYWsxeW1SNnlrRzBYRFY3T2lGMU1ra1JRcmtmMVZuaklpWTZCRDVlbHJDMmhTLVZUSHY5Q0xlMW5OandsUzZETnhPLXI?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/25/honor-pad-x10-mini-launched-specs-price/"
     }
    ],
    "firstSeen": "2026-10-21T21:33:17.047Z"

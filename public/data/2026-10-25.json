@@ -2,6 +2,94 @@
  "date": "2026-10-25",
  "items": [
   {
+   "id": "1b922eef49d7",
+   "title": "HP Star Book Air 14 launches with a 1.16 kg body and OLED touchscreen",
+   "summary": "HP has launched the Star Book Air 14 in China, and you can reserve it now for 5,299 yuan (about $740). It’s a 14-inch laptop with an Intel Core 5 320 processor, an OLED touchscreen, and a battery rated at up to 42.5 hours. Outside China, HP sells the same model as the OmniBook 5 ",
+   "link": "https://www.gizmochina.com/2026/10/25/hp-star-book-air-14-launches-with-a-1-16-kg-body-and-oled-touchscreen/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/HP-StarBook-Air-14-300x200.jpg?x62950",
+   "publishedAt": "2026-10-25T04:01:44.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "HP",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/25/hp-star-book-air-14-launches-with-a-1-16-kg-body-and-oled-touchscreen/"
+    }
+   ],
+   "firstSeen": "2026-10-25T04:27:47.946Z"
+  },
+  {
+   "id": "12126323e57c",
+   "title": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed",
+   "summary": "Huawei officially confirmed the Pura 90 Plus earlier today and opened pre-orders for it in China ahead of its October 28 launch. The company hasn't revealed any specs yet, but units of the phone are already on display in its retail stores, and the live images that have started sh",
+   "link": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-pura-90-plus-hands-on-live-images/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-25T02:33:02.000Z",
+   "date": "2026-10-25",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php"
+    }
+   ],
+   "firstSeen": "2026-10-25T04:27:47.946Z"
+  },
+  {
+   "id": "90dec58a7be9",
+   "title": "Samsung W27 foldable set for Oct. 29 launch with striking blue and gold design",
+   "summary": "Samsung W27 foldable set for Oct. 29 launch with striking blue and gold design Báo VietNamNet",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2xxQjhPWWtWNHJUZXJ0SDZ3YjhlU0dHZF9EcWpmN1pVOTBpaUcwTTZ3MGNWaWg2QVZ4N2JscmhxV1dQMDBCQXBfMnJZbEhkRV9GLW9VMS1CZ2RPRnVIZWIzWkJnRklnbUx0Y0JZMURDMGNqQTZ6Nzl4dE5SNmU5MHBkbzFvQ284NGtXWGVNcVZaNVdkbEZ1R2NfX1NwcGxEZDgyLUNnU0FMVkh4S3hNd001anB3dw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T01:43:00.000Z",
+   "date": "2026-10-25",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Báo VietNamNet",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2xxQjhPWWtWNHJUZXJ0SDZ3YjhlU0dHZF9EcWpmN1pVOTBpaUcwTTZ3MGNWaWg2QVZ4N2JscmhxV1dQMDBCQXBfMnJZbEhkRV9GLW9VMS1CZ2RPRnVIZWIzWkJnRklnbUx0Y0JZMURDMGNqQTZ6Nzl4dE5SNmU5MHBkbzFvQ284NGtXWGVNcVZaNVdkbEZ1R2NfX1NwcGxEZDgyLUNnU0FMVkh4S3hNd001anB3dw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T04:27:47.946Z"
+  },
+  {
+   "id": "6dac0f970a99",
+   "title": "Xiaomi launches Redmi G25 2027 gaming monitor with 300Hz refresh rate for just $120",
+   "summary": "Xiaomi has released a new budget gaming monitor in China. The Redmi G25 2027 is a 24.5-inch display that focuses on high refresh rates, offering a native 300Hz panel for 799 yuan (about $120). It is currently available for purchase on JD.com. Redmi G25 2027 Specifications The mon",
+   "link": "https://www.gizmochina.com/2026/10/25/xiaomi-redmi-g25-2027-gaming-monitor-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Xiaomi-Redmi-G25-2027-gaming-monitor-300x202.png?x62950",
+   "publishedAt": "2026-10-25T00:19:40.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Xiaomi",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/25/xiaomi-redmi-g25-2027-gaming-monitor-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-10-25T04:27:47.946Z"
+  },
+  {
    "id": "5a515a5d0044",
    "title": "Blackview announces compact Android tablet with 8.68-inch display, IP54 rating and microSD support",
    "summary": "Blackview announces compact Android tablet with 8.68-inch display, IP54 rating and microSD support Notebookcheck",
