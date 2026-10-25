@@ -702,7 +702,7 @@
    "status": "Launched",
    "category": "Tablet",
    "brand": "Lenovo",
-   "region": "Global",
+   "region": "Southeast Asia",
    "confidence": 3,
    "aggregator": true,
    "sources": [
@@ -713,6 +713,10 @@
     {
      "name": "TechPorn",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOU25qVWZ0UlAwY1B6R0dpOW1Fd19pYVQ1U1JRV0hiTG5XaXV3bUlxMHpubTZFWGlOel9BUjZjX2JMd0VqdTEwbkduc0tPeFNlYVh3Y1MxR19ka21GT3hWYUItTUxINFFHT2c?oc=5"
+    },
+    {
+     "name": "YugaTech",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXAweFlPMG9VWlhqT09UMkRVMHEtVllYaFlfczdxakpycDJveWFOZ0hfY0hCRUNTZXpqTVFjR0dJdmpwQWFMMkJhQmphcHhYY0FxZkp2bFZpOVJJTlpaQ3Q5YlRiRUQ3Sm80Sks1d3hhbUhNOFNERW9EQWZyTFNsNEVWZ2tLSlFjT01TTURXcEF3Q1haUTV2TGlya3A5aDhVSjQ0?oc=5"
     }
    ],
    "firstSeen": "2026-10-25T11:12:42.418Z"
