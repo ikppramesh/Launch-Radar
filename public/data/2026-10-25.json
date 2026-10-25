@@ -2,6 +2,186 @@
  "date": "2026-10-25",
  "items": [
   {
+   "id": "cdc06efe9d2f",
+   "title": "Blackview Zeno 2 Tablet Launched",
+   "summary": "Blackview Zeno 2 Tablet Launched Gadgets 360 Hindi",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qclFnbmlZRHFKTlhzajhHaU05SGVRcWZzVkF4S0lxeFJiR1puM0F3NUJwTTE2NzdMdlVmNWxpNW1VUkNSVXlENDUzc0JOQzBfU1Rjb1dMbWVqbEY2Y0JKbDZEcDAyeDZWZV9SLURPRWpEUVRYX0E?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T09:09:46.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Blackview",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gadgets 360 Hindi",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qclFnbmlZRHFKTlhzajhHaU05SGVRcWZzVkF4S0lxeFJiR1puM0F3NUJwTTE2NzdMdlVmNWxpNW1VUkNSVXlENDUzc0JOQzBfU1Rjb1dMbWVqbEY2Y0JKbDZEcDAyeDZWZV9SLURPRWpEUVRYX0E?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
+   "id": "92d0fc705863",
+   "title": "Noise Launches Master Buds Open with Sound by Bose Technology",
+   "summary": "Noise Launches Master Buds Open with Sound by Bose Technology Fossbytes",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmtMUE94c0p2eHl1TWJUTVBxdnRoWjVUNWxmbFJsaWZxTVp0X3ZyZklYcy1EaWZMLVVZeGIxSHpBYlFQeTg4WEZmV0l0Q2RpcnlPOXlxcVcteDVXeXc5SHkxSGV4YmhYQ3V3dERoN0pNOV9YcXNWSWZGSGtvemxCN3V2MmpFVUFtNVZIbQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T09:06:45.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Noise",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Fossbytes",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmtMUE94c0p2eHl1TWJUTVBxdnRoWjVUNWxmbFJsaWZxTVp0X3ZyZklYcy1EaWZMLVVZeGIxSHpBYlFQeTg4WEZmV0l0Q2RpcnlPOXlxcVcteDVXeXc5SHkxSGV4YmhYQ3V3dERoN0pNOV9YcXNWSWZGSGtvemxCN3V2MmpFVUFtNVZIbQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
+   "id": "bbc5faacdc64",
+   "title": "Logitech launches Pebble Up mouse with a fold-up grip and 90-day battery",
+   "summary": "You can now get a slim wireless mouse from Logitech that changes shape. It’s called the Pebble Up, and it can either lie flat or raise the top shell for a more comfortable grip whenever you need it. It follows the Pebble Mouse 2 M350s, which Logitech introduced alongside the Pebb",
+   "link": "https://www.gizmochina.com/2026/10/25/logitech-launches-pebble-up-mouse-with-a-fold-up-grip-and-90-day-battery/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Logitech-Pebble-Up-Launch-Specs-Price-300x200.jpg?x62950",
+   "publishedAt": "2026-10-25T07:24:00.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Logitech",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/25/logitech-launches-pebble-up-mouse-with-a-fold-up-grip-and-90-day-battery/"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
+   "id": "b0c95df9fc65",
+   "title": "Adam Audio unveils flagship H715 Reference open-back headphones for accurate monitoring",
+   "summary": "Adam Audio unveils flagship H715 Reference open-back headphones for accurate monitoring Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2VWYVRDeS1HcW9EWmVDc3FTTk5xLWNBaEo1aGF2V2lWekx1dlBtQ2VJMDlEREloUUtUWlRqZzlvZWlEay1lNXhKQWo5N3k1SWh2SVlwNHU1QmVQOHJsU244VnpvWVNhTlotWEJZeHBzRGJ6cDFUQ0drM0Rybm9ON2U1Ui04T0RzWlp0OHBOd0ZWcXRJQ042MWpadHVGNU1xazlNTlRncVptY09qSl8yNUNaZ3Roa1JFa2pJSm8tbTA4YlRZTmVoZUxpclY?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T07:20:00.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2VWYVRDeS1HcW9EWmVDc3FTTk5xLWNBaEo1aGF2V2lWekx1dlBtQ2VJMDlEREloUUtUWlRqZzlvZWlEay1lNXhKQWo5N3k1SWh2SVlwNHU1QmVQOHJsU244VnpvWVNhTlotWEJZeHBzRGJ6cDFUQ0drM0Rybm9ON2U1Ui04T0RzWlp0OHBOd0ZWcXRJQ042MWpadHVGNU1xazlNTlRncVptY09qSl8yNUNaZ3Roa1JFa2pJSm8tbTA4YlRZTmVoZUxpclY?oc=5"
+    },
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0w2R0FxRzB3OVNMLU9Jd3Jjb3NuNXNSMmFyZzVpM1VJRHV4YmNXVm1mbHItczFfVENDVEtKRTB4ZzdPS1gtNVBpOEVwSFV6RW9CNUVQTHp4WHRoUGM5WFVhZWUzRzNsSTFkWDR2UDlUbFc3QlBQRXZsRkMzYzE5c1hJUTktaXZ4emJHR1ctaVI1SnFkeXJISTJXYXgzRm1TbkFrdHFuMVY?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
+   "id": "2a9781ff6374",
+   "title": "Oppo launches affordable power bank with fast charging, 10,000mAh capacity and built-in cable",
+   "summary": "Oppo launches affordable power bank with fast charging, 10,000mAh capacity and built-in cable Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPampXY0NvbFBfaFcwajBPVU5VS0F1WWdCcXBHeklNR21DRFA3aV9DM1RqOXc0X3RmeTVKSGNvMGdud09rU1FkZ1V3U3JHcFdjLVcwR185MWlDVDlTRzRCX1UxSGtFM0RIRFhLODhXTm15d1BpWF85dW5hUjFmZ0x1azNoYkNwMXYtbTBrWkFkRkQ0M1hSelJwQ3VfamVxaEFRQURweERuWlNRU1ZpNUZlOG8wdHlJTWNndlZBNUFoZVBTOVc2VGxCd1NLaExqVFNxV29v?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T06:57:00.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPampXY0NvbFBfaFcwajBPVU5VS0F1WWdCcXBHeklNR21DRFA3aV9DM1RqOXc0X3RmeTVKSGNvMGdud09rU1FkZ1V3U3JHcFdjLVcwR185MWlDVDlTRzRCX1UxSGtFM0RIRFhLODhXTm15d1BpWF85dW5hUjFmZ0x1azNoYkNwMXYtbTBrWkFkRkQ0M1hSelJwQ3VfamVxaEFRQURweERuWlNRU1ZpNUZlOG8wdHlJTWNndlZBNUFoZVBTOVc2VGxCd1NLaExqVFNxV29v?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
+   "id": "77c854056d44",
+   "title": "Huawei Pura 90 Plus Unveiled: Kirin 9025 Chipset, 12GB RAM and Pre-orders Open in China",
+   "summary": "Huawei Pura 90 Plus Unveiled: Kirin 9025 Chipset, 12GB RAM and Pre-orders Open in China Udaipur Kiran",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMy1vbWRjNE90SmwyTUV6NTdpV0J6TkRzd1J0OUY2Wkw4VkMtbGhHREVpRG1OWHc4NUp1cXlRZkRJTGVJTmgzUWhhdWlQWHY0blgtZW5oM0xJbWhhWnJESTVMbkxiMEp2MFRPYUlGeG5KWHBJVmt2ZWg4Rmk3eERfMGpOSXU?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T05:02:03.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMy1vbWRjNE90SmwyTUV6NTdpV0J6TkRzd1J0OUY2Wkw4VkMtbGhHREVpRG1OWHc4NUp1cXlRZkRJTGVJTmgzUWhhdWlQWHY0blgtZW5oM0xJbWhhWnJESTVMbkxiMEp2MFRPYUlGeG5KWHBJVmt2ZWg4Rmk3eERfMGpOSXU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
+   "id": "ea3c2db46f75",
+   "title": "Sigma launches FP2 full-frame camera with a partially stacked sensor, 6K video and a compact body",
+   "summary": "Sigma has launched its second-generation L-mount full-frame camera, the Sigma FP2. The new model retains the compactness of the original FP, weighs 376 grams without a battery and card, 460 grams with both, and is about 4 cm thick. The FP2 uses a 24.5MP partially stacked back-ill",
+   "link": "https://www.gizmochina.com/2026/10/25/sigma-launches-fp2-full-frame-camera-partially-stacked-sensor-6k-video/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Sigma-FP2-Launch-Specs-Price-300x200.jpg?x62950",
+   "publishedAt": "2026-10-25T04:45:25.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/25/sigma-launches-fp2-full-frame-camera-partially-stacked-sensor-6k-video/"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
+   "id": "ae3d70787109",
+   "title": "Xiaomi Launches Redmi Note 17 Series In Nigeria, Introduces 10,000mAh Battery",
+   "summary": "Xiaomi Launches Redmi Note 17 Series In Nigeria, Introduces 10,000mAh Battery LEADERSHIP Newspapers",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUU15djlLMUFjWE9RN1lqQWp2b0F4NC1XOUN4QWRTS2tmRUlKa09aOTNaS2VRZi1JUzNjdUhMU2p3dHo2bkU3eUF1ZnhvU2hsY1lReGhreGFjOWdxNW5mclUyaFVtSlY5QUhMalJlQldyeS1NQ3gzUC1lNnJTWWxCWWpBUmhNMHZHRnVndno2VEZpU0M4THdBc0Fmc1VNWHM?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T04:17:17.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Africa",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "LEADERSHIP Newspapers",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUU15djlLMUFjWE9RN1lqQWp2b0F4NC1XOUN4QWRTS2tmRUlKa09aOTNaS2VRZi1JUzNjdUhMU2p3dHo2bkU3eUF1ZnhvU2hsY1lReGhreGFjOWdxNW5mclUyaFVtSlY5QUhMalJlQldyeS1NQ3gzUC1lNnJTWWxCWWpBUmhNMHZHRnVndno2VEZpU0M4THdBc0Fmc1VNWHM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
    "id": "1b922eef49d7",
    "title": "HP Star Book Air 14 launches with a 1.16 kg body and OLED touchscreen",
    "summary": "HP has launched the Star Book Air 14 in China, and you can reserve it now for 5,299 yuan (about $740). It’s a 14-inch laptop with an Intel Core 5 320 processor, an OLED touchscreen, and a battery rated at up to 42.5 hours. Outside China, HP sells the same model as the OmniBook 5 ",
@@ -24,6 +204,28 @@
    "firstSeen": "2026-10-25T04:27:47.946Z"
   },
   {
+   "id": "0e82a2840de8",
+   "title": "REDMI K100 to Launch on October 27, Key Specs Revealed",
+   "summary": "REDMI K100 to Launch on October 27, Key Specs Revealed ManilaShaker",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0w5OERCQmVKMHhFUVhNc19iT3g2aXFTXy04ZlBaYVlYN3lLcE1QVVMzVENNSlkxNXl1WElaQm1YOTVld0M4TEJ2S1FOdGJ6cktMczRINmYyeEV1NlpzYW1Vcml4VjNoM0N1alkyOHhJWVZpaXVQYjdpazFjWnotRWMxZ3pGQQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T03:55:16.000Z",
+   "date": "2026-10-25",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ManilaShaker",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0w5OERCQmVKMHhFUVhNc19iT3g2aXFTXy04ZlBaYVlYN3lLcE1QVVMzVENNSlkxNXl1WElaQm1YOTVld0M4TEJ2S1FOdGJ6cktMczRINmYyeEV1NlpzYW1Vcml4VjNoM0N1alkyOHhJWVZpaXVQYjdpazFjWnotRWMxZ3pGQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
    "id": "12126323e57c",
    "title": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed",
    "summary": "Huawei officially confirmed the Pura 90 Plus earlier today and opened pre-orders for it in China ahead of its October 28 launch. The company hasn't revealed any specs yet, but units of the phone are already on display in its retail stores, and the live images that have started sh",
@@ -41,28 +243,10 @@
     {
      "name": "GSMArena",
      "link": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php"
-    }
-   ],
-   "firstSeen": "2026-10-25T04:27:47.946Z"
-  },
-  {
-   "id": "90dec58a7be9",
-   "title": "Samsung W27 foldable set for Oct. 29 launch with striking blue and gold design",
-   "summary": "Samsung W27 foldable set for Oct. 29 launch with striking blue and gold design Báo VietNamNet",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2xxQjhPWWtWNHJUZXJ0SDZ3YjhlU0dHZF9EcWpmN1pVOTBpaUcwTTZ3MGNWaWg2QVZ4N2JscmhxV1dQMDBCQXBfMnJZbEhkRV9GLW9VMS1CZ2RPRnVIZWIzWkJnRklnbUx0Y0JZMURDMGNqQTZ6Nzl4dE5SNmU5MHBkbzFvQ284NGtXWGVNcVZaNVdkbEZ1R2NfX1NwcGxEZDgyLUNnU0FMVkh4S3hNd001anB3dw?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-25T01:43:00.000Z",
-   "date": "2026-10-25",
-   "status": "Upcoming",
-   "category": "Smartphone",
-   "brand": "Samsung",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
-   "sources": [
+    },
     {
-     "name": "Báo VietNamNet",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2xxQjhPWWtWNHJUZXJ0SDZ3YjhlU0dHZF9EcWpmN1pVOTBpaUcwTTZ3MGNWaWg2QVZ4N2JscmhxV1dQMDBCQXBfMnJZbEhkRV9GLW9VMS1CZ2RPRnVIZWIzWkJnRklnbUx0Y0JZMURDMGNqQTZ6Nzl4dE5SNmU5MHBkbzFvQ284NGtXWGVNcVZaNVdkbEZ1R2NfX1NwcGxEZDgyLUNnU0FMVkh4S3hNd001anB3dw?oc=5"
+     "name": "PhoneWorld",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzVGbkFseUhSUUd6eDFRUHRHcURZR1A4VU5GZjB5R29UQ0RNdHN3UHNOYVQxMUMzTGZxby1PcUFmODZ0a2NQQjR4MV9xa3BZYmVHTVVNOThOMTNWZ1ZkRGFSM0ZlZ09kUlljd1BkaWhaaXNhVXNNdllLeTI0Znh6dnRGVWxjVUxKUHFSTE5RMkJiYWgtNE5kN0p3Z0NYMXFiU0xRLVU3Zw?oc=5"
     }
    ],
    "firstSeen": "2026-10-25T04:27:47.946Z"
