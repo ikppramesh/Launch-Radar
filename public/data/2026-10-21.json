@@ -389,12 +389,16 @@
    "category": "Smartphone",
    "brand": "Infinix",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/mobiles/news/infinix-gt-50-pro-gaming-bundle-revealed-ahead-of-october-27-india-launch-12216148"
+    },
+    {
+     "name": "TelecomTalk",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHpkaHhIUWNGOW5vR1RzSVFiWVpUYUZ0bXBqWlF1dmFoNlN2dTJNNGUyVU96MGZWNnFIYkJyYVZpVW5scmY3TmpVMzVLQUx4NnpZQkVrZ0pDOW52c2tZcWJMSTV5R3BpMGs5VktKSEIzclhZb2VkQVF2LW54eV91QQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T17:04:11.676Z"

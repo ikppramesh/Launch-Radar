@@ -863,6 +863,10 @@
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/mobiles/news/oneplus-ace-7-pro-design-colour-options-leak-china-launch-12225331"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php"
     }
    ],
    "firstSeen": "2026-10-23T16:56:23.122Z"
@@ -1379,7 +1383,7 @@
    "category": "Smartphone",
    "brand": "Vivo",
    "region": "Global",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {

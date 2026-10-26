@@ -1,0 +1,71 @@
+{
+ "date": "2026-10-27",
+ "items": [
+  {
+   "id": "41585329c0ce",
+   "title": "T-Mobile launches customizable plans with Netflix, DoorDash perks",
+   "summary": "T-Mobile launches customizable plans with Netflix, DoorDash perks The Journal Record",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHdabW13YlY1MHZUYXRsSW5mYV9ubTV5d0pZS1NwblF1U093MVpPTzhNdi13LWlxS2JtMkVNUTdlVjFUYVYzbU1TSW1sR3JsQnFGcnA3RGpFcUtlMWRGY21VbVlwdUhIeFg0MlhlbnEyQS11aGdhUmZHUXVzWkpyM0U0RDlJUnM4WUpkX2FNZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T20:01:18.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Journal Record",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHdabW13YlY1MHZUYXRsSW5mYV9ubTV5d0pZS1NwblF1U093MVpPTzhNdi13LWlxS2JtMkVNUTdlVjFUYVYzbU1TSW1sR3JsQnFGcnA3RGpFcUtlMWRGY21VbVlwdUhIeFg0MlhlbnEyQS11aGdhUmZHUXVzWkpyM0U0RDlJUnM4WUpkX2FNZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "49e76367bfc8",
+   "title": "Here's Why Apple's Next Pre-Orders Begin on Wednesday at 10:10 AM",
+   "summary": "Apple said the new iPad mini that it announced today will be available to pre-order starting at a quite specific time on Wednesday: 10:10 a.m. Pacific Time. Apple invited selected tech reporters and content creators to an experience in Los Angeles on Wednesday at 10 a.m. Pacific ",
+   "link": "https://www.macrumors.com/2026/10/26/heres-why-apple-preorders-at-10-10-am/",
+   "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-8-10-18-Feature-2.jpg",
+   "publishedAt": "2026-10-26T19:36:42.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/26/heres-why-apple-preorders-at-10-10-am/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "c9bc164a93bd",
+   "title": "Apple announces Siri AI will expand to these new languages soon",
+   "summary": "Today in iOS 27.2, Siri AI added several new features and expanded to five new languages . And alongside the launch, Apple announced four more Siri AI languages coming soon. more…",
+   "link": "https://9to5mac.com/2026/10/26/apple-announces-siri-ai-will-expand-to-these-new-languages-soon/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-26T19:30:57.000Z",
+   "date": "2026-10-27",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/26/apple-announces-siri-ai-will-expand-to-these-new-languages-soon/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  }
+ ]
+}

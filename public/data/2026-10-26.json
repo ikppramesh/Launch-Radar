@@ -2,6 +2,628 @@
  "date": "2026-10-26",
  "items": [
   {
+   "id": "f3bc89127f0e",
+   "title": "OnePlus launches its first clip-on earbuds with Dynaudio-tuned dual drivers & 40h battery life",
+   "summary": "OnePlus has launched its first clip-on wireless earbuds, the OnePlus Buds Clip, in global markets. The earbuds include an open-ear C-shaped design that allows users to stay aware of their surroundings while enjoying high-quality audio. OnePlus Buds Clip Specifications Also Read S",
+   "link": "https://www.gizmochina.com/2026/10/26/oneplus-buds-clip-open-ear-earbuds-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-Buds-Clip-300x202.png?x62950",
+   "publishedAt": "2026-10-26T18:02:24.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "OnePlus",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/26/oneplus-buds-clip-open-ear-earbuds-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "c67cd27605aa",
+   "title": "HomePod 27.2 is available now with four new features",
+   "summary": "Apple has released HomePod 27.2, its latest software update for HomePod users. Here’s what’s new. more…",
+   "link": "https://9to5mac.com/2026/10/26/homepod-27-2-is-available-now-with-four-new-features/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-2-sound-glow.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-26T17:45:21.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/26/homepod-27-2-is-available-now-with-four-new-features/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "d47028be80b4",
+   "title": "AirPods Pro Hearing Aid Feature Launching in These Canadian Provinces",
+   "summary": "iOS 27.2 and iPadOS 27.2 enable Apple's clinical-grade Hearing Aid feature on the AirPods Pro 2 and AirPods Pro 3 in five Canadian provinces : Alberta, British Columbia, New Brunswick, Prince Edward Island, and Saskatchewan. The feature is still not available in any other provinc",
+   "link": "https://www.macrumors.com/2026/10/26/airpods-pro-hearing-aid-five-canadian-provinces/",
+   "image": "https://images.macrumors.com/article-new/2024/09/airpods-pro-2-hearing-aids.jpg",
+   "publishedAt": "2026-10-26T16:55:43.000Z",
+   "date": "2026-10-26",
+   "status": "Upcoming",
+   "category": "Audio",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/26/airpods-pro-hearing-aid-five-canadian-provinces/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "87e582cb5b09",
+   "title": "Anker Launches Halloween Sale With Sitewide Discounts and Labubu Bundles",
+   "summary": "Anker today kicked off its annual Halloween sale , with big savings on the brand's most popular wireless chargers, docks, portable batteries, and more. This year, there's also a Labubu collab, where you can get a bundle of Anker accessories plus a Labubu blind box. Note: MacRumor",
+   "link": "https://www.macrumors.com/2026/10/26/anker-halloween-sale-2/",
+   "image": "https://images.macrumors.com/article-new/2026/10/anker-halloween.jpeg",
+   "publishedAt": "2026-10-26T16:29:22.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Anker",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/26/anker-halloween-sale-2/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "d56e498a5d98",
+   "title": "MILESEEY Launches GripSound Xmini Wearable Speaker",
+   "summary": "MILESEEY Launches GripSound Xmini Wearable Speaker Construction Owners",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXZTd2ZZM0xuYTVxU3lDc3c0Tl8ySlNiVklKNG5jMm5MNmNjdlhUQU1ZVXc1U0MzSERTckVESURKX0pDN2puZzZpazgwb09fUDVreDZFUjJwYjh6UnVSYlNxRGFHbUktX3VQMWtzTE44SXNTYlVSbzhKSmFCY2ZsNUlTVlZlOXNYXzhNNlQtS3BfR2RqMG1hdWk3YTdNMWlnNjBwQWl6b3JRMjhTaFoxMmJRZGlQVWF1M25QQ29JYWlJTzQ1T0xiSU1WTDF3ZDVuaWpSdVNtUTJuZlQ4ZnJtSXktVUF0WW8?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T16:24:05.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Construction Owners",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXZTd2ZZM0xuYTVxU3lDc3c0Tl8ySlNiVklKNG5jMm5MNmNjdlhUQU1ZVXc1U0MzSERTckVESURKX0pDN2puZzZpazgwb09fUDVreDZFUjJwYjh6UnVSYlNxRGFHbUktX3VQMWtzTE44SXNTYlVSbzhKSmFCY2ZsNUlTVlZlOXNYXzhNNlQtS3BfR2RqMG1hdWk3YTdNMWlnNjBwQWl6b3JRMjhTaFoxMmJRZGlQVWF1M25QQ29JYWlJTzQ1T0xiSU1WTDF3ZDVuaWpSdVNtUTJuZlQ4ZnJtSXktVUF0WW8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "91f516b577fa",
+   "title": "New iPad Mini Announced Today Has More Than 12 New Features",
+   "summary": "The new eight-generation iPad mini unveiled today has a long list of new features and changes, as outlined in our all-in-one summary below. Here is what is new for the iPad mini: Larger, brighter, and more vivid 8.5-inch OLED display , up from 8.3-inch LCD display ↳ Up to 600 nit",
+   "link": "https://www.macrumors.com/2026/10/26/new-ipad-mini-12-new-features/",
+   "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-1.jpg",
+   "publishedAt": "2026-10-26T16:18:32.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/26/new-ipad-mini-12-new-features/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "2ae8db7209f4",
+   "title": "Xiaomi launches new Poco smartphone globally with 120 Hz VRR display and dual 50 MP cameras",
+   "summary": "Xiaomi launches new Poco smartphone globally with 120 Hz VRR display and dual 50 MP cameras Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakF0WHFVYzNHVUl6UEotclQzSld0OWJycjZxQl9PeFlkaFFEQjRhRXdPTndmOWViUGNJeTZGNDJRbi1FVkk0MklsQ2tYZGtUY2EzWkNDbVZ6U1lNbTJodHU4dWlCSVhqUDRmY0ZBRkVyU0JIU1ZzOTgzcWwwUVI4a0lEUFQ5bVNRdjUtVnR6dVYtRTB0RWhtTE1JRVRPZXBLanMtUWh0NWl6Z1lNdUhsOUp4cUllU1VvX0szcG5jOHB3Si1mcHdLSkFqS245cEJwUlE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T16:12:00.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakF0WHFVYzNHVUl6UEotclQzSld0OWJycjZxQl9PeFlkaFFEQjRhRXdPTndmOWViUGNJeTZGNDJRbi1FVkk0MklsQ2tYZGtUY2EzWkNDbVZ6U1lNbTJodHU4dWlCSVhqUDRmY0ZBRkVyU0JIU1ZzOTgzcWwwUVI4a0lEUFQ5bVNRdjUtVnR6dVYtRTB0RWhtTE1JRVRPZXBLanMtUWh0NWl6Z1lNdUhsOUp4cUllU1VvX0szcG5jOHB3Si1mcHdLSkFqS245cEJwUlE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "5e268a2fe417",
+   "title": "The wait is over: T-Mobile formally announces T-Mix",
+   "summary": "T-Mobile finally introduces T-Mix after weeks of leaks.",
+   "link": "https://www.androidauthority.com/t-mobile-launches-t-mix-3728067/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-1-scaled.jpg",
+   "publishedAt": "2026-10-26T16:06:49.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/t-mobile-launches-t-mix-3728067/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "a2bd04be7a13",
+   "title": "Sony-Backed Soneium Prepares Token Launch to Broaden Entertainment Reach",
+   "summary": "Sony-backed Ethereum Layer 2 network Soneium is preparing an ecosystem token called SONEIUM to connect creators, intellectual property owners, developers, fans and investors. The initiative forms part of its broader strategy to bring entertainment assets, including music, anime a",
+   "link": "https://www.gadgets360.com/cryptocurrency/news/sony-backed-soneium-prepares-token-launch-broaden-entertainment-reach-crypto-adoption-tokens-crypto-industry-12238537",
+   "image": "https://i.gadgets360cdn.com/large/sony_backed_soneium_boliviainteligente_unsplash_main_1793022098615.png",
+   "publishedAt": "2026-10-26T15:29:50.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Sony",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/cryptocurrency/news/sony-backed-soneium-prepares-token-launch-broaden-entertainment-reach-crypto-adoption-tokens-crypto-industry-12238537"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "e89c517b9d01",
+   "title": "Apple unveils its biggest iPad mini update yet",
+   "summary": "Apple upgrades its compact tablet. The post Apple unveils its biggest iPad mini update yet appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/new-ipas-mini-oled-a20-pro-specs-price/",
+   "image": "",
+   "publishedAt": "2026-10-26T15:11:51.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/new-ipas-mini-oled-a20-pro-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "82a05c0d8145",
+   "title": "Apple teases more launches this week after the new iPad mini",
+   "summary": "Apple has scheduled an event for this Wednesday, October 28, but it's not waiting until then to announce new products. Today, it unveiled the new iPad mini, and according to Greg Joswiak, Apple's SVP of Worldwide Marketing, that's only the beginning. In a post on X, Joswiak said ",
+   "link": "https://www.gsmarena.com/apple_teases_more_launches_this_week_after_the_new_ipad_mini-news-75212.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-teases-more-launches-this-week/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-26T15:04:32.000Z",
+   "date": "2026-10-26",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/apple_teases_more_launches_this_week_after_the_new_ipad_mini-news-75212.php"
+    },
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/10/apple-exciting-week-ipad-mini-m6-macbook-pro.html"
+    },
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "8e7666420b64",
+   "title": "iPad Mini: Apple launches new small tablet – and more is about to come",
+   "summary": "iPad Mini: Apple launches new small tablet – and more is about to come The Independent",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGJNZEwxaWVvSVRucXVpUVFQbG5hRVBlcnBLdWtHRjBmTERpR1E1TUJqTElqTWlmeUZfd3ZSOFk2RWQ2bE1Yd2U0cE5xMVE0RHAyMUh4RmJZbmM4SzcxdlF2ejNRc2VTWTZhMG02N3lBc0R2NTIyR05FMDRWQW9mNTN5c25PVGZ3RVZBR05Zd1ZiVEF3eXQxRG5NQXdqUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T14:34:00.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Independent",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGJNZEwxaWVvSVRucXVpUVFQbG5hRVBlcnBLdWtHRjBmTERpR1E1TUJqTElqTWlmeUZfd3ZSOFk2RWQ2bE1Yd2U0cE5xMVE0RHAyMUh4RmJZbmM4SzcxdlF2ejNRc2VTWTZhMG02N3lBc0R2NTIyR05FMDRWQW9mNTN5c25PVGZ3RVZBR05Zd1ZiVEF3eXQxRG5NQXdqUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "c7a8c0346a74",
+   "title": "OnePlus Launches New Open Earbuds With 40-Hour Battery Life and AI Translation",
+   "summary": "OnePlus Launches New Open Earbuds With 40-Hour Battery Life and AI Translation ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFAwNFk3YWtJX0JLMFlOdW5DOGhOVUx4RkpYbURoNm9aeURKbk1NaWU1bzBsU2ZjUl9GeHd2MlRNb0JFUHUwb0stWWNYNzc0OW1nY1EtdzRQT1EzcEU5VERSR09vcmlER3JfOWdsY2lQX1VyQnl3OUFsMkVXQjM5bkwycUlJei1icjRnSUhkVGtneC1jcjNMVkJCYjg2cHBZakt1UHZCbV9jOEJ5dnByTmkxbGnSAboBQVVfeXFMTVh6OUVXZ2hEVEI1NWlwZ2p5VUlXelN4cTZaSkpEZy01LUItQU9zQmlIM2pKUldqVE1kbi1NTjVudWlrYzZaMnZNV0JJbU1rTHNrNlk5WlpiZ3VEMmxMQ3lTRjJHZGxHNDlwX0dZR3ZLUjQ5aU03MWFMUFloc1F3Tjh1cldpd0paQUVxY0l0MmF3bGJsdFhTN0duMjl0WTdQdm1tRHRYbjBoVmpBcy1DNVp4bERTM245LUdn?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T14:32:36.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "OnePlus",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFAwNFk3YWtJX0JLMFlOdW5DOGhOVUx4RkpYbURoNm9aeURKbk1NaWU1bzBsU2ZjUl9GeHd2MlRNb0JFUHUwb0stWWNYNzc0OW1nY1EtdzRQT1EzcEU5VERSR09vcmlER3JfOWdsY2lQX1VyQnl3OUFsMkVXQjM5bkwycUlJei1icjRnSUhkVGtneC1jcjNMVkJCYjg2cHBZakt1UHZCbV9jOEJ5dnByTmkxbGnSAboBQVVfeXFMTVh6OUVXZ2hEVEI1NWlwZ2p5VUlXelN4cTZaSkpEZy01LUItQU9zQmlIM2pKUldqVE1kbi1NTjVudWlrYzZaMnZNV0JJbU1rTHNrNlk5WlpiZ3VEMmxMQ3lTRjJHZGxHNDlwX0dZR3ZLUjQ5aU03MWFMUFloc1F3Tjh1cldpd0paQUVxY0l0MmF3bGJsdFhTN0duMjl0WTdQdm1tRHRYbjBoVmpBcy1DNVp4bERTM245LUdn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "2d42f47ec0cd",
+   "title": "Sigma launches world's smallest full-frame mirrorless camera... again",
+   "summary": "Seven years after the original fp, Sigma’s FP2 keeps the tiny full-frame formula intact while overhauling nearly everything inside it for snappier stills and much more serious video. Continue Reading Category: Photography , Consumer Tech , Technology Tags: Sigma , Compact , Camer",
+   "link": "https://newatlas.com/photography/sigma-fp2-stills-cine-camera/",
+   "image": "https://assets.newatlas.com/dims4/default/72e40d1/2147483647/strip/true/crop/2048x1152+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F9b%2F09%2F367d60c64416bfa265757650d405%2Fsigmafp2-heroimg.jpg",
+   "publishedAt": "2026-10-26T14:02:25.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "New Atlas",
+     "link": "https://newatlas.com/photography/sigma-fp2-stills-cine-camera/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "8c5439398ed4",
+   "title": "Even Realities launches a brown version of its G2 smart glasses",
+   "summary": "It also released a couple of new accessories, including a wearable chain.",
+   "link": "https://www.engadget.com/2295406/even-realities-launches-a-brown-version-of-its-g2-smart-glasses/",
+   "image": "https://www.engadget.com/img/gallery/even-realities-now-offers-a-brown-version-of-its-g2-smart-glasses/l-intro-1792771151.jpg",
+   "publishedAt": "2026-10-26T14:00:00.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2295406/even-realities-launches-a-brown-version-of-its-g2-smart-glasses/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "b3001cf85968",
+   "title": "Apple just announced a new iPad mini with an OLED panel and IP67 resistance",
+   "summary": "The new iPad mini introduces major new features, including an OLED panel, a larger display, a thinner design, and stronger performance. Here's what we know.",
+   "link": "https://www.tomsguide.com/computing/ipads/apple-just-announced-a-new-ipad-mini-with-an-oled-panel-and-a20-pro-chip",
+   "image": "https://cdn.mos.cms.futurecdn.net/XF2kUAr3UDmRPKuy8HJih4-1920-80.jpg",
+   "publishedAt": "2026-10-26T13:59:37.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Tom's Guide",
+     "link": "https://www.tomsguide.com/computing/ipads/apple-just-announced-a-new-ipad-mini-with-an-oled-panel-and-a20-pro-chip"
+    },
+    {
+     "name": "ETV Bharat",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm5RMVRjeWdOSGxJdnNZRUR4MnFuVTU4MmxxWlY1X201VHVmTFZxMWRrNExhMjI5UGhtTUhXVWVORmU5dU5DcXJTVXNaX3h4M0NoVGVRS0QtSlpybFZxQUt5bWttRGtiZlkyUnh2THFjTktSQ0tYZjZST1owTGxLSENPUzFfSlhFZnlPbXZSenZ2Yi0xQmQwZF83dElETmViMnRqU0hXWFRPclYxMF9vaDJ2ODJYSklnNVc1X0ZkdW1KRWVJVkHSAcsBQVVfeXFMTjhXOS1EZU1pZzNOT1IxdHpIRHJmbHJUZERGeHk1VVN4QzV3M293TnRZcTVOZ0FVXzl2TDZSSk9iT3BraXpJZGJDbkhaR3lnZl9qRElWZjN1cURjcTRrS0VlSFV3dWxHZk83WDJyTDZPQ3lMYUo4OUpCcXF3SXNPaFlnOW9rVTZ5LWFJbzdPMG1fbnE1Qk1Ba3lUQW1lQUdCc2VvRmF5dFkzR3dlbERNMEZtWlNtbEl3RnNTdVJmd3F3NTVQbGdpVjczRHc?oc=5"
+    },
+    {
+     "name": "Business Today",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN01iVGQxSFdpUkxaUjZ6UlZHMFQ4WGk2YTZ4QUJLR2NpTFNjNGFnNDJJY1B6TG02QnhmZmk0dUs4UmhZUjFkQjhON2ROWE5kRTdXZTc2XzVVamlFQXhsV1RneF9lRjBXV1VwcW0zd1c5a1ZvUnU3NHFWSHI3ejJyZG1fNnktX09fWUpBYm9JVXR3ZV8yUmFOeTFpY1R3Z0QybDY3dVhqeW41NFpFMlZWck5DMXQtTGc2ZG12VmlGS1Zhd0lFWVVndWtRMkdBSGtSUTItX216cWh0cmVuZnk1azZ0MHdYS25vQ2tR0gHrAUFVX3lxTE83TWJUZDFIV2lSTFpSNnpSVkcwVDhYaTZhNnhBQktHY2lMU2M0YWc0MkljUHpMbTZCeGZmaTR1SzhSaFlSMWRCOE43ZE5YTmRFN1dlNzZfNVVqaUVBeGxXVGd4X2VGMFdXVXBxbTN3VzlrVm9SdTc0cVZIcjd6MnJkbV82eS1fT19ZSkFib0lVdHdlXzJSYU55MWljVHdnRDJsNjd1WGp5bjU0WkUyVlZyTkMxdC1MZzZkbXZWaUZLVmF3SUVZVWd1a1EyR0FIa1JRMi1fbXpxaHRyZW5meTVrNnQwd1hLbm9Da1E?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "dc13c7fcee36",
+   "title": "Apple Unveils Thinner, Upgraded iPad Mini with Enhanced Features",
+   "summary": "Apple Unveils Thinner, Upgraded iPad Mini with Enhanced Features SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGtkMU9vZ0ZxNXdicC1VcUtGZnp1Qld3R0kwdzdhbVZHQzhqcDNlUHhHcUZNVVFMeGJUWEpoZzNSMG4xbExON0F6OXJxYnBhUHBKU1JyTkd1QTh4NDdFdlVLMWg1YUlUTHk5MjFJVVo3cE5ZOEhKaThRaWRkY1hpbER5MEw4QmNYTVdvel9LX3hORVd2?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T13:49:58.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "SSBCrack",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGtkMU9vZ0ZxNXdicC1VcUtGZnp1Qld3R0kwdzdhbVZHQzhqcDNlUHhHcUZNVVFMeGJUWEpoZzNSMG4xbExON0F6OXJxYnBhUHBKU1JyTkd1QTh4NDdFdlVLMWg1YUlUTHk5MjFJVVo3cE5ZOEhKaThRaWRkY1hpbER5MEw4QmNYTVdvel9LX3hORVd2?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "e4fa2d26d01e",
+   "title": "Apple is unveiling its first iPad mini with an OLED screen, starting at $699",
+   "summary": "Apple is unveiling its first iPad mini with an OLED screen, starting at $699 Quartz",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVODUxeDhBUkc4dU5qeXJjbnkwakR0cWdmdEtxUnl6Q1ZxdWw2dFFmblk0NC0tcW1sRllpOHRJcTFWc204US1CU3F5MkVKbXc2UWJXNk9mdWFjMk9jeGFicUIzR2VpRXNIOFdUR1ltWQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T13:45:21.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Quartz",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVODUxeDhBUkc4dU5qeXJjbnkwakR0cWdmdEtxUnl6Q1ZxdWw2dFFmblk0NC0tcW1sRllpOHRJcTFWc204US1CU3F5MkVKbXc2UWJXNk9mdWFjMk9jeGFicUIzR2VpRXNIOFdUR1ltWQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "7739e1d1b60b",
+   "title": "Honor’s WIN tablet launches with an 8.4-inch 240Hz OLED screen",
+   "summary": "Honor’s WIN tablet launches with an 8.4-inch 240Hz OLED screen Techish Kenya",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLTFCcDdTX2k0anUxYWJIUDZHLWR3S2N3Tngxc2NWWlJmaGFsVTFpdWVkb2hzb0tFYjNKQ0pPQVV6R3ExcV9IcFZsanlFdXJIQjBQOGNreDNKOTFGa0prbkJYZ2N5WE9SbV9RaXcyR2FzV1pENnpaX0o3MDRhUlV4S1RuMTQ4OHpXMk1peUt2aFI5WHlmSkRRcUt3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T13:44:47.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Honor",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Techish Kenya",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLTFCcDdTX2k0anUxYWJIUDZHLWR3S2N3Tngxc2NWWlJmaGFsVTFpdWVkb2hzb0tFYjNKQ0pPQVV6R3ExcV9IcFZsanlFdXJIQjBQOGNreDNKOTFGa0prbkJYZ2N5WE9SbV9RaXcyR2FzV1pENnpaX0o3MDRhUlV4S1RuMTQ4OHpXMk1peUt2aFI5WHlmSkRRcUt3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "c75a15737f04",
+   "title": "Garmin CIRQA competitor turns into smart ring: Alloop unveils Trio",
+   "summary": "Garmin CIRQA competitor turns into smart ring: Alloop unveils Trio Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVNILVg3MWtlSW1PNmg2dDFEY1VDRHpWSHptNHNVNGtpWXZYalpsc3hkYUJScHBvblJWdWY1SEw2aFFZQm9uX3ZfVDBtY004b1Rfb0N2NmwyYzV6TXI4dXBKYVhEWHgyeGRsUkpxcEI3QmlHYW1NeHVyZFpXZXhieHZXZ2hJdV9LSk9EYmh3NFJtV1RyWjlrVVp0cFJtUzdDNmZ6SGRnM1IzSXBaY19B?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T13:22:00.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Garmin",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVNILVg3MWtlSW1PNmg2dDFEY1VDRHpWSHptNHNVNGtpWXZYalpsc3hkYUJScHBvblJWdWY1SEw2aFFZQm9uX3ZfVDBtY004b1Rfb0N2NmwyYzV6TXI4dXBKYVhEWHgyeGRsUkpxcEI3QmlHYW1NeHVyZFpXZXhieHZXZ2hJdV9LSk9EYmh3NFJtV1RyWjlrVVp0cFJtUzdDNmZ6SGRnM1IzSXBaY19B?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "28500033f853",
+   "title": "OLED iPad Mini finally launches — thinner, tougher, A20 Pro power inside",
+   "summary": "Apple’s OLED iPad Mini finally launches, and it’s thinner, tougher, and packed with A20 Pro power. The compact tablet swaps to an OLED Super Retina XDR panel, an IP67 body, and stronger AI performance on iPadOS 27. Here’s a look at everything that’s packed inside Apple’s newest a",
+   "link": "https://www.gizmochina.com/2026/10/26/apple-ipad-mini-a20-pro-oled-launch/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/apple-ipad-mini-midnight-16x9-1-300x169.jpg?x62950",
+   "publishedAt": "2026-10-26T13:21:58.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/26/apple-ipad-mini-a20-pro-oled-launch/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/tablets/news/ipad-mini-2026-price-in-india-launch-sale-date-features-specifications-12238695"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495750/apple-ipad-mini-2026-price-india-specifications.html"
+    },
+    {
+     "name": "CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUmNlNXNhcno5bDNUZ0FnTDJlenJUaVE0VF9sWUkySE1KWDV0dlBhX1FCN09mUnVCZzdzNGExUzc2Ty1VV1EwZEVPTXVSSENtd2psalFGVWhPLWRnRWxuRXFOOUtmMWxPLVJpUmdnZ1V4QzhJclkzUjJPMktZdVBaOEIxMHJPS2x4clRzWFoxMTdHNi1iWkI4RHpiVkV4ZnVsZzZSbTBYZ0plR0tzbmJpbHRKS1Njd2RIVW9EN1V2aTNvWDlSQUdFREhUdU5DdGJBY0NWZGNR0gHbAUFVX3lxTE04VlpQdDZmdG9lYUVrdkxsT2pmUWlnWlpvc2c1U3ZZX3ZUWjJDTVpneVFZejUxLXFiNnVWZHNZbE9HSXpLYXRBR244MTlwMWhkVHd6eWZVUlFoMWM5cVJwVzlvN3NoYTNrNnZ6R3BORy1fMl84NHdEblcwRTI1Ql9ZU0dDemZQeENOcWw3VmNRcHhZOTdrWElheEFRRGZ0Mm9SWWNLX1ROWGxLcm1xWlI3ZUxQRjliSjhKT2RXTzFSeVMwQzFTOVNISm4tM2NVRUhzYzNkbmxrQ0VRbw?oc=5"
+    },
+    {
+     "name": "Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzMxZlhCTDN5dGFKOWJDQzN3dEdQNk15UjRQLUFmUEVYVG9sYm1UbDlQMUc3bnVXWHJocDlneHlWdzUwUEVHcUZsNDNkeEZld0ZCSEtwbVdZbE5IOEZNTjNpWjFPbXJoRTNXR3JXSk81OGpFNXdmd3oxNU9GbFJ3WWxGcS1vbVRkVGgyMXYtYUU3ZUl1a0lxLU1rN2xxZw?oc=5"
+    },
+    {
+     "name": "Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVnlGanZ3WDk5ZVZGTEhRZ241THl6U2QyRUduNmpPNEc3QndjczA0OUZNMUw5cmJSSHg2ZWdLUWQ1NlBtQy1WNXpXYkJ0OEpLdEVOa25OaU1JM1dMeEhCU1ZVcExwTzRRemJiVE02U0FTS2JQTkZPNW5RS3VaaUJ4Z3lMRGU1TzhWbGtma19lbFNnLUgyS0pCUGFsQmtmMG93bERHV096VE1uZ2RnRWlBRDFHVE9XZWNtSGVNVEk5Nm5UX1hNa3l0OTVlcE1PNlk3NW1hcmNrY9IB3AFBVV95cUxNWWcxeV9Ob0d5LWswa05LNVZBQWthc25oUFNiamZhbXNOWHNkNzJHeFRfQVdVc0M2S0tac3ZsTk0yT1dxclZucmtHaXNBZHVCM3lwUnM1X2RmWTE5OUxRdE9MOHVDTW1tX1FJYktMem1RM055OFVKS1RlbFZuSFBwTUhrblZXRHNiYjVEbmlGUjRhb0s4X3ZQb0hNWlYzRDI0NnBNVVEyaFh0MkZqU3hrdk9sZHVrQ3lrZHZlaXlBY2xscTUyaGlZMi00UWsxLUhHUTlIenJGR083SVU1?oc=5"
+    },
+    {
+     "name": "Gizchina.com",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnZKb01wTlc1Qmk3X3NKd3pMc0cyLThvQ0htTnZoeWFEQjdKZC1PSkdORWFGN3VsQnVsV1ZndTlETzhwemRKMXVTd1pzMWlTSVdqTmk0LUJqMUNpYnI3ZVZQbEd2ZEtoenZ1aUJnQVhTWUhnX0pwemVEOERCXzhXM0hWcXM5ekdjRGNZM0xlSGpKendMcnJ3Nw?oc=5"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHRQeXVpOUdBRWZCQlVjcDgyYW1WY3ltdHlHTnhzVU9Eay10SXJxeFBpZ1dsM19LMHgxVUdCa1ZHNEVkNTZ1d0RsOUNEcnAzSTJtdHd5MlFYQ2pPeGZERGdXVUpoYnNJYkpsS0ZyUjd3QWc0S3Z6eGRZejk5a0ZBU3ZjM09MYTY2dUp6bHd4c9IBlAFBVV95cUxNV1dtU0hjTHk3Sk5LMVRWaXI5WG02SlpBLTFaaERGajF1Nnlrc280RDBxZVJheDFTY2M1alI5OHhjTE1VMC04ODYweTl2QnFGOFJ4SlNjOFllMTVubkJtcExIZDV0YW50aDMzUEUxLW5xVnJXMkRleEhsTFdlZWhJTVlCMWM1czY5dF9ZR0MzSlBMakVM?oc=5"
+    },
+    {
+     "name": "Mathrubhumi English",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ2k5NW9qZHlqeFhBMWdBaWJuSmp3c29OdlJGTE1abXVCQVJRMjdrRUZsODlEQkVPYVJIY0hCQ3RUbFZfVEE3bjNLVXVxd29oSVRfamoxZ0VpRmJoSEd4U3dlZVFDdEdIWUZ0d0d2NzFsUFBIOHVPQXpoUFRFTUVlc0txMDcyLUJ5dTFXLWFVOWJjYVhmTUZVRVppVTBtVElyalhfMjUxM050Qnc1d2lSWHZDUENwWk9Vb0dZYmhuZVpvUC12ZjR2MHBoSDBUV3BXeUctNWdPSzRxUjTSAdsBQVVfeXFMTmdpOTVvamR5anhYQTFnQWlibkpqd3NvTnZSRkxNWm11QkFSUTI3a0VGbDg5REJFT2FSSGNIQkN0VGxWX1RBN24zS1V1cXdvaElUX2pqMWdFaUZiaEhHeFN3ZWVRQ3RHSFlGdHdHdjcxbFBQSDh1T0F6aFBURU1FZXNLcTA3Mi1CeXUxVy1hVTliY2FYZk1GVUVaaVUwbVRJcmpYXzI1MTNOdEJ3NXdpUlh2Q1BDcFpPVW9HWWJobmVab1AtdmY0djBwaEgwVFdwV3lHLTVnT0s0cVI0?oc=5"
+    },
+    {
+     "name": "Innovation Village",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1ZxdUt4WGNfMDFlX1VqbnNNSFdlMzRzTHNnOGZWODhnUHRRVmp3SC1xNnpYcDNJZ0Y3VWRDZ0ZXSF95UEw3dGtSWFNzRTlGS2hxT1ZpdjBrTE5BMlg0OU1OblVTNGEzYXRRZ05uMTQwb1IyS2Z2ZHJ1RktHVTBvaXBRZVJ5eDJpcnJHX2Jldm1SLTQ?oc=5"
+    },
+    {
+     "name": "Times Now",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWUZvNXNQOVh2aHFEZ2pwc3h3WWJaVmM2bk1hS3FWTzlESFN4d1NibmJYNDJFQ3VKV3VkOEJmRWhteDNTNjhWTTdYZUJaRGRiRDk4VngzejlsU2thYlVUVGdsczhNMl83VmwzTWdYdmVKSGFnc2pvMUVscUR3X1lqRWY0VXI0aGd3elVDZ1QwOWd2Y29yVFlybjBLbmkyTUg5bG1FczhLNkRuel9fdzZtaWNQX05WZnF1Y01rLU5CRThneWM2WG1Xalp3Uk5HVHJzYzR5TjJtSVBycGRkbDByekRSaGtTSnZtMnoxZ0xFYVrSAfYBQVVfeXFMTVIyX21PWmJUZmFqUG9fd09id0RmOVVzaWNUaVREZE54R1c1eWFEYUZxcXA0eWRTSENxSGo0ZUlzR2JjRE9iNXVmRXVLRHM5ZFdNT29lUWtRRHJYeHJ6NWFJYkNobkRRZEpINl9vS3FveVRXVXZlQjA1RkQ4SWliLTFaNkVTQm9ZRVNXeFpDQzRaYVg2aVQ5SUcwZjZQaE84d0NQdjRjSVF4Y1EyaW1fV0k4a3BNbWw0Q1k5bFhNU3RUVWdiM3hOdFdOSFgwX0RpdFRkVkppTk5jd3EtaXdpaTh4SHFzem5KZjNwWGs2QVI2ZXJsSWhn?oc=5"
+    },
+    {
+     "name": "IBTimes India",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUxHTmljWjItdGFyVTJiWmdHOGwwamtpQXM5b0hMZG5vakFvWXBiQ2xJdmVfVVNaZVYtTGpOZzRGeWN1WGl5clRrdmN6U0tfMUgxb05DWFMyTW05SUdWRFRXTGJkV3JXYlVqeThudlVqNjE4UnVzYlZTS2d0WFZHaGhKMGhkRGVGaTBLTFVmSjl2WTgyd19xYVFxblpOZ3FZUnk2ZGhRRHZkdmM1ZG1OMkFXajFqbG04VEE?oc=5"
+    },
+    {
+     "name": "TechCrunch",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUZtdERXOURQODZVODh0N0NUQnE4MHh4VWVrTF9EajRUeHNjWkdGVHNvSENac1U0aUgzaWdTLUdsdUZoYjJlN25pSElCZ2hKdU9uZlFmaU5VS2tUWkRxSnJQbUdfcjBQMHFlcktEcGJqSDlnMFBDM0NoQms5d0pfbmM5NWpxdGtEVUhfdE54eHZzRjAycFlYeDkyeXFIcWNoeHZObU82Yw?oc=5"
+    },
+    {
+     "name": "Firstpost",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYTRTWnlCTFRjeTFaYVRnZkRfTjJaOWo0ZmZJZmtBUjFmWmJaN1VfbjdsaXBPbkp4WHlHZHJDdGt3Y0haSTdpWmEtU2Y1bi1MTVZJVFlmRkVGcXBGRk5Zc2t1MlNaZWtRMV9rOGhGektQMVI4TTNBbnpPZEtVWEZRYWYyVTcxMlJOT1Y3aUdpTEE1c3VESDhiVNIBngFBVV95cUxQVUxUaGhSMXp1dWZ0MFNNQzNmSXdwb2Uwa2VILXZkUlh4a20yTDhDamtkSGpQU3lrM0dsLWdfdl9pT3BBelVDZVY5RXI0OHA0ak8xMzRQSHRZWS1CNlFPMjk0UnI1UXhVVHdLTHdIc2UySHdRaHlvcFhGU2RTekZhLVdrRjlPS0lWY21UcC0tYjR1bmFGdWI5alhMNVpkZw?oc=5"
+    },
+    {
+     "name": "Deccan Herald",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZVc5OC12ZE9PeFlReDRLQVVzNS1zOWtBNmNGWmw4NUJZYUhpN1V1Q3NTYjcteFpNOWREX1ZTTVJKbVlUUkNZLWJPVWJEWktiNm9keEtwTGQ0OXFEV0FzV2UxY3hVMzhHeHJsR2ZJYjVzVHJfVUp2YV9LZ3EzSUNkRk9lWVA2QXhLdXkwamtBMDRZVGhiQlNXbDlhS05UZWk2YkRoc0tLWHhPdEpTb1pIcmgtVGRFcEJ2SWRmZXZSU3ZHMXBuY1ZrUk5OYi1Da09TWTRrUldHSE5jTUk1bkJHUllGVl9pT2VPRDFqMG4xcXpGZw?oc=5"
+    },
+    {
+     "name": "Gagadget.com",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGViakkzSFk0NW9hQXBzUXNfVkh6UW9hVm1LX2ZvU1loaXk0akJibVFSN2toWkZTWUNuRDI3MzNQXzhpMlF0TGpPYW9SUVprMEQxOXVESGNiT21jc1B4bmRvcXlvZFU5SEh3NEJQMUFkS201VURyM2RHX2hqVXdXNFZYY21HdzdHTTk1VkV0a0JGUkU1dmduMzdseEd2QzZSeEIxbVpsTG9ZUUpselVhSVh6SG9hZDJpUlNN0gHAAUFVX3lxTE9CR1YwbHlDZTdQOEpsVnBWRzUwYmg0NlY3cjBIMmRZN21UQjdOVi1ESFF1blNkRGdSYVJmcWM3d0lSTXg2c0J0MGlqUmU2d0ctV1lMRXJubWNqQTgzdFFNMk9OelIwdG91WVFkTGloMnlkbEhZUDZWVVBtUnk4elhiVzNWTm1kLXkta1VHdHg2NENMd3pxd1hmWWhYdTV5Z2pfcDlfb3VqazlCR0F4NG96WFlURGpjOGZ0dGdvZHUtOA?oc=5"
+    },
+    {
+     "name": "Techeconomy",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCSmVhVjdoZmVCRktnZ0MyNFpySldlb1JWYkx3ZnhDbXNmRUpaOGJMSlZHVVN1eDl0Y1FuRTE4dnRGTUxzWk9ldUJFalhfaXROQ1JmOFVGYjQ3X2FOU01tZElEcnhuUkhQTjltcw?oc=5"
+    },
+    {
+     "name": "Small Business Trends",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnVveGVxNExxVEZ0cjRHQ3dIa0FocXpqSmx5TDRqOER3eHRGaXZuR2RQR2xWemd6dVRmOEY1c0NVT2dLSDZ0dlVRYVdCUnpITktPYnVvUW1jaFQtTmF3MUxnWHVuTVg1LU9ySTVQTmpYaHdWRmlJbjJtRjZsaG4wOGFXaE5HZW5BWG1zeEV5TQ?oc=5"
+    },
+    {
+     "name": "Telangana Today",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS1zZVlWU1MwWlRyYXBCVDhEVUFXaEJ4SDByV09VbjloU3BKY3JlUk51dWxTcUVFTmJKTFg2MDBhWFhTUU1uLWdPQmdrcXZyZmxhZ3h1M1J6S3ZQdVVNRzlLMnBYMUpxQXY3VkJWaXEwYnJhdmdSNl9idWhfREVaTEJxblRPa2hXRHFXd2VXUHhCSGpKRmlZNmdR?oc=5"
+    },
+    {
+     "name": "Ubergizmo",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPby1hcGJiV0RBS1hJd0xrdGFTbUZqQ2NoMzdHZm9fZmM0TUxWSFg4RThsdTRFOVExWWVMaU9KeFYtVGctblY2MWFrYS1weG9aOFk3bl8tUHlGSjBwLXB1MEhrSk4zRFpNRzc0NlpUVmtKRGQ0T3Y4MTdGNk50cFFqUGJoNEFlbjNSdzl0NFVaMzV6YUpwYlNNY3d4RTJLNmViYmktU2ctOA?oc=5"
+    },
+    {
+     "name": "Demokratis.co.id",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yYTNNSGphM1M4RkptLWhaYmdiVmcwR2J4bldpdFhaaDZ0V0ZxQ005VW9iVmZEV0JidlpaRGJ5S0pqUUtRTEJQbE5wQmcxeDU1dWQxaDc0SkVCR1RrX2EyMDVDQXJqQzg?oc=5"
+    },
+    {
+     "name": "SSBCrack",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGd0NVBjX3NyYkMtZGE5V2VRd2tab2wtZmd4MzlXTUk3YjFCaWhpQ0dfVHBxN1BsNWRVUU5kMEF2VlJPZGE4OUk2UEdMM2VaMVdJdENzNXAyWGxpdGkyWWhXWXFzY0U1c2J4N3NySE1tWkVsaFhadjF4a05RdUNCQlVVY0NxemFkSDlUVG5aM01OQlBLRjdGMldrRHNmanM?oc=5"
+    },
+    {
+     "name": "Business Upturn",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmUxUUdmYVJab2M1VDdiTWFwdDVkbmRMMzFxRnRlc0RnMUs3Mm5OV2NHUjZwczliY0RwZGFPc3k2c3lSZHF5VGZJWmhGQkc5T3QzZVJsbmhPWjlWTUJHamNEVE5rY29VYjR2UkJ4LUVqQlJjWk04TWFxY0p5VmdVak0zZFB5WXNQV2pONG9XZmh0aE5BSnlPdDNpQ0ppbkYwY3FaOGFfVmJpTlBK?oc=5"
+    },
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbEhZeTFEQVN3cjB3TnBreTlsbWJNTFpvRGM3TUxlOFpNWllJUU9oSjNnNmxZTUowZHFoanZZS0pyWFpEczhrUGpLRlZobzl4M3dZTkhiYlZuRWxUZGlVLXNNNW5pQ1Q4Q3BydVFpbTU0U05HLXdmR2lWWnhFbXRkNWpXSkN6dVRwb2V5ODdCd0hRQUU?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUFNMHJJS2FQQ2taY2RmYmVQOTZXY2JheERsb0lhanZMS0cwQnYwR2pUU3B4OEd4eWU1bnRZMS1KaUlVSUU2UG1TVWdqV1BkTFVqWG05VkliOGdzYkIxWHhuUWpJZ1VzcEo4QktWNTl4dzRROE5DOEdHanVhR29xVmhHa0ZVYkY1SHBqNTdsNWxPOV9OLWdaZzBWal9YYmJyTkpfNDZZVVR4Z2d4T0NtVU5tMmVobVV3a1QzNDFqQQ?oc=5"
+    },
+    {
+     "name": "آي-فون إسلام",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbDB5UlVPajJ1Y0pNazFXVk1ycjJjQ21ieHQ5d2JraFl0UzhLODhxYUp5d2NEM2JBVUFsZGdTNlEwSVVqTnA1VXJjV2Y3V3ItTVg2T3diVVRnS0pwVklOS1UwcU8xYUkwYVFhcVRuMGwtTDh4aVM4R280M1E4QmlSdGRjajRIUG1xRXE2MWxJUGNNS2x2UlRKY1JSZlRBRW9LS2F1OF9mLTB3VUxHeFBZVzJ2Y1JQYXZTNzI1dVZqNlVsdnZRU2ltTmVfNmpoZ3lHeUNMdlhMNkVCQzZ6SUpKMWMybFZuYlhIUm9n?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "a6b8ceb346d5",
+   "title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
+   "summary": "Apple has officially unveiled a new iPad mini. The company calls it the “biggest update ever” for the iPad mini, adding an OLED display and a thinner, lighter design. The new iPad mini is powered by the A20 Pro chip. Here’s everything you need to know. more…",
+   "link": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-iPad-mini-hero-261026_big.jpg.large_2x.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-26T13:04:24.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
+   "id": "70ed2befa903",
+   "title": "Eureka Forbes Aeroguard Air Purifiers Launched in India: Check Specifications and Pricing",
+   "summary": "Eureka Forbes Aeroguard Air Purifiers Launched in India: Check Specifications and Pricing Xpertpick",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOW9UZ2JYbzhVZGhHSDFfVmRQQXY5WTJMVkxMQm4xbDN3WHlON2F3QmtxejdFQW9xdG5wa293cUlQcjZPVGdsTVlOYWZHUDNoVUxSLUlQcVUyekZUZ25fMmdPSGRVLWJEek90cnd3cXZoZmQ4OUdxcWNETVhOSWsxMU9PMXQwOXFHblFsQVQ3azlZRXNvYk9ZU1NsZ2dFa05JNWZod2dON0dRSmZ4Uk56NTA4b2tucUljcUo1UGFZN1lfUF9IeHBYXzlmd090RDDSAdQBQVVfeXFMT1pSOWZtM09yMEh6eGtablNRVHJNbVFhS0lzb1B6bGhSZnFWUnJVS1dpX0dkN0szcEx5MVVEeE1nbGlVZHp3Qkx3SFhxSUZ3SkVCcGtqeUxnMzdLSkZrZTUtRi02VGZfQkJJOVBHNG9QNTI0UXlUSENhQ252SjByTmNxU1R1YmJfUmdQckxQNzEyVkk1dkNCTTNUa3ZJdmNhOTFOelFjeFNfREU5WENmY3c0LUtxd3FPTGZoUHU3bHYtdGtLUHZMczZUZ013MUtWa1JzODY?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T12:43:04.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Xpertpick",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOW9UZ2JYbzhVZGhHSDFfVmRQQXY5WTJMVkxMQm4xbDN3WHlON2F3QmtxejdFQW9xdG5wa293cUlQcjZPVGdsTVlOYWZHUDNoVUxSLUlQcVUyekZUZ25fMmdPSGRVLWJEek90cnd3cXZoZmQ4OUdxcWNETVhOSWsxMU9PMXQwOXFHblFsQVQ3azlZRXNvYk9ZU1NsZ2dFa05JNWZod2dON0dRSmZ4Uk56NTA4b2tucUljcUo1UGFZN1lfUF9IeHBYXzlmd090RDDSAdQBQVVfeXFMT1pSOWZtM09yMEh6eGtablNRVHJNbVFhS0lzb1B6bGhSZnFWUnJVS1dpX0dkN0szcEx5MVVEeE1nbGlVZHp3Qkx3SFhxSUZ3SkVCcGtqeUxnMzdLSkZrZTUtRi02VGZfQkJJOVBHNG9QNTI0UXlUSENhQ252SjByTmNxU1R1YmJfUmdQckxQNzEyVkk1dkNCTTNUa3ZJdmNhOTFOelFjeFNfREU5WENmY3c0LUtxd3FPTGZoUHU3bHYtdGtLUHZMczZUZ013MUtWa1JzODY?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
+  },
+  {
    "id": "b34cd9b6dc3c",
    "title": "JBL Quantum 520 gaming headset launched in Vietnam: Dual connectivity, 37-hour battery life, and carbon drivers.",
    "summary": "JBL Quantum 520 gaming headset launched in Vietnam: Dual connectivity, 37-hour battery life, and carbon drivers. Vietnam.vn",
@@ -107,9 +729,35 @@
     {
      "name": "Notebookcheck",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWlJUHlLRVFOMllLRExZMUtnNF9uS3pvQTNXemVwc2J3Ymx5ZGtkdW1faG9xbFdhWnE5eGhqSEJZNXpVM1NKRHVrWDg2dTc0dzRKMWpIejJ3bVFQNTRGSWFMd2xvYm5Cc2tmRGFzMG5FNHpObWdWVndWTVE5MjZuOUY1OGF1OURSb1N6QjhFbmJpZm0wWmxuczJrR1ZjY0hZcGZjVF9KMllLNVpTOHV1emt6Q0kxNnQ3dkN4X2FNaDFpcXJBRDhJ?oc=5"
+    },
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2lPMDZFcl9aU1ZoOVFLZ1ZqLXpKdlVwTVJoZlhLS0w3MGV0Y25STzV6OTB1cWRvMFR1ZVpPWnFTS1BybnFIN25vWExVcFUwaDJpTXhRbm9CRDBWY3RUVzBuZFdGVWZZQjh3eHRuTnVabEM4ZU9aVWREcUI1N05fWl9EWlNoMUdjc09zTDJ6d1lSNEhzZEU0NFZqNVpfUlhmLTd6NGN2NVBsODJjNlZSeTFB?oc=5"
     }
    ],
    "firstSeen": "2026-10-26T12:47:28.646Z"
+  },
+  {
+   "id": "bd14b69ab285",
+   "title": "Anker launches AeroClip 2 open-ear earbuds in Philippines",
+   "summary": "Anker launches AeroClip 2 open-ear earbuds in Philippines Daily Tribune",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY09FTGVMRnZkR1ZTclgyOXI3YUtjQ0pGbDg3OU96NjB0RHloZUtlWk5IbndtVjlCeHdmODJSX1lxOW5GTjlkWjlQS1FISjN5bmFYSlVVMjJZMkJIZi1SWHJsVzU0TDhza3lKV2R5QmFiZ0x1U21UQ2xUZURsenZkSjJnZWxBQlhFT0dfT3dGa1pjcXpQQkE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T12:01:00.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Anker",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Daily Tribune",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY09FTGVMRnZkR1ZTclgyOXI3YUtjQ0pGbDg3OU96NjB0RHloZUtlWk5IbndtVjlCeHdmODJSX1lxOW5GTjlkWjlQS1FISjN5bmFYSlVVMjJZMkJIZi1SWHJsVzU0TDhza3lKV2R5QmFiZ0x1U21UQ2xUZURsenZkSjJnZWxBQlhFT0dfT3dGa1pjcXpQQkE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T20:25:06.718Z"
   },
   {
    "id": "34deed855bc5",
@@ -129,6 +777,10 @@
     {
      "name": "Business Wire",
      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFpKVmRYdmM5SWxyaHpuZWpvY2M3VkVpR0M5WGwwLWt3OXY2U29IQVVfcjN5a3p0c1NabWFEeFY4VkRCN0tZYXZNaFFTdko2X2FqZ2lXQlBkdHdpMmxuVVZSOTg3YjZ2ZEVLNkpFdVpCRTRUZDh6YWtERk9oeER6akNGR0N2TmtFTGpEVzRBcUVTcVAxeUJtZUs2R3RCNWM1b3FVX0gxNmFmTUl1TXVGbjdPdFJUenJRYUZlZ211cTA0Ylo5Y09OZTI2cl9lSUdRaG4wM0tTMlFvSUtCV0VaZE96bDNDWmVOWkdHMXEzc0lwSmwwTVVRa2Ftd2pmcGRsZ3VV?oc=5"
+    },
+    {
+     "name": "TechPowerUp",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHJ4T2JNbktlenZlaWs5YXp2OE91RExYTHYyM2VGX3R6MXJDV2FaSG1lZ0pNZ1JpdVpSMFQ1cFQtSGV4NlNENnkxcG44YWtqeWlYV0w3bTRSaGZnYnBjSUVmWXRpeDZWblBubUxVdjdPczRPdms5aHBvV2FRcnlkNHZ30gGHAUFVX3lxTE1CbFRyMnk5UUwwSUkza1JBVko4TmVPMG1FaUtieWttX28zT1BBZU52bDQ2a1JjR1N3UmQ4WmMwVlB2SURSaXBKbnNyS09qQ1ZqdExMNFI0amdEUHpXckNkM0cwcTNDNmdTVlRrSXdaOUdqckxOMC0tMnlmNllrYlNWQmwxYmNDYw?oc=5"
     }
    ],
    "firstSeen": "2026-10-26T12:47:28.646Z"
@@ -178,28 +830,6 @@
    "firstSeen": "2026-10-26T12:47:28.646Z"
   },
   {
-   "id": "030a53f13e5d",
-   "title": "OnePlus Buds Clip unveiled with 40-hour battery life",
-   "summary": "OnePlus Buds Clip unveiled with 40-hour battery life Kursiv Media Узбекистан",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlY0M3poVGxYNWlhNlVPZkxKeGxKWnNpZUEwZE9idmQ3a1BrMEJlZlBNWXg4MC1PYWpWeGdQVkdnbm5UV0NKOFNCWUk2MXFJbEVqM1RTMEZkZTIzZno5dWtYcWpqak0yUk5FcXR2MjRSVEhZNlNIRmp1N2tIYlhlZGNVeTQ3R0VHT1VoZG14QXRfR3RrdXlsUnlMWHdsQUdHdXhMcmxaaVlPc2I3TDNTZWRWZw?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-26T11:05:03.000Z",
-   "date": "2026-10-26",
-   "status": "Launched",
-   "category": "Audio",
-   "brand": "OnePlus",
-   "region": "Global",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Kursiv Media Узбекистан",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlY0M3poVGxYNWlhNlVPZkxKeGxKWnNpZUEwZE9idmQ3a1BrMEJlZlBNWXg4MC1PYWpWeGdQVkdnbm5UV0NKOFNCWUk2MXFJbEVqM1RTMEZkZTIzZno5dWtYcWpqak0yUk5FcXR2MjRSVEhZNlNIRmp1N2tIYlhlZGNVeTQ3R0VHT1VoZG14QXRfR3RrdXlsUnlMWHdsQUdHdXhMcmxaaVlPc2I3TDNTZWRWZw?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-26T12:47:28.646Z"
-  },
-  {
    "id": "1aae5e2a2863",
    "title": "Foldable iPhone sells out across iStores in SA on launch day",
    "summary": "Foldable iPhone sells out across iStores in SA on launch day ITWeb",
@@ -239,6 +869,10 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/10/26/oneplus-16-india-launch-expected-price-release-date-and-upgrades/"
+    },
+    {
+     "name": "Nokiamob",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDFnbmI0NXpkSlQyZENOOFNSWmEtUGJjUzVYbFB5dXpGOUhDbEFpc0FLcWljMWFQSXc0OHpFOFhYenVkRk15RUtLSU82U1UyWEJudnZQQkpxaFhxRFZ3M3VOcjhYNTNxa1BNLUJUbHB1MVNnLXllZVNfNWVmSkpyT1lTckp2cENOMWQwWUM4T3ZNMll3WC1FVE42WlJ4Nmsz?oc=5"
     }
    ],
    "firstSeen": "2026-10-26T12:47:28.646Z"
@@ -261,6 +895,44 @@
     {
      "name": "LIGA.net",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjNNYWZ0UVhnTmh1b0h6RmZRUlFuNi1WSlVUMno5Y2ctN2kzb19aT1k1dkVlUGEzYUhLd2ZEWW84MGdSOTNUejItOWdYQy0wcVBROUNBNnpkVEhGb1JPblN6X2Ywa2t2azNVelNfdmRlUzRPSXN0NF9kZ295Q25MYmE5SDBtd1llUjFITjJybWtkbmFMVF84LUxsUEhIWkx5cS1zNElxUXUzaEMtd2VMTGdPRGNCU3RXUGd30gHAAUFVX3lxTE1mZm9HQ0VUOW5GQkNZUWdqc3hfVmQydlRoVXFTdFpUU01CTE94OWJyZ1cxRVlOM2poOEZwczlzMjJXbll6cGkwM25hdDh1Zi1EdVdOVkV2Y3FvQjZsYnc4anBDaG45QWhlZlFPblJxY0tld3IwTHpRX1lLUmFUWEE0TzRVclBsQ3libXc1RFNRRUlsQmt1NnFibUw5cERlakNFTktXY1VXamlpa2V1bktWQWdzVmN4aEZEa1BHOV9kUw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T12:47:28.646Z"
+  },
+  {
+   "id": "030a53f13e5d",
+   "title": "OnePlus Buds Clip unveiled with 40-hour battery life",
+   "summary": "OnePlus Buds Clip unveiled with 40-hour battery life Kursiv Media Узбекистан",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlY0M3poVGxYNWlhNlVPZkxKeGxKWnNpZUEwZE9idmQ3a1BrMEJlZlBNWXg4MC1PYWpWeGdQVkdnbm5UV0NKOFNCWUk2MXFJbEVqM1RTMEZkZTIzZno5dWtYcWpqak0yUk5FcXR2MjRSVEhZNlNIRmp1N2tIYlhlZGNVeTQ3R0VHT1VoZG14QXRfR3RrdXlsUnlMWHdsQUdHdXhMcmxaaVlPc2I3TDNTZWRWZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-26T10:13:24.000Z",
+   "date": "2026-10-26",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "OnePlus",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Kursiv Media Узбекистан",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlY0M3poVGxYNWlhNlVPZkxKeGxKWnNpZUEwZE9idmQ3a1BrMEJlZlBNWXg4MC1PYWpWeGdQVkdnbm5UV0NKOFNCWUk2MXFJbEVqM1RTMEZkZTIzZno5dWtYcWpqak0yUk5FcXR2MjRSVEhZNlNIRmp1N2tIYlhlZGNVeTQ3R0VHT1VoZG14QXRfR3RrdXlsUnlMWHdsQUdHdXhMcmxaaVlPc2I3TDNTZWRWZw?oc=5"
+    },
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVVzV1NmczBMdzRGd1FrMVEwMGYzX19ONXJpTTVZMmZXeWlYVkV0d3VXajRCUzVQVDhYRC1MZ1ZsVmlpVVRSRHBiSF9EOW5SX0ZSMFhTRDdXSEp5MWVyNUxRMjl5RDhlSWFkVnkySDFvdk9aN2ZVUkppOXpzTWFoMnp5YjlSeTJkd1F5MUpQU0ZBdw?oc=5"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlhDcl9XOXRhZUQxWjh2LU9FUkdkOE5WRVNaRGF1VzlFTDZWZXhKWWtmcGJEeTBMN1JiM0ZQendmX0xDR0hBWVFyUnZ2N0RsWnBOVlZpVS1rbVBLQmxsYXV5NWlJVUtqNmxfVWk1OGg2cmxYd2FfSXJ1X29NT3JBMnFHY18yOFhrQV9WeUpQZmZLZWxXWGh2eG0yQ3V2X0J3NG5YVWhrdWZmZw?oc=5"
+    },
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEZkVThNMlRySGVEc2hnX2t0VXUxanplTHFMT3BMR2tnWHBzQnVkX01hMGNVdnBWVVBueGQ3bkpSSzdRbEFnNHF1aEFNenlPUGdNVXhZc3dHQnNQQ3dpeGlweml5b3RWeXFPSVV3Q09LWEljeEphTjVJYjc3RU8ycndNTFgyUUhCS21mN3dNdHMzYTBHVUZZcWdtODM0TGM?oc=5"
+    },
+    {
+     "name": "Igeekphone.com",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmRrQWdNSW9SeU42RjBUWTNYODg0V2JiNGdVbkJrcjFTR05nNjBSSWdnaHR3ZWcwdGV3aV9zSkpiQkUxU1R0MXowZUdYX0tYT1NLbVdWYUYxXzhhaWlQZmZ3bFlrd3BxaGtaWllnSGZCQ2tQN2R4YUlyTTYzMGRXc3pGNDdWOXpPRkp6WXdiMElNVU13QkJ0SXU1TUJIS05FeXpUWExvTVZUUHZDRzNvT2ZTUktjd01qOG9GUFZWWjQ2d0FXMHNUQU5RX2xKQQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-26T12:47:28.646Z"
