@@ -24,28 +24,6 @@
    "firstSeen": "2026-10-25T20:44:11.037Z"
   },
   {
-   "id": "7985e80acc67",
-   "title": "OPPO launches a 10,000mAh power bank with integrated 22.5W fast charging cable for 598,000 VND.",
-   "summary": "OPPO launches a 10,000mAh power bank with integrated 22.5W fast charging cable for 598,000 VND. Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVYzUGtQZWhvZFI1WUd6dmZRdktHX215MS13MDhqNng2RWtLTkh5WGZaXzdMMkZYNzhDajlCYThJeVozcF9fcDJkSjZveDJfWTRsYjJhazBfZS1TTVYxVTNnckZvTkx0T0FTXzVhSllLX05mSTBYZ0RJd2VOeS1GRnhwU0NzOVBCMHFPRUF6LWI4M3c0a3hGQV9wMzlVTHp0bnZQbnNHRXBkRXRic2N5Yw?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-25T15:35:06.000Z",
-   "date": "2026-10-25",
-   "status": "Launched",
-   "category": "Accessories",
-   "brand": "Oppo",
-   "region": "Global",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVYzUGtQZWhvZFI1WUd6dmZRdktHX215MS13MDhqNng2RWtLTkh5WGZaXzdMMkZYNzhDajlCYThJeVozcF9fcDJkSjZveDJfWTRsYjJhazBfZS1TTVYxVTNnckZvTkx0T0FTXzVhSllLX05mSTBYZ0RJd2VOeS1GRnhwU0NzOVBCMHFPRUF6LWI4M3c0a3hGQV9wMzlVTHp0bnZQbnNHRXBkRXRic2N5Yw?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-25T23:09:31.443Z"
-  },
-  {
    "id": "c19c9ba5c64e",
    "title": "Fujitsu launches the 886-gram Godzilla laptop and it is only sold in two countries",
    "summary": "Fujitsu launches the 886-gram Godzilla laptop and it is only sold in two countries Foro3D",
@@ -354,6 +332,28 @@
    "firstSeen": "2026-10-25T11:12:42.418Z"
   },
   {
+   "id": "d981700fbd4b",
+   "title": "Samsung Unveils the 8th Generation Galaxy Z Trio: A New Offensive in the Foldable Phone World",
+   "summary": "Samsung Unveils the 8th Generation Galaxy Z Trio: A New Offensive in the Foldable Phone World آي-فون إسلام",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1g5ZlBPRE5UYUtadWlpVXA2cGtOREExT0Zob0ZIcHJkdVVRamZyZmZxZFNmV19DYTIxS0p6NzlvMDRQajBLUmdIOE0yeHZNbHB3Uy1OclFXbkF0TVU1aFJfT0txU1FtY3lsc3h3SHF4dHVBM24wNXRrXzJESVl2RkxvOUtFYVZpWV9TY1F2dnF0alM5bDFENXFOSDFLUXRXRlhVRDRxZFRZU0dJSkVxS09OMks0Y0FBNUFOWmNnX2hzYnlOS0xFMmYzX1BCN1Vob1JmZW1sLTdKYUU?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T08:23:00.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "آي-فون إسلام",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1g5ZlBPRE5UYUtadWlpVXA2cGtOREExT0Zob0ZIcHJkdVVRamZyZmZxZFNmV19DYTIxS0p6NzlvMDRQajBLUmdIOE0yeHZNbHB3Uy1OclFXbkF0TVU1aFJfT0txU1FtY3lsc3h3SHF4dHVBM24wNXRrXzJESVl2RkxvOUtFYVZpWV9TY1F2dnF0alM5bDFENXFOSDFLUXRXRlhVRDRxZFRZU0dJSkVxS09OMks0Y0FBNUFOWmNnX2hzYnlOS0xFMmYzX1BCN1Vob1JmZW1sLTdKYUU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T04:30:38.015Z"
+  },
+  {
    "id": "9560206aa59c",
    "title": "Dell targets MacBook Neo and launches the XPS 13 laptop",
    "summary": "Dell targets MacBook Neo and launches the XPS 13 laptop آي-فون إسلام",
@@ -422,6 +422,32 @@
     }
    ],
    "firstSeen": "2026-10-25T11:12:42.418Z"
+  },
+  {
+   "id": "7985e80acc67",
+   "title": "OPPO launches a 10,000mAh power bank with integrated 22.5W fast charging cable for 598,000 VND.",
+   "summary": "OPPO launches a 10,000mAh power bank with integrated 22.5W fast charging cable for 598,000 VND. Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVYzUGtQZWhvZFI1WUd6dmZRdktHX215MS13MDhqNng2RWtLTkh5WGZaXzdMMkZYNzhDajlCYThJeVozcF9fcDJkSjZveDJfWTRsYjJhazBfZS1TTVYxVTNnckZvTkx0T0FTXzVhSllLX05mSTBYZ0RJd2VOeS1GRnhwU0NzOVBCMHFPRUF6LWI4M3c0a3hGQV9wMzlVTHp0bnZQbnNHRXBkRXRic2N5Yw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T06:57:00.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVYzUGtQZWhvZFI1WUd6dmZRdktHX215MS13MDhqNng2RWtLTkh5WGZaXzdMMkZYNzhDajlCYThJeVozcF9fcDJkSjZveDJfWTRsYjJhazBfZS1TTVYxVTNnckZvTkx0T0FTXzVhSllLX05mSTBYZ0RJd2VOeS1GRnhwU0NzOVBCMHFPRUF6LWI4M3c0a3hGQV9wMzlVTHp0bnZQbnNHRXBkRXRic2N5Yw?oc=5"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVRXWi16ZG9ZNk05ZkVmT0N1aHNISlZlb2tBOHBzdWhPa3lrdTF1N0JPZ1NnSTBPZzhqX3ZpdXctYmVuU2RtaS1CUVIxcV9UY1ZnTVRyRXB4Z2RGaHhoaV9rTTRIdmZVSnh0U3k1cnlOM3lOUnphWFpVUmpyWnkyNGVwbWE2M1MtektWSnE1U0dBMFVBVUh4QlV0cVhvRVdyM3dNNW5SUlByRDdZUzFjRUp3TFE2SGJIbk9ueGlIRWFLckJNSEFF?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T23:09:31.443Z"
   },
   {
    "id": "2a9781ff6374",

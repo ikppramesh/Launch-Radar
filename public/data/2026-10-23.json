@@ -487,18 +487,18 @@
   },
   {
    "id": "481efc7933f0",
-   "title": "Vivo Y600 Unveiled with Multiple Configurations and Colors",
-   "summary": "Vivo Y600 Unveiled with Multiple Configurations and Colors NewzTodays",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVJIUG1PY3RRU05ZcUN0VmlVRGdudVp1VzBObW45RDNDWnpXaEpyNHQ0aTA4SG9OYTlmR1RsbmM5SDJ1akRIUGV4a2drbjR0aXBfY1pDazZZRDJtcFF6T1pkT1VDMWtIcmVSWVpWOUl4eUVzNVhvMmwwLVkzTW9sT2ttVnh6ay1aYkE?oc=5",
-   "image": "",
+   "title": "Vivo Y600 launches with a massive 10,000mAh battery and a 120Hz AMOLED display",
+   "summary": "Vivo has launched the Vivo Y600 in China with a massive 10,000mAh battery that helped the smartphone secure a Guinness World Records title. The device reportedly streamed continuously for 32 hours and 37 minutes during a record-setting test conducted in August. Alongside its head",
+   "link": "https://www.gizmochina.com/2026/10/26/vivo-y600-launched-price-specs/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Vivo-Y600-300x136.jpg?x62950",
    "publishedAt": "2026-10-23T13:29:05.000Z",
    "date": "2026-10-23",
    "status": "Launched",
    "category": "Smartphone",
    "brand": "Vivo",
-   "region": "Global",
+   "region": "China",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "NewzTodays",
@@ -507,6 +507,10 @@
     {
      "name": "Brandsynario",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFE5cXdiOU9Ja25VVzBtd0thdnJ4ZE1pQW0tMTljSGpBcWxnQmIydDFIR3E4c1FOWDBUeTlwcEZLZG1rcFVQV0tYNEVpcUFXbHAyRWtCa3pQVmFBU2RjZC16c3RFRkstWHY0eC1wMl9VQ0pRbHVKVWl2NTg0NnJ4amxYYzlqNkxCaUZXak1UMEc4T0dEdklUVDRENVVfckVuSkJIWmtxQWFZR1RBRTZWZmZnb1AtMnVsa2FGN3l5T1dXc3Zu?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/26/vivo-y600-launched-price-specs/"
     }
    ],
    "firstSeen": "2026-10-24T15:49:05.918Z"
@@ -1869,6 +1873,10 @@
     {
      "name": "매일경제",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53Z2RPaGk2azdVdHA3Wk0xS01qU1R0VUxDQm5yakpmOUt4V0kzNVNPSTZpLXpKaDRwUlFyOFZTekFHeHFCNzZ5bkxHaw?oc=5"
+    },
+    {
+     "name": "The Korea Daily",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OeHN6aUQ3TkJha2NDM1dJbm1BUlVabjR6RjducGEtYXdaRnByc1gwXzJfUGJ1U1pIQmVqZG1WRVJJOTRsbk9Lemp5MV9qMXVnUVV6N3FPdlpYdE5RLTBiSlprU1VqZG55YmoySVFza0dTTEVrSFVPWA?oc=5"
     }
    ],
    "firstSeen": "2026-10-24T10:46:52.959Z"
