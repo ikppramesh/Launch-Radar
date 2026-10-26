@@ -2,6 +2,28 @@
  "date": "2026-10-25",
  "items": [
   {
+   "id": "4afd11bb6149",
+   "title": "GPU-Unlock launches, unlocking FP16 and BF16 on RTX 30 for local AI",
+   "summary": "GPU-Unlock launches, unlocking FP16 and BF16 on RTX 30 for local AI Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0dWbDlfQ1EybkotUEhONldUN0d2eW12SUpRZHVOcjd1bFFSenE0ZzdncnlMQ3J0VmFGbEJaZTZnVDFpQ1dPZVJLRHhYSTV5eFBfdXY3RWNKZ1NXUGU5cHBvTmMxN3hKRmFKRV93SUdkTllRbG5rZ09aWk54VTBrZzlGeVNLcjVwZmxkdDFYSm4weXMzX1p5aUNQcTBBWUxB?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T18:22:35.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Pasquale Pillitteri",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0dWbDlfQ1EybkotUEhONldUN0d2eW12SUpRZHVOcjd1bFFSenE0ZzdncnlMQ3J0VmFGbEJaZTZnVDFpQ1dPZVJLRHhYSTV5eFBfdXY3RWNKZ1NXUGU5cHBvTmMxN3hKRmFKRV93SUdkTllRbG5rZ09aWk54VTBrZzlGeVNLcjVwZmxkdDFYSm4weXMzX1p5aUNQcTBBWUxB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-26T12:47:28.646Z"
+  },
+  {
    "id": "d312696c2c7e",
    "title": "Foldable Smartphone Charging Systems: Baseus Introduces an iPhone Duo Accessory Collection",
    "summary": "Foldable Smartphone Charging Systems: Baseus Introduces an iPhone Duo Accessory Collection Trend Hunter",
@@ -129,28 +151,6 @@
     {
      "name": "Gagadget.com",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORm1EUjBfOU9WU2pYYWxKWmdUdUVlUnpBWEotc25ON0tIaEVtQ2xRWDdSRU9iOHNMMjQ4TVc0NzlRU3M5MUV2VXVicEY5XzJmRmtCVWotUDI2aGFydnV5LVRDNVU2UGZOV05ONDE0YmE2REZheXBXdGs4cy1XcTB0WWtoeGRnbkp0YjZ1amExUWQzUzMwb1EzajVjbFpCaGdvZjBlOGlBbzhGQVZzelVrRXhVeDI0ODRISjlyaHphUFViZ9IBxwFBVV95cUxPU1dad04wbFZ0elRBRkdsNVN2QlpyQXB2TE00Vm94UFR2LTVDRFV1Nl8zeXJBWWRkRzJPQ0N1ME5PbWJISHRpSlhpQmJVa2pOVHMzUlF4cmlabmpDX2tvLVVINVgxbGpESHZRelF0TVVSZU9TZE5mUXVKcjQyYzJDa3N0NWVyN1FSNThRbkJjTXp2d1B3Tk42YVZHWVkwWExmMnJtem1PRlpjOGNWSi1OUEdFVGZhQ0FVMU16bHpIS1F5TFFMNGNv?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-25T15:59:52.823Z"
-  },
-  {
-   "id": "0a93ffee712b",
-   "title": "Oppo Unveils 10,000mAh Power Bank with Built-In Cable Handle and Dual iPhone Charge Capability",
-   "summary": "Oppo Unveils 10,000mAh Power Bank with Built-In Cable Handle and Dual iPhone Charge Capability Gagadget.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlI4cUtPa0oyUno2LXZYaXFvcjB3djZpOE5pSDZzRzBvOF8zNk9qTHNqMUNVdTN1OW5ObGxULTg0UVI3OGt6dndncldiNEpXbWZLNHZ2UTJQTWtwZU90RGRyYmNPeFNoeUxFanBWQkZFR0VzdFF5S0c4RFhBc0JIeS1qaDNERW0zOXo5UmRGSmh1ZmZ5OGNCejFueXJmdWZZYUlqYXMydEpCeTRZOWJHOWl5ZlFBbEpBRWlvN2V3M01NQTjSAcgBQVVfeXFMT1V3bnlZR2s3eG1QcGlRanZMbWpMMWx4eDJ0TXhUX0hVWlQ0cXpQOE5rWGtsMzZQdzRWcklFYVFPbk9Qbkp1VXQ3WWlZLW4wQ0N4ejFwM2ZMVXA4ZkJhMmFiekJEXzJPTFVRamtLaE5tZWdrYXJ3SThQMDJfVUQ1SkZ2c2NMdDRfeHBqenlPblVBZDVIR3dRa0hVNnZkLVJJQWlsUUZJM0JubGttdVMzcUpJRmRpNEJnLVVmRWhLQ0VFQ0FUWVgtaVM?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-25T14:06:31.000Z",
-   "date": "2026-10-25",
-   "status": "Launched",
-   "category": "Accessories",
-   "brand": "Oppo",
-   "region": "Global",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Gagadget.com",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlI4cUtPa0oyUno2LXZYaXFvcjB3djZpOE5pSDZzRzBvOF8zNk9qTHNqMUNVdTN1OW5ObGxULTg0UVI3OGt6dndncldiNEpXbWZLNHZ2UTJQTWtwZU90RGRyYmNPeFNoeUxFanBWQkZFR0VzdFF5S0c4RFhBc0JIeS1qaDNERW0zOXo5UmRGSmh1ZmZ5OGNCejFueXJmdWZZYUlqYXMydEpCeTRZOWJHOWl5ZlFBbEpBRWlvN2V3M01NQTjSAcgBQVVfeXFMT1V3bnlZR2s3eG1QcGlRanZMbWpMMWx4eDJ0TXhUX0hVWlQ0cXpQOE5rWGtsMzZQdzRWcklFYVFPbk9Qbkp1VXQ3WWlZLW4wQ0N4ejFwM2ZMVXA4ZkJhMmFiekJEXzJPTFVRamtLaE5tZWdrYXJ3SThQMDJfVUQ1SkZ2c2NMdDRfeHBqenlPblVBZDVIR3dRa0hVNnZkLVJJQWlsUUZJM0JubGttdVMzcUpJRmRpNEJnLVVmRWhLQ0VFQ0FUWVgtaVM?oc=5"
     }
    ],
    "firstSeen": "2026-10-25T15:59:52.823Z"
@@ -424,6 +424,28 @@
    "firstSeen": "2026-10-25T11:12:42.418Z"
   },
   {
+   "id": "f203a0901c52",
+   "title": "Apple to Unveil Touch MacBook Pro After Two Decades of Resistance",
+   "summary": "Apple to Unveil Touch MacBook Pro After Two Decades of Resistance Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T07:00:00.000Z",
+   "date": "2026-10-25",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T23:09:31.443Z"
+  },
+  {
    "id": "7985e80acc67",
    "title": "OPPO launches a 10,000mAh power bank with integrated 22.5W fast charging cable for 598,000 VND.",
    "summary": "OPPO launches a 10,000mAh power bank with integrated 22.5W fast charging cable for 598,000 VND. Vietnam.vn",
@@ -628,6 +650,28 @@
     }
    ],
    "firstSeen": "2026-10-25T04:27:47.946Z"
+  },
+  {
+   "id": "0a93ffee712b",
+   "title": "Oppo Unveils 10,000mAh Power Bank with Built-In Cable Handle and Dual iPhone Charge Capability",
+   "summary": "Oppo Unveils 10,000mAh Power Bank with Built-In Cable Handle and Dual iPhone Charge Capability Gagadget.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlI4cUtPa0oyUno2LXZYaXFvcjB3djZpOE5pSDZzRzBvOF8zNk9qTHNqMUNVdTN1OW5ObGxULTg0UVI3OGt6dndncldiNEpXbWZLNHZ2UTJQTWtwZU90RGRyYmNPeFNoeUxFanBWQkZFR0VzdFF5S0c4RFhBc0JIeS1qaDNERW0zOXo5UmRGSmh1ZmZ5OGNCejFueXJmdWZZYUlqYXMydEpCeTRZOWJHOWl5ZlFBbEpBRWlvN2V3M01NQTjSAcgBQVVfeXFMT1V3bnlZR2s3eG1QcGlRanZMbWpMMWx4eDJ0TXhUX0hVWlQ0cXpQOE5rWGtsMzZQdzRWcklFYVFPbk9Qbkp1VXQ3WWlZLW4wQ0N4ejFwM2ZMVXA4ZkJhMmFiekJEXzJPTFVRamtLaE5tZWdrYXJ3SThQMDJfVUQ1SkZ2c2NMdDRfeHBqenlPblVBZDVIR3dRa0hVNnZkLVJJQWlsUUZJM0JubGttdVMzcUpJRmRpNEJnLVVmRWhLQ0VFQ0FUWVgtaVM?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-25T01:28:10.000Z",
+   "date": "2026-10-25",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gagadget.com",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlI4cUtPa0oyUno2LXZYaXFvcjB3djZpOE5pSDZzRzBvOF8zNk9qTHNqMUNVdTN1OW5ObGxULTg0UVI3OGt6dndncldiNEpXbWZLNHZ2UTJQTWtwZU90RGRyYmNPeFNoeUxFanBWQkZFR0VzdFF5S0c4RFhBc0JIeS1qaDNERW0zOXo5UmRGSmh1ZmZ5OGNCejFueXJmdWZZYUlqYXMydEpCeTRZOWJHOWl5ZlFBbEpBRWlvN2V3M01NQTjSAcgBQVVfeXFMT1V3bnlZR2s3eG1QcGlRanZMbWpMMWx4eDJ0TXhUX0hVWlQ0cXpQOE5rWGtsMzZQdzRWcklFYVFPbk9Qbkp1VXQ3WWlZLW4wQ0N4ejFwM2ZMVXA4ZkJhMmFiekJEXzJPTFVRamtLaE5tZWdrYXJ3SThQMDJfVUQ1SkZ2c2NMdDRfeHBqenlPblVBZDVIR3dRa0hVNnZkLVJJQWlsUUZJM0JubGttdVMzcUpJRmRpNEJnLVVmRWhLQ0VFQ0FUWVgtaVM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-25T15:59:52.823Z"
   },
   {
    "id": "ee9ab5f32507",

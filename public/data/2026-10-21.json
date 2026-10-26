@@ -511,12 +511,16 @@
    "category": "Smartphone",
    "brand": "Infinix",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "LatestLY",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1g0ZGNhTWN3Y25qak1PdkRQbHhtTElpejcwc21uMzFZRVJieHZILTUydUdNRHFRVUpFRW1sdzU5LXB5QVR4amphRXhFbi1zbzZMeWtzdGo0b3dpVld0aUtKRDF5NHRiZnI0TDM2WFEzWUctRktlSlpxbUJ3WHM3a1JnVDRPdjF2YjhuSW5yWWRIdTBxRzYxNWhUZ2hfSWt1OUtKZXVha9IBrAFBVV95cUxQbFNEN0t5SEV1MjdYREZLQ3Jrd2ZBYzNEUEs2RFNRYjJPeUVMdFRMOXhpZGFvUUNOQVRJNDgyeURlS1daZkNPSzNmY05wb21wcUdQQ25paTF0cDlaMy1aVUloSXk0QVZKQ2t1MFgtVTFtMFZFd083NkliSF9UUVEyZ0ZsaUtlRzJxRVpSRHl2RXd0cnpwU29vMklleF8wTTJNbWRRMHpCMzNDelBU?oc=5"
+    },
+    {
+     "name": "Business Today",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEpmazdnclJUcTBWQ3liYUo2VFlxT2t1NXlTRld3RFllYlB4X2hId0FRS09pRk5NMldkNzRBVnJNRmJzQ1BPWHFpX0RzLS1iRHNfUVNmYkNjSzc2d0tucTc3YUpJZmx4RXJrVENSTWdBb3FqblIwNE5yNGxHU1ZhRnhVQV9meTJoalV1bGNWWlBEd1V1M0Y1c1FqdjRMYzlnUDNacW1MNEp5YWlkUTVJR0M2OWIwWkpVUkV4dm1mWnNmWmdKNDY2NDhla2FEbWxfRl9UajVlQVZXUF8zcXRrbdIB4AFBVV95cUxNVEpmazdnclJUcTBWQ3liYUo2VFlxT2t1NXlTRld3RFllYlB4X2hId0FRS09pRk5NMldkNzRBVnJNRmJzQ1BPWHFpX0RzLS1iRHNfUVNmYkNjSzc2d0tucTc3YUpJZmx4RXJrVENSTWdBb3FqblIwNE5yNGxHU1ZhRnhVQV9meTJoalV1bGNWWlBEd1V1M0Y1c1FqdjRMYzlnUDNacW1MNEp5YWlkUTVJR0M2OWIwWkpVUkV4dm1mWnNmWmdKNDY2NDhla2FEbWxfRl9UajVlQVZXUF8zcXRrbQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T17:04:11.676Z"
@@ -1852,8 +1856,8 @@
    "status": "Launched",
    "category": "Smartphone",
    "brand": "Nothing",
-   "region": "Global",
-   "confidence": 2,
+   "region": "China",
+   "confidence": 3,
    "aggregator": true,
    "sources": [
     {
@@ -1863,6 +1867,10 @@
     {
      "name": "AndroidGuys",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2lKWWNrNzJZMThCdzhrTi1TX1FVNzB0RHpRd29sQ0t2MTJFNzhIdm0zVlBMamlNMVFqUVVpWGxraUlRVzhZUk0wVW5mTlBkWFNfdHAtRnl1RFFYb3FWSGprWTJCZFN3UWhyeThlQ2Jja0FiZFg2SGFnSTVBVXlvSy1pb1VnaW1Na21yZkRVWW1fdmJyakFlOER4UFRneF80NFdSZWtBNGVqMGlWck5aYlluY0kwdWZqZlE?oc=5"
+    },
+    {
+     "name": "ASCII.jp",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yT3NPQ2FrNVNGWlNraGE3Z2FJdjRadU5vRllfOHduMGJOQVpQbU5ocDVzS0UtdTVhNFFONzJNb2xBYm1RQnNTQVl5ME9IeENzNml2SllNVTM?oc=5"
     }
    ],
    "firstSeen": "2026-10-22T11:38:22.836Z"
