@@ -1386,7 +1386,7 @@
    "status": "Launched",
    "category": "Smartphone",
    "brand": "Vivo",
-   "region": "Global",
+   "region": "Europe",
    "confidence": 3,
    "aggregator": false,
    "sources": [
@@ -2051,22 +2051,26 @@
   },
   {
    "id": "9b120011755f",
-   "title": "Xiaomi Unveils Redmi Book Laptops with Intel Wildcat Lake",
-   "summary": "Xiaomi Unveils Redmi Book Laptops with Intel Wildcat Lake RS Web Solutions",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkdvVlhUZnZFMGtiOGt5YmxuZEtMWnlpRWdHelRnMHJYRFgyRE9GVHNCYUo0ejlCWWdUTXBWekg2Qy0wT1UxWHViXzk4SEdZUnQ0MWJCN2lKT2o3NXc4TDQzQTNaejBGU1I1S0NDbWNnU1dwc1lEX2pXNmZKX3dHTVV2R09CQ25mdXF6R2pqaFREaGVzSUMzdUxOU3dvYVRzeUJ0WGZVNDE?oc=5",
-   "image": "",
+   "title": "REDMI Book 2027 series 14-inch and 16-inch laptops launch in China with up to 72Wh battery, Intel Wildcat Lake processors",
+   "summary": "Ports include: two full-function USB-C 3.2 Gen2, HDMI 2.1, two USB-A ports, and a 3.5 mm headphone jack. The post REDMI Book 2027 series 14-inch and 16-inch laptops launch in China with up to 72Wh battery, Intel Wildcat Lake processors appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/10/27/redmi-book-2027-series-14-inch-and-16-inch-laptops-launch-in-china-with-up-to-72wh-battery-intel-wildcat-lake-processors/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/redmi-book-2027-launch-300x169.png?x62950",
    "publishedAt": "2026-10-22T21:00:00.000Z",
    "date": "2026-10-23",
    "status": "Launched",
    "category": "Laptop",
    "brand": "Xiaomi",
-   "region": "Global",
+   "region": "China",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "RS Web Solutions",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkdvVlhUZnZFMGtiOGt5YmxuZEtMWnlpRWdHelRnMHJYRFgyRE9GVHNCYUo0ejlCWWdUTXBWekg2Qy0wT1UxWHViXzk4SEdZUnQ0MWJCN2lKT2o3NXc4TDQzQTNaejBGU1I1S0NDbWNnU1dwc1lEX2pXNmZKX3dHTVV2R09CQ25mdXF6R2pqaFREaGVzSUMzdUxOU3dvYVRzeUJ0WGZVNDE?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/27/redmi-book-2027-series-14-inch-and-16-inch-laptops-launch-in-china-with-up-to-72wh-battery-intel-wildcat-lake-processors/"
     }
    ],
    "firstSeen": "2026-10-22T21:27:56.747Z"

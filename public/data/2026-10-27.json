@@ -2,12 +2,538 @@
  "date": "2026-10-27",
  "items": [
   {
+   "id": "b5941513d74c",
+   "title": "Samsung Galaxy A08 with 6.7″ 90Hz display, 6000mAh battery launched in India",
+   "summary": "Samsung has introduced the Galaxy A08, an entry-tier smartphone in India developed to handle routine daily workloads such as media consumption, web browsing, casual gaming, and basic photography, after it was introduced last month. The device incorporates upgraded processing hard",
+   "link": "https://www.fonearena.com/blog/495849/samsung-galaxy-a08-price-india-specifications.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/09/Samsung-Galaxy-A08-1024x710.jpg",
+   "publishedAt": "2026-10-27T15:11:53.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495849/samsung-galaxy-a08-price-india-specifications.html"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "eabb2d43e442",
+   "title": "Trump's DOJ unveils bombshell new charges for ex-FBI agents accused of Hunter Biden laptop 'cover-up'",
+   "summary": "Trump's DOJ unveils bombshell new charges for ex-FBI agents accused of Hunter Biden laptop 'cover-up' Daily Mail",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY1FnbkRCUExHMkR0eDQ3MmhQM2lIZnNXaHVNRHVJSG5TemVZbm5BV2VDYXR0REJsbkladnBxXzRwck9maG13ajhBNHlJenI0WXYtNVpoWFhzT1JuUWlZb0NhNFhVeVE2UGR6ZE9WanBvX3NzdVdaekVKRV9kQ0RsaTNyMnBlNm5nRFEzMm9ucTNxZ25pRkxZUVVLX19VY1JzZHJyREg2XzV5MGtOXzZJb21nQVRfTk5sOGJqd3A4Wm9XdncxNmxrOUNyRGNpMzVXWGVPZndEbzBxeVVp0gHiAUFVX3lxTFBVdGVLOVNUMGJsXzFFNDhwWnU4dElVV2lTZ2xuSllKTjgwb3NEYURxM3JCSjhqR0VSTHB0Y3lNU0s1YUY5N191VEJoTnBuRkV1LTJOYjg5MjdWaUxGUjRzMlRrQ3dIdEU3bmpMYzZyYUZjM0xxUC1aanJWa3NHQ2xXNmx3ZGpnRjd6RWhvRUFUUTB1OE1LRExDLXZLbUtaNlljaFplOWZFSmN6RlBodFd0cDJBS1p0WnczQTFNVHVEYzNSdGJ4RHpfbWYxMmtWX3VSZ00yX1lhU1Nla3o0ZjRXbEE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T14:52:03.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Daily Mail",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY1FnbkRCUExHMkR0eDQ3MmhQM2lIZnNXaHVNRHVJSG5TemVZbm5BV2VDYXR0REJsbkladnBxXzRwck9maG13ajhBNHlJenI0WXYtNVpoWFhzT1JuUWlZb0NhNFhVeVE2UGR6ZE9WanBvX3NzdVdaekVKRV9kQ0RsaTNyMnBlNm5nRFEzMm9ucTNxZ25pRkxZUVVLX19VY1JzZHJyREg2XzV5MGtOXzZJb21nQVRfTk5sOGJqd3A4Wm9XdncxNmxrOUNyRGNpMzVXWGVPZndEbzBxeVVp0gHiAUFVX3lxTFBVdGVLOVNUMGJsXzFFNDhwWnU4dElVV2lTZ2xuSllKTjgwb3NEYURxM3JCSjhqR0VSTHB0Y3lNU0s1YUY5N191VEJoTnBuRkV1LTJOYjg5MjdWaUxGUjRzMlRrQ3dIdEU3bmpMYzZyYUZjM0xxUC1aanJWa3NHQ2xXNmx3ZGpnRjd6RWhvRUFUUTB1OE1LRExDLXZLbUtaNlljaFplOWZFSmN6RlBodFd0cDJBS1p0WnczQTFNVHVEYzNSdGJ4RHpfbWYxMmtWX3VSZ00yX1lhU1Nla3o0ZjRXbEE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "78a338e7b2fd",
+   "title": "Kohat Administration Launches Mobile Veterinary Clinic, Reviews Public Services",
+   "summary": "Kohat Administration Launches Mobile Veterinary Clinic, Reviews Public Services UrduPoint",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnJZNDdLOWFrY3hxVjVHNm9DQU9RbFFnTHVyOHE1eWxGRGdaZUpkMzRSLXpRa3RUU2djVVJ6eThyWWZhNm9tX19QUVZrWjNsMzBWa0dFaUdYQUo2UzNWV3A3alZ5emhHa215cERJcWZVR3h0RlpXYzdMMkZHVXFDSU1yZ1FZYnlfVzFESGM4enZkVHFrUHVscjBZOA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T14:45:39.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "UrduPoint",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnJZNDdLOWFrY3hxVjVHNm9DQU9RbFFnTHVyOHE1eWxGRGdaZUpkMzRSLXpRa3RUU2djVVJ6eThyWWZhNm9tX19QUVZrWjNsMzBWa0dFaUdYQUo2UzNWV3A3alZ5emhHa215cERJcWZVR3h0RlpXYzdMMkZHVXFDSU1yZ1FZYnlfVzFESGM4enZkVHFrUHVscjBZOA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "1c0f0bb3273d",
+   "title": "New MacBook Pro redesign details revealed ahead of launch",
+   "summary": "Apple debuted a new M6 MacBook Pro today, but a high-end MacBook Pro redesign is coming tomorrow, and Mark Gurman has shared some new details to expect. more…",
+   "link": "https://9to5mac.com/2026/10/27/new-macbook-pro-redesign-details-revealed-ahead-of-launch/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-27T14:31:03.000Z",
+   "date": "2026-10-27",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/27/new-macbook-pro-redesign-details-revealed-ahead-of-launch/"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "b72bb49b157e",
+   "title": "Everything Apple announced this week so far: New iPad and MacBooks",
+   "summary": "Ahead of its 'Pro and Tell' event, the company has already launched a few new devices.",
+   "link": "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/",
+   "image": "https://www.engadget.com/img/gallery/everything-apple-announced-this-week/l-intro-1793108609.jpg",
+   "publishedAt": "2026-10-27T14:23:09.000Z",
+   "date": "2026-10-27",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "a1aa645f673c",
+   "title": "Galaxy Buds On are now available for purchase in Korea",
+   "summary": "Earlier this month, Samsung unveiled its first clip-on style wireless earbuds called the Galaxy Buds On. The company had only confirmed the pricing and availability details for South Korea initially. Customers in Samsung's home country can now order them, as the Galaxy Buds On ar",
+   "link": "https://www.sammobile.com/news/galaxy-buds-on-are-now-available-for-purchase-in-korea/",
+   "image": "",
+   "publishedAt": "2026-10-27T14:11:56.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "South Korea",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "SamMobile",
+     "link": "https://www.sammobile.com/news/galaxy-buds-on-are-now-available-for-purchase-in-korea/"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "fc26a2aaf89f",
+   "title": "Apple Unveils New MacBook Pro Ahead Of November Launch — HSBC Sees Strong iPhone Demand, Potential AI-Driven Upgrade Cycle",
+   "summary": "Apple Unveils New MacBook Pro Ahead Of November Launch — HSBC Sees Strong iPhone Demand, Potential AI-Driven Upgrade Cycle TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxON2ZReERBdEc3UFlDUjVQWkxBNjRMNDJFWGR1TXpRV0xMNnM0QjkzU3R2NS1iR3plYWllemsxVXVUTFZWZ19kR2hkTE1MeU9QUnA0SHJqckV2MWRMQ3k4aUc4Q3EteVg0Y2hOWDlQZTlGTHVMTnZXazVoOGt6WEw5RkliT25neE9LN0J6MTItUHRIdldpcHhPSVZtVm12cm5SYWVCYmgwazQtVkh1SDIyVGU5azRhUUozRFdzTXZ0SHdjSmRSamJ1RXlxTG13eWUydV9jN1psWmRJWnh1NHpNckRZSmVxb1FvQkhLYmgwcWNHZVVIM1NMVzVEZEFFeVpWNzFlYXNXZmZEaE53?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T14:09:31.000Z",
+   "date": "2026-10-27",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxON2ZReERBdEc3UFlDUjVQWkxBNjRMNDJFWGR1TXpRV0xMNnM0QjkzU3R2NS1iR3plYWllemsxVXVUTFZWZ19kR2hkTE1MeU9QUnA0SHJqckV2MWRMQ3k4aUc4Q3EteVg0Y2hOWDlQZTlGTHVMTnZXazVoOGt6WEw5RkliT25neE9LN0J6MTItUHRIdldpcHhPSVZtVm12cm5SYWVCYmgwazQtVkh1SDIyVGU5azRhUUozRFdzTXZ0SHdjSmRSamJ1RXlxTG13eWUydV9jN1psWmRJWnh1NHpNckRZSmVxb1FvQkhLYmgwcWNHZVVIM1NMVzVEZEFFeVpWNzFlYXNXZmZEaE53?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "c198b57fc52a",
+   "title": "Samsung Galaxy Buds On: Design, Features, and Launch Details of the New Clip-On Earbuds",
+   "summary": "Samsung Galaxy Buds On: Design, Features, and Launch Details of the New Clip-On Earbuds Analytics Insight",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUFNUlNNa0RmZDBxcXBvU2tfNXN0V21OX0pHaWtOamU2UmoxS2FYWFFYVWlYSnY5NGtUaXBxVlZlTW9NX2VhSEZIRDZMR29ITFRSZWg4Sm1jS1duQ0xzdS1ldWhNLWZRZzhyNmYwSzBQQXlIR1J3QTBJdUZlT0xyZTVFTy1GYjQ0X2VFa2xXYm1oeDlHWTNEU2tHcmJQSW1jYmpRcjRhdllXMEVyMFo3U2xSYlROQXhnVEt0YzNmeFZfQmtKSkV1emRZUzIzZWJD0gHQAUFVX3lxTE9FQU1SU01rRGZkMHFxcG9Ta181c3RXbU5fSkdpa05qZTZSajFLYVhYUVhVaVhKdjk0a1RpcHFWVmVNb01fZWFIRkhENkxHb0hMVFJlaDhKbWNLV25DTHN1LWV1aE0tZlFnOHI2ZjBLMFBBeUhHUndBMEl1RmVPTHJlNUVPLUZiNDRfZUVrbFdibWh4OUdZM0RTa0dyYlBJbWNialFyNGF2WVcwRXIwWjdTbFJiVE5BeGdUS3RjM2Z4Vl9Ca0pKRXV6ZFlTMjNlYkM?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T13:49:41.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Analytics Insight",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUFNUlNNa0RmZDBxcXBvU2tfNXN0V21OX0pHaWtOamU2UmoxS2FYWFFYVWlYSnY5NGtUaXBxVlZlTW9NX2VhSEZIRDZMR29ITFRSZWg4Sm1jS1duQ0xzdS1ldWhNLWZRZzhyNmYwSzBQQXlIR1J3QTBJdUZlT0xyZTVFTy1GYjQ0X2VFa2xXYm1oeDlHWTNEU2tHcmJQSW1jYmpRcjRhdllXMEVyMFo3U2xSYlROQXhnVEt0YzNmeFZfQmtKSkV1emRZUzIzZWJD0gHQAUFVX3lxTE9FQU1SU01rRGZkMHFxcG9Ta181c3RXbU5fSkdpa05qZTZSajFLYVhYUVhVaVhKdjk0a1RpcHFWVmVNb01fZWFIRkhENkxHb0hMVFJlaDhKbWNLV25DTHN1LWV1aE0tZlFnOHI2ZjBLMFBBeUhHUndBMEl1RmVPTHJlNUVPLUZiNDRfZUVrbFdibWh4OUdZM0RTa0dyYlBJbWNialFyNGF2WVcwRXIwWjdTbFJiVE5BeGdUS3RjM2Z4Vl9Ca0pKRXV6ZFlTMjNlYkM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "dca677ab2a0e",
+   "title": "LG 115-inch 120Hz 4K QNED evo AI Mini LED TV launched in India",
+   "summary": "LG Electronics India Limited (LGEIL) has introduced its 292 cm (115-inch) QNED evo AI Mini LED TV in India. The 115QNED90BL is the largest model in the company’s 2026 QNED evo lineup. LG 115-inch QNED evo TV features Display and picture processing The TV uses Precision Dimming Ul",
+   "link": "https://www.fonearena.com/blog/495834/lg-115-inch-120hz-4k-qned-evo-ai-mini-led-tv-price-india-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/LG-115-inch-QNED-evo-AI-Mini-LED-TV-1024x598.jpg",
+   "publishedAt": "2026-10-27T13:48:53.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "LG",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495834/lg-115-inch-120hz-4k-qned-evo-ai-mini-led-tv-price-india-features.html"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "97e71d95788b",
+   "title": "Apple's iMac with M6 arrives promising a 'huge leap' in AI performance",
+   "summary": "It offers more cores and more performance per core than the iMac M5.",
+   "link": "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/",
+   "image": "https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793110400.jpg",
+   "publishedAt": "2026-10-27T13:00:17.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Apple",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/"
+    },
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/"
+    },
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/"
+    },
+    {
+     "name": "Tom's Guide",
+     "link": "https://www.tomsguide.com/computing/apple-desktops/apple-unveils-new-imac-with-m6-here-are-the-all-the-upgrades"
+    },
+    {
+     "name": "Pocket-lint",
+     "link": "https://www.pocket-lint.com/apple-unveils-new-m6-macbook-pro-and-imac/"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/27/14-inch-m6-macbook-pro-unveiled-20-30-better-performance-72-4-wh-battery-for-up-to-24h-video-streaming/"
+    },
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/apple-introduces-14-inch-macbook-pro-with-m6-chip/"
+    },
+    {
+     "name": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3B6ZTl2YngycEZ2VU5pQmhuOC1TVmdrajNIVHNGdlJKQmQxd3QtMy0tdGdHM0FVRk5LV0c0UzZxbkZPZldtckJXSXgwVl9RY1NEd3B0TFZrVU9QMTZlOVdGRVhPV0pEWkZKMkVMOGxfRElZczdCbmxLV1lRT05sOHk4d1NNUmxQcjgzWXNXTXh5dzh4ZEtzWGVGYlhUNmRkaTZ5bjNGeVZvSC1LSS1lOTg1RjV0VGVPTUNKS2pzVUc?oc=5"
+    },
+    {
+     "name": "BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOZ0NvWTFndlRHZEtOYlEwS01LQ0pkUHltcjBHd1BpODhHUWtSLWhleC04OS02N0Y3a2U3MURKeXI0UlNoNXd5RkJBcTZhdjZRNG16LTh2ZHNjRE1JdnJNT244UXhTdVFfczQ4UXNldkJNY09DUG5Ba0FZYVFHUHJxT1hDeDhiWkJKMFNvSkl0aDQzbEd0ODVCdzZnTDdvV1B4dWxoSkNqQWJHR1R4TmE5NWVTTjNYV3Vfek9QaUNYZWwyMDN3VXhOR21sY0ZwcVNaOFo1QThEZ3pjTjJtRVBJZENSUFRqdmM0c1lxSlVDdXpUNjlzUjBLb2RrT3NhRFVzeTdyckJKSG9kOGl5ZmRmSDJ5dGNXNi1VUGtWVlVOc3djUGl6azNPeVV3MFU1V2pGakpRbVZhWlpxLXhrQ0F3RkQtaEFkMFI1RkNjbm5iaTBvZ0hsRlBzZw?oc=5"
+    },
+    {
+     "name": "The Apple Post",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXBfb1FHUlNCOVZoSzNza0U0REVWYk14dGJJTVRzNDJqMlVaOTdGdmtMNXdGZGJ0MlBJbnB1bm92T2d2blRrdG5rYzgyRGg3SVhzUFllMzJGdGFhUDRiSV9TVnZXYTZUS1ZvcEh0bTVOM2dscWVnVTUzckNhM2t1M2lMY25OUUpXWHZSejhWMTMtcXpfeDAyQmdyS1Rvb2pVRGZOMzFMYTNqeWRVS0k4U9IBtgFBVV95cUxQZ3hKTjk1YTdnT2R0THdYbXNOT01XOXhCeTFxLXpWMWMtVU1MMS15UVVGeTNmS3dCdW1IeUN3VHBUVV92LXowY1EwVkVadHdUemhrWDZud1phcFhLd1FHb1E4cFE2ZWVpMXJCS0JpekdZZVdtWnlpZ2IxQmxfZENlVUxIa2NZLVkwWmlWS24xUC1uaDhBZGlXMm9zUk96N3hLeUltZU1aMGdUdTVhMzNLaVd3X1NNdw?oc=5"
+    },
+    {
+     "name": "SSBCrack",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0pVVkNtTG9xb3VQWlF2ZDNtcjlPV2hfd3NsY3RsdktQTHB4YnRMZlhxaU5kbTdOSWkwU21RSlBDaUNUN2sxd3ZDSjY4anNjZzcxaEJzZy1uM3JibnVWQVBNaDNpWnBZeXVOZkNDdGJrSHBraVIyOFF6X0E4YTg4aG13akFnaDYyVXBRanZpOHo0SnFzQ1dSN1ZNVlA0QzA3bERMcEIyaWd1S3BMWFY4RDVPcmtMUThVVUdaOUEzZUhBcUNXT3dF?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVU53WU1RMHpDdEN5YXlHY0xzd01WcGdlNjZES3JEZHB0anc0cGZ6T2NzV2dtNTJ3cFlyQWtteF9LMTVxVFRIOE9DTzgzT0FlU0pLcGFsNE52bVotWkM4QmxkVno4SFVkRl9Wc0VvcHV1bGNtVGhwRno5VHdTM01ucC16NzQtekpwN1hFbGdsR0UzX2NieXQyOWluSFEyOHZGcC1BX2tHYXgwLXoyMHRBVlp2Q1E0QWk0RTl3VEJn0gHDAUFVX3lxTE42VVhPRF8yYjZQYkxTNVo3NkFLdWNUcGdNMW12WG4zT2N6dTZfc2NOVkwwTllXWVBHZWgxTW5wS0RpdTlpdm0yUWk0WWg1a0ZUVXBVSkhvZ0NmZXo2VEluNTRnWFBKNGZiVUt3R0lfSkhCMkF3VmRVUS1DZ1hpeVFMZnRpb3hZenJaSEQ3bGNDaDVQTzBVdnVTNzFTY3JGVmV4T3k1eTFBU2ZhRi1Sb3J3SnROXzlKXzJoVW92Y0diaWE0TQ?oc=5"
+    },
+    {
+     "name": "TelecomTalk",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtc1R0dzdsNmpHLVI2bkdzZ2pkOEV3ZE10MkI3VHRXcWxEZzFkWHc0a2ZRMlZYNDBXSDdOWnNibEFLdVMyS29zaklVNHZNYVVsNG82aTk5VjZTNXdOV0RGazJzdW03cG11dzduY1NwckRRQXV2ZHNZcA?oc=5"
+    },
+    {
+     "name": "Times Now",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMWY1SFhxMmdGTk1qWkdQdnNpVVBoMXpacURucGZQeUFZTV9SbjdxZVg2WHR5dWI5MXVnV3dmTVdzaGhtbWd4d3M1c3pZRUJpYXZVdDduSXNRRnZXNmdjSjhRSklqSlhHZ0RZelBDWVZSSkhoOHBtcDF1SFgzRFRRY2p5N0Q3T05CTG40QnkxczNfcjZib0ZpclN5YU5BMVZSd2VCLTJkSFVjb1RDemRnSHEzY0NJUWhOTnZ1TVVwTjJxcUc0QlJjT3hVQ3h0SU9lZnMwNjJneVNJLXdKaUJxZDdPeXlhRmhFNlR5QVJKWkhnQdIB9wFBVV95cUxNSmNnbjJER3o4VDIxZjNRS1ZiSlcyVEVHTFpZX0hRWWprMTJIcUdJcGZtSVNSRFZsRDM2ejg4T3ZRMnhmdXZGaGtqcnRuN1U4MTc2STZadkxSOVhHa0ZWQXQ1UU9zbE1TTzB2YU92OG43SklPZ3J3SV9LcXBwOW5JWVk2czZwWjVvZG5JZXh2Um01ZkdKdzBDdFRzaURZRHVqckZkY3ZldVJiN0szYi1iOUg4d0dhM3dhQXh0cVF3Y0w5WFVOcWIzMG9UMlhodzJjeERObHptZmw5MTN1RFJtSklqeHRBYWkzYWo1eXVBSEVRMHJFLXdr?oc=5"
+    },
+    {
+     "name": "BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWdiWUgtM0h4aDhuZ1luMTZSZF9fVHY0X19oNmlZS0xoMkQ1REZYLTN3N0E0bmVEQWFQNUhaTmJLM24tUG5ORkFUU3dSRTZkelRicl9PYmktR0M0bjVKdVo4UnBJNGFsWjBmN0p4YU1nbTVOQ1ZCbWd0eGpyemNjRGwwb0lqTjktWWdvZzlTX3ZGcm82X2hHUzZWV0ZuaFVZOEJxSXVnYm9fcHcyTHdPWVJwVmlmM3IzMEkwUXBmbmtvS1RsY3JnS2lfcHJrSVVxZTN4bm84RETSAd8BQVVfeXFMT1RRZ0NQQW1QekNtN0lpTlJ6b0hZb21CRUg5QUltM3RWNVNxNTQyaEcydzZqRmcwRU5MMGJsY3dfZXhlczA1QVQ5QmIyLXFLYWJXVkZ1N2R0NlMtQXduUVVVY00zaERuQTFvMDczd0xrbDg5LXQtTWFDc2NWMDYwdUNhemVnLTVKZDBGZmNSbi1YM2JqQUE4UUNFazBHUmx6X19STUJMSnhnV2xLSm00UVl0YU9Ta2pCYUFUVElvQUFJYm9sYWdPWmZZd2lPUmY5c0txZ3dwbHgyYUptYnFNRQ?oc=5"
+    },
+    {
+     "name": "CNA",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdy1uVjRlbzFGT3JzTU5PeURLc2ZTLS1pWlhqQnB2V0x5S3phZnFFeU5nWGphc3FrUDd0dUdHWnQ1REQwZTRzY1VLM20tUENHZFJhTGh3V0tjV2QtZlhGTzA3MmFmeWNmNl9hQ2tYTHlIQTJIZXJZOFkwZ3RGbUZlV3R5OExLeWMzR1BjSmxpZ2ppS054SUIwa2Rqby0zZzY2dFFNSFdJUlBydWlOMzNFb3d3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "92c00c3fca13",
+   "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+   "summary": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTZ5ZTdzbkVHRm1kVjFuMmF2S3hxOFZISHB1WEZ6U3dEazMzVEEwRk52WVZ5cXNfZFoxc3VmWlhoempUb1hNX2txZ2J2Y1Y3eXRlVlc0LU1QSEZWb1dyRE9Rbng1U1dlY3R2QUMzbjY3czR5cjA1R250WV9uem10RUhENEpDLWxKYmJHTUxWSG5vM25udG1kVktjRHY?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T13:00:00.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Qualcomm",
+   "region": "USA",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTZ5ZTdzbkVHRm1kVjFuMmF2S3hxOFZISHB1WEZ6U3dEazMzVEEwRk52WVZ5cXNfZFoxc3VmWlhoempUb1hNX2txZ2J2Y1Y3eXRlVlc0LU1QSEZWb1dyRE9Rbng1U1dlY3R2QUMzbjY3czR5cjA1R250WV9uem10RUhENEpDLWxKYmJHTUxWSG5vM25udG1kVktjRHY?oc=5"
+    },
+    {
+     "name": "The Tech Buzz",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHFrdkozMWJ1U2k5Ny1RaXlLMGZpbjNwY1A2RERpd1ROcEE2NTYzOTQ0WHlhblJQblVnRy1BaHRWRFYtQTRKZlBnTzRSNndZMHloWXRIQ21vRmJTQTNYYlZsOG02OGltNGNicEFVTVNobnBCR0loU0R5QW9CQWRqU1FzV0FCNEUtZDFHTGJfbw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "77ee71289a8a",
+   "title": "Xiaomi launches slim Intel-powered laptop lineup with 120Hz displays and 72Wh battery",
+   "summary": "Xiaomi launches slim Intel-powered laptop lineup with 120Hz displays and 72Wh battery Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHpUMXJkSXEzSUpTRTF2WjdadVF2R0E3QjhGZEpYOHUtOThlQk43eVZYU0M4NE93cEsxaDFzVm9LTUpKOUhOR0d1eTIzRDU3YnJ2Q1EzRXBsQUVEQURtRW96aEJXc0pqdGw5WnZEbzRISVc4elBVYXdZc1lnQ2RGVHFiTTVLSUVUTXZ4R0FSRDJEYTlhdTExcW5ZVldyUk5NQUxCS0dOTVF6d1lRR0NfZ2w0NmJTbjIxQ2FfZVdQSHdYWG5mTG9GeGh3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T12:49:00.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHpUMXJkSXEzSUpTRTF2WjdadVF2R0E3QjhGZEpYOHUtOThlQk43eVZYU0M4NE93cEsxaDFzVm9LTUpKOUhOR0d1eTIzRDU3YnJ2Q1EzRXBsQUVEQURtRW96aEJXc0pqdGw5WnZEbzRISVc4elBVYXdZc1lnQ2RGVHFiTTVLSUVUTXZ4R0FSRDJEYTlhdTExcW5ZVldyUk5NQUxCS0dOTVF6d1lRR0NfZ2w0NmJTbjIxQ2FfZVdQSHdYWG5mTG9GeGh3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "f142c89c99d8",
+   "title": "T-Mobile unveils T-Mix plans with swappable perks",
+   "summary": "T-Mobile unveils T-Mix plans with swappable perks news.lavx.hu",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjMtQlRZVTJVUUZuQlRTT0VHaDh4SG9Ed3ZjUUIweklkUFZTT0ZfOVlzMFB6YTRla2JSR1JTbkRVN3JWSlRVS1o1VV9GeWNIZ0ZPYS03a0V4N3ZYc0oydHUxWFhxRC0yWEMtd0pNaHIyMTBkVUIyMnhfenRnRnpPUm42LUM?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T12:36:47.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjMtQlRZVTJVUUZuQlRTT0VHaDh4SG9Ed3ZjUUIweklkUFZTT0ZfOVlzMFB6YTRla2JSR1JTbkRVN3JWSlRVS1o1VV9GeWNIZ0ZPYS03a0V4N3ZYc0oydHUxWFhxRC0yWEMtd0pNaHIyMTBkVUIyMnhfenRnRnpPUm42LUM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "f60d4c9a35e4",
+   "title": "Whirlpool rolls out Freshness Detection Technology in Luxuriem refrigerators powered by 6th Sense AI in India",
+   "summary": "Whirlpool of India Limited has introduced its 6th Sense AI Freshness Detection Technology in its Luxuriem range of four-door refrigerators. Whirlpool describes the Made-in-India technology as India’s first freshness detection technology of its kind, powered by its proprietary 6th",
+   "link": "https://www.fonearena.com/blog/495825/whirlpool-freshness-detection-technology-refrigerators-india.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Whirlpool-6th-Sense-AI-Freshness-Detection-Technology-1024x713.jpg",
+   "publishedAt": "2026-10-27T12:32:07.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495825/whirlpool-freshness-detection-technology-refrigerators-india.html"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "2d3b6929809a",
+   "title": "Motorola Moto G47 Power launches with 108 MP, 7,000 mAh and 3.5 mm headphone jack",
+   "summary": "Motorola Moto G47 Power launches with 108 MP, 7,000 mAh and 3.5 mm headphone jack Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT19VanpqNzNWOGNvak1yM0IwMzUyUXlOMGZ6MVVhVTNlaEVhZjRIZTRsZHFOdnh4cS1TbFpJRXVkMVNwcTVsOXZraEstZ3VMRmYya2lRTjh2OXRJbTNUU201Rno4WnJjMl9GOEtaQlVpaEZ0b3hmcXprbEJLbk9leHpZVUU1cjF1NVhqTnkxRkk0RUhWbVE1OUFNQWRsZ01FdjRWNFJRVjBjRTc0OHFMQWZOQTJBSm0xU2VBRmxTdktyeDg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T12:23:00.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT19VanpqNzNWOGNvak1yM0IwMzUyUXlOMGZ6MVVhVTNlaEVhZjRIZTRsZHFOdnh4cS1TbFpJRXVkMVNwcTVsOXZraEstZ3VMRmYya2lRTjh2OXRJbTNUU201Rno4WnJjMl9GOEtaQlVpaEZ0b3hmcXprbEJLbk9leHpZVUU1cjF1NVhqTnkxRkk0RUhWbVE1OUFNQWRsZ01FdjRWNFJRVjBjRTc0OHFMQWZOQTJBSm0xU2VBRmxTdktyeDg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "9152217f3bad",
+   "title": "Acer's Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300",
+   "summary": "The Predator Atlas 8 gaming handheld PC is coming to the US after all on November 1st for $1,300.",
+   "link": "https://www.engadget.com/2298013/acer-predator-atlas-8-gaming-handheld-comes-to-best-buy-on-november-1-for-1300/",
+   "image": "https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg",
+   "publishedAt": "2026-10-27T11:50:55.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Acer",
+   "region": "USA",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2298013/acer-predator-atlas-8-gaming-handheld-comes-to-best-buy-on-november-1-for-1300/"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "d98e7824640d",
+   "title": "Moto G47 Power launches with a massive 7,000mAh battery, 108MP dual cameras",
+   "summary": "Motorola has officially introduced the Moto G47 Power as a new variant of the existing Moto G47, bringing a larger battery and a 108-megapixel main camera to the series. The new model also features a 120Hz display and MediaTek’s Dimensity 6300 chipset. Motorola has revealed its s",
+   "link": "https://www.gizmochina.com/2026/10/27/moto-g47-power-launched-price-specs/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Moto-G47-Power--300x167.png?x62950",
+   "publishedAt": "2026-10-27T11:47:48.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/27/moto-g47-power-launched-price-specs/"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "e16332fb37fc",
+   "title": "Infinix Launches GT 50 Pro in India, Unveils a Complete Liquid-Cooled Smartphone-to-Console Gaming Ecosystem",
+   "summary": "Infinix Launches GT 50 Pro in India, Unveils a Complete Liquid-Cooled Smartphone-to-Console Gaming Ecosystem Passionate In Marketing",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcUJydVhvR3JaMFh0ZWFpYkJUR0ZVLVA3Z0ZIRXl0YVljWGZxdVF6THctOWhIdEdmZEdJR1FzbGV0YUpFakNWeEJfWURfaGJCUGY0NHBNU0xHcTFYYzd0clhXVUswSmJxYm9kU2xtVXFtZWF3bHBwVXA2ejdFOVI1WWYzVy1tM19ydkhsc092WFhJY0lScXNPbEdaT1IyeUp0TElHeGY2RmFpTTEybzVVNmliZ0FnUlZreXhtc2l2NHNTbVZOemI4S2xXTTJ3bGNfcGJjT1BhM0E2TjdVOTJN?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T11:37:25.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Infinix",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Passionate In Marketing",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcUJydVhvR3JaMFh0ZWFpYkJUR0ZVLVA3Z0ZIRXl0YVljWGZxdVF6THctOWhIdEdmZEdJR1FzbGV0YUpFakNWeEJfWURfaGJCUGY0NHBNU0xHcTFYYzd0clhXVUswSmJxYm9kU2xtVXFtZWF3bHBwVXA2ejdFOVI1WWYzVy1tM19ydkhsc092WFhJY0lScXNPbEdaT1IyeUp0TElHeGY2RmFpTTEybzVVNmliZ0FnUlZreXhtc2l2NHNTbVZOemI4S2xXTTJ3bGNfcGJjT1BhM0E2TjdVOTJN?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "8acd7877c13c",
+   "title": "Asus Zenbook 14 (2026) Series India Launch Date Announced Along With Key Specifications, Colour Options",
+   "summary": "Asus Zenbook 14 (2026) Series will be launched in India on November 5 at 12 pm IST, the company announced on Tuesday. The company has also announced that the Asus Zenbook 14 (2026) Series will be available for purchase in India in Arctic Blue, Komodo Coral, and Zabriskie Beige co",
+   "link": "https://www.gadgets360.com/laptops/news/asus-zenbook-14-2026-series-india-launch-date-announced-design-colour-options-specifications-features-12242957",
+   "image": "https://i.gadgets360cdn.com/large/asus_zenbook_14_2026_main_1793099798276.png",
+   "publishedAt": "2026-10-27T11:27:58.000Z",
+   "date": "2026-10-27",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Asus",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/laptops/news/asus-zenbook-14-2026-series-india-launch-date-announced-design-colour-options-specifications-features-12242957"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "150f03153d5e",
+   "title": "Infinix GT 50 Pro Launched In India With Shoulder Triggers & Dedicated Gaming Accessories: Price, Features",
+   "summary": "Infinix GT 50 Pro Launched In India With Shoulder Triggers & Dedicated Gaming Accessories: Price, Features ETV Bharat",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXJaWEYzZHkxWElpeUFVVXhUOEVRN2NQdUxQcXZ6VjFOR3pORmFlR0ItSms2bzVYMmRIYUM1cTlzVm0zYXpFbTlSTVBKeE81T01NaDJWWWlHUi1vZGFuOEtSeGp1cG5wZkd5aEMyX25hbHNHZFdUWjBWRHlNWGM2UXZ2S1UyVW04Tm9MZFVMSUdoSHN4R3VZVF9FMnJVQWY0bXF0clktclQ0alRNdkt5V3lmd1VMS01UeDFHU0tHQzBzR3PSAcgBQVVfeXFMUF9kajhlSXZYczJmN2lEdFZEbkZiQjdRUUZ4TFN1Yl9XY1pLeUJSZ19JejZLQ2ItNHg4SmdOM3ZEaloxd29mWTFlOXpiU0JVRTdkS3lWOVN0UW1SQ3loa0xQNm5ReWNTY1VMVS1weWdyRXQzMkpBcHVMdlhVM0NOcEtmaGRPY2NDNWxLbnluLVZ0UzZHX2ZOTFhIYVhkNmtMSEZma3pvWDZUeEgtdkg3Rjh6ZWhiNmUxMW9HRURpb2k3bllGbGlLQjg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T10:59:49.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Infinix",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ETV Bharat",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXJaWEYzZHkxWElpeUFVVXhUOEVRN2NQdUxQcXZ6VjFOR3pORmFlR0ItSms2bzVYMmRIYUM1cTlzVm0zYXpFbTlSTVBKeE81T01NaDJWWWlHUi1vZGFuOEtSeGp1cG5wZkd5aEMyX25hbHNHZFdUWjBWRHlNWGM2UXZ2S1UyVW04Tm9MZFVMSUdoSHN4R3VZVF9FMnJVQWY0bXF0clktclQ0alRNdkt5V3lmd1VMS01UeDFHU0tHQzBzR3PSAcgBQVVfeXFMUF9kajhlSXZYczJmN2lEdFZEbkZiQjdRUUZ4TFN1Yl9XY1pLeUJSZ19JejZLQ2ItNHg4SmdOM3ZEaloxd29mWTFlOXpiU0JVRTdkS3lWOVN0UW1SQ3loa0xQNm5ReWNTY1VMVS1weWdyRXQzMkpBcHVMdlhVM0NOcEtmaGRPY2NDNWxLbnluLVZ0UzZHX2ZOTFhIYVhkNmtMSEZma3pvWDZUeEgtdkg3Rjh6ZWhiNmUxMW9HRURpb2k3bllGbGlLQjg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
+   "id": "0347d6a25625",
+   "title": "Truecaller Lite for entry-level Android phones launched in India",
+   "summary": "Truecaller has launched Truecaller Lite in India as a new standalone application aimed at Android smartphones operating with limited storage and system memory. Designed to occupy approximately 10 MB of storage, the app is engineered to run on devices equipped with up to 4 GB of R",
+   "link": "https://www.fonearena.com/blog/495821/truecaller-lite-features-download-india.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Truecaller-Lite-1024x576.jpg",
+   "publishedAt": "2026-10-27T10:54:02.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495821/truecaller-lite-features-download-india.html"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
    "id": "b972f22e35dc",
    "title": "Apple's MacBook Pro Touch Bar Was Announced 10 Years Ago Today",
    "summary": "Apple introduced the Touch Bar 10 years ago today. At its \"Hello again\" event on October 27, 2016, Apple pitched the Retina Multi-Touch strip as \"revolutionary.\" It replaced the MacBook Pro's function keys and divided users from the start, arriving in the same controversial redes",
    "link": "https://www.macrumors.com/2026/10/27/macbook-pro-touch-bar-announced-10-years-ago/",
    "image": "https://images.macrumors.com/article-new/2021/01/touch-bar-close-up.jpg",
-   "publishedAt": "2026-10-27T10:45:41.000Z",
+   "publishedAt": "2026-10-27T10:45:37.000Z",
    "date": "2026-10-27",
    "status": "Launched",
    "category": "Laptop",
@@ -362,6 +888,28 @@
    "firstSeen": "2026-10-27T08:52:09.689Z"
   },
   {
+   "id": "3c00045e8704",
+   "title": "Apple iPad mini 2026 Launched at Rs 82900, Check Features",
+   "summary": "Apple iPad mini 2026 Launched at Rs 82900, Check Features NewsBricks",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjlEX1pTVFdpOU1fbGhPOXNSQXIwSDd1Zkh0YVk0U0lKMV9QcEpsUndUTTZyaE5kLV9zWmhJRlJMX3RtLWhOQnphbUNPSEpqRGRVWVFVWEMxdHJlSEVhb1p2Q2ZYNTVZaU5HekRrLTZnS2RRM1NTM3VaWGtzRVpVTWp5YUFzc2NMOENSZWlWX1A?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T05:04:44.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "NewsBricks",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjlEX1pTVFdpOU1fbGhPOXNSQXIwSDd1Zkh0YVk0U0lKMV9QcEpsUndUTTZyaE5kLV9zWmhJRlJMX3RtLWhOQnphbUNPSEpqRGRVWVFVWEMxdHJlSEVhb1p2Q2ZYNTVZaU5HekRrLTZnS2RRM1NTM3VaWGtzRVpVTWp5YUFzc2NMOENSZWlWX1A?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
    "id": "c55add904d36",
    "title": "Nintendo eShop will finally launch in the Philippines",
    "summary": "The doors will open on November 10. The post Nintendo eShop will finally launch in the Philippines appeared first on GadgetMatch .",
@@ -536,6 +1084,28 @@
     }
    ],
    "firstSeen": "2026-10-27T08:52:09.689Z"
+  },
+  {
+   "id": "1dca294eb032",
+   "title": "JPMorgan Chase Launches Energy and Environment Hub",
+   "summary": "JPMorgan Chase Launches Energy and Environment Hub Grit Daily News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GUWxPYXpNTXhzb1pVUE9abmNnMERJeW1EMkhFMjVILU1lcFdHT0dDZFE5NXI3SmQ4YU9pYV9YMkFrZVd1bXhieXFjNnZtZmdjNUVUYkxzSVkxWS1JU2xKUTlRTkZycDVDSmItT1BscEo5YWY2VThTOGtpS1RZdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T01:26:11.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Grit Daily News",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GUWxPYXpNTXhzb1pVUE9abmNnMERJeW1EMkhFMjVILU1lcFdHT0dDZFE5NXI3SmQ4YU9pYV9YMkFrZVd1bXhieXFjNnZtZmdjNUVUYkxzSVkxWS1JU2xKUTlRTkZycDVDSmItT1BscEo5YWY2VThTOGtpS1RZdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
   },
   {
    "id": "557c7dc7df48",
