@@ -277,7 +277,7 @@
    "category": "Smartphone",
    "brand": "Vivo",
    "region": "Europe",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -295,6 +295,10 @@
     {
      "name": "Gadget Bridge",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXZoY3ctcUNlRTViNUljOHViZEFCSnZURFd3MHRLV3NCYWFKWC1VNThVQ24wUTJzSnl0UU04TGNEbDRVOUhENkV6WkM5N05KOV9EQTFhS3JOV1dSTE9mRkxjUUNsNzFkMkZMSkhNeF9wdU02dk5wa1BVNHZYd3JIQVdPM1lpanpLYkZxVjRHLS1IYUMxVVJGNS02NHVmLWtVSjRmT0ZiQjZacHdGUjk1a1Q0VUJGMHVSNU5EctIBvAFBVV95cUxNSXZoY3ctcUNlRTViNUljOHViZEFCSnZURFd3MHRLV3NCYWFKWC1VNThVQ24wUTJzSnl0UU04TGNEbDRVOUhENkV6WkM5N05KOV9EQTFhS3JOV1dSTE9mRkxjUUNsNzFkMkZMSkhNeF9wdU02dk5wa1BVNHZYd3JIQVdPM1lpanpLYkZxVjRHLS1IYUMxVVJGNS02NHVmLWtVSjRmT0ZiQjZacHdGUjk1a1Q0VUJGMHVSNU5Ecg?oc=5"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzJVcF9Wdm0tempjd3hYaTVxc09zNnJDUDU3aEVBaXkyVmpuYmhRcGZMcTFOVmF4Z3JKd0tFVmtYeW9raFU0SWNnbk9jS1gtckhpWTJYbWVSOXFXMFdWRndyaG1JQjUwcHFFb3JYdVMxakxMUjktbVRwdEhBS0ZQbVEwajAzZHB5YjBEOEVKQmRMb2hibEVkdWlJM3ExLWx4dnFMNGdWZXRNS05ZeUdKbUhsMG9PMDljcVpBVEFXeTFRX0U?oc=5"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"
