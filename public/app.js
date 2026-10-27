@@ -4,7 +4,7 @@ const esc = (s = '') => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<
 const STRIP_DAYS = 14;
 const POLL_MS = 5 * 60e3;
 
-const state = { range: 'today', date: null, status: 'Launched', category: '', brand: '', region: '', q: '', sort: 'time' };
+const state = { range: 'today', date: null, status: 'Launched', category: '', brand: '', region: '', month: '', q: '', sort: 'time' };
 let meta = null;
 let tz = 'UTC';
 const cache = new Map();
@@ -23,6 +23,9 @@ function shiftDay(key, n) {
 function prettyDay(key, opts = { weekday: 'long', month: 'long', day: 'numeric' }) {
   return new Date(`${key}T12:00:00Z`).toLocaleDateString(undefined, { ...opts, timeZone: 'UTC' });
 }
+function prettyMonth(m) {
+  return new Date(`${m}-15T12:00:00Z`).toLocaleDateString(undefined, { month: 'long', year: 'numeric', timeZone: 'UTC' });
+}
 function today() { return dayKey(new Date()); }
 
 function selectedDays() {
@@ -30,6 +33,7 @@ function selectedDays() {
   if (state.range === 'today') return [t];
   if (state.range === 'yesterday') return [shiftDay(t, -1)];
   if (state.range === 'week') return Array.from({ length: 7 }, (_, i) => shiftDay(t, -i));
+  if (state.range === 'month') return meta.days.map((d) => d.date).filter((d) => d.startsWith(state.month)).sort().reverse();
   return [state.date];
 }
 
@@ -37,11 +41,13 @@ function selectedDays() {
 function readHash() {
   const p = new URLSearchParams(location.hash.slice(1));
   for (const k of Object.keys(state)) if (p.has(k)) state[k] = p.get(k);
+  if (state.range === 'month' || state.month) state.range = /^\d{4}-\d{2}$/.test(state.month) ? 'month' : 'today';
+  if (state.range !== 'month') state.month = '';
   if (state.range === 'date' && !/^\d{4}-\d{2}-\d{2}$/.test(state.date || '')) state.range = 'today';
 }
 function writeHash() {
   const p = new URLSearchParams();
-  for (const [k, v] of Object.entries(state)) if (v && !(k === 'range' && v === 'today') && !(k === 'status' && v === 'Launched') && !(k === 'sort' && v === 'time') && !(k === 'date' && state.range !== 'date')) p.set(k, v);
+  for (const [k, v] of Object.entries(state)) if (v && !(k === 'range' && v === 'today') && !(k === 'status' && v === 'Launched') && !(k === 'sort' && v === 'time') && !(k === 'date' && state.range !== 'date') && !(k === 'range' && v === 'month')) p.set(k, v);
   history.replaceState(null, '', p.toString() ? `#${p}` : location.pathname);
 }
 
@@ -90,10 +96,18 @@ function renderStrip() {
   requestAnimationFrame(() => { el.scrollLeft = el.scrollWidth; });
 
   document.querySelectorAll('[data-range]').forEach((b) => b.classList.toggle('on', b.dataset.range === state.range));
-  const titles = { today: `Today · ${prettyDay(t)}`, yesterday: `Yesterday · ${prettyDay(shiftDay(t, -1))}`, week: 'Last 7 days' };
+  const titles = { month: state.month && `${prettyMonth(state.month)} · whole month`, today: `Today · ${prettyDay(t)}`, yesterday: `Yesterday · ${prettyDay(shiftDay(t, -1))}`, week: 'Last 7 days' };
   $('#dayTitle').textContent = titles[state.range] || prettyDay(state.date, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-  $('#datePicker').value = selectedDays()[0];
+  $('#datePicker').value = state.range === 'month' ? '' : selectedDays()[0];
   $('#datePicker').max = t;
+}
+
+function fillMonths() {
+  const counts = new Map();
+  for (const d of meta.days) counts.set(d.date.slice(0, 7), (counts.get(d.date.slice(0, 7)) || 0) + d.count);
+  const months = [...counts.keys()].sort().reverse();
+  $('#month').innerHTML = '<option value="">Any month</option>' +
+    months.map((m) => `<option value="${m}" ${m === state.month ? 'selected' : ''}>${prettyMonth(m)} (${counts.get(m)})</option>`).join('');
 }
 
 function baseFiltered() {
@@ -127,7 +141,7 @@ function render() {
   $('#search').value = state.q;
   $('#sort').value = state.sort;
   // On phones brand/region/sort sit behind the Filters button, so show how many are active.
-  const active = [state.brand, state.region, state.sort !== 'time'].filter(Boolean).length;
+  const active = [state.brand, state.region, state.month, state.sort !== 'time'].filter(Boolean).length;
   $('#moreCount').hidden = !active;
   $('#moreCount').textContent = active;
 
@@ -215,6 +229,7 @@ function renderRows(rows) {
 async function loadSelection(force = false) {
   const days = selectedDays();
   current = (await Promise.all(days.map((d) => loadDay(d, force)))).flat();
+  fillMonths();
   renderStrip();
   render();
 }
@@ -239,23 +254,29 @@ function toCsv(rows) {
 
 // ---- events
 function bind() {
-  document.querySelectorAll('[data-range]').forEach((b) => b.onclick = () => { state.range = b.dataset.range; expanded.clear(); loadSelection(); });
+  document.querySelectorAll('[data-range]').forEach((b) => b.onclick = () => { state.range = b.dataset.range; state.month = ''; expanded.clear(); loadSelection(); });
   $('#dayStrip').onclick = (e) => {
     const b = e.target.closest('.day');
     if (!b) return;
     const d = b.dataset.day;
     const t = today();
     Object.assign(state, d === t ? { range: 'today' } : d === shiftDay(t, -1) ? { range: 'yesterday' } : { range: 'date', date: d });
+    state.month = '';
     expanded.clear();
     loadSelection();
   };
-  $('#datePicker').onchange = (e) => { if (e.target.value) { Object.assign(state, { range: 'date', date: e.target.value }); loadSelection(); } };
+  $('#datePicker').onchange = (e) => { if (e.target.value) { Object.assign(state, { range: 'date', date: e.target.value, month: '' }); loadSelection(); } };
   document.querySelectorAll('.seg button').forEach((b) => b.onclick = () => { state.status = b.dataset.status; state.category = ''; render(); });
   $('#categoryChips').onclick = (e) => { const b = e.target.closest('button'); if (b) { state.category = b.dataset.cat; render(); } };
   let t;
   $('#search').oninput = (e) => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value; render(); }, 120); };
   $('#brand').onchange = (e) => { state.brand = e.target.value; render(); };
   $('#region').onchange = (e) => { state.region = e.target.value; render(); };
+  $('#month').onchange = (e) => {
+    Object.assign(state, e.target.value ? { range: 'month', month: e.target.value } : { range: 'today', month: '' });
+    expanded.clear();
+    loadSelection();
+  };
   $('#sort').onchange = (e) => { state.sort = e.target.value; render(); };
   $('#rows').onclick = (e) => {
     if (e.target.closest('a')) return;

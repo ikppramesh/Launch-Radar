@@ -30,7 +30,7 @@ To force an update right now: **Actions → Update gadget launches → Run workf
 
 - **Day strip / date picker:** pick any day; *Last 7 days* shows a week grouped by day.
 - **Launched / Upcoming / All:** launched products vs. announced launch dates and teasers.
-- **Filters:** search, category chips, brand, region, sort by newest or most-covered.
+- **Filters:** search, category chips, brand, region, month (whole-month view), sort by newest or most-covered.
 - Click a row to see the summary and every outlet's link. **Open ↗** goes to the article.
 - **Export CSV** downloads the current view. The URL keeps your filters, so you can share or bookmark it.
 
