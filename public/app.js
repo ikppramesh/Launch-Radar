@@ -195,7 +195,7 @@ function renderRows(rows) {
     const time = d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     const date = d.toLocaleDateString([], { month: 'short', day: 'numeric' });
     const img = i.image
-      ? `<img class="thumb" src="${esc(i.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'thumb ph',textContent:'${initials(i.brand)}'}))">`
+      ? `<img class="thumb" src="${esc(i.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-ph="${initials(i.brand)}">`
       : `<div class="thumb ph">${initials(i.brand)}</div>`;
     const open = expanded.has(i.id);
     html.push(`<tr class="row" data-id="${i.id}" aria-expanded="${open}">
@@ -278,6 +278,12 @@ function bind() {
     loadSelection();
   };
   $('#sort').onchange = (e) => { state.sort = e.target.value; render(); };
+  // Inline onerror handlers are blocked by the CSP, so swap broken thumbnails here.
+  $('#rows').addEventListener('error', (e) => {
+    const img = e.target;
+    if (img.tagName !== 'IMG') return;
+    img.replaceWith(Object.assign(document.createElement('div'), { className: 'thumb ph', textContent: img.dataset.ph || '?' }));
+  }, true);
   $('#rows').onclick = (e) => {
     if (e.target.closest('a')) return;
     const row = e.target.closest('tr.row');
