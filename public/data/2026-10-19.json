@@ -687,10 +687,10 @@
   },
   {
    "id": "a6556df47202",
-   "title": "Apple Touchscreen MacBook Pro Launch Date, OLED Features",
-   "summary": "Apple Touchscreen MacBook Pro Launch Date, OLED Features Dainik Jagran MP CG",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGN1dXVnOHdHNGtEeFV0dkc2QlJ2Y2Jjc1phLWJqSWs5YWpVRXhMR0NYUU1oVDBrdWx4Q2JoanVYaDZMQnVTaVoyeGlSZWhPc0QxRDhKaDFNNEVHeENPdmx5WEpndkJUX0h0UjZNcWMzVmlDenhIQzY5ZWRJYjBjaER0enhESHc2ZGdSWXpkRVoyVlRUV0JQR0I0SG01TjhEaUpaeWNZaS1URFNqdGdYR0FzWktOWlN1?oc=5",
-   "image": "",
+   "title": "Apple event LIVE: Touchscreen MacBook Pro OLED announced, iPad mini OLED and more",
+   "summary": "Today's the day Apple has been building up 'Pro and Tell' us about — we're expecting an OLED touchscreen MacBook Pro to be announced!",
+   "link": "https://www.tomsguide.com/news/live/apple-touchscreen-macbook-pro-pro-and-tell-event-ipad-mini-8-imac-m6-live-updates",
+   "image": "https://cdn.mos.cms.futurecdn.net/FK8JRgUdY6Hh3Hu9N6mFtU-1920-80.jpg",
    "publishedAt": "2026-10-19T09:54:19.000Z",
    "date": "2026-10-19",
    "status": "Upcoming",
@@ -698,7 +698,7 @@
    "brand": "Apple",
    "region": "Global",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "Dainik Jagran MP CG",
@@ -711,6 +711,10 @@
     {
      "name": "News9live",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3NvVjdRalpsdWpYRmdCN2JTLUdvb21faUo0Qmt4NXBuaVpsMURSYkJMaEc3TzFvalFRdWlZUTVWMGxEeXB5VHEtYmJDV0tBcmQ3VlpzclVIekxaeDVKMG9ENGJxSUVxYWdEV29vb3FhN0x1blp1am9pVVg1U2ZrMk1ZNTFGNkViWEtmME1XQ0lzTkdURm5GRkd0OXBtMlozS3A5cXczM0ZuNjMyMXUydFBsc1Z3Zng5dWlDZ0NxWdIBxAFBVV95cUxOOFBJN0hzaTRIWDdycTFzTFY0dUVZZ0QtNlB6Rzd6V1hSRHc1R1V4S3RzYUl0Z3JqSlRfSlM2dHpPZF9tRC1JWktsaTJFbmJMWkRoYmNZMENFWWhuaW1JalRFQVdZOVFNS3lONTRORTloOUZWUkhQU20zenFwazdxQ3EwZkprMTQzLXVtcER5TTlOTnpndVNOeGRmQUx6T0VHMTJZT29LX2l1dG9xeWlpUzZEbDQwdEdtelhLblNpaWVjb3h6?oc=5"
+    },
+    {
+     "name": "Tom's Guide",
+     "link": "https://www.tomsguide.com/news/live/apple-touchscreen-macbook-pro-pro-and-tell-event-ipad-mini-8-imac-m6-live-updates"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"
@@ -959,6 +963,10 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/10/19/iqoo-neo-12-launch-date-confirmed/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/iqoo-neo-12-price-launch-sale-date-specifications-features-12248820"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"

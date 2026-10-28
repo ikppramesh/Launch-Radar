@@ -1677,10 +1677,10 @@
   },
   {
    "id": "9c1c20c25ce5",
-   "title": "Samsung announces Galaxy Buds On open-ear earbuds for $225",
-   "summary": "Samsung announces Galaxy Buds On open-ear earbuds for $225 Sammy Fans",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0xwMXZTbW4xcVdUam9QcUNybUtGWllNRTlLazZkR2ZJb0JJMTdENTFScF9GaERnSHdLb1RzcklnY1Fnd1J1ZjdySmxVZWl6MWhBS2c0ckVYS2hJNFFUMTZXTHViUG50UlVrX3BHWEt1M1diWlRqaU1jUDY5UkpMRTkwdUdJYjI2NlVnd3oxOGJ0MGsxMHN3M05yUEJBdE5w?oc=5",
-   "image": "",
+   "title": "Samsung Galaxy Buds On open-ear earbuds announced",
+   "summary": "Samsung has announced the Galaxy Buds On, an open-ear wireless audio device designed to allow situational awareness alongside media playback. Slated for release in early November 2026, the earbuds expand Samsung’s wearable lineup by offering an alternative to traditional in-ear m",
+   "link": "https://www.fonearena.com/blog/495946/samsung-galaxy-buds-on-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Samsung-Galaxy-Buds-On-1024x512.jpg",
    "publishedAt": "2026-10-26T01:23:07.000Z",
    "date": "2026-10-26",
    "status": "Launched",
@@ -1688,7 +1688,7 @@
    "brand": "Samsung",
    "region": "India",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "Sammy Fans",
@@ -1701,6 +1701,22 @@
     {
      "name": "NewsBricks",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1NHOG9XZ0M2OUhldGRJMDVnU1BOclpqdzBpYnAwY2xhdHYyU1FOR29KVndaSFBtcWYxRGwtdkwyLTk3NjF4bGFReWJwQkZSV2QyRFdIc2d1MTJob2NKYWhWMFNUZkNjeXh5bVA1LTM1VlhEYkhSc3VCR0s5cUdwczZvZVI3SHBuX2FxNlBCakhZQQ?oc=5"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495946/samsung-galaxy-buds-on-price-features.html"
+    },
+    {
+     "name": "TechSpot",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTU5ka3MxdHkzem1JbjhrZG80ckFyU1Q0dERpQjF6V3ZaQUIxX1BrR3o3Zkpfcl9wSnlUN2V1aWhiYWZGU1NWRnlSM2lfVFZhdFowUjd1eTBTcjdfTmZCMk1nNEtIbjFuSVVBZTdpX0xQVEFZakFvdnQ2enBGbkVrbDMxVHVWSUwwMTBnRk9oMVBPdlp4Yy0zOHlydks?oc=5"
+    },
+    {
+     "name": "https://jamonline.ph/",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFlDRW5Tb1Y1RmxqSTRrT09sdlpqcTVCdUE0cTFOdUZSZmFabE0tSTdURl8tUzdBekVzX1dTdkxHcmZmbmpDaUwxdVYxS2dZNC16ZU01YUY2RlB0SFJ4VnpRQUdHeUktaXlsSDdyeVBOS2FDVGdTd3I4bExVa1YzbA?oc=5"
+    },
+    {
+     "name": "SSBCrack",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYU1CYjBtZEluUDBhbnZaMmtCQUNyeTJnYUJzakxUWm1aR3BKWUxzNVNvR2JhZFZSMzFfdFhocTRPOU1DN3N0MFpfRDlPLWpVZ09Yam8yZWxra2F4ZW5TRlhTMXk5RkZySjBacF9ZOVlEeUpTZEdhd2NDcW5Rdng1SENxdjRyMndDcGUwYkdXVUV5aFVNUEdvb2lXMERkbzF1aTBv?oc=5"
     }
    ],
    "firstSeen": "2026-10-26T12:47:28.646Z"

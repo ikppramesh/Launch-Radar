@@ -1,0 +1,49 @@
+{
+ "date": "2026-10-29",
+ "items": [
+  {
+   "id": "ac1d6812e02a",
+   "title": "Apple introduces new power adapters for Mac, plus extension cable, travel kit",
+   "summary": "Today alongside the launch of the MacBook Pro with PROLED XDR, Apple has introduced four new accessories for Mac: two updated power adapters, a power extension cable, and a travel adapter kit. more…",
+   "link": "https://9to5mac.com/2026/10/28/apple-introduces-new-power-adapters-for-mac-plus-extension-cable-travel-kit/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-power-adapter-extension-cable.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-28T19:50:59.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/28/apple-introduces-new-power-adapters-for-mac-plus-extension-cable-travel-kit/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "1583e001a00a",
+   "title": "OnQ Unveils Retail Security Brackets for Apple iPhone Duo and Apple HomeView",
+   "summary": "OnQ Unveils Retail Security Brackets for Apple iPhone Duo and Apple HomeView 01net",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVERIbkNmLVFqOGRMaG5PZVhtRFdZclA3Uk1kZG9pYVFVX3cwamVuMEtEc0VWQVpScXFhNVV3bmYyNm9tSTR4eGFhZXQzNkRIcFR1TE56ZG5VNVVHZU1MWk51R1RjcjNJSzUwcG1pVlNWOWlubUVFcGg1Nm5RbTJPTnRCU1IwbHJ4YkRsYnNnTzA5X3dsZl96X0RTY3Z3UzA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T19:00:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "01net",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVERIbkNmLVFqOGRMaG5PZVhtRFdZclA3Uk1kZG9pYVFVX3cwamVuMEtEc0VWQVpScXFhNVV3bmYyNm9tSTR4eGFhZXQzNkRIcFR1TE56ZG5VNVVHZU1MWk51R1RjcjNJSzUwcG1pVlNWOWlubUVFcGg1Nm5RbTJPTnRCU1IwbHJ4YkRsYnNnTzA5X3dsZl96X0RTY3Z3UzA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  }
+ ]
+}

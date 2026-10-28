@@ -139,6 +139,10 @@
     {
      "name": "Analytics Insight",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEN6bzduTFlHT1B3LVIxMzR3WFJRWFRURmhqV1hZWW10LWJyY1o4ajExOEhBaUJoMEp5TkJZa1JCWGRNOG5ncnJRVzVOUFdiZkNRdmpybXhqOHJjMkcxakk3MUhyZWZZa29xUWhrNEQ0akNZOVRtRnYyTnNLMHQtR0FmQmJJemVJYWY2SkxyMWF2NV82Ty1TZGNPeld1SzBJOFJBb3dLc3JiQdIBqgFBVV95cUxOdEN6bzduTFlHT1B3LVIxMzR3WFJRWFRURmhqV1hZWW10LWJyY1o4ajExOEhBaUJoMEp5TkJZa1JCWGRNOG5ncnJRVzVOUFdiZkNRdmpybXhqOHJjMkcxakk3MUhyZWZZa29xUWhrNEQ0akNZOVRtRnYyTnNLMHQtR0FmQmJJemVJYWY2SkxyMWF2NV82Ty1TZGNPeld1SzBJOFJBb3dLc3JiQQ?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/samsung-galaxy-a08-launched-in-india-specs-price/"
     }
    ],
    "firstSeen": "2026-10-27T15:17:31.820Z"
@@ -296,32 +300,6 @@
     }
    ],
    "firstSeen": "2026-10-27T22:05:44.128Z"
-  },
-  {
-   "id": "c198b57fc52a",
-   "title": "Samsung launches the Galaxy Buds On clip-on earbuds in the US, here's the price",
-   "summary": "At the beginning of this month, Samsung unveiled the Galaxy Buds On, its first pair of clip-on earbuds. Today, the company has also announced them for the US market, where they will become available to purchase in early November for $229. Then, Samsung says it will bring them to ",
-   "link": "https://www.gsmarena.com/samsung_launches_the_galaxy_buds_on_clipon_earbuds_in_the_us_heres_the_price-news-75231.php",
-   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-buds-on-us/-184x111/gsmarena_000.jpg",
-   "publishedAt": "2026-10-27T13:49:41.000Z",
-   "date": "2026-10-27",
-   "status": "Launched",
-   "category": "Audio",
-   "brand": "Samsung",
-   "region": "USA",
-   "confidence": 3,
-   "aggregator": false,
-   "sources": [
-    {
-     "name": "Analytics Insight",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUFNUlNNa0RmZDBxcXBvU2tfNXN0V21OX0pHaWtOamU2UmoxS2FYWFFYVWlYSnY5NGtUaXBxVlZlTW9NX2VhSEZIRDZMR29ITFRSZWg4Sm1jS1duQ0xzdS1ldWhNLWZRZzhyNmYwSzBQQXlIR1J3QTBJdUZlT0xyZTVFTy1GYjQ0X2VFa2xXYm1oeDlHWTNEU2tHcmJQSW1jYmpRcjRhdllXMEVyMFo3U2xSYlROQXhnVEt0YzNmeFZfQmtKSkV1emRZUzIzZWJD0gHQAUFVX3lxTE9FQU1SU01rRGZkMHFxcG9Ta181c3RXbU5fSkdpa05qZTZSajFLYVhYUVhVaVhKdjk0a1RpcHFWVmVNb01fZWFIRkhENkxHb0hMVFJlaDhKbWNLV25DTHN1LWV1aE0tZlFnOHI2ZjBLMFBBeUhHUndBMEl1RmVPTHJlNUVPLUZiNDRfZUVrbFdibWh4OUdZM0RTa0dyYlBJbWNialFyNGF2WVcwRXIwWjdTbFJiVE5BeGdUS3RjM2Z4Vl9Ca0pKRXV6ZFlTMjNlYkM?oc=5"
-    },
-    {
-     "name": "GSMArena",
-     "link": "https://www.gsmarena.com/samsung_launches_the_galaxy_buds_on_clipon_earbuds_in_the_us_heres_the_price-news-75231.php"
-    }
-   ],
-   "firstSeen": "2026-10-27T15:17:31.820Z"
   },
   {
    "id": "dca677ab2a0e",
@@ -1136,6 +1114,36 @@
    "firstSeen": "2026-10-27T08:52:09.689Z"
   },
   {
+   "id": "c198b57fc52a",
+   "title": "Samsung launches the Galaxy Buds On clip-on earbuds in the US, here's the price",
+   "summary": "At the beginning of this month, Samsung unveiled the Galaxy Buds On, its first pair of clip-on earbuds. Today, the company has also announced them for the US market, where they will become available to purchase in early November for $229. Then, Samsung says it will bring them to ",
+   "link": "https://www.gsmarena.com/samsung_launches_the_galaxy_buds_on_clipon_earbuds_in_the_us_heres_the_price-news-75231.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-buds-on-us/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-27T07:00:00.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "USA",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Analytics Insight",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUFNUlNNa0RmZDBxcXBvU2tfNXN0V21OX0pHaWtOamU2UmoxS2FYWFFYVWlYSnY5NGtUaXBxVlZlTW9NX2VhSEZIRDZMR29ITFRSZWg4Sm1jS1duQ0xzdS1ldWhNLWZRZzhyNmYwSzBQQXlIR1J3QTBJdUZlT0xyZTVFTy1GYjQ0X2VFa2xXYm1oeDlHWTNEU2tHcmJQSW1jYmpRcjRhdllXMEVyMFo3U2xSYlROQXhnVEt0YzNmeFZfQmtKSkV1emRZUzIzZWJD0gHQAUFVX3lxTE9FQU1SU01rRGZkMHFxcG9Ta181c3RXbU5fSkdpa05qZTZSajFLYVhYUVhVaVhKdjk0a1RpcHFWVmVNb01fZWFIRkhENkxHb0hMVFJlaDhKbWNLV25DTHN1LWV1aE0tZlFnOHI2ZjBLMFBBeUhHUndBMEl1RmVPTHJlNUVPLUZiNDRfZUVrbFdibWh4OUdZM0RTa0dyYlBJbWNialFyNGF2WVcwRXIwWjdTbFJiVE5BeGdUS3RjM2Z4Vl9Ca0pKRXV6ZFlTMjNlYkM?oc=5"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/samsung_launches_the_galaxy_buds_on_clipon_earbuds_in_the_us_heres_the_price-news-75231.php"
+    },
+    {
+     "name": "GSMArena.com",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmc4RU5menc3YzFpRXo4RFVuUVItUzVGakliQnRzQ290b3FHdk1pck94LUxoOXNGNTJoRnQ0YmFWLUE2aG9BcHJlaC1KUVBQWE53UTFJRmp2T2ZNMHBoYjRzXzdqMXNHTFBDNzRRcmVxbC1OeUYzNzR2ZE1TZVNsVDdHMGw5VFYyZGVKWkk1b3RtSGFVbnRBeTMyRkZ6YWgyQWROSVhIWkFrelVFc0VkYzI5ZW1ieknSAbMBQVVfeXFMT2lyb1BUeTJkWTJBR3hEaDc1NFFFLWtJSGdXWXJEYTZKN2w2MTRVUzlIdlV0RDl1aEphZ3BYaFcxa3V2M25QSlhRQnhDSnJuRDhCVG5kUksxSXMwV3I2bFlwWVRPZFRrZTZ6MTh3SnNGMUNIbkJTVmsyMHRIaFc0X0JoWWVrMVJzYnhRc25EckpwRVNPRlFvb2lQcW54RG9Valk5V1p1OTJ4YUpJM2ZjSFVxTkU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-27T15:17:31.820Z"
+  },
+  {
    "id": "95bb3061cd2f",
    "title": "Samsung launches the Galaxy Buds On clip-on earbuds in the US, here's the price - GSMArena.com news",
    "summary": "Samsung launches the Galaxy Buds On clip-on earbuds in the US, here's the price - GSMArena.com news GSMArena.com",
@@ -1384,6 +1392,28 @@
     }
    ],
    "firstSeen": "2026-10-27T08:52:09.689Z"
+  },
+  {
+   "id": "7cb0c8b11d09",
+   "title": "T-Mobile debuts wireless plans with customizable perks from streaming to food delivery",
+   "summary": "T-Mobile debuts wireless plans with customizable perks from streaming to food delivery ET Telecom",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdDU4S1RCeG9KMWpoTTdrdVpST1hDdTY0YnYzSXZTU1hmWi16TnhWX2J6RzZuVC1meElyRHNTMWQ1TWxJSzR1RVFhdDFtRmxBYi14NkVkUUpfZVVoUkxYdVdueDJRU2szaXV2RkU2QlNieFo0RWhLRUNYamE2dTBGaUVjMVljOWJtOWRObVRyYlFKaVFQby1ERU92RHpvQ0dhaVdBSGJvQnloMFdqbHhXOTF1bnVnNmQtWHNaWWJTekoxVkhOMkRRMDV3VjRjbG02dEJpRnpJak5ydFYtZWVWeXNRQVdjbVdEUVdZ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T02:03:11.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ET Telecom",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdDU4S1RCeG9KMWpoTTdrdVpST1hDdTY0YnYzSXZTU1hmWi16TnhWX2J6RzZuVC1meElyRHNTMWQ1TWxJSzR1RVFhdDFtRmxBYi14NkVkUUpfZVVoUkxYdVdueDJRU2szaXV2RkU2QlNieFo0RWhLRUNYamE2dTBGaUVjMVljOWJtOWRObVRyYlFKaVFQby1ERU92RHpvQ0dhaVdBSGJvQnloMFdqbHhXOTF1bnVnNmQtWHNaWWJTekoxVkhOMkRRMDV3VjRjbG02dEJpRnpJak5ydFYtZWVWeXNRQVdjbVdEUVdZ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
    "id": "084f4c1ed12b",

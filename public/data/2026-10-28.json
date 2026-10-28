@@ -2,6 +2,1014 @@
  "date": "2026-10-28",
  "items": [
   {
+   "id": "769f4aaf6dc3",
+   "title": "Lenovo launching new budget laptop with 120 Hz OLED display and 24 GB RAM",
+   "summary": "Lenovo launching new budget laptop with 120 Hz OLED display and 24 GB RAM Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYVd6UEJ5Ynkyc210V2h3SnZJVkJveXF6ZnQzMGJtbHYyZzg3R2NJNUVrTjFLbTRLNmlyWHdUQkdVdFM4SmdJb1l1eHBackotcXVjSktsQTlzX0toWTQ5WWt0SWdTY3NZSW15OVpIV0dUWUYway1nUEZiamhtcElhSkZKSUZ2aXFPSlprNVVIeEY5UDEyTmdUbDk0MWZlTUZVOElyTGQ5dGQ0azRvMFRTU0tQQWVqeUd0OXc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T18:19:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Lenovo",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYVd6UEJ5Ynkyc210V2h3SnZJVkJveXF6ZnQzMGJtbHYyZzg3R2NJNUVrTjFLbTRLNmlyWHdUQkdVdFM4SmdJb1l1eHBackotcXVjSktsQTlzX0toWTQ5WWt0SWdTY3NZSW15OVpIV0dUWUYway1nUEZiamhtcElhSkZKSUZ2aXFPSlprNVVIeEY5UDEyTmdUbDk0MWZlTUZVOElyTGQ5dGQ0azRvMFRTU0tQQWVqeUd0OXc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "c25706f86556",
+   "title": "Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance",
+   "summary": "Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T18:17:02.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "32a7ba3bbb77",
+   "title": "PlayStation unveils Prism Collection",
+   "summary": "Transparent PS5 accessories return The post PlayStation unveils Prism Collection appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/playstation-prism-collection-transparent-designs-ps5-accessories/",
+   "image": "",
+   "publishedAt": "2026-10-28T18:16:34.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "PlayStation",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/playstation-prism-collection-transparent-designs-ps5-accessories/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "67e73cb7144f",
+   "title": "The Touch-Enabled & OLED MacBook Pro Has Finally Arrived: Featuring a Dream Display, Starting from ¥499,800",
+   "summary": "The Touch-Enabled & OLED MacBook Pro Has Finally Arrived: Featuring a Dream Display, Starting from ¥499,800 ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oTHRfbGdINzJBc05iVTd0RHVhOWxEdU1pczNNU1BtNHphVmdTanB6bnZKSmJJb1h1RnVMaXE5SVlBZ0w0bWljLXR6V2N4N1VURnBodUpQS3M?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T18:15:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oTHRfbGdINzJBc05iVTd0RHVhOWxEdU1pczNNU1BtNHphVmdTanB6bnZKSmJJb1h1RnVMaXE5SVlBZ0w0bWljLXR6V2N4N1VURnBodUpQS3M?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "86a8a49d7549",
+   "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+   "summary": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens that just went on sale today. Xreal and Google have",
+   "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "publishedAt": "2026-10-28T18:14:11.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "The Verge",
+     "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "d7654b5180e1",
+   "title": "Apple’s first OLED MacBook Pro launches with Touch and Dynamic Island",
+   "summary": "Apple has been continuously launching new devices, and after the iPad mini, MacBook Pro with M6, and iMac M6, it today unveiled its much-awaited first OLED notebook, the MacBook Pro with PROLED XDR Display. The 14- and 16-inch models bring tandem OLED and Touch to Mac for the fir",
+   "link": "https://www.gizmochina.com/2026/10/28/apples-oled-macbook-pro-launched-price-specs/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/mbp-proled-family-lineup-300x169.jpg?x80236",
+   "publishedAt": "2026-10-28T18:06:13.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/apples-oled-macbook-pro-launched-price-specs/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "a5780c0e640c",
+   "title": "Amazon Echo Dot, Echo Studio with Home Camera, Echo Time, Alexa Photo Frame and Echo Show 16 announced",
+   "summary": "Amazon has introduced five new Alexa-powered devices for the home: the next-generation Echo Dot, Echo Studio with Home Camera, Echo Time, Alexa Photo Frame, and the all-new Echo Show 16. The lineup includes smart speakers, a bedside clock, a photo frame, and a smart display with ",
+   "link": "https://www.fonearena.com/blog/495927/amazon-echo-dot-echo-studio-home-camera-echo-time-alexa-photo-frame-echo-show-16-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Amazon-Alexa-devices-2026-1024x527.jpg",
+   "publishedAt": "2026-10-28T18:02:50.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495927/amazon-echo-dot-echo-studio-home-camera-echo-time-alexa-photo-frame-echo-show-16-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "769655bfa772",
+   "title": "TechLife Pad Neo SE Launches as an Everyday Tablet for Learning, Creativity, and Family Entertainment",
+   "summary": "TechLife Pad Neo SE Launches as an Everyday Tablet for Learning, Creativity, and Family Entertainment LionhearTV",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekdJczhPX2JhbktOanRvc1JLR3NtU1dIdXZiSVU1SDc1OTJUZnFTSmtYV2RMcFByX0pCZDRrOElaY3RCTFhBM3p6djBTYW40dmJhSWZsdzlnYzJDem5mQ3Ftd2h3ZkJkaWVGRnNxQXd4LUdyOFN0RUlUZkhXeGJibE0xWlg0Zk90eDFSSEFncFBRYk03QmUwXzVXVXE1ZzFuSTVUQ011aE44aDV1Y1BDOFk1VUNCRV9aYmd5VGZLWTdMdWM2UTVfT3B3QmlBQ210?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:57:45.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "LionhearTV",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekdJczhPX2JhbktOanRvc1JLR3NtU1dIdXZiSVU1SDc1OTJUZnFTSmtYV2RMcFByX0pCZDRrOElaY3RCTFhBM3p6djBTYW40dmJhSWZsdzlnYzJDem5mQ3Ftd2h3ZkJkaWVGRnNxQXd4LUdyOFN0RUlUZkhXeGJibE0xWlg0Zk90eDFSSEFncFBRYk03QmUwXzVXVXE1ZzFuSTVUQ011aE44aDV1Y1BDOFk1VUNCRV9aYmd5VGZLWTdMdWM2UTVfT3B3QmlBQ210?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "fa144643a384",
+   "title": "Apple launches its first touchscreen laptop | The new device can have up to 16TB storage | Inshorts",
+   "summary": "Apple launches its first touchscreen laptop | The new device can have up to 16TB storage | Inshorts Inshorts",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFRWS29adGlURGNnbTI0SmtONy1pZFd0WXc0UHIwR0hfLTFUWWk5VU52YjlMX3pSRWJQU2FuVDdWbkVrd1ZUSy10WG1kY3pWSVJrajFHMkZJbnNLbDJ4OEdkS1hITFc4cFRnY3hzWnlUci1rMzFKTzFYUGdtdVFNNmJYWHJhbzJHTDY2blZhdE5UdnMz0gGUAUFVX3lxTFBYVFZLb1p0aVREY2dtMjRKa043LWlkV3RZdzRQcjBHSF8tMVRZaTlVTnZiOUxfelJFYlBTYW5UN1ZuRWt3VlRLLXRYbWRjelZJUmtqMUcyRkluc0tsMng4R2RLWEhMVzhwVGdjeHNaeVRyLWszMUpPMVhQZ211UU02YlhYcmFvMkdMNjZuVmF0TlR2czM?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:56:47.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Inshorts",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFRWS29adGlURGNnbTI0SmtONy1pZFd0WXc0UHIwR0hfLTFUWWk5VU52YjlMX3pSRWJQU2FuVDdWbkVrd1ZUSy10WG1kY3pWSVJrajFHMkZJbnNLbDJ4OEdkS1hITFc4cFRnY3hzWnlUci1rMzFKTzFYUGdtdVFNNmJYWHJhbzJHTDY2blZhdE5UdnMz0gGUAUFVX3lxTFBYVFZLb1p0aVREY2dtMjRKa043LWlkV3RZdzRQcjBHSF8tMVRZaTlVTnZiOUxfelJFYlBTYW5UN1ZuRWt3VlRLLXRYbWRjelZJUmtqMUcyRkluc0tsMng4R2RLWEhMVzhwVGdjeHNaeVRyLWszMUpPMVhQZ211UU02YlhYcmFvMkdMNjZuVmF0TlR2czM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "91aaf4356136",
+   "title": "Apple introduces MacBook Pro 14″ and 16″ with PROLED XDR Tandem OLED 120Hz touch display; India price starts at Rs. 3,49,900",
+   "summary": "Apple has announced an updated generation of its MacBook Pro lineup, introducing major hardware revisions headlined by a tandem OLED “PROLED XDR” display, native touchscreen capabilities, and the integration of the Dynamic Island into macOS. Available in 14-inch and 16-inch confi",
+   "link": "https://www.fonearena.com/blog/495929/apple-macbook-pro-proled-xdr-display-price-india-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Apple-MacBook-Pro-PROLED-XDR-Display-1024x552.jpg",
+   "publishedAt": "2026-10-28T17:51:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495929/apple-macbook-pro-proled-xdr-display-price-india-features.html"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "b10453936dde",
+   "title": "Apple announces $2,899 MacBook Pro — its first touchscreen laptop",
+   "summary": "Apple announces $2,899 MacBook Pro — its first touchscreen laptop Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmsxbkE0N3NIZ1VPdTFQR3lhczdQRndMTWptZ254eURubTVUdmN3UjVhejVteE43X1VfNGh2YjdoeVFTNHE2TmxLYVpyNHFjT3d4cFN0RmJRdXNWN1BkUUZjM1o5Y1lPSklCd2JtTWhUSFhBQ0pLS21IdlpKYm9hR3NXNXJwdVc1VlpPTVNBTkVkTDFET1lUVXBmbjR6b080ZnNiREpWUm5iSG4xMFR0X1RFX19LMWFRSVN4UjVYNA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:47:36.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmsxbkE0N3NIZ1VPdTFQR3lhczdQRndMTWptZ254eURubTVUdmN3UjVhejVteE43X1VfNGh2YjdoeVFTNHE2TmxLYVpyNHFjT3d4cFN0RmJRdXNWN1BkUUZjM1o5Y1lPSklCd2JtTWhUSFhBQ0pLS21IdlpKYm9hR3NXNXJwdVc1VlpPTVNBTkVkTDFET1lUVXBmbjR6b080ZnNiREpWUm5iSG4xMFR0X1RFX19LMWFRSVN4UjVYNA?oc=5"
+    },
+    {
+     "name": "شبكة تواصل الإخبارية",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zMWtrSGo4b0p6NzI3Q2wtYjRpWkN2czJiODhOZ2tuVjYwUkU4Q0NiWWpiVE1FZlVjQnJjUXRrcW5lWjczQ01TTU1rTWJPYi01U0Vz?oc=5"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmxxSjQzenA0MkIySEZjbG0yQ3BPLXlUUGVLUVh1YWpqZm1UbnFTMWx5cFhKRC1lTXN4a2pKNHRWSm4zZkNod2tsVWY5cU8yMmZHd19YQWhWbV9wUXhMZWUtUWNENWZuN3NybTNXVWFOLXNJMjR2clY0bnFISWRxNnlUamFNZWZUN0IzdDJ3ZlByUDd4V3BON3NIS3NvdjhYV0Q1YVB1Y2I5SWRkWm9kSw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "e29f4358b338",
+   "title": "CHUWI Launches GameBook Max Gaming Laptop Featuring Core i9-14900HX and RTX 5060",
+   "summary": "CHUWI Launches GameBook Max Gaming Laptop Featuring Core i9-14900HX and RTX 5060 XiaomiToday",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXpjQkZ0Rk9lMEdGTjBoVWwxWVdGci1YQjBNY2lqandlazl3Q2hNYnZ2UUdxSzFTbXBmSHQ3SFRyNVJ4eHdTOGRVS29FeS1QWnlyRWlWVV9qaDUtSWNwSG13STVOc0duaVI0NFMtMUlpaVFraUdXMkRJMVAwSHVWUUhuNlpUald0dGkwdFMxd0VCeURraUQyb0duWUNLV2huTkxrR2dxS0k?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:30:24.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "XiaomiToday",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXpjQkZ0Rk9lMEdGTjBoVWwxWVdGci1YQjBNY2lqandlazl3Q2hNYnZ2UUdxSzFTbXBmSHQ3SFRyNVJ4eHdTOGRVS29FeS1QWnlyRWlWVV9qaDUtSWNwSG13STVOc0duaVI0NFMtMUlpaVFraUdXMkRJMVAwSHVWUUhuNlpUald0dGkwdFMxd0VCeURraUQyb0duWUNLV2huTkxrR2dxS0k?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "04d754a59922",
+   "title": "Mac Studio With M5 Ultra Now Available With 512GB RAM for $22,299",
+   "summary": "Starting today, the Mac Studio with the M5 Ultra chip can be configured with 512GB of RAM on Apple's online store, but it is an expensive upgrade. You first have to configure the Mac Studio with the M5 Ultra chip with a 36-core CPU and 80-core GPU, which starts at $6,799 in the U",
+   "link": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/",
+   "image": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
+   "publishedAt": "2026-10-28T17:26:32.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "478b2c4b0be0",
+   "title": "MacBook Pro: Apple launches its first ever touchscreen Mac – and brings back iconic feature",
+   "summary": "MacBook Pro: Apple launches its first ever touchscreen Mac – and brings back iconic feature Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkN0aXo5Y2RDTi1xdkZrelVEb3VUOVppcFNYMktjQ2FWVmNTNDBvVi00OWliLWV1Z3ZTRUMtTUFES2J2QjF6RkF4QV94MEozQWViR25FTE4tWVRVZnNqdVM2aTg1Sll0b0d5T0dlNkRVd01XRzRoNHhEbl9fTlUwRlRJRW1OdlZG?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:07:22.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Yahoo Finance UK",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkN0aXo5Y2RDTi1xdkZrelVEb3VUOVppcFNYMktjQ2FWVmNTNDBvVi00OWliLWV1Z3ZTRUMtTUFES2J2QjF6RkF4QV94MEozQWViR25FTE4tWVRVZnNqdVM2aTg1Sll0b0d5T0dlNkRVd01XRzRoNHhEbl9fTlUwRlRJRW1OdlZG?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "05c4838542bc",
+   "title": "Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac",
+   "summary": "Apple has officially announced the all-new MacBook Pro with PROLED XDR display, its first touchscreen laptop. The new machine was first hinted at by Apple on October 19 with the company’s “Pro and tell” experience teaser . Earlier today, new Apple CEO John Ternus shared a “spotli",
+   "link": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr.webp?w=1600",
+   "publishedAt": "2026-10-28T17:06:48.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/laptops/news/macbook-pro-proled-xdr-touchscreen-price-in-india-launch-sale-date-specifications-features-12250654"
+    },
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/apple-unveils-macbook-pro-with-proled-xdr-display-and-touch/"
+    },
+    {
+     "name": "Apple",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU5jN1VPRVdLbGVXaUdVOGppelVlTGdUdWJ5b2swYWx3TVktb1ctTklVUEdlS2stVGJEbmswajNsb2tWcjVzNWF5bFROSTBiSzA0Tk12Wm9kU1pxbTNuV3lBY0J0UTFKcGZHbVQwLTdGSlhZM3RzMG9qU0psMC1tcmJzS3h3MDZkLU44WUNUa2V0UHZGM0MwdWNTOHJTMWRFNGhzQS1LVQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "3c0380688bc0",
+   "title": "Apple announces new MacBook Pro models with OLED and touchscreen",
+   "summary": "Apple today announced a new series of MacBook Pro models that will sell alongside the existing range. The new models feature the long awaited OLED displays and also bring touchscreen support to the Mac for the first time. The main feature here is the display, which Apple calls PR",
+   "link": "https://www.gsmarena.com/apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/macbook-pro-touch-oled/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-28T17:05:56.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254.php"
+    },
+    {
+     "name": "The Verge",
+     "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell"
+    },
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/"
+    },
+    {
+     "name": "Pocket-lint",
+     "link": "https://www.pocket-lint.com/apple-officially-unveils-its-touchscreen-oled-macbook-pro/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "07acb4d01f62",
+   "title": "XREAL Aura debuts with 150 made-for-XR experiences, including Project Hail Mary, NBA, Fallout, and more",
+   "summary": "XREAL Aura already works with all your favorite Android apps thanks to Android XR, and that includes over 150 experiences that tap into the power of the XR glasses. more…",
+   "link": "https://9to5google.com/2026/10/28/xreal-aura-debuts-with-150-made-for-xr-experiences-including-project-hail-mary-nba-fallout-and-more/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-lifestyle-01.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-28T17:05:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Xreal",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/10/28/xreal-aura-debuts-with-150-made-for-xr-experiences-including-project-hail-mary-nba-fallout-and-more/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "de3e5fbe96c9",
+   "title": "The Xreal Aura smartglasses are now on sale for a discounted launch price",
+   "summary": "The new wearable is the first of its kind to run on the Android XR platform.",
+   "link": "https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/",
+   "image": "https://www.engadget.com/img/gallery/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/l-intro-1793202369.jpg",
+   "publishedAt": "2026-10-28T17:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Xreal",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "da56edda1119",
+   "title": "Xreal's Android XR-powered Aura smart glasses just launched for $1,099 thanks to a limited time offer",
+   "summary": "Xreal has finally launched its Aura XR glasses, beating Meta to the punch and on price thanks to a limited time offer.",
+   "link": "https://www.tomsguide.com/computing/smart-glasses/xreals-android-xr-powered-aura-smart-glasses-just-launched-for-usd1-099-thanks-to-a-limited-time-offer",
+   "image": "https://cdn.mos.cms.futurecdn.net/sSPAhVCnRZnHiCqpNDaL79-1920-80.jpg",
+   "publishedAt": "2026-10-28T17:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Xreal",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Tom's Guide",
+     "link": "https://www.tomsguide.com/computing/smart-glasses/xreals-android-xr-powered-aura-smart-glasses-just-launched-for-usd1-099-thanks-to-a-limited-time-offer"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "bb984da77d1d",
+   "title": "Apple Store Down Ahead of 'Pro and Tell' Launch Today",
+   "summary": "Update: Apple has announced new 14-inch and 16-inch MacBook Pro models with a touch-enabled PROLED XDR Display . Apple has taken its online store down just minutes before its \"Pro and Tell\" experience in Los Angeles begins at 10 a.m. Pacific Time today. Apple is expected to annou",
+   "link": "https://www.macrumors.com/2026/10/28/apple-store-down-ahead-of-pro-and-tell/",
+   "image": "https://images.macrumors.com/article-new/2021/04/apple-store-down-feature.jpg",
+   "publishedAt": "2026-10-28T16:46:58.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/28/apple-store-down-ahead-of-pro-and-tell/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "ec7aea463b8e",
+   "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+   "summary": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their dir",
+   "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "publishedAt": "2026-10-28T16:33:32.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "The Verge",
+     "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "416a92245980",
+   "title": "Samsung Launches Galaxy Buds On in the US for $229, Available November 6",
+   "summary": "Samsung Launches Galaxy Buds On in the US for $229, Available November 6 Udaipur Kiran",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFdIQnhIZU9Bd3VGbmgyenBXSGNhMnNsYnJmNHNDTXNxQmJFTnlWNmdrOEZ4LVh5Y2tHQ19PNkZpbEtZZ2FNOU9LbXh5TzhQbUloWTRDNFAtWFZ1YzVySDhmT3ZZckdaTl9mZjdUN0RsNEVtQXB4aGpQUVdlSFN6MUhCalBuY2dWLVFnc2FIMnNubkE2QmZfNGJaUXo?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T16:04:11.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "USA",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFdIQnhIZU9Bd3VGbmgyenBXSGNhMnNsYnJmNHNDTXNxQmJFTnlWNmdrOEZ4LVh5Y2tHQ19PNkZpbEtZZ2FNOU9LbXh5TzhQbUloWTRDNFAtWFZ1YzVySDhmT3ZZckdaTl9mZjdUN0RsNEVtQXB4aGpQUVdlSFN6MUhCalBuY2dWLVFnc2FIMnNubkE2QmZfNGJaUXo?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "150e6e1620f6",
+   "title": "iQOO Pad Pro 8.8 Launches With 165Hz OLED and Cooling Fan",
+   "summary": "iQOO Pad Pro 8.8 Launches With 165Hz OLED and Cooling Fan Techgenyz",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZnZMUXp1cWU3OGM0aUx0cnZadFNXdTdHbWd5N1RFdi15UGR0V1RjbVl0T2h5UEFxWS14Rm1iQzMwNzlpbVNVQ1QyWXBCUl9PUGNwaGNTS3A4UWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T15:49:01.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "iQOO",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Techgenyz",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZnZMUXp1cWU3OGM0aUx0cnZadFNXdTdHbWd5N1RFdi15UGR0V1RjbVl0T2h5UEFxWS14Rm1iQzMwNzlpbVNVQ1QyWXBCUl9PUGNwaGNTS3A4UWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "406f8db6ed4d",
+   "title": "Anduril and Qualcomm prepare to launch US-made BlueChip laptop for critical use cases",
+   "summary": "Anduril and Qualcomm prepare to launch US-made BlueChip laptop for critical use cases Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZjMxclRGSEtqVVZWWVFyNXhjenlQZU8zanc2Tm9ZdVlLNUNYamhvODI4YTRGc1p1RFlBa3p1aFNJR2x2eFZDZGtjUXoxZHVyYzg3WXQxY1NFSGxNNEFKd0lWUENOY1JGNVBxSnlfbTlFR0I3ajlkeHpnTnNWZ051WGE5SUNCaXBpaURZOEQ1S0QxbWVnMTdnV0pqRlhRUUVBMmUyUGdXeTdKd0ktYnJSQUhTZlVMZDJSMnAtM2JhR2N4SkNQZDBN?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T15:35:42.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Qualcomm",
+   "region": "USA",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Telecompaper",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZjMxclRGSEtqVVZWWVFyNXhjenlQZU8zanc2Tm9ZdVlLNUNYamhvODI4YTRGc1p1RFlBa3p1aFNJR2x2eFZDZGtjUXoxZHVyYzg3WXQxY1NFSGxNNEFKd0lWUENOY1JGNVBxSnlfbTlFR0I3ajlkeHpnTnNWZ051WGE5SUNCaXBpaURZOEQ1S0QxbWVnMTdnV0pqRlhRUUVBMmUyUGdXeTdKd0ktYnJSQUhTZlVMZDJSMnAtM2JhR2N4SkNQZDBN?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "d6f87132d7b9",
+   "title": "Audio Technica just released its first set of wireless StreamSet headphones",
+   "summary": "This expands the lineup beyond XLR and USB-connected models.",
+   "link": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/",
+   "image": "https://www.engadget.com/img/gallery/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/l-intro-1793201478.jpg",
+   "publishedAt": "2026-10-28T15:34:06.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "ffed8592dca8",
+   "title": "Sony has new transparent PS5 controllers launching next year",
+   "summary": "Sony announced a new Prism Collection line of PlayStation 5 accessories today that revisits \"the iconic see-through trend of the late '90s in a fresh, modern way\" for its DualSense wireless controllers and matching console covers for the PS5 that reveal some of their internal com",
+   "link": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/playstation.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "publishedAt": "2026-10-28T15:31:02.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Gaming",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "The Verge",
+     "link": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "7ad9cb4f3626",
+   "title": "ASUS Unveils ExpertBook A7: A Military-Grade Business Laptop Powered by Intel \"Wildcat Lake\" with New Subscription Model",
+   "summary": "ASUS Unveils ExpertBook A7: A Military-Grade Business Laptop Powered by Intel \"Wildcat Lake\" with New Subscription Model Mashdigi",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZEpPWVVUamlFVC15RGIyWlZ4R2JDdWlEQTgwX3kzVUN0Mzd3dHBEWFZ5TTVzdTkzVkpscC1ncEhtcDE5d1g1M3ZKNmp0TGVHTWNwbS12aHRXWnhiLWp6MTFjRGNobGRucWpsOTh3b0Z2OThWaFpRSkZsQWVyVDc2X0JJbXRJdnF2Rk1vWnJjcUhBQTRGZVhtQTRPcmZFV3I3WlhIMVlraC1YVjdZaDFkMWt4UHFweXpQaS00X3hOdVUtZVQ2RFJjVWhmUHNIa2g3MlF4UE1zdzlZWDl1M1drR01OOEtHRFIzWGFaMEFsOGRwcEJjVUdVYjlxN3c5bUhkQ1ZqMGpyZkVNdGtyRnc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T14:59:03.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Asus",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashdigi",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZEpPWVVUamlFVC15RGIyWlZ4R2JDdWlEQTgwX3kzVUN0Mzd3dHBEWFZ5TTVzdTkzVkpscC1ncEhtcDE5d1g1M3ZKNmp0TGVHTWNwbS12aHRXWnhiLWp6MTFjRGNobGRucWpsOTh3b0Z2OThWaFpRSkZsQWVyVDc2X0JJbXRJdnF2Rk1vWnJjcUhBQTRGZVhtQTRPcmZFV3I3WlhIMVlraC1YVjdZaDFkMWt4UHFweXpQaS00X3hOdVUtZVQ2RFJjVWhmUHNIa2g3MlF4UE1zdzlZWDl1M1drR01OOEtHRFIzWGFaMEFsOGRwcEJjVUdVYjlxN3c5bUhkQ1ZqMGpyZkVNdGtyRnc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "8d452a657390",
+   "title": "Audi Launches Native Spotify Integration Without Smartphones",
+   "summary": "Audi Launches Native Spotify Integration Without Smartphones autosphere.ca",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEU3ZzcwaklnSWIwQnFMMzJ3dzRxMFNGWUtnaVVpMnY5eUNLOXhGRFNHVUR0QXdmU0t1YW5LTG9VRzhsZEFSX3h6X1dkWUd5UkF0NGowVy1heEQybkFDYVRKR3hDWEY0Nms4eF9sSzFCVkZ2N3djYVpoaWtxXzIxd3pGcFQtODdoRm10UF9kYWRYMy1iYmJ4UkUzYXN3QUl2RlQ4NVBsamdhdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T14:44:44.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "autosphere.ca",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEU3ZzcwaklnSWIwQnFMMzJ3dzRxMFNGWUtnaVVpMnY5eUNLOXhGRFNHVUR0QXdmU0t1YW5LTG9VRzhsZEFSX3h6X1dkWUd5UkF0NGowVy1heEQybkFDYVRKR3hDWEY0Nms4eF9sSzFCVkZ2N3djYVpoaWtxXzIxd3pGcFQtODdoRm10UF9kYWRYMy1iYmJ4UkUzYXN3QUl2RlQ4NVBsamdhdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "5e10a668fa08",
+   "title": "Amazon Unveils Echo Time: A Smarter Alarm Clock",
+   "summary": "Amazon Unveils Echo Time: A Smarter Alarm Clock SQ Magazine",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EYk1TRmJyaFJ5Wkh1dE5xQWJEVi1ib3dYaml2RU9WY1pQem1COXVScG03NWdEWG44cThNbktGYXRvZXRoU1pBWmFvVlBpU1dLMWhfdlNwMzh3ajRYVkh1Vll5S21fU1QzbG8zTWd3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T14:43:56.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "SQ Magazine",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EYk1TRmJyaFJ5Wkh1dE5xQWJEVi1ib3dYaml2RU9WY1pQem1COXVScG03NWdEWG44cThNbktGYXRvZXRoU1pBWmFvVlBpU1dLMWhfdlNwMzh3ajRYVkh1Vll5S21fU1QzbG8zTWd3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "e3f3e1572765",
+   "title": "8 new Echo and Alexa smart home gadgets that Amazon just announced",
+   "summary": "New smart speakers, smart displays, smart photo frames, and smart mapping capabilities have turned up from Amazon.",
+   "link": "https://www.techradar.com/home/smart-speakers/8-new-echo-and-alexa-gadgets-that-amazon-just-announced-from-an-upgraded-echo-dot-to-an-echo-studio-with-a-camera-attached",
+   "image": "https://cdn.mos.cms.futurecdn.net/bNZVGZGJbQB3muMCUzoDmB-1920-80.jpg",
+   "publishedAt": "2026-10-28T14:26:38.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/home/smart-speakers/8-new-echo-and-alexa-gadgets-that-amazon-just-announced-from-an-upgraded-echo-dot-to-an-echo-studio-with-a-camera-attached"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "c13f6844eb49",
+   "title": "Lava Diwali Sale Offers Announced on Smartphones and Feature Phones in India",
+   "summary": "Lava has announced festive prices for select smartphones and feature phones across online platforms and offline retail stores in India. The deals include models from the Virat, Bold and Agni series, with smartphone prices starting at Rs. 7,549 on Amazon and Rs. 9,499 on Flipkart.",
+   "link": "https://www.gadgets360.com/mobiles/news/lava-diwali-sale-offers-announced-on-smartphones-and-feature-phones-in-india-12249228",
+   "image": "https://i.gadgets360cdn.com/large/lava_virat_curve_5g_1789973731849.jpg",
+   "publishedAt": "2026-10-28T14:22:21.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Lava",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/lava-diwali-sale-offers-announced-on-smartphones-and-feature-phones-in-india-12249228"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "1df347c737b2",
+   "title": "Huawei Wind Chaser Cooling Stand launches with a 27g aluminum alloy body, bladeless piezoelectric fan",
+   "summary": "The interesting part is the cooling. This is Huawei’s first go at piezoelectric air cooling. The post Huawei Wind Chaser Cooling Stand launches with a 27g aluminum alloy body, bladeless piezoelectric fan appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/10/28/huawei-wind-chaser-cooling-stand-launches-with-a-27g-aluminum-alloy-body-bladeless-piezoelectric-fan/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/huawei-wind-chaser-cooling-stand-debuts-a-27g-aluminum-alloy-body-with-300x169.jpg?x80236",
+   "publishedAt": "2026-10-28T14:13:43.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/huawei-wind-chaser-cooling-stand-launches-with-a-27g-aluminum-alloy-body-bladeless-piezoelectric-fan/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "948cd2b5abb3",
+   "title": "Apple Creator Studio gets AI assistants in the biggest update since launch",
+   "summary": "Apple launched Creator Studio back in January as a subscription bundle of its apps intended for creative professionals. Today the company announced a big round of updates for it, which it calls the most exciting since its launch. Final Cut Pro for Mac now has MotionVFX integrated",
+   "link": "https://www.gsmarena.com/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-creator-studio-updates/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-28T14:03:03.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240.php"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "0b56cc2662db",
+   "title": "Amazon Unveils Echo Show 16: A Premium Smart Display with Customizable Features",
+   "summary": "Amazon Unveils Echo Show 16: A Premium Smart Display with Customizable Features SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWRaQl9ORUZVWVEtZlh6QktpMzRvdVNWeWlRVUdJNTJpY0Q3TTlaMkk3NUFSa1RDTlB5WUJDcG5TdVlJQVJXVW9KN244d0lJRDFsdk1oeGNwTldVSU5pYnBOOU5JcEtTcnFZNEdRSDMyLUVwdDhmSE43Mnh4OXBKZDhRcW1YZm02dHJuQTZab2VLRG1hYVBwTHVlMXRlakZWUHJNSDNmczI?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T14:01:59.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "SSBCrack",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWRaQl9ORUZVWVEtZlh6QktpMzRvdVNWeWlRVUdJNTJpY0Q3TTlaMkk3NUFSa1RDTlB5WUJDcG5TdVlJQVJXVW9KN244d0lJRDFsdk1oeGNwTldVSU5pYnBOOU5JcEtTcnFZNEdRSDMyLUVwdDhmSE43Mnh4OXBKZDhRcW1YZm02dHJuQTZab2VLRG1hYVBwTHVlMXRlakZWUHJNSDNmczI?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "33415db3d98a",
+   "title": "Samsung Galaxy Buds On's pricing and availability has been revealed, and the debut clip-on open earbuds cost a lot more than I was expecting",
+   "summary": "Samsung has revealed when the Galaxy Buds On will go on sale, plus the US price, and they're surprisingly expensive Buds.",
+   "link": "https://www.techradar.com/audio/earbuds-airpods/samsung-galaxy-buds-ons-pricing-and-availability-has-been-revealed-and-the-debut-clip-on-open-earbuds-cost-a-lot-more-than-i-was-expecting",
+   "image": "https://cdn.mos.cms.futurecdn.net/acJMWZijuXPBNEwXKJW62a-1920-80.jpg",
+   "publishedAt": "2026-10-28T13:59:45.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/audio/earbuds-airpods/samsung-galaxy-buds-ons-pricing-and-availability-has-been-revealed-and-the-debut-clip-on-open-earbuds-cost-a-lot-more-than-i-was-expecting"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "1b12aa1fed91",
+   "title": "iQOO launches new Legion Tab Gen 5 rival with compact 165Hz OLED display and large battery",
+   "summary": "iQOO launches new Legion Tab Gen 5 rival with compact 165Hz OLED display and large battery Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaGhLT0RybzFMNU5iTGkwVHQtNG1KVWN5LTNqSThVUjNlWFotZGVQbzJ6NTVpT2xDUmxsTE9YZW5Ic19tQWFyR1lEcDZvNFQ3YV92NHdGOHhMaC1FNXp0QlItUEYtT09ZS294d0tMUWl5aTVyTHFVdFl6NUxjdGxDOHJWSXFyNW8tYUhVeWtsSFpaN3ppZVktWFNURjdYbnVPTUl1LXFQeWlOa3c3QmRndFBVWU5uZHdVVzJOWTJ0ZmgzeVpZeU5tUjVYVkMxcGJ1?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T13:49:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "iQOO",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaGhLT0RybzFMNU5iTGkwVHQtNG1KVWN5LTNqSThVUjNlWFotZGVQbzJ6NTVpT2xDUmxsTE9YZW5Ic19tQWFyR1lEcDZvNFQ3YV92NHdGOHhMaC1FNXp0QlItUEYtT09ZS294d0tMUWl5aTVyTHFVdFl6NUxjdGxDOHJWSXFyNW8tYUhVeWtsSFpaN3ppZVktWFNURjdYbnVPTUl1LXFQeWlOa3c3QmRndFBVWU5uZHdVVzJOWTJ0ZmgzeVpZeU5tUjVYVkMxcGJ1?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "b9916005da93",
+   "title": "Samsung launches $229 Galaxy Buds On as clip-on earbuds gain popularity",
+   "summary": "Samsung launches $229 Galaxy Buds On as clip-on earbuds gain popularity Business Upturn",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWFVIM2drRWVKM1FGLUstSUxCWVhwUzdMY2VOdFZ0S1JSbnJ2cnpVSEJGUHVEaWxsNXdQVy1kSnJDZmVaVUZ4WTlZRjJ6dEt6V0FwZVktTUxoSkFQWFNVdWlvSDZWMDVOVEYxd3JPX016VjlPdlVjX2ItNnpKYWFXbE5aV3oxTW0wZjFtOFhqRDB4c0ZtOENOSnVXZ09KcVlvOU9HekoyOXNoMURmT1pJMnVmUG9zTjQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T13:30:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Business Upturn",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWFVIM2drRWVKM1FGLUstSUxCWVhwUzdMY2VOdFZ0S1JSbnJ2cnpVSEJGUHVEaWxsNXdQVy1kSnJDZmVaVUZ4WTlZRjJ6dEt6V0FwZVktTUxoSkFQWFNVdWlvSDZWMDVOVEYxd3JPX016VjlPdlVjX2ItNnpKYWFXbE5aV3oxTW0wZjFtOFhqRDB4c0ZtOENOSnVXZ09KcVlvOU9HekoyOXNoMURmT1pJMnVmUG9zTjQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "6568339b14b7",
+   "title": "$229 Galaxy Buds On arrive with hands-free AI operation and smooth gestures",
+   "summary": "$229 Galaxy Buds On arrive with hands-free AI operation and smooth gestures The clip-on buds form factor is here to stay and not merely a fad. Samsung has joined the bandwagon with its first-ever clip-ons that compete...",
+   "link": "https://www.yankodesign.com/2026/10/28/225-galaxy-buds-on-arrive-with-hands-free-ai-operation-and-smooth-gestures/?utm_source=rss&utm_medium=rss&utm_campaign=225-galaxy-buds-on-arrive-with-hands-free-ai-operation-and-smooth-gestures",
+   "image": "https://www.yankodesign.com/images/design_news/2026/10/225-galaxy-buds-on-arrive-with-hands-free-ai-operation-and-smooth-gestures/Samsung-Galaxy-Buds-On-2.jpg",
+   "publishedAt": "2026-10-28T13:20:55.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Yanko Design",
+     "link": "https://www.yankodesign.com/2026/10/28/225-galaxy-buds-on-arrive-with-hands-free-ai-operation-and-smooth-gestures/?utm_source=rss&utm_medium=rss&utm_campaign=225-galaxy-buds-on-arrive-with-hands-free-ai-operation-and-smooth-gestures"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "e6f03b2bf831",
+   "title": "iQOO Pad Pro debuts with Snapdragon 8 Elite Gen 5, 0.94 CFM cooling fan, 9020mAh battery",
+   "summary": "Cooling is taken seriously here. It uses an Ultra-level Ice Dome quad-layer system with a 30 × 30 × 3.5 mm active fan that pushes up to 0.94 CFM. The post iQOO Pad Pro debuts with Snapdragon 8 Elite Gen 5, 0.94 CFM cooling fan, 9020mAh battery appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/10/28/iqoo-pad-pro-debuts-with-snapdragon-8-elite-gen-5-0-94-cfm-cooling-fan-9020mah-battery/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iqoo-pad-pro-launch-300x169.jpg?x80236",
+   "publishedAt": "2026-10-28T13:15:50.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "iQOO",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/iqoo-pad-pro-debuts-with-snapdragon-8-elite-gen-5-0-94-cfm-cooling-fan-9020mah-battery/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "7f5a83350075",
+   "title": "Huawei has unveiled colorful versions of its FreeClip 2 earbuds for $195",
+   "summary": "Huawei has unveiled colorful versions of its FreeClip 2 earbuds for $195 LIGA.net",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUJtbnBybUhjR0NrQTd5Z1hPVTR4V1luMm1BY1pPdmY1bW5Sc0VWd3BHWDVSamo4VlNkWU9oT0Z4ZFBXc2dPazk1XzNyQzdtc1ZhR29XRUNsYWFLMnFOcW5CcmQ2N1N0RVhpUDM0aWlaOXJNd1cyNzFvQ0tmM0pYTDlBblZMaDBhSXRVb2RFYTlRclMxQmlSSnVURXBqVVZwb0JLS3Y2UlZaVl9nN1HSAbMBQVVfeXFMTlhGdkM0OXBIT2hhc2paTHJ4WE1KWFpEdjNLY0tFRG96dmtQcWh6YXpwMGVrY0s3ZDJLcUR0WVFPcU0xZXFOd292ZGtUcU1RWW13YnUtOEtmZG5XMmJQTkh5UGxBeUdpckV6dTdJRk5ZSFVFMk80YkhkZ2FEbkhTZVFYZjBLZUxHSzNzOXg3RFRYZm9DVHFCYXB4aXZobkdGWDRmVFJReUxweUhUakREazM3NlU?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T13:05:28.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "LIGA.net",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUJtbnBybUhjR0NrQTd5Z1hPVTR4V1luMm1BY1pPdmY1bW5Sc0VWd3BHWDVSamo4VlNkWU9oT0Z4ZFBXc2dPazk1XzNyQzdtc1ZhR29XRUNsYWFLMnFOcW5CcmQ2N1N0RVhpUDM0aWlaOXJNd1cyNzFvQ0tmM0pYTDlBblZMaDBhSXRVb2RFYTlRclMxQmlSSnVURXBqVVZwb0JLS3Y2UlZaVl9nN1HSAbMBQVVfeXFMTlhGdkM0OXBIT2hhc2paTHJ4WE1KWFpEdjNLY0tFRG96dmtQcWh6YXpwMGVrY0s3ZDJLcUR0WVFPcU0xZXFOd292ZGtUcU1RWW13YnUtOEtmZG5XMmJQTkh5UGxBeUdpckV6dTdJRk5ZSFVFMk80YkhkZ2FEbkhTZVFYZjBLZUxHSzNzOXg3RFRYZm9DVHFCYXB4aXZobkdGWDRmVFJReUxweUhUakREazM3NlU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "123c3cdee3d1",
+   "title": "John Ternus posts teaser video ahead of MacBook Pro redesign unveiling",
+   "summary": "Today at 10:00 a.m. PT, Apple is expected to unveil its long-awaited MacBook Pro redesign with a touchscreen, OLED, and more. Ahead of the reveal, CEO John Ternus just posted a teaser video. more…",
+   "link": "https://9to5mac.com/2026/10/28/john-ternus-posts-teaser-video-ahead-of-macbook-pro-redesign-unveiling/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-28T13:03:42.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/28/john-ternus-posts-teaser-video-ahead-of-macbook-pro-redesign-unveiling/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "1252ee68b0c2",
+   "title": "Amazon announced five new Alexa devices, including 16-inch Echo Show",
+   "summary": "Apple recently launched new HomePod mini speakers and its HomeView smart display , and today it’s Amazon’s turn with five new Alexa devices. This includes a new Echo speaker with visual intelligence and an Echo Show with a larger 16-inch display and a nanomatte option … more…",
+   "link": "https://9to5mac.com/2026/10/28/amazon-announced-five-new-alexa-devices-including-16-inch-echo-show/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Amazon-announced-five-new-Alexa-devices-including-16-inch-Echo-Show.jpeg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-28T12:48:35.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/28/amazon-announced-five-new-alexa-devices-including-16-inch-echo-show/"
+    },
+    {
+     "name": "KELO-AM",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDlEZHJEZTNhYWdaeE80TTd6LTNPMnc2MXVqZmo1bEsyS2FoYWl0dEdsNWtsOGxLbDNsd2VTZFZBODFlbmEyblZ4RTlDWHFWOFhkS0xScHJQS25VdHhBXzZSdllmRGlmN1ZwYUpIWXJiMDRpM0JrOWpkRFpzMjVoWldoemkxRGMzRUExdUZQYjNTVnRiRzdPX1RhQkhZX1RMWDB4dw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "1d3ab8d8e201",
+   "title": "iQOO Pad Pro 8.8 Launched With 165Hz AMOLED Display, Snapdragon 8 Elite Gen 5 Chip: Price, Specifications",
+   "summary": "iQOO Pad Pro 8.8 was launched in China on Wednesday. The compact tablet promises to offer flagship performance in a smaller form factor. It sports an 8.8-inch AMOLED screen with a 165Hz refresh rate. The tablet is powered by the Snapdragon 8 Elite Gen 5 chipset, paired with up to",
+   "link": "https://www.gadgets360.com/tablets/news/iqoo-pad-pro-8-8-price-launch-sale-features-specifications-12249004",
+   "image": "https://i.gadgets360cdn.com/large/iqoo_pad_1793191414907.jpg",
+   "publishedAt": "2026-10-28T12:46:03.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "iQOO",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/tablets/news/iqoo-pad-pro-8-8-price-launch-sale-features-specifications-12249004"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495923/iqoo-pad-pro-8-8-price-specifications.html"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "0d8906d4fff7",
+   "title": "Samsung Launches Galaxy Buds On In U.S. For $229 With Open-Ear Design And AI Features",
+   "summary": "Samsung Launches Galaxy Buds On In U.S. For $229 With Open-Ear Design And AI Features Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmkzQ0kxQktGVnhQNUdJT2NSUVBOWmF6SFZjdl8wRDRBTzREQlJkREhNdWdMYUJXSU9ELU9LRG5jV1hJcDI2YTNXZnppbmwxNlBMeGZEN3k2WDlmTDJHbjhkX0FGbk1BMjliQWkwUEYxZ3dudElZaDZ1M2lMQXNXMXAwOW1NbWJQbGNHMW9wWnRkNU8xd2pkRzEyZnV2bTlWUjVEd1lR?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T12:40:06.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Pulse 2.0",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmkzQ0kxQktGVnhQNUdJT2NSUVBOWmF6SFZjdl8wRDRBTzREQlJkREhNdWdMYUJXSU9ELU9LRG5jV1hJcDI2YTNXZnppbmwxNlBMeGZEN3k2WDlmTDJHbjhkX0FGbk1BMjliQWkwUEYxZ3dudElZaDZ1M2lMQXNXMXAwOW1NbWJQbGNHMW9wWnRkNU8xd2pkRzEyZnV2bTlWUjVEd1lR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
    "id": "fc82e82829c9",
    "title": "All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more",
    "summary": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
@@ -151,6 +1159,10 @@
     {
      "name": "Notebookcheck",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDdHUFVHdFNJb2loV202XzlSNk5aSUE1dWVZRTFlcmdKbHdWWExDRFhFRVI2N0ZGT0pUbU5YN2dKWFB5SDNNU2JOa1UxSGVtdDdTQU9yb1ZPZTZfU2g5eTROLXdETDEwV1NpRmVaMXRiazVyWXNGQUh1X3lNLS1OU20tS011cmdQOXpYSVg4Mk16Q2VXVVdNLVcwTGxRUGlIRVVuV084RHlfblVfaEtVWE1VSUxuSXEyVHU4WjhWajk3SkVzQTVVRA?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXF5UUh6b0xKOG1qREFTSWVtTUNaX2d6TG94bzdEVWo2VXFYOTdFZG1NODJKUi0ycFJBNFl6VEdma2haQmlZcEV3N1U4VzNtakw2M3ZCNjQzeFBwZEhuUUdoZ3d4bHM3WkxRNXFMUDNxbXlsVjZKQWpfdkppSmNCSlhfTzNXdlFfOEE?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T12:40:01.370Z"
@@ -336,6 +1348,36 @@
    "firstSeen": "2026-10-28T12:40:01.370Z"
   },
   {
+   "id": "dbada7f0737b",
+   "title": "Ai+ Smartphone Announces Price Hike of Across Select Models from November 15",
+   "summary": "Ai+ Smartphone Announces Price Hike of Across Select Models from November 15 Goemkarponn",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSE82dzNMTGozOVR0akNsbVVYT2NsSXBMRElQeHExYXhkZWJZbC1WUHQtVGhROVRKZHR5cXpJU21fMGxsdFhtQ01GeGEwaWQ3WHNJNFZjdEktamlBTnNHb1BDTmdVeUNIMVhIalM5ZzRqVU96Z0FDbHgtSkRBWU5PcWpOM19naWRRRXR3WGZrTmlVcXpMcGh1ZHJNYWp3OFNrLVE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T09:46:34.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Goemkarponn",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSE82dzNMTGozOVR0akNsbVVYT2NsSXBMRElQeHExYXhkZWJZbC1WUHQtVGhROVRKZHR5cXpJU21fMGxsdFhtQ01GeGEwaWQ3WHNJNFZjdEktamlBTnNHb1BDTmdVeUNIMVhIalM5ZzRqVU96Z0FDbHgtSkRBWU5PcWpOM19naWRRRXR3WGZrTmlVcXpMcGh1ZHJNYWp3OFNrLVE?oc=5"
+    },
+    {
+     "name": "Telugu Times",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPam9CZjVmRUJCQXEydmg0d1djVUZxRmQ5RHotQW1ITkdhN2Z1NG16SnpueEhJM094cnU3MnJXSEVuR0paY3NKQW56eGhhS3AwN013cEYtc01JanBJZDV1OWRmaDY5U2l6cXBxZEVUVmphR1FsN1NwRGxmSmxiNXpzQ2syMlAwSGQ4bTc0WF9rZnlXTW1MVmRqWUZ1T0ozQzlNZXFoODRfelc1OTIwbmVfNHhndk5TQ0dzM3RpTmhyNjhNU2J2OVNWTWZoNUJ6c0ZZWVhVZVBkblhDVHJfR2xVYzZIRU82UGpCeUE?oc=5"
+    },
+    {
+     "name": "IT Voice Media",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHNrcTJ2OVp3Uk5pYTFtcHlJd3lOUEpiTUtlWHpSRlhoT3FBaVo2aGVoNXZtWkl1ZE5Cd0RUaDNZOHVVaTQxWG5kRXZsRFQxaWFEay1KQ1NsejVSTUtnUjI3WnNXV05Dc0lYWlpIOUtZVHcxSEhoQmtIVVJpTkRCckx4VWZaY2hOUHh3TkY3aTc2UjhmVzhuNkE3WF9zOG8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
    "id": "dae3f35cb2fe",
    "title": "LG launches its largest 115-inch QNED evo MiniLED TV in India: check price, specifications",
    "summary": "LG launches its largest 115-inch QNED evo MiniLED TV in India: check price, specifications 91Mobiles",
@@ -447,10 +1489,10 @@
   },
   {
    "id": "5c7bbe25e678",
-   "title": "Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile - GSMArena.com news",
-   "summary": "Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile - GSMArena.com news GSMArena.com",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2pVNHBXNkZYVnZKRGhnelFJVkRfclh1eVhJcjJ3V1VjRml2RkU4RUJBN0xHOGhtUlhhWE9QQjJCZVM5RmRfc09kdU5Ec3JERzQ3bWRBcl9Bd0F4ZDllaHplYWpaaVUxclZXcHJYNUt6Y0tGOTZNWXdxZ2EzV0xycnU3SmIwcTB2QzNFTEs3SElNcjloN2JfcHF4SEk0RktR0gGcAUFVX3lxTFBmaHUzaVZnSjJ4OFU2UC1yLWpnNnRiMTlMcVg2UW91ODltOUtEZEMyUHBVd0UzaXlCblZwZ1JObHFQMHdTZzRaaEVyVEQzZDhsZERlMUxfQkhmeDlMZWIwXzV6MXJKWVMyMlRJVXpPREpwODlpWG9OMExKLTdfRmQzTXptZ3NEU1V0aS1SSVNOVi1HX3UzSldGdEJybw?oc=5",
-   "image": "",
+   "title": "Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile",
+   "summary": "Sony has announced the LYTIA 720, a new 50MP stacked CMOS image sensor designed for mobile devices. The Sony LYTIA 720 measures 1/1.56-inches and features a 1.0μm pixel size. It uses Sony’s proprietary Ultra High Conversion Gain (UHCG) circuit technology, which is claimed to impr",
+   "link": "https://www.gsmarena.com/sony_unveils_new_lytia_720_50mp_1_156inch_sensor_for_mobile-news-75239.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/sony-lytia-720-announced/-184x111/gsmarena_00.jpg",
    "publishedAt": "2026-10-28T08:06:02.000Z",
    "date": "2026-10-28",
    "status": "Launched",
@@ -458,11 +1500,15 @@
    "brand": "Sony",
    "region": "Global",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "GSMArena.com",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2pVNHBXNkZYVnZKRGhnelFJVkRfclh1eVhJcjJ3V1VjRml2RkU4RUJBN0xHOGhtUlhhWE9QQjJCZVM5RmRfc09kdU5Ec3JERzQ3bWRBcl9Bd0F4ZDllaHplYWpaaVUxclZXcHJYNUt6Y0tGOTZNWXdxZ2EzV0xycnU3SmIwcTB2QzNFTEs3SElNcjloN2JfcHF4SEk0RktR0gGcAUFVX3lxTFBmaHUzaVZnSjJ4OFU2UC1yLWpnNnRiMTlMcVg2UW91ODltOUtEZEMyUHBVd0UzaXlCblZwZ1JObHFQMHdTZzRaaEVyVEQzZDhsZERlMUxfQkhmeDlMZWIwXzV6MXJKWVMyMlRJVXpPREpwODlpWG9OMExKLTdfRmQzTXptZ3NEU1V0aS1SSVNOVi1HX3UzSldGdEJybw?oc=5"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/sony_unveils_new_lytia_720_50mp_1_156inch_sensor_for_mobile-news-75239.php"
     }
    ],
    "firstSeen": "2026-10-28T12:40:01.370Z"
@@ -598,6 +1644,28 @@
     }
    ],
    "firstSeen": "2026-10-28T07:24:55.929Z"
+  },
+  {
+   "id": "81bcacbff1fa",
+   "title": "XPPen Launches Magic Pro 13, a 12.95-inch Android Tablet with 16,384 Pressure Levels, at ¥169,800",
+   "summary": "XPPen Launches Magic Pro 13, a 12.95-inch Android Tablet with 16,384 Pressure Levels, at ¥169,800 BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xb2IzdmJWczFBZXp6TGI1clphRlJqbGg5R0NCQTU0LTNYeG03a3kyUGhhb2FZd3NjWXpHSkdLUnZvb2s0UE80QTRnMFlwVWg2NFJWd2JwWGVkV2dnM3czMW5RaG1McHB0Y2g2MG0wSGZNdndGcUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T07:00:21.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xb2IzdmJWczFBZXp6TGI1clphRlJqbGg5R0NCQTU0LTNYeG03a3kyUGhhb2FZd3NjWXpHSkdLUnZvb2s0UE80QTRnMFlwVWg2NFJWd2JwWGVkV2dnM3czMW5RaG1McHB0Y2g2MG0wSGZNdndGcUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
    "id": "d3524f861823",
@@ -853,6 +1921,10 @@
     {
      "name": "Igeekphone.com",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXViZmlVU0xhSzhfMGhVY0NtWUZBazEyUmlxZ0Rpb1dlcW9OVEZRdEZvM243R2J5azI1bG5rbk9PYWM2Tkh2Y1VRUEJ3SEFlYTBCdklBWFkyckVrMVdMVEJNQ0dTbERkTF82UVYxSGRnQlp4QzZKZU5jZkprQVRiY1JxNDQxWFFta3dDZGhjeGJENlJZaEhSbkE4bUJIMXA0QUxaVG9IQzl1eVhEdFRVMzhqNmNuTGk4aERTczkxRQ?oc=5"
+    },
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZnNmQTNKbjI5MjJJclVwNDNxdk1fdmc1S3NnSVRMak02U3QyNk9RMW42TlQ0Z2NSMnFFNjZ6SkVJd3hxS0xOVDcxb2JmV01vTlB1U3RubVZYTVFaZE01aXkycklqRS16MTdoMzByV0FUMVdrZHN3dXI1TEljYzh2NnNCMnFWemFudXJ6YXRlY2JDdjFvTmRSOTE0ZFVabDhQZ2fSAacBQVVfeXFMUEZJRGNZci1wOEc0TzloMjRvejVBcndmdWVfeTdRRlN5REJPcDdDZ3ZaQnpROGVUX201RGJGYmV1ZDV0aEtaSTRYQWVya2VIc2pqbmpXcHhKV2Y2Wlg4NWktN1BzVEdIeTBlR0xDQUtVRk1mVHhvNW52THk1NEtZTnl1NF9DZHlDbkQxRllWRzV1ZElwYlVlMjM0OUMyRDl1SUlyZkVLSVk?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T05:24:23.357Z"
