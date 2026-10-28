@@ -127,6 +127,18 @@
     {
      "name": "SamMobile",
      "link": "https://www.sammobile.com/news/galaxy-a08-launched-india-price/"
+    },
+    {
+     "name": "The Tech Outlook",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZV9sR1FJcF8xOHB0LWY5aTM5c3E0ckQ4bjlXcmFBXzFkMWMtdE5KTWpodkVRZ3RBem5qVW1WQ0JaNXVZOUduWEhYRFc5b3lPVDJicTlXenFSZDhCZU5ZcmM0S1o5MlVOdjJWdjNHVXpwVng1U1Z4LVNCNkVPWXBUVVlUREtWTHdvVV9WT3IxQ3VadnIyVDI1dDcybnN1V004UXRDVkE3VzMwNDFkTFZ6TzFwZDUzMTd2QjlRSm5qUFZaYk10bDZrQWM4T1FZa0NxdnlsZnREWEhqdGtoVExF?oc=5"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WYUtwWHBENGhsNUFnXzk5UGppMUJMYVhnMTRGX2lYbGpmVXRxOFBmOGFJTFQ1dkNSUTgtcC14aU1Xa01TZ19Ca2J6eXdMa1FsMVk2RGwxbEFaRlFRcHZjOHRZNWhEcG5nTU5lQ0Zpd3IxTEU?oc=5"
+    },
+    {
+     "name": "Analytics Insight",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEN6bzduTFlHT1B3LVIxMzR3WFJRWFRURmhqV1hZWW10LWJyY1o4ajExOEhBaUJoMEp5TkJZa1JCWGRNOG5ncnJRVzVOUFdiZkNRdmpybXhqOHJjMkcxakk3MUhyZWZZa29xUWhrNEQ0akNZOVRtRnYyTnNLMHQtR0FmQmJJemVJYWY2SkxyMWF2NV82Ty1TZGNPeld1SzBJOFJBb3dLc3JiQdIBqgFBVV95cUxOdEN6bzduTFlHT1B3LVIxMzR3WFJRWFRURmhqV1hZWW10LWJyY1o4ajExOEhBaUJoMEp5TkJZa1JCWGRNOG5ncnJRVzVOUFdiZkNRdmpybXhqOHJjMkcxakk3MUhyZWZZa29xUWhrNEQ0akNZOVRtRnYyTnNLMHQtR0FmQmJJemVJYWY2SkxyMWF2NV82Ty1TZGNPeld1SzBJOFJBb3dLc3JiQQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-27T15:17:31.820Z"
@@ -287,22 +299,26 @@
   },
   {
    "id": "c198b57fc52a",
-   "title": "Samsung Galaxy Buds On: Design, Features, and Launch Details of the New Clip-On Earbuds",
-   "summary": "Samsung Galaxy Buds On: Design, Features, and Launch Details of the New Clip-On Earbuds Analytics Insight",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUFNUlNNa0RmZDBxcXBvU2tfNXN0V21OX0pHaWtOamU2UmoxS2FYWFFYVWlYSnY5NGtUaXBxVlZlTW9NX2VhSEZIRDZMR29ITFRSZWg4Sm1jS1duQ0xzdS1ldWhNLWZRZzhyNmYwSzBQQXlIR1J3QTBJdUZlT0xyZTVFTy1GYjQ0X2VFa2xXYm1oeDlHWTNEU2tHcmJQSW1jYmpRcjRhdllXMEVyMFo3U2xSYlROQXhnVEt0YzNmeFZfQmtKSkV1emRZUzIzZWJD0gHQAUFVX3lxTE9FQU1SU01rRGZkMHFxcG9Ta181c3RXbU5fSkdpa05qZTZSajFLYVhYUVhVaVhKdjk0a1RpcHFWVmVNb01fZWFIRkhENkxHb0hMVFJlaDhKbWNLV25DTHN1LWV1aE0tZlFnOHI2ZjBLMFBBeUhHUndBMEl1RmVPTHJlNUVPLUZiNDRfZUVrbFdibWh4OUdZM0RTa0dyYlBJbWNialFyNGF2WVcwRXIwWjdTbFJiVE5BeGdUS3RjM2Z4Vl9Ca0pKRXV6ZFlTMjNlYkM?oc=5",
-   "image": "",
+   "title": "Samsung launches the Galaxy Buds On clip-on earbuds in the US, here's the price",
+   "summary": "At the beginning of this month, Samsung unveiled the Galaxy Buds On, its first pair of clip-on earbuds. Today, the company has also announced them for the US market, where they will become available to purchase in early November for $229. Then, Samsung says it will bring them to ",
+   "link": "https://www.gsmarena.com/samsung_launches_the_galaxy_buds_on_clipon_earbuds_in_the_us_heres_the_price-news-75231.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-buds-on-us/-184x111/gsmarena_000.jpg",
    "publishedAt": "2026-10-27T13:49:41.000Z",
    "date": "2026-10-27",
    "status": "Launched",
    "category": "Audio",
    "brand": "Samsung",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
+   "region": "USA",
+   "confidence": 3,
+   "aggregator": false,
    "sources": [
     {
      "name": "Analytics Insight",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRUFNUlNNa0RmZDBxcXBvU2tfNXN0V21OX0pHaWtOamU2UmoxS2FYWFFYVWlYSnY5NGtUaXBxVlZlTW9NX2VhSEZIRDZMR29ITFRSZWg4Sm1jS1duQ0xzdS1ldWhNLWZRZzhyNmYwSzBQQXlIR1J3QTBJdUZlT0xyZTVFTy1GYjQ0X2VFa2xXYm1oeDlHWTNEU2tHcmJQSW1jYmpRcjRhdllXMEVyMFo3U2xSYlROQXhnVEt0YzNmeFZfQmtKSkV1emRZUzIzZWJD0gHQAUFVX3lxTE9FQU1SU01rRGZkMHFxcG9Ta181c3RXbU5fSkdpa05qZTZSajFLYVhYUVhVaVhKdjk0a1RpcHFWVmVNb01fZWFIRkhENkxHb0hMVFJlaDhKbWNLV25DTHN1LWV1aE0tZlFnOHI2ZjBLMFBBeUhHUndBMEl1RmVPTHJlNUVPLUZiNDRfZUVrbFdibWh4OUdZM0RTa0dyYlBJbWNialFyNGF2WVcwRXIwWjdTbFJiVE5BeGdUS3RjM2Z4Vl9Ca0pKRXV6ZFlTMjNlYkM?oc=5"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/samsung_launches_the_galaxy_buds_on_clipon_earbuds_in_the_us_heres_the_price-news-75231.php"
     }
    ],
    "firstSeen": "2026-10-27T15:17:31.820Z"
@@ -333,6 +349,14 @@
     {
      "name": "Xpertpick",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONUtORE5HaDU2OTlhNGdodExlUXotMzZZbUZuSlFOa1JTbWhYWWV3NllnSGYzMDNYWm1MT0VoWDdlV1l4OTdDa29HMy1HOUkxNXhOY1l4UTBQSEJoc0d2NExJb1FtT3FRNExTczRVZGpyeVhyUE85eWozWVp6MFVORUUyWmNheGszRzFXNkloS3hQeWdBNHJmMDR2c19UVTlTaHgtejVpdHVCS3UxTlNsckR1WlBSaWlubDgzaHZfWEJCd2_SAcgBQVVfeXFMUGNVd2gwY1BFd2JMbEdNN3hBc1BWdjVxX3J4MXNsb0V5WXZSYzNQYy1NRTd5SnhmbXlzdHltOTEwTXVfM2o5WHNOc2ozTnhDTzNuQklFM0haZWdyRDNfOVltZ0RrbHFDVE81V1RTdXEtNXJLUWhNNkMxRnJpaURlZ3VLaDdWSGNEci1iVm1MbFNJdG9LbEtaNi1TUC1XNTZEYXpsbFFJWlFfWUltbWl0TmFhUDhvMXB0Z1ZlRFZ5ZGR4OVdVNnZYRzI?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/tv/news/lg-115-inch-qned-evo-ai-mini-led-tv-price-india-launch-availability-specifications-features-12247811"
+    },
+    {
+     "name": "News18",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb0ZUcEY2LUtKRjR3NXhjVEszeGtuenAtUjItNGZ0eTZPSHdBZW5UQUZrSkJlMEhzYl9wNXpwRUtMcmdGYWlmQlA4SmNXa3cwNXBlbDduV0R3dGFrb1RmbEpJZ0psajZDRHhrOVMwUXQ0OHVpOFlvR3EwOWdNdVFXdk1GWkk4dU53QzVmM0tidTJ5T1FrNlNxbXVsQ1pHY2JqVHI0d2ViWUdKVnBEdjg4WW5RVkFWaUpjdGZPUlV3eWhZNmI2dmZBVU5tdEo1QmlrQWV2QlBKNE5wZGxhSUVzdDdLQXhuazRfUGlKbtIB8gFBVV95cUxQV0Nucm5WaVAxa1pqSG1UMXBpaFZOOExwaFAzTGdRS3pRY1BMYjJtN2pYUnJOX2ZJYWlmMDJOdU5oQklnM2E3dnNGNlZaZ29wNGN4NkpMemdhX0VIdFVvTVBJRngxS1A0UEF0RG42cjJkOE1Ebmd1bWd2Um90RXdQNFY4b0NrblN0YjJkX3o1U1hjck9JMjFhbTU3LVBFcC1CaWxNdW1YQ3cwbERmdFFmakttVEhQaEYybVcxb2dKZW5NeWdzdzRKRmhDQ0NlR0Ftcy1yY2ZhZ3V6eHRYbFhnOTN4RlJXU1NMNzJsOUQ5RHRDdw?oc=5"
     }
    ],
    "firstSeen": "2026-10-27T15:17:31.820Z"
@@ -525,6 +549,22 @@
     {
      "name": "ETV Bharat",
      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWUEyZmR3SlRzNVRVaXh1aF90eTU0ZktJNXktbHc3SnNhanlUdnhxanNzUWJ6Sks5WWFjNEpkQnlZR0hGX3hBc21OQk12c3FvSkN5dFQ5Y0x5eUJKVUVsclNVYzRyUFVFekpPcmZ1VlVueUdnVmhNblVpMGtQNXExeU1uZU9HS3NWLWpiV01uVE1aeU5DWUsxR2hEbkFvaTQwVDhhMUs0MnF5WThEcHZGRjNuMnNsQTdDckxLaHVMWEdhMHVLSDdrZ05wQ2NMbEhpREZSeVRSRVNCU3ZSUXRadXdB0gHnAUFVX3lxTE14R1FSM2Z4amRNT3lYNHg3UFR1VWctNEdSbTJuenk0VWNmRi13SElzSWRLSi1VOFBWM1JZMF9fMVMtUVN1RzRUaUhuYUFwZk5Xa2hvQTdZSjBrSHlpTnBLT1JvZ3dpaWtKTHdiX2FiRzVPem8tc2MzbklQT2tyZnE2NXBQMEVRQXJJQVJVTVpfQ3dHTnpzdGo0MmVYcVpvOGtmOWFlN0dscWJQdlFUOUVNT25CbnBpdXFPOC1YTUozSHUweEVSel9uY1AtRG85Z0xzTzVhaWpXd1hXVmlnQ0RydmczOThaYw?oc=5"
+    },
+    {
+     "name": "TechCrunch",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3NvSWI3cjhYTVBaZndZUnBOc1oyYUxfZXFNS1NOMV9BQS1CTE5yaWVtWGljeWRIRmtRWXBFYnM4QlhIMkRaUEQzZG05b19fX3JzRmxjUmQ0NDQxakREZDNCSDBqTmI2VXFkQjBGSGxXbkRfN3pCeFVkOHhlZnMxdUU1eF9Tb0NmYVdVTlZ3?oc=5"
+    },
+    {
+     "name": "The Hans India",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzEzMXBpeFJWX1JOZ3ZhVmNxNms1Z2p4aEc1TWVBcjdoRVVkcGQwS040clVNY2FoN3I3bURqcFZnellGc1N4TWR0d3VrUC1KUldXbGJ2RDhHMEdLblExLU90THRpOHp0bE5DdVdoT1BTeEpVSEo5cmhzTnVlQ25vY0FZbVB1RWpJNDF3TUVUMV8zSWJsVWMwWUtWaHFNQXdOMENQR3YtX1pVcm00dnpyZzBtM1hZN1d6V3hIT2dyMkc?oc=5"
+    },
+    {
+     "name": "Pokde.Net",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oZVZOWW53OHNPd3FEcG9KOHpnTU11U2E2anJLUFhyS0R1akpNUlNqS2twd3FEUDdoLTJ6V2gybjZwMk5SMlUyYno1T3FUa25IQkVINlAzS2pmcjNoTEE?oc=5"
+    },
+    {
+     "name": "AsiaOne.com",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmpyMXRLelVfSU0wZzE0amw5NFlrcjZ6NGswT0I1dVRWSEhuYlZKcmJRLUNqX3FVX2xIa3BzTFE4aFRxMFhxdjcwbFludVNCeUVHVmVhY3h5WUplckN3TmtVS1BVd1dyNXRKM0pXZl9yU2VNUnFFYVIwV1oyTFhhSmY1TlNOVlViQWFpNlI0TTZVTGpLSnVoVGhxbw?oc=5"
     }
    ],
    "firstSeen": "2026-10-27T15:17:31.820Z"
@@ -1094,6 +1134,28 @@
     }
    ],
    "firstSeen": "2026-10-27T08:52:09.689Z"
+  },
+  {
+   "id": "95bb3061cd2f",
+   "title": "Samsung launches the Galaxy Buds On clip-on earbuds in the US, here's the price - GSMArena.com news",
+   "summary": "Samsung launches the Galaxy Buds On clip-on earbuds in the US, here's the price - GSMArena.com news GSMArena.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmc4RU5menc3YzFpRXo4RFVuUVItUzVGakliQnRzQ290b3FHdk1pck94LUxoOXNGNTJoRnQ0YmFWLUE2aG9BcHJlaC1KUVBQWE53UTFJRmp2T2ZNMHBoYjRzXzdqMXNHTFBDNzRRcmVxbC1OeUYzNzR2ZE1TZVNsVDdHMGw5VFYyZGVKWkk1b3RtSGFVbnRBeTMyRkZ6YWgyQWROSVhIWkFrelVFc0VkYzI5ZW1ieknSAbMBQVVfeXFMT2lyb1BUeTJkWTJBR3hEaDc1NFFFLWtJSGdXWXJEYTZKN2w2MTRVUzlIdlV0RDl1aEphZ3BYaFcxa3V2M25QSlhRQnhDSnJuRDhCVG5kUksxSXMwV3I2bFlwWVRPZFRrZTZ6MTh3SnNGMUNIbkJTVmsyMHRIaFc0X0JoWWVrMVJzYnhRc25EckpwRVNPRlFvb2lQcW54RG9Valk5V1p1OTJ4YUpJM2ZjSFVxTkU?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T07:00:00.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "USA",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "GSMArena.com",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmc4RU5menc3YzFpRXo4RFVuUVItUzVGakliQnRzQ290b3FHdk1pck94LUxoOXNGNTJoRnQ0YmFWLUE2aG9BcHJlaC1KUVBQWE53UTFJRmp2T2ZNMHBoYjRzXzdqMXNHTFBDNzRRcmVxbC1OeUYzNzR2ZE1TZVNsVDdHMGw5VFYyZGVKWkk1b3RtSGFVbnRBeTMyRkZ6YWgyQWROSVhIWkFrelVFc0VkYzI5ZW1ieknSAbMBQVVfeXFMT2lyb1BUeTJkWTJBR3hEaDc1NFFFLWtJSGdXWXJEYTZKN2w2MTRVUzlIdlV0RDl1aEphZ3BYaFcxa3V2M25QSlhRQnhDSnJuRDhCVG5kUksxSXMwV3I2bFlwWVRPZFRrZTZ6MTh3SnNGMUNIbkJTVmsyMHRIaFc0X0JoWWVrMVJzYnhRc25EckpwRVNPRlFvb2lQcW54RG9Valk5V1p1OTJ4YUpJM2ZjSFVxTkU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
   },
   {
    "id": "545b55fc8b37",

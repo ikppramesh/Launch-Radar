@@ -2,6 +2,582 @@
  "date": "2026-10-28",
  "items": [
   {
+   "id": "fc82e82829c9",
+   "title": "All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more",
+   "summary": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
+   "link": "https://www.engadget.com/2299032/all-amazon-echo-news-october-2026/",
+   "image": "https://www.engadget.com/img/gallery/all-the-amazon-echo-devices-announced-today/l-intro-1793135803.jpg",
+   "publishedAt": "2026-10-28T12:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2299032/all-amazon-echo-news-october-2026/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "6c2c53af8592",
+   "title": "Amazon launches its first digital photo frame with built-in Alexa",
+   "summary": "You can tell Amazon's Alexa Photo Frame which images you want to see.",
+   "link": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/",
+   "image": "https://www.engadget.com/img/gallery/amazon-launches-its-first-photo-frame-with-built-in-alexa/l-intro-1793179679.jpg",
+   "publishedAt": "2026-10-28T12:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "820cadd24c1b",
+   "title": "Samsung’s open-ear Galaxy Buds On cost $229 in the US, launching next month",
+   "summary": "After launching in Korea earlier this month, Samsung has confirmed that its open-ear Galaxy Buds On will cost $229 in the US and will go on sale early next month. more…",
+   "link": "https://9to5google.com/2026/10/28/samsung-galaxy-buds-on-price-pre-orders/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-buds-on-head.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-28T12:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "USA",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/10/28/samsung-galaxy-buds-on-price-pre-orders/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "07a6289c91cd",
+   "title": "Samsung’s new Galaxy Buds On will miss the holiday launch window in Europe",
+   "summary": "Samsung's new open-ear Galaxy Buds On earbuds went on sale in Korea yesterday, with no other news of a global launch. Today, Samsung offered more details, but it's not all good news. The Galaxy Buds On will make it to the United States before the end of the year. Unfortunately, t",
+   "link": "https://www.sammobile.com/news/samsung-galaxy-buds-on-miss-holiday-launch-window-europe/",
+   "image": "",
+   "publishedAt": "2026-10-28T12:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Europe",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "SamMobile",
+     "link": "https://www.sammobile.com/news/samsung-galaxy-buds-on-miss-holiday-launch-window-europe/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "4f03fd2e0b48",
+   "title": "Galaxy Buds On launching in the US in November, here are all the details",
+   "summary": "Samsung has finally provided more details about the US release for the Galaxy Buds On, the company's first open-ear wireless earbuds. While Samsung has already released the product in its home country of South Korea, customers in the United States will be able to buy it from earl",
+   "link": "https://www.sammobile.com/news/galaxy-buds-on-launching-in-the-us-in-november-here-are-all-the-details/",
+   "image": "",
+   "publishedAt": "2026-10-28T12:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "USA",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "SamMobile",
+     "link": "https://www.sammobile.com/news/galaxy-buds-on-launching-in-the-us-in-november-here-are-all-the-details/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "f0d4dce87185",
+   "title": "Redmi Clip Neo Earbuds Launched in China With 32-Hour Battery Life",
+   "summary": "Redmi Clip Neo Earbuds Launched in China With 32-Hour Battery Life Sangri Today",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFZWdF9PSW9NbnBxcUhvMjR2UUtVUkdQay13YnpwYUQwZll5dDZoRFdqZ29GdnF1d19uNTJ1SENJYUdzWEZ2aHhFcG9rTlF6SmNpTEVUOW9OSzd5andOM0kzUUNVZGNueGhzUW1LdG1sWFBIcmlZYWhsemZGZXpVQmpjaUZSTGxBSHA4SXdSMjJVRWlvbnh1Yml4andsX3hsdllIMElBT3YzUllkcnfSAa4BQVVfeXFMTkRWVnRfT0lvTW5wcXFIbzI0dlFLVVJHUGstd2J6cGFEMGZZeXQ2aERXamdvRnZxdXdfbjUydUhDSWFHc1hGdmh4RXBva05RekpjaUxFVDlvTks3eWp3TjNJM1FDVWRjbnhoc1FtS3RtbFhQSHJpWWFobHpmRmV6VUJqY2lGUkxsQUhwOEl3UjIyVUVpb254dWJpeGp3bF94bHZZSDBJQU92M1JZZHJ3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T11:37:02.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Redmi",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Sangri Today",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFZWdF9PSW9NbnBxcUhvMjR2UUtVUkdQay13YnpwYUQwZll5dDZoRFdqZ29GdnF1d19uNTJ1SENJYUdzWEZ2aHhFcG9rTlF6SmNpTEVUOW9OSzd5andOM0kzUUNVZGNueGhzUW1LdG1sWFBIcmlZYWhsemZGZXpVQmpjaUZSTGxBSHA4SXdSMjJVRWlvbnh1Yml4andsX3hsdllIMElBT3YzUllkcnfSAa4BQVVfeXFMTkRWVnRfT0lvTW5wcXFIbzI0dlFLVVJHUGstd2J6cGFEMGZZeXQ2aERXamdvRnZxdXdfbjUydUhDSWFHc1hGdmh4RXBva05RekpjaUxFVDlvTks3eWp3TjNJM1FDVWRjbnhoc1FtS3RtbFhQSHJpWWFobHpmRmV6VUJqY2lGUkxsQUhwOEl3UjIyVUVpb254dWJpeGp3bF94bHZZSDBJQU92M1JZZHJ3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "b26025abbca8",
+   "title": "Lenovo launches Panther Lake-powered laptop with large 90Wh battery and OCuLink port",
+   "summary": "Lenovo launches Panther Lake-powered laptop with large 90Wh battery and OCuLink port Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDdHUFVHdFNJb2loV202XzlSNk5aSUE1dWVZRTFlcmdKbHdWWExDRFhFRVI2N0ZGT0pUbU5YN2dKWFB5SDNNU2JOa1UxSGVtdDdTQU9yb1ZPZTZfU2g5eTROLXdETDEwV1NpRmVaMXRiazVyWXNGQUh1X3lNLS1OU20tS011cmdQOXpYSVg4Mk16Q2VXVVdNLVcwTGxRUGlIRVVuV084RHlfblVfaEtVWE1VSUxuSXEyVHU4WjhWajk3SkVzQTVVRA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T11:12:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Lenovo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDdHUFVHdFNJb2loV202XzlSNk5aSUE1dWVZRTFlcmdKbHdWWExDRFhFRVI2N0ZGT0pUbU5YN2dKWFB5SDNNU2JOa1UxSGVtdDdTQU9yb1ZPZTZfU2g5eTROLXdETDEwV1NpRmVaMXRiazVyWXNGQUh1X3lNLS1OU20tS011cmdQOXpYSVg4Mk16Q2VXVVdNLVcwTGxRUGlIRVVuV084RHlfblVfaEtVWE1VSUxuSXEyVHU4WjhWajk3SkVzQTVVRA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "7a8843f5713c",
+   "title": "Indonesia launches mobile ‘oxygen buses’ amid severe haze",
+   "summary": "Indonesia launches mobile ‘oxygen buses’ amid severe haze The Independent",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlUxOFpFbFI0cDFiTmRhOGRLbm9ra3ZrOWh0MUNvNWpKdkNTTkE1MVhKdmIxTG5xUFVaXzVPNUF1MDM4UmVYbi1nblRUWExmQlV2eWMyanl2dWM5ZlB4X1N3aWdtdW5ZbEV2dG1DMmo1WlQ1T211Tmd3U3hxOHFZWU1KOWd6cjNIR2JDNFhRWGYxcEVzRmtaRXAwNTBfZ1pD?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T11:06:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Southeast Asia",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Independent",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlUxOFpFbFI0cDFiTmRhOGRLbm9ra3ZrOWh0MUNvNWpKdkNTTkE1MVhKdmIxTG5xUFVaXzVPNUF1MDM4UmVYbi1nblRUWExmQlV2eWMyanl2dWM5ZlB4X1N3aWdtdW5ZbEV2dG1DMmo1WlQ1T211Tmd3U3hxOHFZWU1KOWd6cjNIR2JDNFhRWGYxcEVzRmtaRXAwNTBfZ1pD?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "fb4c672ec5b5",
+   "title": "Huawei Pura 90 Plus launched with Kirin 9025 and 1-inch type main sensor with variable aperture",
+   "summary": "Huawei’s Pura 90 series got a new member in China today with the Pura 90 Plus. It slots in between the Pura 90 and Pura 90 Pro, featuring a Kirin 9025 chipset and a 1-inch type sensor with an f/1.4-4.0 variable aperture. The 50MP main sensor is joined by a 48MP telephoto lens wit",
+   "link": "https://www.gsmarena.com/huawei_pura_90_plus_launched_with_kirin_9025_and_1inch_type_main_sensor_with_variable_aperture_-news-75242.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-pura-90-plus-ofic/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-28T11:00:02.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/huawei_pura_90_plus_launched_with_kirin_9025_and_1inch_type_main_sensor_with_variable_aperture_-news-75242.php"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWjhZNFhHcVJ0R1Vqay1wdjRyY3lNNkM5LVkydWIwZ3dEYWgwdl9MdDZvT3NSbUtjTkRvb3gyVDVlb3hGdWdTVmMwcnEtbWVTRi1IRFREMEdZX0FnMzBNOU5teVhqaURDLS0tRUg4bjlsUl9MNHYxV1QwNEZzOXlXMVRQRk1NUjdaZkxaYk5SM1V6LWFhaHFzY2xHdjA1ZGMzU294T0VLNTNwOEV0U1dIdFBNQ21veXVVaERIdE5zc19XUlMtMnhnd1NYN3Y?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "540a457af3d4",
+   "title": "Huawei launches glue-free foldable cooling fan stand for smartphones",
+   "summary": "Huawei launches glue-free foldable cooling fan stand for smartphones Huawei Central",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU1UzWW43NG1acDNYTjlKSHg1bEVmN3liNkhOMndXQ2Eza3FqNHpMX0ZMeEpMTGpkNVZIa3JCbnJaT2RnZHI5ZGVCcHdudmUyRmc4UWh5VWpPcWFyUHpNbV83TktYbHU1TzBsckVtZkV2LXFLQVkteUJCbXFuc2Y0bWJ1RThlVUlSaWdLdGZuOWVIcENRclFESUtBUGo0dkp5SHFLd2ln0gGmAUFVX3lxTE5TVTNZbjc0bVpwM1hOOUpIeDVsRWY3eWI2SE4yd1dDYTNrcWo0ekxfRkx4SkxMamQ1VkhrckJuclpPZGdkcjlkZUJwd252ZTJGZzhRaHlVak9xYXJQek1tXzdOS1hsdTVPMGxyRW1mRXYtcUtBWS15QkJtcW5zZjRtYnVFOGVVSVJpZ0t0Zm45ZUhwQ1FyUURJS0FQajR2SnlIcUt3aWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T10:52:19.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Huawei Central",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU1UzWW43NG1acDNYTjlKSHg1bEVmN3liNkhOMndXQ2Eza3FqNHpMX0ZMeEpMTGpkNVZIa3JCbnJaT2RnZHI5ZGVCcHdudmUyRmc4UWh5VWpPcWFyUHpNbV83TktYbHU1TzBsckVtZkV2LXFLQVkteUJCbXFuc2Y0bWJ1RThlVUlSaWdLdGZuOWVIcENRclFESUtBUGo0dkp5SHFLd2ln0gGmAUFVX3lxTE5TVTNZbjc0bVpwM1hOOUpIeDVsRWY3eWI2SE4yd1dDYTNrcWo0ekxfRkx4SkxMamQ1VkhrckJuclpPZGdkcjlkZUJwd252ZTJGZzhRaHlVak9xYXJQek1tXzdOS1hsdTVPMGxyRW1mRXYtcUtBWS15QkJtcW5zZjRtYnVFOGVVSVJpZ0t0Zm45ZUhwQ1FyUURJS0FQajR2SnlIcUt3aWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "c5c869533747",
+   "title": "Sony LYTIA 720 Image Sensor Launched With 50-Megapixel Resolution, 4K 60fps HDR Video Support",
+   "summary": "Sony's LYTIA 720 image sensor has launched for mobile devices. It is a stacked CMOS image sensor with approximately 50 effective megapixels and a pixel size of 1.0 micrometre. It is scheduled to begin shipping in early November 2026. It supports 4K resolution at 60 frames per sec",
+   "link": "https://www.gadgets360.com/mobiles/news/sony-lytia-720-image-sensor-50-megapixel-launch-specifications-features-12247489",
+   "image": "https://i.gadgets360cdn.com/large/sony_lytia_1793175634593.jpg",
+   "publishedAt": "2026-10-28T10:36:01.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Sony",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/sony-lytia-720-image-sensor-50-megapixel-launch-specifications-features-12247489"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "2ec19a9f1eff",
+   "title": "10K Noise Master Buds Open units sold in first hour of launch says the company",
+   "summary": "Noise Master Buds Open went on sale on October 27 after pre-bookings earlier this month. The company reported sales of 10,000 units within the first hour of availability, reflecting early consumer interest in the new form factor. The launch expands Noise’s premium Master Series, ",
+   "link": "https://www.fonearena.com/blog/495905/noise-master-buds-open-10k-unit-sales-1-hour.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Noise-Master-Buds-Open-design.jpg",
+   "publishedAt": "2026-10-28T10:25:33.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Noise",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495905/noise-master-buds-open-10k-unit-sales-1-hour.html"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "c6381108b4bb",
+   "title": "Huawei Enjoy 100 launches with Kirin 8000S and 6,100mAh battery",
+   "summary": "Huawei launched the Huawei Enjoy 100 this afternoon, and it is the most affordable phone in the new Enjoy 100 lineup. It arrived at the same event as the Huawei Enjoy 100 Pro Max and the Huawei Enjoy 100 Pro The Enjoy 100 has a 6.56-inch LCD screen, 1612 x 720 pixels resolution, ",
+   "link": "https://www.gizmochina.com/2026/10/28/huawei-enjoy-100-launches-with-kirin-8000s-and-6100mah-battery/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Huawei-Enjoy-100-Launch-Specs-Price-300x200.jpg?x80236",
+   "publishedAt": "2026-10-28T10:22:47.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/huawei-enjoy-100-launches-with-kirin-8000s-and-6100mah-battery/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "793c612c1c94",
+   "title": "Touchscreen MacBook Pro to Debut Today With These 5 Features",
+   "summary": "Some reports have suggested the new high-end MacBook Pro models that Apple is expected to announce today might not be called ‌MacBook Pro‌s at all. They could in fact be something altogether new and more exciting – \" MacBook Ultra ,\" perhaps – marketed as the company's top-tier l",
+   "link": "https://www.macrumors.com/2026/10/28/touchscreen-macbook-pro-debut-these-5-features/",
+   "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg",
+   "publishedAt": "2026-10-28T10:17:55.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/28/touchscreen-macbook-pro-debut-these-5-features/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "c7f3be6cfef8",
+   "title": "TPC Africa Launches Mobile Virtual Network Operator in South Africa",
+   "summary": "TPC Africa Launches Mobile Virtual Network Operator in South Africa TechAfrica News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDlpMVYtQmIwTnNrSHRrYXFtcWh2VF9CYTkzNXViVW9ILXRDaXBXYndPTHg0Y21jZkswRWlmX21rU3haUHJBUFBvSlZzVXBfaHdkdnBpZzIyTWFqN05IOWJMelFKVFBFV0o3VnZhQnJCR1BvTDY2VGNDZTdEUWpSR0JVWm5yNHdLRkhvTXhmeldiWlN6NFNkaXYwb1VWM29oMkhtNnpn?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T09:47:33.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Africa",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechAfrica News",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDlpMVYtQmIwTnNrSHRrYXFtcWh2VF9CYTkzNXViVW9ILXRDaXBXYndPTHg0Y21jZkswRWlmX21rU3haUHJBUFBvSlZzVXBfaHdkdnBpZzIyTWFqN05IOWJMelFKVFBFV0o3VnZhQnJCR1BvTDY2VGNDZTdEUWpSR0JVWm5yNHdLRkhvTXhmeldiWlN6NFNkaXYwb1VWM29oMkhtNnpn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "dae3f35cb2fe",
+   "title": "LG launches its largest 115-inch QNED evo MiniLED TV in India: check price, specifications",
+   "summary": "LG launches its largest 115-inch QNED evo MiniLED TV in India: check price, specifications 91Mobiles",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmltQlB2aHpDNzhkY0E5R2N6bmZZM2VsdUxxMWVzZ3pyS0FoV1ItWkF4OG9WTC1fTjM4LXk4bmE1UmxNSllUNVFKTmRNMGJHVlFWSDZPSGsxVkUxQWNyOVB1NUhCTU5Rbk9FVFJNSHdYTF9PN1FkVkpzOWdKY2tsb2xuc9IBiAFBVV95cUxQZWkzNGVxUTd5ME4wZ0kwcTVlZEh5NzZZNjd3Z3NXQ3ZLMkkzREtjMlZXYkcxTDNQTjVydkpES1FuQ1o5UHRoeXpQZDVvdFlxdUl3VndmVEtuN21DRG95QmJPcVJ5a05ERE1MOFpzNjdEUDNFT2lXS2VXZThuVnFCeXd0bEsxY3ZH?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T08:43:50.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "LG",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmltQlB2aHpDNzhkY0E5R2N6bmZZM2VsdUxxMWVzZ3pyS0FoV1ItWkF4OG9WTC1fTjM4LXk4bmE1UmxNSllUNVFKTmRNMGJHVlFWSDZPSGsxVkUxQWNyOVB1NUhCTU5Rbk9FVFJNSHdYTF9PN1FkVkpzOWdKY2tsb2xuc9IBiAFBVV95cUxQZWkzNGVxUTd5ME4wZ0kwcTVlZEh5NzZZNjd3Z3NXQ3ZLMkkzREtjMlZXYkcxTDNQTjVydkpES1FuQ1o5UHRoeXpQZDVvdFlxdUl3VndmVEtuN21DRG95QmJPcVJ5a05ERE1MOFpzNjdEUDNFT2lXS2VXZThuVnFCeXd0bEsxY3ZH?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "c30be47b4d36",
+   "title": "Truecaller launches Truecaller Lite in India for Android smartphones",
+   "summary": "Truecaller launches Truecaller Lite in India for Android smartphones The Tech Outlook",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaldJbGRXOW0zUUl0Y2ZxcGtSZTNwd194blpMVF8zTncxOG4yc0dmckV6RWNFUmdIcGo4Zy14TlZubk02MGwtelMtV3FCbEtEdFk3M2xEdWNuekl1R0ZINXpjU1JmMURqeVJmV3lJWHFyci1zSlNqT1dpZTN2UGhSaGdFY2FvZ0Jjaldvc2Y3Zl8yaHFTb3lXRE5hQ2FDNVY4YmotM1pyb1BzcUdjR20wSU9QeFVpcUtxM3YyNDJVLWdOeVBj?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T08:35:27.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Tech Outlook",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaldJbGRXOW0zUUl0Y2ZxcGtSZTNwd194blpMVF8zTncxOG4yc0dmckV6RWNFUmdIcGo4Zy14TlZubk02MGwtelMtV3FCbEtEdFk3M2xEdWNuekl1R0ZINXpjU1JmMURqeVJmV3lJWHFyci1zSlNqT1dpZTN2UGhSaGdFY2FvZ0Jjaldvc2Y3Zl8yaHFTb3lXRE5hQ2FDNVY4YmotM1pyb1BzcUdjR20wSU9QeFVpcUtxM3YyNDJVLWdOeVBj?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "f9a7d0ff382c",
+   "title": "Huawei Pura 90 Plus launches with Kirin 9025, quad-curved screen and 5,700mAh battery",
+   "summary": "Huawei has launched the Pura 90 Plus in China. The company opened pre-orders and showed the phone’s first teaser last week, and today it confirmed the full specifications. The Pura 90 Plus is the only model in the Pura 90 family with a curved frame, and it is the first phone to u",
+   "link": "https://www.gizmochina.com/2026/10/28/huawei-pura-90-plus-launches-with-kirin-9025-quad-curved-screen-and-5700mah-battery/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/huawei-pura-90-plus-launches-with-kirin-9025-quad-curved-screen-and-5-700mah-3-300x200.jpg?x80236",
+   "publishedAt": "2026-10-28T08:28:04.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/huawei-pura-90-plus-launches-with-kirin-9025-quad-curved-screen-and-5700mah-battery/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "cdbb561686ee",
+   "title": "Huawei FreeClip 2 dual-color is official: Louder drivers, NPU AI, and colors that refuse to blend in",
+   "summary": "Huawei hosted its Double Eleven all-scenario launch event in China today and unveiled a slate of new devices, including the Pura 90 Plus, the Enjoy 100 series, and a fresh dual-color take on its open-ear earbuds. Alongside those phones, the company brought out the Huawei FreeClip",
+   "link": "https://www.gizmochina.com/2026/10/28/huawei-freeclip-2-dual-color-is-official-louder-drivers-npu/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/huawei-freeclip-2-dual-color-is-official-louder-drivers-npu-ai-and-colors-that-300x193.jpg?x80236",
+   "publishedAt": "2026-10-28T08:23:56.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/huawei-freeclip-2-dual-color-is-official-louder-drivers-npu/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "af1eaf696321",
+   "title": "Redmi Book 14 2027 and Book 16 2027 Launched With Up to Intel Core 7 Processor, 72Wh Battery: Price, Specifications",
+   "summary": "Redmi Book 14 2027 and Redmi Book 16 2027 have been launched in China as part of the new Redmi Book 2027 series. Both laptops are scheduled to go on sale in China on November 3 via the Xiaomi online store. The Redmi Book 14 2027 is offered in Moonlight Silver, Nebula Purple, Sea ",
+   "link": "https://www.gadgets360.com/laptops/news/redmi-book-14-16-2027-price-launch-sale-date-specifications-features-12247371",
+   "image": "https://i.gadgets360cdn.com/large/redmi_book_2027_series_main_1793174648811.png",
+   "publishedAt": "2026-10-28T08:10:44.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Redmi",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/laptops/news/redmi-book-14-16-2027-price-launch-sale-date-specifications-features-12247371"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "5c7bbe25e678",
+   "title": "Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile - GSMArena.com news",
+   "summary": "Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile - GSMArena.com news GSMArena.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2pVNHBXNkZYVnZKRGhnelFJVkRfclh1eVhJcjJ3V1VjRml2RkU4RUJBN0xHOGhtUlhhWE9QQjJCZVM5RmRfc09kdU5Ec3JERzQ3bWRBcl9Bd0F4ZDllaHplYWpaaVUxclZXcHJYNUt6Y0tGOTZNWXdxZ2EzV0xycnU3SmIwcTB2QzNFTEs3SElNcjloN2JfcHF4SEk0RktR0gGcAUFVX3lxTFBmaHUzaVZnSjJ4OFU2UC1yLWpnNnRiMTlMcVg2UW91ODltOUtEZEMyUHBVd0UzaXlCblZwZ1JObHFQMHdTZzRaaEVyVEQzZDhsZERlMUxfQkhmeDlMZWIwXzV6MXJKWVMyMlRJVXpPREpwODlpWG9OMExKLTdfRmQzTXptZ3NEU1V0aS1SSVNOVi1HX3UzSldGdEJybw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T08:06:02.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "GSMArena.com",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2pVNHBXNkZYVnZKRGhnelFJVkRfclh1eVhJcjJ3V1VjRml2RkU4RUJBN0xHOGhtUlhhWE9QQjJCZVM5RmRfc09kdU5Ec3JERzQ3bWRBcl9Bd0F4ZDllaHplYWpaaVUxclZXcHJYNUt6Y0tGOTZNWXdxZ2EzV0xycnU3SmIwcTB2QzNFTEs3SElNcjloN2JfcHF4SEk0RktR0gGcAUFVX3lxTFBmaHUzaVZnSjJ4OFU2UC1yLWpnNnRiMTlMcVg2UW91ODltOUtEZEMyUHBVd0UzaXlCblZwZ1JObHFQMHdTZzRaaEVyVEQzZDhsZERlMUxfQkhmeDlMZWIwXzV6MXJKWVMyMlRJVXpPREpwODlpWG9OMExKLTdfRmQzTXptZ3NEU1V0aS1SSVNOVi1HX3UzSldGdEJybw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "bfddd69a9402",
+   "title": "Huawei Enjoy 100 Pro Max launches with 8,800mAh battery, Kirin 8020, and 8,000-nit display",
+   "summary": "Huawei hosted its Double Eleven all-scenario launch event in China today and unveiled a slew of new devices, including the Pura 90 Plus and the Enjoy 100 series. The new Enjoy lineup spans the standard Enjoy 100, the Enjoy 100 Pro, and the range-topping Pro Max model. In this pos",
+   "link": "https://www.gizmochina.com/2026/10/28/huawei-enjoy-100-pro-max-launches-with-8800mah-battery-kirin-8020-and-8000-nit-display/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/huawei-enjoy-100-pro-max-launches-with-8-800mah-battery-kirin-8020-and-8-000-2-300x137.jpg?x80236",
+   "publishedAt": "2026-10-28T07:56:30.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/huawei-enjoy-100-pro-max-launches-with-8800mah-battery-kirin-8020-and-8000-nit-display/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "d72ecb6db3bf",
+   "title": "REDMAGIC Astra 2 Malaysia Launch - Liquid-Cooled Gaming Tablet, starting at RM3,399",
+   "summary": "REDMAGIC Astra 2 Malaysia Launch - Liquid-Cooled Gaming Tablet, starting at RM3,399 TechNave",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3djR1NfbXBtbElNWXZ2N0M5OHVHSlFFeXFXQjBRQ1N4YjA4Ui0zcE4yUU1wYXMwWnMxZDhvcFZpcUNUUXdlZy1vM0NWYkVyd3hscXotQUc1RDRKbEVia0VUQm1yUWxJU2dWYV9vQTU3WkJlUkNQSWlmVm13a09pNGltcGJtOUVWalhBb0ZHNFYwMTlyb3NRbG5HX0dDLXpsbXhfQnhIQlNRS0w3aDk5VTVFdGd2UURFaEh3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T07:50:28.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Southeast Asia",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechNave",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3djR1NfbXBtbElNWXZ2N0M5OHVHSlFFeXFXQjBRQ1N4YjA4Ui0zcE4yUU1wYXMwWnMxZDhvcFZpcUNUUXdlZy1vM0NWYkVyd3hscXotQUc1RDRKbEVia0VUQm1yUWxJU2dWYV9vQTU3WkJlUkNQSWlmVm13a09pNGltcGJtOUVWalhBb0ZHNFYwMTlyb3NRbG5HX0dDLXpsbXhfQnhIQlNRS0w3aDk5VTVFdGd2UURFaEh3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "c777b5ec8a6d",
+   "title": "Xiaomi launches Smart 4G Camera 3 with 3K recording and 360° rotation",
+   "summary": "Xiaomi has announced the Smart 4G Camera 3 in China, and it’s listed on Xiaomi Youpin for crowdfunding. Unlike a typical home security camera, it doesn’t need a Wi-Fi connection to work, thanks to a built-in SIM card with free mobile data. The camera comes with SIM cards from Chi",
+   "link": "https://www.gizmochina.com/2026/10/28/xiaomi-launches-smart-4g-camera-3-with-3k-recording-and-360-rotation/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/xiaomi-launches-smart-4g-camera-3-with-3k-recording-and-360-rotation-2-300x200.jpg?x80236",
+   "publishedAt": "2026-10-28T07:33:43.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Xiaomi",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/xiaomi-launches-smart-4g-camera-3-with-3k-recording-and-360-rotation/"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "2e1fdea338df",
+   "title": "Motorola Signature 27 Confirmed to Launch in India Next Month as Microsite Goes Live on Company’s Website",
+   "summary": "Motorola Signature 27 will be launched in India in November, as a dedicated microsite for the handset is now live on the Motorola India website. The microsite reveals that the Motorola Signature 27 will be powered by Qualcomm’s octa-core Snapdragon 8 Elite Extreme Gen 6 chipset, ",
+   "link": "https://www.gadgets360.com/mobiles/news/motorola-signature-27-india-launch-soon-microsite-goes-live-specifications-features-12247111",
+   "image": "https://i.gadgets360cdn.com/large/motorola_signature_27_main_1793170940529.png",
+   "publishedAt": "2026-10-28T07:16:13.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/motorola-signature-27-india-launch-soon-microsite-goes-live-specifications-features-12247111"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
+   "id": "8bb5281e37d3",
+   "title": "Tech Brief (Oct. 28): Rokid Launches New AI Glasses",
+   "summary": "Tech Brief (Oct. 28): Rokid Launches New AI Glasses inkl",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oSUlTd3dqV2dWNjlxSVVRdmFmemg2dFJsMkc3OUNLb0JLbTMwX1hUcXktZUFGcy1kMGxDVmRMVGhSRUt3bDBPZXlwa3NXN05jRFlQeko5Q3ZQSmJUZEV5WHAwaXZ3dHRMTVRlYktjSTJ1VkxGNVdPTHJZdXF1QQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T07:15:08.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Rokid",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "inkl",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oSUlTd3dqV2dWNjlxSVVRdmFmemg2dFJsMkc3OUNLb0JLbTMwX1hUcXktZUFGcy1kMGxDVmRMVGhSRUt3bDBPZXlwa3NXN05jRFlQeko5Q3ZQSmJUZEV5WHAwaXZ3dHRMTVRlYktjSTJ1VkxGNVdPTHJZdXF1QQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
+  },
+  {
    "id": "0989f777881f",
    "title": "Moto G47 Power arrives with a 7,000 mAh battery and faster charging",
    "summary": "Motorola has just made the Moto G47 Power official in Europe. It's not a successor to the Moto G47 that launched back in April, but a new member of that family, and it lives up to its name by going from a 5,200 mAh battery to a 7,000 mAh one. That matches what an EPREL listing re",
@@ -66,6 +642,28 @@
     }
    ],
    "firstSeen": "2026-10-28T07:24:55.929Z"
+  },
+  {
+   "id": "8b5da570bad5",
+   "title": "OPPO launches Reno16 series in Kenya from Sh69,999",
+   "summary": "OPPO launches Reno16 series in Kenya from Sh69,999 TechTrendsKE",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RcmpMZXFYcFZrMkNHcmtOTUhrdjVKOXd0cUIwZXBjVENSVnRmOUotZkVXb2JmR2hUVGlRel8xMHllcDRidm1iUUxxQUF0cEhJenBod1UtRDZFUFpMLXYwR2lUc0NPNGtnbXhfUkZ6V1p2c2Qt?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T05:14:08.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "Africa",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechTrendsKE",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RcmpMZXFYcFZrMkNHcmtOTUhrdjVKOXd0cUIwZXBjVENSVnRmOUotZkVXb2JmR2hUVGlRel8xMHllcDRidm1iUUxxQUF0cEhJenBod1UtRDZFUFpMLXYwR2lUc0NPNGtnbXhfUkZ6V1p2c2Qt?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T12:40:01.370Z"
   },
   {
    "id": "a5639ff62648",
@@ -177,6 +775,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/495877/google-deepmind-genie-4-features.html"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/ai/news/google-deepmind-genie-4-launch-features-availability-12247160"
     }
    ],
    "firstSeen": "2026-10-28T05:24:23.357Z"
@@ -199,6 +801,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/495880/sony-lytia-720-features.html"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/sony_unveils_new_lytia_720_50mp_1_156inch_sensor_for_mobile-news-75239.php"
     }
    ],
    "firstSeen": "2026-10-28T05:24:23.357Z"
@@ -242,6 +848,10 @@
    "sources": [
     {
      "name": "www.igeekphone.com",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXViZmlVU0xhSzhfMGhVY0NtWUZBazEyUmlxZ0Rpb1dlcW9OVEZRdEZvM243R2J5azI1bG5rbk9PYWM2Tkh2Y1VRUEJ3SEFlYTBCdklBWFkyckVrMVdMVEJNQ0dTbERkTF82UVYxSGRnQlp4QzZKZU5jZkprQVRiY1JxNDQxWFFta3dDZGhjeGJENlJZaEhSbkE4bUJIMXA0QUxaVG9IQzl1eVhEdFRVMzhqNmNuTGk4aERTczkxRQ?oc=5"
+    },
+    {
+     "name": "Igeekphone.com",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXViZmlVU0xhSzhfMGhVY0NtWUZBazEyUmlxZ0Rpb1dlcW9OVEZRdEZvM243R2J5azI1bG5rbk9PYWM2Tkh2Y1VRUEJ3SEFlYTBCdklBWFkyckVrMVdMVEJNQ0dTbERkTF82UVYxSGRnQlp4QzZKZU5jZkprQVRiY1JxNDQxWFFta3dDZGhjeGJENlJZaEhSbkE4bUJIMXA0QUxaVG9IQzl1eVhEdFRVMzhqNmNuTGk4aERTczkxRQ?oc=5"
     }
    ],

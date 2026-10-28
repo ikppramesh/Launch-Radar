@@ -1469,6 +1469,10 @@
     {
      "name": "Business Standard",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUpFXzhCWkJicjJRQWtpUnM4ZFFNQWF3RWpHVHR0X0dqVk9fbmhJTzlrdWVBWjQ3SU4wTGxTTGFLb0lvc1ZTMW42MTBodlRodElEU2Job0dOcDRWWWxzQmIzakk5LUZoTW95NF9XblpweFpvSW1wWGx3ajQ5dXN3aFZMQkpuaEhkUERaRHF1RUppQUhvQUJZYldWaU55VmdNZEI5WXY5S0dLSGQ2MHhMdUd5M29aNk5ZTktlQjRBWHJuZ1dnOGpOaXRlaWlHMUJzYkHSAdcBQVVfeXFMTldNdjFtVE9OQTliUTgxX2tTY29scDB3SVR4d3ZJRXhvTnRiR09TQkVSeVdUaExqVGFMZFdNSk5jZElNYXA0eTloMDZSM3BtZ2FVMm80aWlDQW1LcjIzMG50bnNEMEhwcFo0aUczbDhsYXVIOW9UVVh2dWhmT2NQWV9hanp0SlJmY0RYV1pDLUdFbTMybEVoc3M1S1ZWTHRwck9taEFndTFDb01sZ2d5dW1fUVBjaXhDM2N4R25vaDlVM0cxeUJEdFMyeUUtc1VwZS14NHBPejA?oc=5"
+    },
+    {
+     "name": "Silicon India",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWtsWDd5YVhZcmNuejNuTVpFaGpmQTdKQVRpX2V1YmkyZUM1RkVnd05BZVBGT1BqZXQxYXVZSTNaSTJ0X0tQNUlQSkE4eW9RUVVhQkppdEJSekRwN3BmN3ZKN3phN1lUaGxzcVVzSVVMbFN1MjNYTndvSjBJcFNpU3NuMUU1OGdkVGpTR0lqU0pwb0JvdWxlOEd0M0Z2ejRGQ3ptekN6c1k2TXk3eXZEU3FPN3V5d3RSRVYw?oc=5"
     }
    ],
    "firstSeen": "2026-10-26T20:25:06.718Z"
@@ -1682,7 +1686,7 @@
    "status": "Launched",
    "category": "Audio",
    "brand": "Samsung",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
    "aggregator": true,
    "sources": [
@@ -1693,6 +1697,10 @@
     {
      "name": "The Korea Daily",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFl2UFlhVGx0RjFhOEVnV01qVnlIeUE4YTFHYlVlZ1J1SHBPVXh1OHNSdWVCY2g1bGZnYzFYdUw2STFDUkoybjNmV0dJVWxJZzd0WndGNy1haEdXZ1JvRkpWbGw2Z201b1k2OXBhSVItdmdvNWZPVU15MnFuSkFWdGY2b1ZQX1EtdTdJ?oc=5"
+    },
+    {
+     "name": "NewsBricks",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1NHOG9XZ0M2OUhldGRJMDVnU1BOclpqdzBpYnAwY2xhdHYyU1FOR29KVndaSFBtcWYxRGwtdkwyLTk3NjF4bGFReWJwQkZSV2QyRFdIc2d1MTJob2NKYWhWMFNUZkNjeXh5bVA1LTM1VlhEYkhSc3VCR0s5cUdwczZvZVI3SHBuX2FxNlBCakhZQQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-26T12:47:28.646Z"
@@ -2059,6 +2067,10 @@
     {
      "name": "Bloomberg",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazBVaTkyQ2FweG1WMFlGWHVYWEt4U0ZUSkt5MFd6aWU5VzFDWlhsRlFlejBSQm9XLVBSVU5vdHp2dkktbGNIYmZicEV0cW5ERTFWNFU2ZC00Q0YtZ1JHdkVucFRNQkVHYk12aFYzbXdpZUdfVUJCWGpaSkN4MTUzYXJPMVR3RFpXeUZaQlo1cUEwWVBMUjZQek85U3N0OEo4Q3A4TVVzSDB0MGJhSWtQaDNLZw?oc=5"
+    },
+    {
+     "name": "Deccan Chronicle",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUW9SU0hOVGs2V3pFeXY4ZlVyZUx1VXVvMzBaemM3MFJFQnAyNkNkWDRfMEtTR0VxRlVJazBHQ0FMZnM0RGZyY3J5SUc1cWZQeHl5Y3F2X3A2TlRiYUFNSFp0cmIwQTQtRmotVV9id3N4U0ttaF9xcTRKeEhmOXl6dVVJMVRNcFMtN2pxU0kxNm9POTFSdXR5QjZiMEFhaXNCNk1ha19nNjIySmhnVHNqNUgzWXZVS256eGM0Z29lZmvSAcABQVVfeXFMTVFvUlNITlRrNld6RXl2OGZVcmVMdVV1bzMwWnpjNzBSRUJwMjZDZFg0XzBLU0dFcUZVSWswR0NBTGZzNERmcmNyeUlHNXFmUHh5eWNxdl9wNk5UYmFBTUhadHJiMEE0LUZqLVVfYndzeFNLbWhfcXE0SnhIZjl5enVVSTFUTXBTLTdqcVNJMTZvTzkxUnV0eUI2YjBBYWlzQjZNYWtfZzYyMkpoZ1RzajVIM1l2VUtuenhjNGdvZWZr?oc=5"
     }
    ],
    "firstSeen": "2026-10-25T20:44:11.037Z"
