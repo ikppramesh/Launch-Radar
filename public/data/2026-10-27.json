@@ -111,6 +111,10 @@
     {
      "name": "AndroidPure",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lSEtuNUd4a21zZndyS25TbG5renFlVG52VHlTeElXT1RuYjhucExYSndKT1VncFp6dlo4dkNkbXpZbkdnc0hOZnF6ZUl0Z0E5UXJQZHhLQlFKRlREOGJCbWNwNW9Kd2hPQlAw?oc=5"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmQzU01KZkh1UFpJbGhMa0daR2VhTVRLeUNjQ0JWbUlkX0tYdDNpV2tCeFdhM3VWVjI0eTZxNTFzU1QxMmVNVnZ6VlBpSjIzNHpOTlQ4RFVqX2JaVTNmWC1saThaVVNxbGRUWFBRU0U0MlJ4bXBGY3VvMzJhWVhoUnJB0gGHAUFVX3lxTE9YcGJsRnM3Z0xWdFpGYzN5SlFyblZSV3BNYlZYMzV1MktTR1Y0b0NqT3UtanMxLTU4S1RiZUVXQ3Q5eUhzN2RqMXY4dGNGWnVUSG82dXBpY0dlWEFOQmVONkZSbGZ4MEhFaUttVnVibFFqVkN1ZFhlVHlFbTlEODVOWFRrS1Fzbw?oc=5"
     }
    ],
    "firstSeen": "2026-10-27T15:17:31.820Z"
@@ -322,6 +326,28 @@
    "firstSeen": "2026-10-27T15:17:31.820Z"
   },
   {
+   "id": "c178eea600e5",
+   "title": "PuK Gaming Launches First Officially Licensed Fortnite Mobile Accessories Range",
+   "summary": "PuK Gaming Launches First Officially Licensed Fortnite Mobile Accessories Range Newswire",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXJfWUZZTkVfTXp5VHBsb3pVTTdBQ2hPZkxCdEQ2OGxwenV1dENxX2NCVjRIV242eFN5QV9tbElCMHRWa1otNnpRR0xMZVFXNWJiMjA0dll0QzRWOTk1WlBGVXlrcDVZQ3MxVlhReVZVQWtGOEhXOVpONHZlc2lrOGotcHozRk9YZ0ozQVBiYV9UZlZfY094LXNmLVRwOWwzZHo5VGR3cjBPeGVsVnc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-27T13:15:00.000Z",
+   "date": "2026-10-27",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Newswire",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXJfWUZZTkVfTXp5VHBsb3pVTTdBQ2hPZkxCdEQ2OGxwenV1dENxX2NCVjRIV242eFN5QV9tbElCMHRWa1otNnpRR0xMZVFXNWJiMjA0dll0QzRWOTk1WlBGVXlrcDVZQ3MxVlhReVZVQWtGOEhXOVpONHZlc2lrOGotcHozRk9YZ0ozQVBiYV9UZlZfY094LXNmLVRwOWwzZHo5VGR3cjBPeGVsVnc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T05:24:23.357Z"
+  },
+  {
    "id": "97e71d95788b",
    "title": "Apple's iMac with M6 arrives promising a 'huge leap' in AI performance",
    "summary": "It offers more cores and more performance per core than the iMac M5.",
@@ -451,6 +477,26 @@
     {
      "name": "TechloMedia",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWlZ6YTI5T01UYTI1TElNSG1jaThnV0R6Tk83QzhKekZzaGplUXFTeXZGU2ozNHY3YVBINEpQN0szazBKNjhwRDNxSkJjLVFjbDlsbS1WZkZsano3eTR5OUhuOEhhTUh6cFloN3AxZzdQNU5mVjdqclRWVXRSd3VJQVpCdXN0NzBTaDNHR2NwU2xVMlZlanJtb3c2anVFaGIyVkt4WldKS1g2Tk1jU043RW5vVFN1UDDSAbcBQVVfeXFMUFpWemEyOU9NVGEyNUxJTUhtY2k4Z1dEek5PN0M4SnpGc2hqZVFxU3l2RlNqMzR2N2FQSDRKUDdLM2swSjY4cEQzcUpCYy1RY2w5bG0tVmZGbGp6N3k0eTlIbjhIYU1IenBZaDdwMWc3UDVOZlY3anJUVlV0Und1SUFaQnVzdDcwU2gzR0djcFNsVTJWZWpybW93Nmp1RWhiMlZLeFpXSktYNk5NY1NON0Vub1RTdVAw?oc=5"
+    },
+    {
+     "name": "NewsCord",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ0toSVZyZ3EwQnFCV1pwcWd3YS03Q0RHb3dRQTJDQ0MyT2M4N3lSVDRQRXVFT2RvY3hVRFpsWWZIQVhUT2dLNmZ1UVRqRnM1T1BGZ0I3dEpfYmV5V29qQkthaW51c2NOUXY3cGgwbVp5R0FoM3NzRVdIRFpGS2pQYzdHR1dsdHQ2Tk5qMUd3VlB3QkgwUnFXa3U5ZmRkaVgyQWZHYkJIZ250YVFmLW9HYjh2aXRieU5GbmtoNU5XQ3daZ3drcE5OcGZwcGx2bExLQU53bncxaFd3VFhs?oc=5"
+    },
+    {
+     "name": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGc2dWtwSTBpVHo0Ym1VbzZZNmtXOWd6c3V3c0pnY1RickNIZEtPUUZsbExZaWpXVFYtTE9fdXA4RndBMGQwbzlNSFFGLXVERnFwMVhjREdBMmNFeUgxM1FUMXZfSWd5SEhoSHVQZHlQOXJ1azhZUG1oaGdhY2phSm1lbVdORUJKbm5qUXJ30gGOAUFVX3lxTFB0ZzZ1a3BJMGlUejRibVVvNlk2a1c5Z3pzdXdzSmdjVGJyQ0hkS09RRmxsTFlpaldUVi1MT191cDhGd0EwZDBvOU1IUUYtdURGcXAxWGNER0EyY0V5SDEzUVQxdl9JZ3lISGhIdVBkeVA5cnVrOFlQbWhoZ2FjamFKbWVtV05FQkpubmpRcnc?oc=5"
+    },
+    {
+     "name": "CNA Lifestyle",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQck1wNkZJUEc0S1VqdkRiSkRVSFh3OE54N3pnaEVydVZQckxJNk93Q3NON2VZNTZPWU4wVHN3aTNtRG1fN3RJSjlKOWMzUm5vLTRzTUFKeFE4M1UyRW8teDdPbFJjcjdRcWttekw5RXRBVGhHZGIxQk1FNjcwWkFRQ3lfQmwxS0dWUmNzODA3c2puTDg?oc=5"
+    },
+    {
+     "name": "AOL.co.uk",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORDlaMEtBQXRYYkgweG9tSzk4WjdGVmd6cl80Mi1UaEgzaUVING5Mdm1vU3BsM1o4ekFCVmdYOW45aDRLenN4NGJ2QmZKSnpxYXhZTFo1X05ldTNaR1BqY3FKaVlyS2ZiTmtRQkxjbnJYQXJURjdfVHBnODZBNzNLUA?oc=5"
+    },
+    {
+     "name": "Punjab Kesari English",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVp5cUdIMENOcEtwUU5qTXNZZ05ycGYyZ003T21YV0ZqSmtUWmxyQW1lMjZIOHB0UVFQNjBHTDVBc0V5NEhNTXpaUnI0d0FNRlpCN1VrcFczVm1CeTd4MUt1ckIzaGN1LS1QY2J4a08wdEJvclhILTFmWjhULUNiMk5hUlBFZXZ4d1ppRkhLUXRZNjdiS1Izak9VM1hqQkhJQW1BTTQ1QWlFTlpORWhPazQ5ck51ek5IcEJpZi1RQlZET2Yz?oc=5"
     }
    ],
    "firstSeen": "2026-10-27T15:17:31.820Z"
