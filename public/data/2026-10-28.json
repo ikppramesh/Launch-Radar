@@ -24,36 +24,6 @@
    "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
-   "id": "c25706f86556",
-   "title": "Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance",
-   "summary": "Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-28T18:17:02.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "Laptop",
-   "brand": "Apple",
-   "region": "Global",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Bloomberg.com",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5"
-    },
-    {
-     "name": "Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5"
-    },
-    {
-     "name": "The New York Times",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTlfVVpxYXA5T2hUNEcxcEsxMkFEX3otUWdmbUNpQllaOWJBZVVBbElWTXhUYVZQM20yZGdkSFZhN1VSU0dWSDZQX1NpOG9FcmlodGJwN3hlalMwdlBBUkxBeVM3WTRWbDN6V2xpUXRrOFh2NXpwV2JHTDg3UC1vR1UwYTlvdVVw?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-28T20:11:44.196Z"
-  },
-  {
    "id": "32a7ba3bbb77",
    "title": "PlayStation unveils Prism Collection",
    "summary": "Transparent PS5 accessories return The post PlayStation unveils Prism Collection appeared first on GadgetMatch .",
@@ -109,12 +79,16 @@
    "category": "Smart Home",
    "brand": "Amazon",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/495927/amazon-echo-dot-echo-studio-home-camera-echo-time-alexa-photo-frame-echo-show-16-price-features.html"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/amazon_launches_the_echo_show_16_echo_time_alexa_photo_frame_and_new_echo_speakers-news-75267.php"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -163,6 +137,10 @@
     {
      "name": "SMH.com.au",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXdWNXVUa0JUYXhLeUdsYmotMU9pM3hTNFRpQWxwN0Y2TWVBT01raHRuY1N3YkRBZW5SbzdIcUd0cXhYbzI0RUItUDZtSnA1YlJMZDBOWTJpblgxV3ZMVWZTWC13a0V5QkJvS0VPbF90U1REYXVrMzFyYThTU3BhMnppWkloT0VSOGt2ZkdxSndVTzlINWg2ZDhVLVZjcVV6RXdFLQ?oc=5"
+    },
+    {
+     "name": "شبكة تواصل الإخبارية",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zMWtrSGo4b0p6NzI3Q2wtYjRpWkN2czJiODhOZ2tuVjYwUkU4Q0NiWWpiVE1FZlVjQnJjUXRrcW5lWjczQ01TTU1rTWJPYi01U0Vz?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -207,6 +185,58 @@
     {
      "name": "MacRumors",
      "link": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "6f7cca2bae0f",
+   "title": "Apple launches its first touchscreen MacBook Pro: What is new, India price and more",
+   "summary": "Apple launches its first touchscreen MacBook Pro: What is new, India price and more India Today",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXpQejJoTGNUcDZrYkNlaElGbi1XNVNrOXM3NWVldlRDU2hYRmo5bXBuODJLUTZEbTNndzEzbGJkbTVScHBlRFJYMTJQR0pvb1JJWXFudjQyN3JiRkJRZ2NCLXRjWkNzWjg4U1d5NDdxNENweXg1SzNnOW5nNkxRbl9rS25iU0k4TFA0VVZmVmRYOHZWbUN6X1BDUF80R1h5VWdTU1JZMTU1TkNERE5hYng3Y2hOOXZpYkdBamE1VF9NZGF1M1JKblFnNVJYWU0xOE1uay1WU2s5czZvVXVsbDRR0gHnAUFVX3lxTE11dHAta0tQNlcxc0JiRnRVc2h3bHExeFJQV19wTTJ3OEJRUDc1czZrTnRJaF84WFBERmNfNmhVNFpOd3RNUGZROGV4d0ZzaXRUUFhUaUdscTJKdEtoREFNVmg4UGU4bldSaE5vS0ZKTjNNdXA1X1ZUNWtLNmRBbkF6RF9TWjE1U1piM0hlc283YnRVNFR3U0FCQ3lwSmxhNkpTRmxIaG9JU19IdUR6WVk4OFRUNzVjOFc4UTJTNWZxamkyT3cxejJVTWZFdWQ0NkFCeFlVQnhsRnZhUlVGSGdUMXVtM0tqcw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:21:46.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "India Today",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXpQejJoTGNUcDZrYkNlaElGbi1XNVNrOXM3NWVldlRDU2hYRmo5bXBuODJLUTZEbTNndzEzbGJkbTVScHBlRFJYMTJQR0pvb1JJWXFudjQyN3JiRkJRZ2NCLXRjWkNzWjg4U1d5NDdxNENweXg1SzNnOW5nNkxRbl9rS25iU0k4TFA0VVZmVmRYOHZWbUN6X1BDUF80R1h5VWdTU1JZMTU1TkNERE5hYng3Y2hOOXZpYkdBamE1VF9NZGF1M1JKblFnNVJYWU0xOE1uay1WU2s5czZvVXVsbDRR0gHnAUFVX3lxTE11dHAta0tQNlcxc0JiRnRVc2h3bHExeFJQV19wTTJ3OEJRUDc1czZrTnRJaF84WFBERmNfNmhVNFpOd3RNUGZROGV4d0ZzaXRUUFhUaUdscTJKdEtoREFNVmg4UGU4bldSaE5vS0ZKTjNNdXA1X1ZUNWtLNmRBbkF6RF9TWjE1U1piM0hlc283YnRVNFR3U0FCQ3lwSmxhNkpTRmxIaG9JU19IdUR6WVk4OFRUNzVjOFc4UTJTNWZxamkyT3cxejJVTWZFdWQ0NkFCeFlVQnhsRnZhUlVGSGdUMXVtM0tqcw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "c25706f86556",
+   "title": "Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance",
+   "summary": "Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:19:33.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5"
+    },
+    {
+     "name": "Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTlfVVpxYXA5T2hUNEcxcEsxMkFEX3otUWdmbUNpQllaOWJBZVVBbElWTXhUYVZQM20yZGdkSFZhN1VSU0dWSDZQX1NpOG9FcmlodGJwN3hlalMwdlBBUkxBeVM3WTRWbDN6V2xpUXRrOFh2NXpwV2JHTDg3UC1vR1UwYTlvdVVw?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -297,32 +327,10 @@
     {
      "name": "Apple",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU5jN1VPRVdLbGVXaUdVOGppelVlTGdUdWJ5b2swYWx3TVktb1ctTklVUEdlS2stVGJEbmswajNsb2tWcjVzNWF5bFROSTBiSzA0Tk12Wm9kU1pxbTNuV3lBY0J0UTFKcGZHbVQwLTdGSlhZM3RzMG9qU0psMC1tcmJzS3h3MDZkLU44WUNUa2V0UHZGM0MwdWNTOHJTMWRFNGhzQS1LVQ?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-28T20:11:44.196Z"
-  },
-  {
-   "id": "478b2c4b0be0",
-   "title": "MacBook Pro: Apple launches its first ever touchscreen Mac – and brings back iconic feature",
-   "summary": "MacBook Pro: Apple launches its first ever touchscreen Mac – and brings back iconic feature Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkN0aXo5Y2RDTi1xdkZrelVEb3VUOVppcFNYMktjQ2FWVmNTNDBvVi00OWliLWV1Z3ZTRUMtTUFES2J2QjF6RkF4QV94MEozQWViR25FTE4tWVRVZnNqdVM2aTg1Sll0b0d5T0dlNkRVd01XRzRoNHhEbl9fTlUwRlRJRW1OdlZG?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-28T17:07:22.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "Laptop",
-   "brand": "Apple",
-   "region": "Global",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Yahoo Finance UK",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkN0aXo5Y2RDTi1xdkZrelVEb3VUOVppcFNYMktjQ2FWVmNTNDBvVi00OWliLWV1Z3ZTRUMtTUFES2J2QjF6RkF4QV94MEozQWViR25FTE4tWVRVZnNqdVM2aTg1Sll0b0d5T0dlNkRVd01XRzRoNHhEbl9fTlUwRlRJRW1OdlZG?oc=5"
     },
     {
-     "name": "9to5Mac",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalRpQUtpbHpMNU1WcUY4MFZOQVh4TjkzYlF2ekV4eWRXcUFTMGVBZ29odkF4ZUgwMzZreTlUeW92UUM5emdaYVZxQmVJU2dZSU1KeWVXR0tEMndpQURRQTlKLTBCVEk0Z1hYQUpzZTlFMWFTLXBtcEhYNFd4SFRidDFraVVJSTBEcVY2S2YyQVhRX25ST1d4bHhpZ0dlSUlJcFFNSVNpMW5JZzhybzNZZXI2ZzZVLWs?oc=5"
+     "name": "OLED-Info",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQnNsQUxDSHB5bDAxNVM0cTR6NGRoNkVnYnk3R1F5MHZjXzFhd2dQdGJDaU5aZ3dVX0NPUmxmQS01cXY2azhFYnJ4WVBKUnEwSVlNaXFYN29tY1B4M05xUlpZREY3WHBNUnpmS1BjdUJtMzJSalVNQ0NrUDZlWFdGV19iSExTa2RtaUt5VDE0TlNEdGk4X2hVSUlB?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -357,6 +365,56 @@
     {
      "name": "Apple",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU5jN1VPRVdLbGVXaUdVOGppelVlTGdUdWJ5b2swYWx3TVktb1ctTklVUEdlS2stVGJEbmswajNsb2tWcjVzNWF5bFROSTBiSzA0Tk12Wm9kU1pxbTNuV3lBY0J0UTFKcGZHbVQwLTdGSlhZM3RzMG9qU0psMC1tcmJzS3h3MDZkLU44WUNUa2V0UHZGM0MwdWNTOHJTMWRFNGhzQS1LVQ?oc=5"
+    },
+    {
+     "name": "ETV Bharat",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3ZQVHdhVjYtWmFSNnd6cmNBTFNyRWFDVDFBREFiY1l6cU8yb0xtMHNudjVmSUczOUZBNEhVWUx0cWI5UXZPdzg5RUtFdFNJZVhTZ1RCV29ZZi1xY055OTBrc2Q2dW5aeXlfZ1NxX0tCRjlEQlhoSjlkS2JJbFd3MzFNV3JYVGVnd042LWt6U1pVcEJRcHBxejQzTXluS0VENlhPeVh5Ui15TmNQS1Fhc0Q1dzZBTGkxMHk1WVhwTTFSX1U4cEpjcVNDU2dTV0hQYWNJ0gHYAUFVX3lxTE1ULWVOc2JhaG5MX3RiOENxdFFYM3BabzJUYXh3Sm9xcmdTb2ROeWpIb29ZNlJkd2doWVBoZGpOQmxvay1zcU5KYWNEUUxtSFNBSHJsb0MtMDF5LTI0ZVlwYXZjYi1lRzZodXNlVnNVSkdGQTVJNDQ1WkgybHQ1SEw5Tms1eWNCeDlBOTlaUExxcmNCM0xzeTJfa2c5TEFyTDU3cnFyNF8wMEhkU0lnd3NjVjl0ZFB1akVvM2wtYTRJMlROZzU3bDZBQXA0eTRGRlh5b0RBRm9sZg?oc=5"
+    },
+    {
+     "name": "AugustMan Singapore",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUE1vQU1vQzA4cUg0cTFqeE5pcUhQajUwY2FOSUdRVXliZGU4RUFTWmVlWkRmR1NKUFhJOVM0YXd4LW1NbnlaZGxMUzFvZUIycGxVbXZTWm5qcjRQNTdubUNTNjlubDZTZy15OUFHQ1VmRy1tZldkR01hU3N4RlZpLXNINldLeTR3OVIzaVBLRVNPQnFZRFRmTm1iQkhiRVRxU2g1QmdTRXVwTVZYaVhBYdIBtgFBVV95cUxNQ2RSOGlZTDRsdjIyeklOQUw3VUdETHdVQTZCWVZBUThuYzdpNVNkLXJrdm5HVHpURlVERFFPWVplNHltRUVSZW5EOVNNZ2R2WXRKXzE1TEF5ZnVaLUFKZmVyY0FXdTZwRXZXNDBsbWtHMkUtTUZwNGd0cFFReUxDblRVN0RxeVFmVWw5VG9wVzNpTU5sY1hMUkdZd1h2V0N5WElNbXJubUo3S1hhakZvWU9jRGVzdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "478b2c4b0be0",
+   "title": "MacBook Pro: Apple launches its first ever touchscreen Mac – and brings back iconic feature",
+   "summary": "MacBook Pro: Apple launches its first ever touchscreen Mac – and brings back iconic feature Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkN0aXo5Y2RDTi1xdkZrelVEb3VUOVppcFNYMktjQ2FWVmNTNDBvVi00OWliLWV1Z3ZTRUMtTUFES2J2QjF6RkF4QV94MEozQWViR25FTE4tWVRVZnNqdVM2aTg1Sll0b0d5T0dlNkRVd01XRzRoNHhEbl9fTlUwRlRJRW1OdlZG?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:05:56.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Yahoo Finance UK",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkN0aXo5Y2RDTi1xdkZrelVEb3VUOVppcFNYMktjQ2FWVmNTNDBvVi00OWliLWV1Z3ZTRUMtTUFES2J2QjF6RkF4QV94MEozQWViR25FTE4tWVRVZnNqdVM2aTg1Sll0b0d5T0dlNkRVd01XRzRoNHhEbl9fTlUwRlRJRW1OdlZG?oc=5"
+    },
+    {
+     "name": "9to5Mac",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalRpQUtpbHpMNU1WcUY4MFZOQVh4TjkzYlF2ekV4eWRXcUFTMGVBZ29odkF4ZUgwMzZreTlUeW92UUM5emdaYVZxQmVJU2dZSU1KeWVXR0tEMndpQURRQTlKLTBCVEk0Z1hYQUpzZTlFMWFTLXBtcEhYNFd4SFRidDFraVVJSTBEcVY2S2YyQVhRX25ST1d4bHhpZ0dlSUlJcFFNSVNpMW5JZzhybzNZZXI2ZzZVLWs?oc=5"
+    },
+    {
+     "name": "The National",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0huWEZkU2x4SGhISTZzMnpZTHFzTmxtMU9seVBLM2hUck5XVndQTkxid3lKU3l5bm1mNndBbklxT1l6MTJpQ1FxTWw0cUgwekJtM1poRnJ2R0hUWlEzU3lGSUlWdHR5TFJpVEZYZ0FkTUVYRXhZMENwbE5ySVFMUVV6eDRHNGdraXpweUpwdk11bVhLTlNjUQ?oc=5"
+    },
+    {
+     "name": "The Verge",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdjhRb1VMVVhfVkVFMjBaZDhMeWVhb1JZSzJPcTdXLVl5blpIQXVDOXZ2S0JfNEJFYWN0MlB3b2I1LTc2MVBjYU5nUWxYMkZaMV9DNENsSEluajJJWU15bWFDQnhqclBPdkpLbl9LM25CaUtXOS1uUWhCdDUwNV9KNVViakJXdw?oc=5"
+    },
+    {
+     "name": "Dimsum Daily",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jcFVlRTBJbzJacTN6YVdfSDNmR0RnZUVuV0FQaVFQa25xcEtjWFdrU2pLLUppbHlOdmpiTXV2aVo4d2V6dFdGMVdJVGpmc3AyZzVsWFBUbW5kbHJWcUlVWkFtTXZ5bFRkSlpycFlXT0szYnFXMEp0RDFwMA?oc=5"
+    },
+    {
+     "name": "Innovation Village",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdVhiMEFFbjhyUTRVSHdVNV8xcDZjQW9XcTRhNGVMSlBRbWd2UlZwTlJfT01XbVl3RnJpWHpLVko1SHc3Ty1NM3pEZ2FVdHl0WWxYTFJmbXlZamZMeFVIbGNieUZVR2ZuRzlrUmxQSVdNUFYzM2pUU2E1czFVUGVSWmxB?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -726,28 +784,6 @@
    "firstSeen": "2026-10-29T09:47:18.631Z"
   },
   {
-   "id": "bdebde1ebddc",
-   "title": "iQOO Neo 12 Launched in China With Snapdragon 8 Elite Gen 5, 185Hz Display and 9,000mAh Battery",
-   "summary": "iQOO Neo 12 Launched in China With Snapdragon 8 Elite Gen 5, 185Hz Display and 9,000mAh Battery My Mobile India",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVGZDbm0wZnRpUzhHQ3prZjZQMFVPX0FRYnVQZ3NKQ3ZoQVNDVXRDUUo3LUFxdktIZVF3VGdBdTVxT0hlcGhZeWFsdjE5czFZc251eVFkQ044R3dNeGV6T1ZFMmZEeVBDQk8yU0dQR2VIaVAtWW1uTjJNcnQxTlJXc25penhaQUt1eHI2M1BNTjlTbW54QXJWeUliRHNWV2JvREhfWTNfbzdhbTdaVnpsa1RqQUxPLTJPS0FxbXAwQ1lHZ9IBxwFBVV95cUxPMnQwMk1KQTBfMVBoSWp2YjM5dHZ1dnZ3RzNKYzRYOG5ybkVxTTQ0dlpqTWN2R0VXSHh6aUdTc0dnTGVKeDFoWnVUVDVaMTAzaTlubFlMYmc2aUtMVHVTLTFicG9vRms5UFg4OVJiNTRpMXlWWWwtU1RwZnFRV0Q5LXlMNHBHN1VIVWhKbXJvWjE2WmNOU3lucUllSUhrM2pyd05JX0piUXQyMVRTVWNfaks0cXZVT1FVYTNMamVVa1JsOURCdGY4?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-28T15:13:29.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "PC & Components",
-   "brand": "iQOO",
-   "region": "China",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "My Mobile India",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVGZDbm0wZnRpUzhHQ3prZjZQMFVPX0FRYnVQZ3NKQ3ZoQVNDVXRDUUo3LUFxdktIZVF3VGdBdTVxT0hlcGhZeWFsdjE5czFZc251eVFkQ044R3dNeGV6T1ZFMmZEeVBDQk8yU0dQR2VIaVAtWW1uTjJNcnQxTlJXc25penhaQUt1eHI2M1BNTjlTbW54QXJWeUliRHNWV2JvREhfWTNfbzdhbTdaVnpsa1RqQUxPLTJPS0FxbXAwQ1lHZ9IBxwFBVV95cUxPMnQwMk1KQTBfMVBoSWp2YjM5dHZ1dnZ3RzNKYzRYOG5ybkVxTTQ0dlpqTWN2R0VXSHh6aUdTc0dnTGVKeDFoWnVUVDVaMTAzaTlubFlMYmc2aUtMVHVTLTFicG9vRms5UFg4OVJiNTRpMXlWWWwtU1RwZnFRV0Q5LXlMNHBHN1VIVWhKbXJvWjE2WmNOU3lucUllSUhrM2pyd05JX0piUXQyMVRTVWNfaks0cXZVT1FVYTNMamVVa1JsOURCdGY4?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-29T00:46:42.544Z"
-  },
-  {
    "id": "ff0f4dd3c1b5",
    "title": "OnePlus Ace 7 Pro Unboxed on TikTok Ahead of Launch: First Live Look at the New Hit",
    "summary": "OnePlus Ace 7 Pro Unboxed on TikTok Ahead of Launch: First Live Look at the New Hit Andro-News",
@@ -831,28 +867,6 @@
     {
      "name": "autosphere.ca",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEU3ZzcwaklnSWIwQnFMMzJ3dzRxMFNGWUtnaVVpMnY5eUNLOXhGRFNHVUR0QXdmU0t1YW5LTG9VRzhsZEFSX3h6X1dkWUd5UkF0NGowVy1heEQybkFDYVRKR3hDWEY0Nms4eF9sSzFCVkZ2N3djYVpoaWtxXzIxd3pGcFQtODdoRm10UF9kYWRYMy1iYmJ4UkUzYXN3QUl2RlQ4NVBsamdhdw?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-28T20:11:44.196Z"
-  },
-  {
-   "id": "5e10a668fa08",
-   "title": "Amazon Unveils Echo Time: A Smarter Alarm Clock",
-   "summary": "Amazon Unveils Echo Time: A Smarter Alarm Clock SQ Magazine",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EYk1TRmJyaFJ5Wkh1dE5xQWJEVi1ib3dYaml2RU9WY1pQem1COXVScG03NWdEWG44cThNbktGYXRvZXRoU1pBWmFvVlBpU1dLMWhfdlNwMzh3ajRYVkh1Vll5S21fU1QzbG8zTWd3?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-28T14:43:56.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "Smart Home",
-   "brand": "Amazon",
-   "region": "Global",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "SQ Magazine",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EYk1TRmJyaFJ5Wkh1dE5xQWJEVi1ib3dYaml2RU9WY1pQem1COXVScG03NWdEWG44cThNbktGYXRvZXRoU1pBWmFvVlBpU1dLMWhfdlNwMzh3ajRYVkh1Vll5S21fU1QzbG8zTWd3?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -1234,6 +1248,32 @@
    "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
+   "id": "5e10a668fa08",
+   "title": "Amazon Unveils Echo Time: A Smarter Alarm Clock",
+   "summary": "Amazon Unveils Echo Time: A Smarter Alarm Clock SQ Magazine",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EYk1TRmJyaFJ5Wkh1dE5xQWJEVi1ib3dYaml2RU9WY1pQem1COXVScG03NWdEWG44cThNbktGYXRvZXRoU1pBWmFvVlBpU1dLMWhfdlNwMzh3ajRYVkh1Vll5S21fU1QzbG8zTWd3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T12:18:36.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "SQ Magazine",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EYk1TRmJyaFJ5Wkh1dE5xQWJEVi1ib3dYaml2RU9WY1pQem1COXVScG03NWdEWG44cThNbktGYXRvZXRoU1pBWmFvVlBpU1dLMWhfdlNwMzh3ajRYVkh1Vll5S21fU1QzbG8zTWd3?oc=5"
+    },
+    {
+     "name": "UA.NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmF1SmR6ZXlhSFBjX0g0MDEtRTlTM2pZU2FfU0t1N0owYjVlQmNWS2VWX1MxMGE4YUlwM2FBdDVNU3lRRTRVRDVDQU9pbnJzLTZWS3JQUmJ5VW1SamxsV1poNkJJcWRzYmFVTG4ycVpxckE4MmJ5aG5rMk5Ha0JCNlkxT3RidlZqS0x3R25HeFp2aWppWWc4ZEdwdzctQUQ2bThBY2NSeFhyWnFkWEJYZ0hjRmhHZFlZclpZ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
    "id": "fc82e82829c9",
    "title": "All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more",
    "summary": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
@@ -1361,6 +1401,10 @@
     {
      "name": "Sangri Today",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFZWdF9PSW9NbnBxcUhvMjR2UUtVUkdQay13YnpwYUQwZll5dDZoRFdqZ29GdnF1d19uNTJ1SENJYUdzWEZ2aHhFcG9rTlF6SmNpTEVUOW9OSzd5andOM0kzUUNVZGNueGhzUW1LdG1sWFBIcmlZYWhsemZGZXpVQmpjaUZSTGxBSHA4SXdSMjJVRWlvbnh1Yml4andsX3hsdllIMElBT3YzUllkcnfSAa4BQVVfeXFMTkRWVnRfT0lvTW5wcXFIbzI0dlFLVVJHUGstd2J6cGFEMGZZeXQ2aERXamdvRnZxdXdfbjUydUhDSWFHc1hGdmh4RXBva05RekpjaUxFVDlvTks3eWp3TjNJM1FDVWRjbnhoc1FtS3RtbFhQSHJpWWFobHpmRmV6VUJqY2lGUkxsQUhwOEl3UjIyVUVpb254dWJpeGp3bF94bHZZSDBJQU92M1JZZHJ3?oc=5"
+    },
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzAzMmlQQ0NNZ0ZCUWg3eE13YWZSRnFyNzFYWm0zUmVmMEJaeVRQOUVfc3lIbENrZ25nWldySUhSRk5mRy1ESGNCRWs3SE9HNUtoYW9WeE9ZWUFRU1ZiSzZ3amtvMjZQNXoxSENRRGp6cVQtdDR1bE1vQl95a2M4UHh2MERDX0VaUXNISHoyMWlPQ19IekJOM2RFYVlaLWhoQzhOOTU4SnFFaVNs0gGsAUFVX3lxTE1PMDMyaVBDQ01nRkJRaDd4TXdhZlJGcXI3MVhabTNSZWYwQlp5VFA5RV9zeUhsQ2tnbmdaV3JJSFJGTmZHLURIY0JFazdIT0c1S2hhb1Z4T1lZQVFTVmJLNndqa28yNlA1ejFIQ1FEanpxVC10NHVsTW9CX3lrYzhQeHYwRENfRVpRc0hIejIxaU9DX0h6Qk4zZEVhWVotaGhDOE45NThKcUVpU2w?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T12:40:01.370Z"
@@ -1413,6 +1457,10 @@
     {
      "name": "AOL.co.uk",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemZkaGNMVktyZklzSThMNzNuNjhnbERGT2w2UHBodHYtNnZzb1h1RHptTG9hOEtQbW1FX1lTQ2hOcHQyTFJTY3JHM0Z3dmhfZHM3NnFaT2M2ZlRLaTJZZ3I1Y29JY0M3NVVKQ3NTUmktZmNqRUVZV3Fhc0RESlluaG9DRlNVanpqTVBlWA?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHFxVzdPYlR2anplYm9STHFmYXBnUGVFSUJhalBZZTRyQTEtcHRqYUFtazNNa19yQnJUbEtmQ2xmSWhZQ091c3JLa09LaWRGbTJvSTJNeTlwSjhROWhPVVBOM3BHZjJ5TDJ3OEtYNGpzdjFSUFlPd0lwY3RFYmRuYWcxb1Z0NFFCY3c?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T12:40:01.370Z"
@@ -1605,6 +1653,10 @@
     {
      "name": "The Tribune",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2NGdUpWR2dWWG1BRFA0Y0tFelJPMElQb3VVSVc1YXE5R1l1WmFzSjJNR2hTLWphTF9ObkFpaUNoUUJiSFdKcm5jZHZqVE1OelJJb1pWVjdPM3RpdmJ2eFc1VzFVTWF5b2xCX0RoZjlUb1JEN2V2NmMzV3p1R25yQ3lHQ0k2OFJhbVdYdnI4OFN1REhkV3RlbU04cGQtQ2xmaXFkamQyUmJjbnhySXNxdG1EV2ZselFwZ1pv0gG_AUFVX3lxTE9DaUZWMHhQZjhtMW4xMDE0b0hOM2dBdXY1bnJLMy1uYnNyb202NFkwbzYzRGZxdXJXNWl1c0lCbkxMR2Job2MxeE4wc1h1ZGRCcllWdE5NRGFsRGVZSzdOdWZ4bm85VGFBbHNsbkpCbHFlbGR1dmNOTjI0T3h6YXRCMWhjZk1OVjZObEU0Ukg0Y1NHZmxsYjhWMEpMUEUwYUE3UGYwajVacks4Vzg0eXR1aUMxWlRKOXRFOXkzTVVJ?oc=5"
+    },
+    {
+     "name": "Outlook Business",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN09iMURCbjVqMlMwWDhqS1Z2VmpNRUhYVzVHWXRMRzVmM2ZmSUhWcVNubE9TRS1fMEpZVHpxaHFGOWt5dXpMMGpMV0hjcVkyS0dwem10ZXNQbmpHZTBuc05pUW9nRjBhc1RFWHpyTnliRG1GM1VWbC1FX3R3Rkt4dG5meE1vTVEzc3pFVk1YTVUwOG4tV25oLTlOOHZ1NXZQTVJ3d3c4MU1seWRhMGpXbVFSV1pwSm02eGFJTzFSVHVFMmvSAdABQVVfeXFMTkgxMkhTaEdSNGRMNXlUYnBlWC1SaFRvamdPcnVVSy1VUVFlc05oU2xtbmRlTlV1TGRBYnNOdjdjMVBIRHQ3RWwxVGlCQmxlQkk1c1U0c2NRa01wZTRQcW9jR2RVQ2tIZEU2RTNtT0owMXJyaU44cER5NkpJNkMxaUo5S1drelZGUDFqekFwcVEyanVuU21reHEyRHEyYWV0QjdJQ0NsWUhBRmlBbE9ISnlHNFFfNE13MmpRNjNBTVhWTnhyX0lxeFN1TGxrQVZRRw?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -1948,6 +2000,32 @@
    "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
+   "id": "bdebde1ebddc",
+   "title": "iQOO Neo 12 Launched in China With Snapdragon 8 Elite Gen 5, 185Hz Display and 9,000mAh Battery",
+   "summary": "iQOO Neo 12 Launched in China With Snapdragon 8 Elite Gen 5, 185Hz Display and 9,000mAh Battery My Mobile India",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVGZDbm0wZnRpUzhHQ3prZjZQMFVPX0FRYnVQZ3NKQ3ZoQVNDVXRDUUo3LUFxdktIZVF3VGdBdTVxT0hlcGhZeWFsdjE5czFZc251eVFkQ044R3dNeGV6T1ZFMmZEeVBDQk8yU0dQR2VIaVAtWW1uTjJNcnQxTlJXc25penhaQUt1eHI2M1BNTjlTbW54QXJWeUliRHNWV2JvREhfWTNfbzdhbTdaVnpsa1RqQUxPLTJPS0FxbXAwQ1lHZ9IBxwFBVV95cUxPMnQwMk1KQTBfMVBoSWp2YjM5dHZ1dnZ3RzNKYzRYOG5ybkVxTTQ0dlpqTWN2R0VXSHh6aUdTc0dnTGVKeDFoWnVUVDVaMTAzaTlubFlMYmc2aUtMVHVTLTFicG9vRms5UFg4OVJiNTRpMXlWWWwtU1RwZnFRV0Q5LXlMNHBHN1VIVWhKbXJvWjE2WmNOU3lucUllSUhrM2pyd05JX0piUXQyMVRTVWNfaks0cXZVT1FVYTNMamVVa1JsOURCdGY4?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T07:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "iQOO",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVGZDbm0wZnRpUzhHQ3prZjZQMFVPX0FRYnVQZ3NKQ3ZoQVNDVXRDUUo3LUFxdktIZVF3VGdBdTVxT0hlcGhZeWFsdjE5czFZc251eVFkQ044R3dNeGV6T1ZFMmZEeVBDQk8yU0dQR2VIaVAtWW1uTjJNcnQxTlJXc25penhaQUt1eHI2M1BNTjlTbW54QXJWeUliRHNWV2JvREhfWTNfbzdhbTdaVnpsa1RqQUxPLTJPS0FxbXAwQ1lHZ9IBxwFBVV95cUxPMnQwMk1KQTBfMVBoSWp2YjM5dHZ1dnZ3RzNKYzRYOG5ybkVxTTQ0dlpqTWN2R0VXSHh6aUdTc0dnTGVKeDFoWnVUVDVaMTAzaTlubFlMYmc2aUtMVHVTLTFicG9vRms5UFg4OVJiNTRpMXlWWWwtU1RwZnFRV0Q5LXlMNHBHN1VIVWhKbXJvWjE2WmNOU3lucUllSUhrM2pyd05JX0piUXQyMVRTVWNfaks0cXZVT1FVYTNMamVVa1JsOURCdGY4?oc=5"
+    },
+    {
+     "name": "MobileDokan",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWHRVaWNXa2J3bng5MmtwMFdjNWlQU3RhS1YtZU52bTBxSG14YUZ5dURzRENOZWxtN05yNXRrV1hCVjRSZXljcmk3czhxUUNMU0Z2ZWthWkJYZ1hqRWhfZWFzMlE3bFRYdzhfX3hCQUxiNUFLbWlsWUFzTVN0TnppQVBtZ0tZMTFFNmRtcVZxQ3M2bnZDcWU1T20xbnphYnpYM2lsWDFGcEp0Mi1QOXl5MVFScWg4d3JGWHZGWTNibVQ5UGRUbnBXcnZjYkJzbVJpNGpLQ2Ixc1BXeDUyWDB5bHIyWDZVaVR4dWg4QWZGRm9JZUtGXy00?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
    "id": "d3524f861823",
    "title": "Motorola Signature 27 India launch set for November as official microsite goes live",
    "summary": "Motorola has put up a dedicated product page for the Motorola Signature 27 on its India website, a clear sign that the flagship’s local launch is close. The company already confirmed its India plans at India Mobile Congress earlier this month, and the new microsite now invites bu",
@@ -1959,12 +2037,16 @@
    "category": "Other gadget",
    "brand": "Motorola",
    "region": "India",
-   "confidence": 1,
+   "confidence": 2,
    "aggregator": false,
    "sources": [
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/10/28/motorola-signature-27-india-launch-near/"
+    },
+    {
+     "name": "NewzTodays",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXdQVjk0ZGVKZ0xrVGpLMVF2bm9XMmNLZUw3M3c3bEc3OHhPZ3FHbVRZMENzOEdHekhELUMwemo5a2xyLWRER25GSkpUUVFwY3NGcGVSZnVNdmdVaUd1QTA3cm1KWi1sWmpvM21HeHkxZkV2SFRCYUJXT0dNUGsxcmtuM0Q?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T07:24:55.929Z"
@@ -2274,6 +2356,28 @@
     }
    ],
    "firstSeen": "2026-10-28T05:24:23.357Z"
+  },
+  {
+   "id": "d5d822ec5322",
+   "title": "Sony Unveils \"WH-1000XM6 Olive Gray,\" a New Autumn-Inspired Color for Its Popular Headphones",
+   "summary": "Sony Unveils \"WH-1000XM6 Olive Gray,\" a New Autumn-Inspired Color for Its Popular Headphones ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9laVVFY1dIZDBKUDdITDJhMUhNY3BLRHQzV2tWYjhINEFiMTFuR21rc3p0RE52LVp0V0pNaldOelBlUzJZbUV0MERibW9vbXlnV1kyUi1teEI?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T01:03:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9laVVFY1dIZDBKUDdITDJhMUhNY3BLRHQzV2tWYjhINEFiMTFuR21rc3p0RE52LVp0V0pNaldOelBlUzJZbUV0MERibW9vbXlnV1kyUi1teEI?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
   },
   {
    "id": "1308db673465",

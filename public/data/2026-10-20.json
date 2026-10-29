@@ -1415,12 +1415,16 @@
    "category": "Tablet",
    "brand": "iQOO",
    "region": "Global",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "Notebookcheck",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUjhUWkd1dlBOTGkwS2R0aTdlN05wUC02U3IycERvajhvelZBQ24zcUZ0RFhLdnVTamg0QzJORDhGbS00X0tBQkk4X05qeWdBeXZFUE84OVBPT09UeWtqeS1JanFtem5lc19JNnh4YVZkRXkzTVRGRTNZalZqR1JhTXoxdS1qZGkxeUNEcGgtZzlXanUxX21xWFVQNWkyZVdBdGhOd0ExdVQxN09fSVA2N2JRN2toUnRkWThFamNrbXB6UHF0OWdDVzgzcVVFaTQ1SmY0?oc=5"
+    },
+    {
+     "name": "Igeekphone.com",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2k3TkdadzRFX0FQRWVOUXl3LXRjQVRTVzM2bW1yS1lnSzh2Wjl4Q1c4ZElFZGY4UlBSMjJnRWdORy1nbHNfbWMxOXVITTNHdEZiMkJWWTBJN1RHc0tnUWloRFprNXJpOU81WGJ1cHlsWVQzbWpEZWVRekJLWFlJYW53VmNZaDBnUG16elktU0FIVFQxZDNJVkNyYlZQVVpKcV9TclFoajhDVG91MEdQNnlxMkYyOFU?oc=5"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"

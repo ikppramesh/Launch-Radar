@@ -2,6 +2,718 @@
  "date": "2026-10-29",
  "items": [
   {
+   "id": "452f8777c838",
+   "title": "ZTE launches budget Wi-Fi 7 router with 3.57Gbps speeds, AI Mesh and dual WAN support",
+   "summary": "ZTE has launched the Xuntian BE3600 Qingyun Edition, a new Wi-Fi 7 router currently available on JD.com in China. The device is priced at an introductory rate of 199 yuan (about $30) and will eventually retail for 249 yuan (around $37). ZTE Xuntian BE3600 Qingyun Edition Specs Th",
+   "link": "https://www.gizmochina.com/2026/10/29/zte-xuntian-be3600-wi-fi-7-router-launches-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/ZTE-Xuntian-BE3600-Wi-Fi-7-router-1-300x169.png?x80236",
+   "publishedAt": "2026-10-29T18:18:33.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "ZTE",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/29/zte-xuntian-be3600-wi-fi-7-router-launches-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "6f8725d49b6b",
+   "title": "OnePlus Ace 7 and Ace 7 Pro announced with cooling fans and 185Hz displays",
+   "summary": "OnePlus announced the Ace 7 series, comprising two phones: the Ace 7 and the Ace 7 Pro. Some believe that the vanilla Ace 7 is going to be rebadged as the OnePlus 16R for markets outside of China. The party trick of the two phones is that they feature fans to keep the powerful ch",
+   "link": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-series-offic/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-29T17:18:01.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "OnePlus",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273.php"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "b498d31b942f",
+   "title": "Nsaa Play launches mobile raffle platform Chop Money",
+   "summary": "Nsaa Play launches mobile raffle platform Chop Money MyJoyOnline",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQk1QdFNLY2xQWnJpT3Z3SG11Y3U3VVo1dHhKZXozUUV4RDJRWGNHSDZpZU9fMlNUellQUHd0dTNyc3pMQTB3bjE5RXNKQXAtdjNSU25naUVZMXRCeHRpVUxfa3JiMWhBQ05MU1VGOUVZTlFfRDZKM0h3aHFFOEp2WTNqQW5UMVg5?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T16:57:50.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "MyJoyOnline",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQk1QdFNLY2xQWnJpT3Z3SG11Y3U3VVo1dHhKZXozUUV4RDJRWGNHSDZpZU9fMlNUellQUHd0dTNyc3pMQTB3bjE5RXNKQXAtdjNSU25naUVZMXRCeHRpVUxfa3JiMWhBQ05MU1VGOUVZTlFfRDZKM0h3aHFFOEp2WTNqQW5UMVg5?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "3493dcc5964d",
+   "title": "Ultrahuman Ring Pro Arrives in US Stores Without a Monthly Subscription",
+   "summary": "The post Ultrahuman Ring Pro Arrives in US Stores Without a Monthly Subscription appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/10/ultrahuman-ring-pro-us-launch-price.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Ultrahuman-Ring-Pro-gold-color.jpg",
+   "publishedAt": "2026-10-29T16:54:56.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Ring",
+   "region": "USA",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/10/ultrahuman-ring-pro-us-launch-price.html"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "c232172463a8",
+   "title": "OnePlus just unveiled a monster 16R preview, and we’re suitably jealous",
+   "summary": "A 9,000mAh battery makes the missed opportunity sting.",
+   "link": "https://www.androidauthority.com/oneplus-ace-7-pro-launch-16r-preview-3729618/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OnePlus-Ace-7-aka-OnePlus-15R.jpg",
+   "publishedAt": "2026-10-29T16:33:50.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "OnePlus",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/oneplus-ace-7-pro-launch-16r-preview-3729618/"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "3d4522081199",
+   "title": "Samsung launches a virtual cash back card for Wallet, completely unrelated to the Galaxy Card",
+   "summary": "Samsung announced a new way to earn and pay in Samsung Wallet using a new “Cash Card.” more…",
+   "link": "https://9to5google.com/2026/10/29/samsung-wallet-adds-cash-card/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Samsung-Cash-Card.jpg?quality=82&strip=all&w=1400",
+   "publishedAt": "2026-10-29T16:23:28.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/10/29/samsung-wallet-adds-cash-card/"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "b20251ad3de6",
+   "title": "Amazon unveils Echo Show 16 with Fire TV, Alexa+ and anti-glare display",
+   "summary": "Amazon unveils Echo Show 16 with Fire TV, Alexa+ and anti-glare display Tech Edition",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXQ0LU9FQTZRQ3VKMUVWZWU3R2xmcFRsQU5PLTNZeTBVbU5ySk1ITkgtWDBBOXNqeXRBZ0hXbUdRZndFV1lVSmtFMGtYWm5ZeVpXcngwajVsVkhQM1daMkJLUlpUR0ZoVk1PbTZSX3F1OUptOEFzTmhSNkZKSkN4OUZ5R0Uzd1Y5OU9tS3NFajd4YksyR2hMMg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T15:31:12.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Tech Edition",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXQ0LU9FQTZRQ3VKMUVWZWU3R2xmcFRsQU5PLTNZeTBVbU5ySk1ITkgtWDBBOXNqeXRBZ0hXbUdRZndFV1lVSmtFMGtYWm5ZeVpXcngwajVsVkhQM1daMkJLUlpUR0ZoVk1PbTZSX3F1OUptOEFzTmhSNkZKSkN4OUZ5R0Uzd1Y5OU9tS3NFajd4YksyR2hMMg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "71c06c776759",
+   "title": "Honor X9e s launched",
+   "summary": "Honor’s latest addition to its X-series is now official with the Honor X9e s. The device is already available across the Middle East with a starting price of SAR 1,499 ($400) for the single 8/256GB trim. It may look familiar, and there’s good reason why: the X9e s is a rebadged H",
+   "link": "https://www.gsmarena.com/honor_x9e_s_launched_-news-75264.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-x9e-s-ofic/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-29T14:19:02.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Honor",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/honor_x9e_s_launched_-news-75264.php"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "8a7e46932691",
+   "title": "Karbonn Announces India Smartphone Comeback, Targets Gen Z and Creators",
+   "summary": "Karbonn Announces India Smartphone Comeback, Targets Gen Z and Creators Gogi Tech",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cFNuY1dGZC1tUng3R19BN2prLU0yZnVjZnJtNWNGWDQwTkNIa3NwZ2x0dVV0dlNCcmNQYk9BY3JYWFBqc2JmZ3JRMC1NMVh0QmJaMVZTdHR3eE9ZRUxTOUZHX3R3Z2F6Y0HSAW9BVV95cUxObXdsZzVSUjdyaVFTTjB6cEJzS2MtNl8weWVvNWpTUXV3bFpUaHA1TU9uN2FEMVRLbzJuSVk4NDN5bHZDWnRiQ3dEZk5DdkU0enRLYmFZYW8zQ3lZRFVaZVkxbC1kUEZzd0ZqdlIyYjQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T14:10:21.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gogi Tech",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cFNuY1dGZC1tUng3R19BN2prLU0yZnVjZnJtNWNGWDQwTkNIa3NwZ2x0dVV0dlNCcmNQYk9BY3JYWFBqc2JmZ3JRMC1NMVh0QmJaMVZTdHR3eE9ZRUxTOUZHX3R3Z2F6Y0HSAW9BVV95cUxObXdsZzVSUjdyaVFTTjB6cEJzS2MtNl8weWVvNWpTUXV3bFpUaHA1TU9uN2FEMVRLbzJuSVk4NDN5bHZDWnRiQ3dEZk5DdkU0enRLYmFZYW8zQ3lZRFVaZVkxbC1kUEZzd0ZqdlIyYjQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "47696a636efd",
+   "title": "Motorola confirms November release window for high-end Signature 27 smartphone",
+   "summary": "Motorola confirms November release window for high-end Signature 27 smartphone ARYnews.tv",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3p4aGlpdDFRVVZHN0lqV3FjdlpMQnlXb25NOTBJNFlyYS1rNy1PMTUzV3lpQkI0UFNwdEhrZ2ZtZUxTVlh6NFlsZmQwSldIRGFUM1RQdmdqTl96Vkx5eW1vRVdBUlMtVXNmbWlCZUdmS0FqelZTdk5IMGlPX2JtUWFDcldJb0pLZjUyX1AwZ0UwUmZFR2lzbG81ek50Zw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T14:08:20.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ARYnews.tv",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3p4aGlpdDFRVVZHN0lqV3FjdlpMQnlXb25NOTBJNFlyYS1rNy1PMTUzV3lpQkI0UFNwdEhrZ2ZtZUxTVlh6NFlsZmQwSldIRGFUM1RQdmdqTl96Vkx5eW1vRVdBUlMtVXNmbWlCZUdmS0FqelZTdk5IMGlPX2JtUWFDcldJb0pLZjUyX1AwZ0UwUmZFR2lzbG81ek50Zw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "7d82e9e7a675",
+   "title": "OnePlus Launches New Gaming Phones With Built-In Cooling Fans and 9,000mAh Batteries",
+   "summary": "OnePlus Launches New Gaming Phones With Built-In Cooling Fans and 9,000mAh Batteries ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcktoYXd5Unh2aGp3R0Z2OWFhZ2ZFVndxTWZYclBlcmNfOWhmaS1keFd3VWZxTUdrWUE2UV9xNElhYjRsc0ozcTMwWlZmVU5kLVlGMmNPZkI4QVpHc3doNm5la2pGbGE2Um5GemJ6dThydjBJYkdLLVltZEdZQ00zZkhySWgycUN0cFl0b2N1VGdQbXhhWXZueDJsbW5jeVhES0NsU1ExZWZ4NUpYeGE2OGJPc1VOSC1EXzNj0gHAAUFVX3lxTE96bmpUNUZUdkhhbmJuVG05RGJyeld0a1FmUnF0eTJiZ202Zk8xdVEtMlpBbjFBdXE2RjdrTXppdTBHaE5mZVVwTGVjSDI3MGhLWk9ydUlfY0ZvdFI4MEFSc3owQ05TQmNNR1lNQ0VVclZyM0NyQWRNLVpVZ2R5TGZxcUpCenJqSkh3YlRSM2kzU0V6X2s0S3RsSjVFMTkta19jc3hUNzNjTi00bjVjYUxGR3ZoclN6MDY4ZWc0WnMyTw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T13:55:26.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "OnePlus",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcktoYXd5Unh2aGp3R0Z2OWFhZ2ZFVndxTWZYclBlcmNfOWhmaS1keFd3VWZxTUdrWUE2UV9xNElhYjRsc0ozcTMwWlZmVU5kLVlGMmNPZkI4QVpHc3doNm5la2pGbGE2Um5GemJ6dThydjBJYkdLLVltZEdZQ00zZkhySWgycUN0cFl0b2N1VGdQbXhhWXZueDJsbW5jeVhES0NsU1ExZWZ4NUpYeGE2OGJPc1VOSC1EXzNj0gHAAUFVX3lxTE96bmpUNUZUdkhhbmJuVG05RGJyeld0a1FmUnF0eTJiZ202Zk8xdVEtMlpBbjFBdXE2RjdrTXppdTBHaE5mZVVwTGVjSDI3MGhLWk9ydUlfY0ZvdFI4MEFSc3owQ05TQmNNR1lNQ0VVclZyM0NyQWRNLVpVZ2R5TGZxcUpCenJqSkh3YlRSM2kzU0V6X2s0S3RsSjVFMTkta19jc3hUNzNjTi00bjVjYUxGR3ZoclN6MDY4ZWc0WnMyTw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "697f09d77689",
+   "title": "New HP laptop receives earlier than expected release with 500-nit OLED display and 70 Wh battery",
+   "summary": "New HP laptop receives earlier than expected release with 500-nit OLED display and 70 Wh battery Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTFlMGVkX0g3OUhoUjd1YTdEbDQzSGZwaEhxTmE1NzgwRF9maGh4bjdDXzdvRy0wamUzV3k0QkpRRndsODdlbll4NFdIR3lDSS12VllMaV9JeDlqdzBGS19qcEw4WGVDcnFCZklIUGthQmF4aEZnc2ZwNkRUSTd6dHRmM1NWUUh0SG1VQnlSeWQtMXk4WXpwT0dDZ3VEdVl5WUpoWDJfWVo5ekZzTGZFUEVtNW5VM0NrbFNuZlpDaHh6Rl9Uc1ZfNTVxMWx6b1ZaRDVBV3EwYUg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T13:49:00.000Z",
+   "date": "2026-10-29",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "HP",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTFlMGVkX0g3OUhoUjd1YTdEbDQzSGZwaEhxTmE1NzgwRF9maGh4bjdDXzdvRy0wamUzV3k0QkpRRndsODdlbll4NFdIR3lDSS12VllMaV9JeDlqdzBGS19qcEw4WGVDcnFCZklIUGthQmF4aEZnc2ZwNkRUSTd6dHRmM1NWUUh0SG1VQnlSeWQtMXk4WXpwT0dDZ3VEdVl5WUpoWDJfWVo5ekZzTGZFUEVtNW5VM0NrbFNuZlpDaHh6Rl9Uc1ZfNTVxMWx6b1ZaRDVBV3EwYUg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "99d27a7be4f1",
+   "title": "NCC Unveils Device Checker Platform To Curb Counterfeit Phones, Protect Consumers",
+   "summary": "NCC Unveils Device Checker Platform To Curb Counterfeit Phones, Protect Consumers New Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnVNVEZMYV8wOWQyUG9fc3RIWXJzNGctVHEzeTlUSHhSaUNwOV9GN2NyOEFrV05jbVFiZE8wRTQtX09qTHBMTGxDV0JCbWUwZzV4WFUxZGZ1aEhGSHhjRGJKd3YydHRwTGVnN2tDUmdORERVS0JEN3dHNUJUM1B5cFUtOU1Od3JMV3FpSTNSU3B5bzdyQURHelZSVkJZMUlqTi0xcFFrM0NYcm1O?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T13:44:13.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "New Telegraph",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnVNVEZMYV8wOWQyUG9fc3RIWXJzNGctVHEzeTlUSHhSaUNwOV9GN2NyOEFrV05jbVFiZE8wRTQtX09qTHBMTGxDV0JCbWUwZzV4WFUxZGZ1aEhGSHhjRGJKd3YydHRwTGVnN2tDUmdORERVS0JEN3dHNUJUM1B5cFUtOU1Od3JMV3FpSTNSU3B5bzdyQURHelZSVkJZMUlqTi0xcFFrM0NYcm1O?oc=5"
+    },
+    {
+     "name": "Kano Focus",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVVoSkI4Q0hoV1lGMV9mZEFBdEJZVUtCYWtsNEs1VFVZY0dDcDY1VlRMTXVxRVBJR1Q2LXd4cUtuR2l2d0xvSkZtUHU2bjg3elp3ZlRsX19abjB5WDYycTQzRUthcjJZVno4ZXJXWXBQSGNlS3pjdzhUUUZzLW5jUlRzb1lVZVk4MGFITkRGd3NfcXcycFFGeVk0UFRYS29VazBPOWdwUWNsRW5P?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "6a1fc73a2117",
+   "title": "iQOO Launches Flagship-Grade Gaming Tablet With With Enhanced Cooling",
+   "summary": "iQOO Launches Flagship-Grade Gaming Tablet With With Enhanced Cooling ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3Z5dld1ek9EeE5OSG9ObGFPZm9WNmp2VnZBMXFFVWgzMUctUF90ZG1KbGJ6Y2prZlRvSlgzWnkxd1pHVURXYWN3c1dObUc5QmlGaXdkRFU2cHhmQ051SkdrakRzaVhDcWlBcktFOExCYlZKUWx3U0hfdndReGU0RTVwMUI5TzZxckxuYmJTOEFMQlI5QzlyZTE2TDRLY3RSX215WkJnTTHSAa4BQVVfeXFMT0FNeG1pLWdDMFdVMUpvRXpTbXZZTFBCblF5ZFc5THpmYm81bElKanJiOHp2cTN0aEUzb2NlSXZDZUJjRDNTb2h3MEIxMG1hSE91QndCaWdadW1nbXpWUThaZjFvdXRfTGNtQW9KWmJ6eTlhUFFtS2lfNE1kWUtMS2pJQVdqcUpPcENIclNWbGpkN3JvOUdXWjkxU3JGalhmQUhTVlVRQUtzeTNrMmxB?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T13:25:26.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "iQOO",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3Z5dld1ek9EeE5OSG9ObGFPZm9WNmp2VnZBMXFFVWgzMUctUF90ZG1KbGJ6Y2prZlRvSlgzWnkxd1pHVURXYWN3c1dObUc5QmlGaXdkRFU2cHhmQ051SkdrakRzaVhDcWlBcktFOExCYlZKUWx3U0hfdndReGU0RTVwMUI5TzZxckxuYmJTOEFMQlI5QzlyZTE2TDRLY3RSX215WkJnTTHSAa4BQVVfeXFMT0FNeG1pLWdDMFdVMUpvRXpTbXZZTFBCblF5ZFc5THpmYm81bElKanJiOHp2cTN0aEUzb2NlSXZDZUJjRDNTb2h3MEIxMG1hSE91QndCaWdadW1nbXpWUThaZjFvdXRfTGNtQW9KWmJ6eTlhUFFtS2lfNE1kWUtMS2pJQVdqcUpPcENIclNWbGpkN3JvOUdXWjkxU3JGalhmQUhTVlVRQUtzeTNrMmxB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "51635eae1e84",
+   "title": "Indian smartphone brand Karbonn announces to make a big comeback soon",
+   "summary": "Indian smartphone brand Karbonn announces to make a big comeback soon Deccan Herald",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQktDSW0zLWRhRTZua1JRRVZ4eU5JRk5DVDVxTUw0bnNTbmpsbFphcDIxWV9rNXAtOUZhbWNpWk5TR3ZOeUQxUXV1UTdqaXJNdzM0MGFuS2FROUZVaVFHMnozOEFiYVJGcGo4WTRQVXYwU0FCck92c2UtMWdfRU90anlIYW5nNXdPSl9wX1dDWFZaUVlDQTJiUTBuR1hmZmo1V1RYZHkwbUdfeUdXcVBCNDJTVDNvNnZWRGFxMw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T13:07:44.000Z",
+   "date": "2026-10-29",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Deccan Herald",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQktDSW0zLWRhRTZua1JRRVZ4eU5JRk5DVDVxTUw0bnNTbmpsbFphcDIxWV9rNXAtOUZhbWNpWk5TR3ZOeUQxUXV1UTdqaXJNdzM0MGFuS2FROUZVaVFHMnozOEFiYVJGcGo4WTRQVXYwU0FCck92c2UtMWdfRU90anlIYW5nNXdPSl9wX1dDWFZaUVlDQTJiUTBuR1hmZmo1V1RYZHkwbUdfeUdXcVBCNDJTVDNvNnZWRGFxMw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "ece0ac4cbe72",
+   "title": "Govt announces plans to offer Smartphones on easy installments",
+   "summary": "Govt announces plans to offer Smartphones on easy installments Pakistan Connect",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnU1cGNEdURiTnpDckJmUGRueWFaLUxqTmtwUmU3RGRnenJwUTA5TFpYZ1NUa2ZfMXhkdk80V1FJeDhfYWhnVWFrUWhNMzhEcVNpZ1dqb1JHaVpWdjhDY2xMTU1ZR2FEaW1nWkhpSXJHUVNDT1BsaTZXSm1vS3pKdg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T12:53:14.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Pakistan Connect",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnU1cGNEdURiTnpDckJmUGRueWFaLUxqTmtwUmU3RGRnenJwUTA5TFpYZ1NUa2ZfMXhkdk80V1FJeDhfYWhnVWFrUWhNMzhEcVNpZ1dqb1JHaVpWdjhDY2xMTU1ZR2FEaW1nWkhpSXJHUVNDT1BsaTZXSm1vS3pKdg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "78bdf711dda4",
+   "title": "Motorola confirms new premium smartphone launching internationally in November with 165 Hz AMOLED display",
+   "summary": "Motorola confirms new premium smartphone launching internationally in November with 165 Hz AMOLED display Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdEFNQUtRSHZmSWxCbUxCVWViUmZpMlNKdjdCRk1NUVRXd1RXaV9xdjI4ZktMeGJuSmRWcWc3eXNTemZ5RFNaa25YR0cxQlJScnh6OTdNTjFSTmlEWmdmYzllT1ZXTVlfNUkzdDRQZHhBNUZkYzhoamg0MXIxRklLTTV6ekRSQjQ0QUtrUmhHWjNzMGNPc3lXYXdjYzd1YkRoQ1BMSWhBWUZCVDY0RUpqRjBVUWpVazJ4TVpkYXBkYXIwQjlkY3FVNU9yampWckRhZlYzTGVwTFdsbFNkMHdEZnRjcTc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T12:50:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdEFNQUtRSHZmSWxCbUxCVWViUmZpMlNKdjdCRk1NUVRXd1RXaV9xdjI4ZktMeGJuSmRWcWc3eXNTemZ5RFNaa25YR0cxQlJScnh6OTdNTjFSTmlEWmdmYzllT1ZXTVlfNUkzdDRQZHhBNUZkYzhoamg0MXIxRklLTTV6ekRSQjQ0QUtrUmhHWjNzMGNPc3lXYXdjYzd1YkRoQ1BMSWhBWUZCVDY0RUpqRjBVUWpVazJ4TVpkYXBkYXIwQjlkY3FVNU9yampWckRhZlYzTGVwTFdsbFNkMHdEZnRjcTc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "bf0c339af18d",
+   "title": "OnePlus Ace 7 and Ace 7 Pro with 6.78″ 185Hz OLED display, Snapdragon 8 Elite Gen 5 V Series / 8 Elite Gen 5, 9000mAh battery announced",
+   "summary": "OnePlus has officially introduced its latest performance-oriented smartphone lineup, the OnePlus Ace 7 series, comprising the standard OnePlus Ace 7 and the OnePlus Ace 7 Pro, as it had announced. Designed around high-refresh-rate straight displays and heavy-duty battery capaciti",
+   "link": "https://www.fonearena.com/blog/496065/oneplus-ace-7-ace-7-pro-price-specifications.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/OnePlus-Ace-7-Pro-1024x727.jpg",
+   "publishedAt": "2026-10-29T12:47:39.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "OnePlus",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496065/oneplus-ace-7-ace-7-pro-price-specifications.html"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "66bdf223b039",
+   "title": "SafeOwl Launches OWLY 1 Kids Smartwatch, Bringing Safer Connections and Greater Independence to Families",
+   "summary": "SafeOwl Launches OWLY 1 Kids Smartwatch, Bringing Safer Connections and Greater Independence to Families Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaFJGZTZLRHpsS0dWWXpNZFUzZGRFT1dpZVQxY3c3MjE2dTRDQTBzdnhQaFBwWno2NWZjb0lEQzQyQ0w2YXNtZVotQXozVUlQUktyMjVLTkttSkkydnFuYW1OakdWSnZYbUlZM0VUTmlxYUtmcjV5c0drRGgzMlVNejFCcXA2TWRKVUJhSGZiS0oyWjQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T12:31:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaFJGZTZLRHpsS0dWWXpNZFUzZGRFT1dpZVQxY3c3MjE2dTRDQTBzdnhQaFBwWno2NWZjb0lEQzQyQ0w2YXNtZVotQXozVUlQUktyMjVLTkttSkkydnFuYW1OakdWSnZYbUlZM0VUTmlxYUtmcjV5c0drRGgzMlVNejFCcXA2TWRKVUJhSGZiS0oyWjQ?oc=5"
+    },
+    {
+     "name": "PR Newswire",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZGJwNWloZ2ZXR3RWaUVJcG5kcVBiTTNJMzlJcWE4U0xRZ3IwRVJfaHFOX1lRblM4UFJOM3F4bmg2al9fUXJ5Q2lqeWRzQXlsZFJZWDZ0NHREbVZRVEpnZWE2djBGcmZFcHRUUjlpUnV5MzJsLTFmWmF6empRWmxlSi1ldklWVl9XVC00cjBtb0lxYUk2dDZPSEZUM052QVBfb0JyNDJGNHNneVh4aFBkWjBtN2pjTnRoWnllVlByN2tyTDBYd0xBOG96bVFEQ0h5R3plN0V5cEwxOE85Tms3Z3RtMWRRNkxzUVNFRlVGMmk?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "99d2b599ed69",
+   "title": "OnePlus Ace 7 Pro and Ace 7 Launched With 9,000mAh Battery, 200-Megapixel Rear Camera: Price, Specifications",
+   "summary": "OnePlus Ace 7 and OnePlus Ace 7 Pro have been launched in China, the smartphone maker announced on Thursday. The two new OnePlus Ace series phones are set to go on sale in China on November 3 via the Oppo online store. The OnePlus Ace 7 is offered in Midnight Black, Streamer Whit",
+   "link": "https://www.gadgets360.com/mobiles/news/oneplus-ace-7-pro-price-launch-sale-date-specifications-features-12254174",
+   "image": "https://i.gadgets360cdn.com/large/oneplus_ace_7_main_1793276054260.png",
+   "publishedAt": "2026-10-29T12:15:35.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "OnePlus",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/oneplus-ace-7-pro-price-launch-sale-date-specifications-features-12254174"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "195eb285f1b4",
+   "title": "Fairphone Fairbuds 2 Launch With Replaceable Batteries, Improved Sound, and a Lower Price",
+   "summary": "Fairphone Fairbuds 2 Launch With Replaceable Batteries, Improved Sound, and a Lower Price AndroidGuys",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE1EalkzYWpfOWNCMVVyLUd4RS1FQ0doa3Rnd0NuQ3B6LWpaTnBJVVBvSERUeWVyLUhGOEV6V1Y1S1NzQ0luU0RuajlSbUlBUkRGcnNPUnl0Skxka3cxYnAtNFlnTzBNYnltbzgxbU9neVdqRmg4aHE5QnFOb1hzWVN6ZFVLcHdIVGpKRVpjV2otMFZaRE5r?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T12:03:47.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Fairphone",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "AndroidGuys",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE1EalkzYWpfOWNCMVVyLUd4RS1FQ0doa3Rnd0NuQ3B6LWpaTnBJVVBvSERUeWVyLUhGOEV6V1Y1S1NzQ0luU0RuajlSbUlBUkRGcnNPUnl0Skxka3cxYnAtNFlnTzBNYnltbzgxbU9neVdqRmg4aHE5QnFOb1hzWVN6ZFVLcHdIVGpKRVpjV2otMFZaRE5r?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "9a438630a869",
+   "title": "Google Expands AI Mode Ads to India and Nine Other Countries as Multiturn Ads Roll Out in US",
+   "summary": "Google is expanding its AI-powered search advertising programme across more international markets, including India, while testing new ways to display sponsored results during ongoing conversations in the US. The update covers ad placements in AI Mode and AI Overviews, with existi",
+   "link": "https://www.gadgets360.com/ai/news/google-expands-ai-mode-ads-to-india-and-9-other-countries-as-multiturn-ads-roll-out-in-us-12253924",
+   "image": "https://i.gadgets360cdn.com/large/ads_in_ai_mode_google_1793271672311.jpg",
+   "publishedAt": "2026-10-29T11:50:27.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/ai/news/google-expands-ai-mode-ads-to-india-and-9-other-countries-as-multiturn-ads-roll-out-in-us-12253924"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "40a73c3c5fa7",
+   "title": "iQOO launches new gaming controller with Hall effect sticks and triggers",
+   "summary": "iQOO launches new gaming controller with Hall effect sticks and triggers Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEp5X3pSTG9yVVgtRHFFNGpUbmNxZzNuOTNsb3o2WE42U2lJQVhtWWdIOExZaUZCMEl2LWRhZEJWVzVkUUM5N25FUmxtSU5CSE9KX2ZPS3VPNTZoTDBDd1ppY2VGRVRJX244bDlzcEplamx6M05ZZ1JjaGttNnZlSFZyWVNtUk96ZEJleDViMGRuN196TEw4eWtfajctZS1YRkxsVXh4Ql9EYXJaNEQ4aDc0RTMxbm85?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T11:45:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "iQOO",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEp5X3pSTG9yVVgtRHFFNGpUbmNxZzNuOTNsb3o2WE42U2lJQVhtWWdIOExZaUZCMEl2LWRhZEJWVzVkUUM5N25FUmxtSU5CSE9KX2ZPS3VPNTZoTDBDd1ppY2VGRVRJX244bDlzcEplamx6M05ZZ1JjaGttNnZlSFZyWVNtUk96ZEJleDViMGRuN196TEw4eWtfajctZS1YRkxsVXh4Ql9EYXJaNEQ4aDc0RTMxbm85?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "c2a6a37938dd",
+   "title": "Xiaomi Launches Redmi Note 17 Series and Expands Its Smart Ecosystem in Sri Lanka",
+   "summary": "Xiaomi Launches Redmi Note 17 Series and Expands Its Smart Ecosystem in Sri Lanka Newswire",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDZmUFpyT252YjBraVNEeDBDd09uY1ducENqeUd5MWF6MWNGb2lFNUdIQWVjeVFwTDZBd2hDRl81c0JnUC1BNnpwVUtua0hZMFFDWHd2N1NVNWpwTGZvM0JiYmo0SUNYd3M4WkljeXlOWldGREVkWjYycDFCa0hnakdTZnVUM3R3UU5kZDFFNTdremREd3JQTmFUOGM0MmozSlo5aVFNU1ozVVZIcEZuZW9NdS1DUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T11:41:20.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Newswire",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDZmUFpyT252YjBraVNEeDBDd09uY1ducENqeUd5MWF6MWNGb2lFNUdIQWVjeVFwTDZBd2hDRl81c0JnUC1BNnpwVUtua0hZMFFDWHd2N1NVNWpwTGZvM0JiYmo0SUNYd3M4WkljeXlOWldGREVkWjYycDFCa0hnakdTZnVUM3R3UU5kZDFFNTdremREd3JQTmFUOGM0MmozSlo5aVFNU1ozVVZIcEZuZW9NdS1DUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "66769f52b2c3",
+   "title": "AFUL launches MiracleOne in-ear headphones with a 6 mm dynamic driver",
+   "summary": "AFUL launches MiracleOne in-ear headphones with a 6 mm dynamic driver Root-Nation.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDBQMTN1a0xyR1pzTi04dU0tNC1wcThCMmMzdEREWW5RZ1hMTHJLZzlTTGFFbmgyR1BLWHR1NjZQaWtrdWVwLW5MUTNmR2oyZkY4REtROWhWUnJ2dDFEbmIyMGRxZzZWZGpwYkpoLWNNbFlHSnczZjJSUV9xSDU2YTJxbDYwTFF4dHhLS1RXaTZ6SHJn?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T11:01:17.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Root-Nation.com",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDBQMTN1a0xyR1pzTi04dU0tNC1wcThCMmMzdEREWW5RZ1hMTHJLZzlTTGFFbmgyR1BLWHR1NjZQaWtrdWVwLW5MUTNmR2oyZkY4REtROWhWUnJ2dDFEbmIyMGRxZzZWZGpwYkpoLWNNbFlHSnczZjJSUV9xSDU2YTJxbDYwTFF4dHhLS1RXaTZ6SHJn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "f2f2886c1b8c",
+   "title": "Motorola has already confirmed its Signature 27 flagship is launching in November",
+   "summary": "Following a “coming months” teaser earlier this year, Motorola has confirmed that its flagship Signature 27 device is launching in the US in November. more…",
+   "link": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-3.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-29T11:00:00.000Z",
+   "date": "2026-10-29",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "f5e6dbb955a9",
+   "title": "Nikon NIKKOR Z 120-300mm f/2.8 TC VR S telephoto zoom lens launched in India",
+   "summary": "Nikon India Pvt. Ltd. has launched the NIKKOR Z 120-300mm f/2.8 TC VR S, a professional telephoto zoom lens for full-frame FX-format mirrorless cameras. Part of Nikon’s S-Line, it is the world’s first interchangeable zoom lens to combine a constant maximum aperture of f/2.8 with ",
+   "link": "https://www.fonearena.com/blog/496022/nikon-nikkor-z-120-300mm-telephoto-zoom-lens-price-india-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Nikon-NIKKOR-Z-1024x538.jpg",
+   "publishedAt": "2026-10-29T10:23:41.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Nikon",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496022/nikon-nikkor-z-120-300mm-telephoto-zoom-lens-price-india-features.html"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "0c213333489e",
+   "title": "Apple Announced Scott Forstall's Departure 14 Years Ago Today",
+   "summary": "Fourteen years ago today, Apple announced that iOS chief Scott Forstall would leave the company the following year, serving as an advisor to Tim Cook in the interim. Reports at the time said Forstall refused to sign Apple's public apology for the poor coverage of Apple Maps, dism",
+   "link": "https://www.macrumors.com/2026/10/29/apple-scott-forstalls-departure-14-years-ago-today/",
+   "image": "https://images.macrumors.com/article-new/2017/06/scott-forstall-original-iphone.jpg",
+   "publishedAt": "2026-10-29T10:23:39.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/29/apple-scott-forstalls-departure-14-years-ago-today/"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "37d8cdb1df1b",
+   "title": "iQOO Launches Powerful Gaming Phone With Built-In Cooling Fan",
+   "summary": "iQOO Launches Powerful Gaming Phone With Built-In Cooling Fan ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUNDX3dWZnRqVVRLLXV0cEZkTTgtcVJxcWhGSFA4NUxHQVlFRTJMeFVGSHB6Qjl1RU03bkNaaDcwRU13VnZhTGk1MzhjMVZoTktBQ2c2MDh4NHdqTEF1MExjQWRZWW84aWpvaEJGelZScWhkeERFcXc1dk5iQ0FKZmpIRC1tSi00QWVyRzB5aWZGZmM0QnB6SEhraVl3UdIBngNBVV95cUxPZ25weEFnQWpxaklVZkl5YTlOMl80RFlIbTV2MzFBWXBXRmJtb2Y0cFZoYW1UT19GOVJ5dGUxRHBxNkRpMW5VUWx0T3Rxc3FvaEI0RVVCQjREMXlsblNRRENEb1ZMeHZaRkx0WmRsSTZZTUtMLVFWM0c1bHZESlRSN0dhTFEwV0FKQTVuQS1wUkVfdERXOXV2dTh2Ny1jUGluWU1xd0hxRnNZdVBnQ0RUUEg5MHNUWVpTREc4R0FjbWtIM3VfbzVNallMSWczMkV6dDA0OHVQLXVMX1RTNGxCeDFCVC1PLU5laTBWaGxKZ2hFblJYWXZDdklXUVZGdzRWTjh5dzJEWnZURHk5V2E5TFk5dXRSOFg4ZDlHTndIeGV2S0JueU5JNzRfR0NBZ0wzQld1eGV2Q1FadXpleHd4bnlqWkhvSzFuaURoRVRBMTlhdTN3aWxRUTVra1pvb2c1eExOMWJlTC1LQ1BIbmRiRnEwbUs1MmRfTVhVbjlGcVlTdlVEUC1pTGlSTERKdDl6V1JycW4yTG1vR0J3WkE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T09:55:25.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "iQOO",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUNDX3dWZnRqVVRLLXV0cEZkTTgtcVJxcWhGSFA4NUxHQVlFRTJMeFVGSHB6Qjl1RU03bkNaaDcwRU13VnZhTGk1MzhjMVZoTktBQ2c2MDh4NHdqTEF1MExjQWRZWW84aWpvaEJGelZScWhkeERFcXc1dk5iQ0FKZmpIRC1tSi00QWVyRzB5aWZGZmM0QnB6SEhraVl3UdIBngNBVV95cUxPZ25weEFnQWpxaklVZkl5YTlOMl80RFlIbTV2MzFBWXBXRmJtb2Y0cFZoYW1UT19GOVJ5dGUxRHBxNkRpMW5VUWx0T3Rxc3FvaEI0RVVCQjREMXlsblNRRENEb1ZMeHZaRkx0WmRsSTZZTUtMLVFWM0c1bHZESlRSN0dhTFEwV0FKQTVuQS1wUkVfdERXOXV2dTh2Ny1jUGluWU1xd0hxRnNZdVBnQ0RUUEg5MHNUWVpTREc4R0FjbWtIM3VfbzVNallMSWczMkV6dDA0OHVQLXVMX1RTNGxCeDFCVC1PLU5laTBWaGxKZ2hFblJYWXZDdklXUVZGdzRWTjh5dzJEWnZURHk5V2E5TFk5dXRSOFg4ZDlHTndIeGV2S0JueU5JNzRfR0NBZ0wzQld1eGV2Q1FadXpleHd4bnlqWkhvSzFuaURoRVRBMTlhdTN3aWxRUTVra1pvb2c1eExOMWJlTC1LQ1BIbmRiRnEwbUs1MmRfTVhVbjlGcVlTdlVEUC1pTGlSTERKdDl6V1JycW4yTG1vR0J3WkE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "51dfc5f49e4e",
+   "title": "Wobble to launch its second smartphone, the Speed 5G - GSMArena.com news",
+   "summary": "Wobble to launch its second smartphone, the Speed 5G - GSMArena.com news GSMArena.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODNqNWtMN2xYWGxtVDYxRFpZMTJjN1Y0MjkxSnNVNmlNYUxaUFBVN1RVR0FnS0N5VU1Ic1hlOUl6c2owQlpqV0d1LXF2TnBfUkNrMkJBZlQzQnI0UGx4Q1BhLTdpN21XdjMydkZnVVc3S0hYSXdMMGd5VlhibWZEelRNU1hjOFpFbE05RHoxV05sa1RqN1HSAZIBQVVfeXFMTzVKNlhDWVRSZWRXQ1hNQkVnQjIweHVHbFVUbWtxRWFobmVhMFVZaXhSeGlrUFNYUmZWY2JZWC10R0RqY0x4OExGWUhxclM2RV8tWG9RYjJMME9CQWJndDFHbmVxVjJmUEVoYzBFc3lzQTMwVDFROXhDNEtBUERmSnhyN0Z6dE90OUdpel9henEzT0E?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T09:47:02.000Z",
+   "date": "2026-10-29",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "GSMArena.com",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODNqNWtMN2xYWGxtVDYxRFpZMTJjN1Y0MjkxSnNVNmlNYUxaUFBVN1RVR0FnS0N5VU1Ic1hlOUl6c2owQlpqV0d1LXF2TnBfUkNrMkJBZlQzQnI0UGx4Q1BhLTdpN21XdjMydkZnVVc3S0hYSXdMMGd5VlhibWZEelRNU1hjOFpFbE05RHoxV05sa1RqN1HSAZIBQVVfeXFMTzVKNlhDWVRSZWRXQ1hNQkVnQjIweHVHbFVUbWtxRWFobmVhMFVZaXhSeGlrUFNYUmZWY2JZWC10R0RqY0x4OExGWUhxclM2RV8tWG9RYjJMME9CQWJndDFHbmVxVjJmUEVoYzBFc3lzQTMwVDFROXhDNEtBUERmSnhyN0Z6dE90OUdpel9henEzT0E?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "fd277f3794f7",
+   "title": "Amazon launches its \"most capable Echo Dot\" alongside the camera-toting Echo Studio smart speaker",
+   "summary": "Amazon launches its \"most capable Echo Dot\" alongside the camera-toting Echo Studio smart speaker What Hi-Fi?",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEtfTkEyeU1FQmR0U2VPZTN3NnBVTHpnWXZDam9GQ3JOb0Iyb3IyR09NdW8wUWlSTzVvM0c0enpxcjhYMF9PTHd4a3R3NGhuVnRTNG5TVE92elgtZXoxOG96dEpsX2s4eDViUGN0Y3NSTTVUazlLbEdQdkVWbUxVR05OejVsRkstdFVBX2ZYa1paeGtLZ2FQalhEZ2xkR2hHOGN1OWpTQjkySmtTU3F6LUU0TzlQMG1SaTJfb0VCdzFxQnVELVhFUTlZNTJOMmtUcnkxZWw1ai0xUGxCQzZ3Wg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T09:46:52.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "What Hi-Fi?",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEtfTkEyeU1FQmR0U2VPZTN3NnBVTHpnWXZDam9GQ3JOb0Iyb3IyR09NdW8wUWlSTzVvM0c0enpxcjhYMF9PTHd4a3R3NGhuVnRTNG5TVE92elgtZXoxOG96dEpsX2s4eDViUGN0Y3NSTTVUazlLbEdQdkVWbUxVR05OejVsRkstdFVBX2ZYa1paeGtLZ2FQalhEZ2xkR2hHOGN1OWpTQjkySmtTU3F6LUU0TzlQMG1SaTJfb0VCdzFxQnVELVhFUTlZNTJOMmtUcnkxZWw1ai0xUGxCQzZ3Wg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "47a4be5483e2",
+   "title": "STB announces campaigns and fines of up to 1,000 lei for passengers who listen to their phones without headphones or talk on speakerphone",
+   "summary": "STB announces campaigns and fines of up to 1,000 lei for passengers who listen to their phones without headphones or talk on speakerphone Informat.ro",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTlPcEZYakpqVjR3XzZDR190SEVJRWlUTFozZmhyWHhlX2ZYM3FFTVVUdmVSckpFMVRFVVRVeXFnbmMyVTh0bHhXMGtfcWJONDNacjNfX1VaejFMTUR6LXJnb2trMmJmb05BMVpMWmpNWEwyc2d1eDNHMlF0c2hHc2xuSDQ1QmJMRThoYUdn?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T09:30:14.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Informat.ro",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTlPcEZYakpqVjR3XzZDR190SEVJRWlUTFozZmhyWHhlX2ZYM3FFTVVUdmVSckpFMVRFVVRVeXFnbmMyVTh0bHhXMGtfcWJONDNacjNfX1VaejFMTUR6LXJnb2trMmJmb05BMVpMWmpNWEwyc2d1eDNHMlF0c2hHc2xuSDQ1QmJMRThoYUdn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
    "id": "d06e39d8e111",
    "title": "Logitech MX Master 4 Developer Edition wireless mouse launched in India",
    "summary": "Logitech has launched the limited-edition MX Master 4 Developer Edition in India. The edition features a terminal-inspired design created for developers. The mouse has a matte body with laser-etched syntax annotations (//), markup tags ( ), circuit traces and a compiling {Hello, ",
@@ -19,6 +731,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496012/logitech-mx-master-4-developer-edition-price-india-features.html"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/laptops/news/logitech-mx-master-4-developer-edition-price-in-india-launch-sale-date-features-specifications-12253915"
     }
    ],
    "firstSeen": "2026-10-29T09:47:18.631Z"
@@ -93,6 +809,18 @@
     {
      "name": "The Times of India",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR2tZSUJXR1F2bFNSVzRJZDJvQVZ0ZDlxX1NoSG1yblpVaUxJaWNmaFVNZHg1dThRY0lpZ0VxUmpmd0d1OXNONncyOGpaeTBwalgwY0t2QUpxdTVnWXhUSmhnLU1vc1NVd1Nkb3RTMGw2M1RTRnZaaDcxaEFvS2dJV3RSV0tpNWl3elZHRmVWRDlCWTFTcTBMRGN0RE02eGRhYkN3VlF1ZlFjNk9RUkhvdjYtcjBjWHV5eFNuUGx3YWR5UjF6bzBXWXlvUmhiYjFEWFNHcWJLaC1tVmtmTjhhdFo3X3rSAeoBQVVfeXFMTS1DM1B2V0liQ2F6SUNYTkFCREF1cVZhVmRqMnpTZzFJa21Ub2duTmxqSHo1eF9KbVpSYmUxSDQ1S1FSVzFJV0hSeGgzcWFMSEhRVUhUVmZsSUhPQUZWbHF2UldYNkRHWjFjSk11X05VaVdRX0pCeFBiQWN6NTFzTFFGemVFeVVzZnVTQ1d0MGtPb2F2QzJzdWJSZkxGVDVLN3gxMzJ5WVhLQkVxaEs5bkw5U1pEck9adG9xRTJyXzJzYXFwQlJIMzhoMFp5eU9wYkxlMldYZHJOUE40bzVMZnAyMm8xU3NWUzNR?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/29/noise-master-buds-open-sales-buds-r1-gaana-edition/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/noise-buds-r1-gaana-edition-price-india-launch-availability-specifications-features-12254875"
+    },
+    {
+     "name": "Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWM4cWhPdDE3QXptd0ZPZE45ak9XbV9FNlZPR29uVDhsS0hUYkVvSzNqUkRRNTdYSXRGMngxLXZ4M05oT1gtRUpYeWRMejJHM3ozMElTUVkyUXpobGk5T2RkYUJ3TXQ4S1dkUDYwLUlBMXJOMGdWcDRIMW5wZkpHRkN5TUtmRzhpWVFEZksxTnFGdmV6TVRodVBZUWFYM0lzbThCTUtSZ3ptbjhOWHZGTmVtVGhyd3QwMXN5a1lMUkhiN0VWb3Voa19ZbTdiZ21uUGJtbjhCOFEyYXBUaE1xeWZ30gHnAUFVX3lxTE13VzVMRXVjallPV2ZoRmEtdVZxTnJnWDJxMWtJZHQ5QmFVRmlrMlBZWG1tMzhUTDRKbGFseWlQNHotdFJaZXlfVEVaTnNZZ2hRR2NNZmthdnFSUmFuamVBMzNjSVhyN19HXzh4R1dNN243RlpzcGZrMUtNbVc3RFFZcGY4R1JTakE4am5TYlNvUmI5dF9JSFZlWko4azVGdDZFY2E1TXViZjBJLUxua3ZVTEVGZGcwVlZBVzh1SXpqUXNCM1JHdmRuNWVuRXpkT194eUppeEpYQ0h0ZjVkcjhnUlZXTE52aw?oc=5"
     }
    ],
    "firstSeen": "2026-10-29T09:47:18.631Z"
@@ -164,6 +892,28 @@
    "firstSeen": "2026-10-29T09:47:18.631Z"
   },
   {
+   "id": "79bccd9826a5",
+   "title": "Amazon unveils Alexa Photo Frame, combining smart display features with digital photography",
+   "summary": "Amazon unveils Alexa Photo Frame, combining smart display features with digital photography Innovation Village",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUdMTHdZZi1uSk1vTzF2X3BwQ0VReVkzeGxOdzRfclhscFVydDE1bGJYcEdxclBRM25qd1hIWGRxNXB6d2JMYWs3QzJrUGlkREJsMm5NbjREV2dHQmpKU2tremlnSXQ3QWZlcjVZN2xuVl83aDlaRHhQYnExTU5wckRZekptUmZfSC1iYm9tMnU2Y1g2YjFWTU1Ealp2dnJwTldvYlpvMUQ1Y3h1UzFCLU5qcExaRm1OUUw4eVBQUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T06:18:32.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Innovation Village",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUdMTHdZZi1uSk1vTzF2X3BwQ0VReVkzeGxOdzRfclhscFVydDE1bGJYcEdxclBRM25qd1hIWGRxNXB6d2JMYWs3QzJrUGlkREJsMm5NbjREV2dHQmpKU2tremlnSXQ3QWZlcjVZN2xuVl83aDlaRHhQYnExTU5wckRZekptUmZfSC1iYm9tMnU2Y1g2YjFWTU1Ealp2dnJwTldvYlpvMUQ1Y3h1UzFCLU5qcExaRm1OUUw4eVBQUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
    "id": "181461c85023",
    "title": "Huawei may launch these 7 smartphones in November",
    "summary": "Huawei may launch these 7 smartphones in November Huawei Central",
@@ -229,6 +979,10 @@
     {
      "name": "FoneArena.com",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xSVJ1aEdvUlNhb3IyeWFCWjdVeGY3Y3U3bmtFNFdkY1AtTm9OVTRkRWxPd0haRS1TbjdhMW9lSHp5QVJRbG9RYm0wNXo5VmR4dmx2N3lRT21fVVZMMVFNU05KTDZjVzRNX2dMdWtYenlCY3PSAXhBVV95cUxPR0oyUlMydmlYMC1YaFFiaktjLXFpOXJNcEJydTVEMlFmQmVCS0ZpVnFScU9RUFB2Z2dlRUhScWxMVS1Fc2lCYm41aUhuZXk5T2h3NjRYR19YNEs2MWkwc2dWY190bkdEWnNZM2lVOVhxMkxOcU5PSmo?oc=5"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php"
     }
    ],
    "firstSeen": "2026-10-29T09:47:18.631Z"
@@ -239,7 +993,7 @@
    "summary": "NTT Docomo launches AI tool to estimate sleep quality from smartphone data Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnQtTmpzVlBqZ19PdmtnbzVGeEstcDNNcWtsZktubURnQi11aVduSmRUbXNpUzFOZjZJbGx1Z0RxRnBzRHFzTzZzTVFtWURjUmxlclZ5dGRLUXZfdVpJUUE1VHpqdzhJTTNld3psOEtZdWkxQ1BuOF9KZ2ZuZi0xZDFqZ2dZSzRvcFZIX2dSdnQzd2Y4Smg1QTNta1NWX2o5RlJCOXBxd2pfSHEyZVJfRkRWQ2RSNFpo?oc=5",
    "image": "",
-   "publishedAt": "2026-10-29T05:42:12.000Z",
+   "publishedAt": "2026-10-29T05:41:57.000Z",
    "date": "2026-10-29",
    "status": "Launched",
    "category": "Smartphone",
@@ -485,7 +1239,7 @@
    "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply c",
    "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0,0,100,100",
-   "publishedAt": "2026-10-29T02:22:46.000Z",
+   "publishedAt": "2026-10-29T02:22:00.000Z",
    "date": "2026-10-29",
    "status": "Launched",
    "category": "Laptop",
@@ -500,6 +1254,28 @@
     }
    ],
    "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "f81c36f86b1f",
+   "title": "DAIV Z6 Creator Laptop Launched: 16-inch, Approx. 1.68kg, RTX 5060-Equipped Model Also Available",
+   "summary": "DAIV Z6 Creator Laptop Launched: 16-inch, Approx. 1.68kg, RTX 5060-Equipped Model Also Available ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40bDY3ZnZlNm0tcDJoRTM0RVctRW5OLXZCSVBLcDJrNnktOFZmbEhCQllpN19rQmtkdG9QMkFMSlJoN3l1N2IyR1ZIcktLX1hvOVVxb0RTQVI?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T02:00:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40bDY3ZnZlNm0tcDJoRTM0RVctRW5OLXZCSVBLcDJrNnktOFZmbEhCQllpN19rQmtkdG9QMkFMSlJoN3l1N2IyR1ZIcktLX1hvOVVxb0RTQVI?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
   },
   {
    "id": "f671a80cd82e",

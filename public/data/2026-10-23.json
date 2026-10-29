@@ -1315,22 +1315,34 @@
   },
   {
    "id": "70aa088b6131",
-   "title": "Samsung announces luxury gold-accented W27 foldable phone launch",
-   "summary": "Samsung announces luxury gold-accented W27 foldable phone launch Sammy Fans",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUV1V3o2X1VtRXVORzUxVERGYXdrT0FqVXBCazVfQ3k1VWRuQV9nRU1mV1hEbjdza1ktRHNEX1lLLWZDZEgyWVJTWVo2NHNDT3hXWkI0TVo3aUd3d19tcm5xN3dUakxZeUR1Wl9ldFM3WWFENGpfdXF5U3d5cFhhVTc5RC02WVVCNDBHeFFxV0pqZmFTUVJCcHpXQ200c0ZOLXhzeGZmb0xDQdIBqgFBVV95cUxPYUV1V3o2X1VtRXVORzUxVERGYXdrT0FqVXBCazVfQ3k1VWRuQV9nRU1mV1hEbjdza1ktRHNEX1lLLWZDZEgyWVJTWVo2NHNDT3hXWkI0TVo3aUd3d19tcm5xN3dUakxZeUR1Wl9ldFM3WWFENGpfdXF5U3d5cFhhVTc5RC02WVVCNDBHeFFxV0pqZmFTUVJCcHpXQ200c0ZOLXhzeGZmb0xDQQ?oc=5",
-   "image": "",
+   "title": "The Samsung W27 goes official in China",
+   "summary": "Samsung has unveiled the W27, its latest W-series foldable smartphone, in China. The handset is essentially a Galaxy Z Fold8 Ultra with a luxury makeover, featuring gold accents and a more premium finish. The Samsung W27 sports a dual-tone design in red and blue, colors tradition",
+   "link": "https://www.gsmarena.com/the_samsung_w27_goes_official_in_china-news-75268.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-w27-ofic/-184x111/gsmarena_00.jpg",
    "publishedAt": "2026-10-23T07:23:26.000Z",
    "date": "2026-10-23",
    "status": "Launched",
    "category": "Smartphone",
    "brand": "Samsung",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
    "sources": [
     {
      "name": "Sammy Fans",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUV1V3o2X1VtRXVORzUxVERGYXdrT0FqVXBCazVfQ3k1VWRuQV9nRU1mV1hEbjdza1ktRHNEX1lLLWZDZEgyWVJTWVo2NHNDT3hXWkI0TVo3aUd3d19tcm5xN3dUakxZeUR1Wl9ldFM3WWFENGpfdXF5U3d5cFhhVTc5RC02WVVCNDBHeFFxV0pqZmFTUVJCcHpXQ200c0ZOLXhzeGZmb0xDQdIBqgFBVV95cUxPYUV1V3o2X1VtRXVORzUxVERGYXdrT0FqVXBCazVfQ3k1VWRuQV9nRU1mV1hEbjdza1ktRHNEX1lLLWZDZEgyWVJTWVo2NHNDT3hXWkI0TVo3aUd3d19tcm5xN3dUakxZeUR1Wl9ldFM3WWFENGpfdXF5U3d5cFhhVTc5RC02WVVCNDBHeFFxV0pqZmFTUVJCcHpXQ200c0ZOLXhzeGZmb0xDQQ?oc=5"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/the_samsung_w27_goes_official_in_china-news-75268.php"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/samsung-w27-price-launch-sale-date-specifications-features-12253584"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496017/samsung-w27-price-specifications.html"
     }
    ],
    "firstSeen": "2026-10-24T23:05:12.912Z"
@@ -1609,12 +1621,16 @@
    "category": "Smartphone",
    "brand": "OnePlus",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/495601/oneplus-ace-7-pro-launch-date.html"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/29/oneplus-ace-7-and-ace-7-pro-debuts-with-snapdragon-8-elite-gen-5-series-9000mah-battery/"
     }
    ],
    "firstSeen": "2026-10-23T11:28:01.339Z"
