@@ -2,6 +2,182 @@
  "date": "2026-10-29",
  "items": [
   {
+   "id": "f671a80cd82e",
+   "title": "Apple has finally unveiled its first touchscreen laptop. It hasn’t answered the most important question",
+   "summary": "Apple has finally unveiled its first touchscreen laptop. It hasn’t answered the most important question Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXVWUFBKT2ZSQUtjMkxMRkNHQXdFbjBjRklQSlU5RHZuSkZxMTBwaE96NHpFLWtEMHZPUzJ3N2twbm1QTXI4TjYxVXo1UUdrNjRGUm9ic0dPWlN4QU9aVnp2VXo1QUVKaFdBRHBhZWFwbXhpU3pXRm1HNTU5Vk9fbHJWSmtiUGRGZlVJcFhrQzg4WlZnR0xTX1lsa2ltY295S2kwLXVfVXlUdGJHZWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T00:34:23.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Nine.com.au",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXVWUFBKT2ZSQUtjMkxMRkNHQXdFbjBjRklQSlU5RHZuSkZxMTBwaE96NHpFLWtEMHZPUzJ3N2twbm1QTXI4TjYxVXo1UUdrNjRGUm9ic0dPWlN4QU9aVnp2VXo1QUVKaFdBRHBhZWFwbXhpU3pXRm1HNTU5Vk9fbHJWSmtiUGRGZlVJcFhrQzg4WlZnR0xTX1lsa2ltY295S2kwLXVfVXlUdGJHZWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "69d12155b74f",
+   "title": "Loudest Skullcandy Headphones - Skullcandy just launched its most advanced headphones to date What Hi Fi",
+   "summary": "Loudest Skullcandy Headphones - Skullcandy just launched its most advanced headphones to date What Hi Fi auroradesio.it",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DSTlDYlJkUmNYTDB1Wk5zZUlseVR2aXNFZ0E5UlF5d2ZlZEJXQ25CcnhwWDRvZ1p3d2pLV3RTaDlQVklfbE9kYzFkYVBHWXo1SFQw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T22:41:08.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Skullcandy",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "auroradesio.it",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DSTlDYlJkUmNYTDB1Wk5zZUlseVR2aXNFZ0E5UlF5d2ZlZEJXQ25CcnhwWDRvZ1p3d2pLV3RTaDlQVklfbE9kYzFkYVBHWXo1SFQw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "852e1c641dbb",
+   "title": "iQOO launches new gaming controller with Hall effect joysticks, modular grips & 15W charging",
+   "summary": "iQOO is releasing a new mobile gaming controller on November 4th. It’s called the G1, it costs 499 yuan (about $75), and it focuses heavily on physical customization and durable components. While the hardware looks solid on paper, the software features are currently locked to a v",
+   "link": "https://www.gizmochina.com/2026/10/28/iqoo-g1-telescopic-gaming-controller-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iQOO-G1-telescopic-gaming-controller-300x192.png?x80236",
+   "publishedAt": "2026-10-28T22:27:23.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "iQOO",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/iqoo-g1-telescopic-gaming-controller-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "a51a95009a91",
+   "title": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
+   "summary": "Apple this week unveiled a range of new products, including a new iPad mini, M6 updates for the iMac and MacBook Pro, and the first-ever MacBook Pro with a touchscreen. Those products are now available to pre-order on Amazon: iPad mini M6 MacBook Pro M6 iMac MacBook Pro with PROL",
+   "link": "https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-macbook-pro-proled-xdr-glow-logo-apple-glow.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-28T22:12:39.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon/"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "12604df687c1",
+   "title": "Audio-Technica unveils ATH-M50xSTS-WL StreamSet wireless headphones with a studio-grade mic for gaming and streaming",
+   "summary": "Audio-Technica unveils ATH-M50xSTS-WL StreamSet wireless headphones with a studio-grade mic for gaming and streaming Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOXzRVMUN4OERxUEt1Yk1uUTJ3Ul91ZzBoZVo3NVdkeUpLNk1Kb19DNi1BT25YQTZxWTJpTk5yQzNhYnFOckQwM2pnd0ZOaFpURlRMWEJjTERzRE5feG1rQmNOU0dJQlhUY0xuX01Ua1MxNnpWZ0lwamJGak5VS2VqckszNXlUbkZTSkd0bkdDamtMSmNLTld6aEw0R1ZHak1ibndRbU5fTTFpdm1Wd3lxbDN6RXJBcVZZZ0xUNmI1eDhONlFoQUpjSnlWVk4zOTA2UFNWWUhrd3drNlRIeklKMXRNajJNTUM2UzR2Tm12dHRDUWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T21:48:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Audio-Technica",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOXzRVMUN4OERxUEt1Yk1uUTJ3Ul91ZzBoZVo3NVdkeUpLNk1Kb19DNi1BT25YQTZxWTJpTk5yQzNhYnFOckQwM2pnd0ZOaFpURlRMWEJjTERzRE5feG1rQmNOU0dJQlhUY0xuX01Ua1MxNnpWZ0lwamJGak5VS2VqckszNXlUbkZTSkd0bkdDamtMSmNLTld6aEw0R1ZHak1ibndRbU5fTTFpdm1Wd3lxbDN6RXJBcVZZZ0xUNmI1eDhONlFoQUpjSnlWVk4zOTA2UFNWWUhrd3drNlRIeklKMXRNajJNTUM2UzR2Tm12dHRDUWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "ae8354be14d5",
+   "title": "iQOO launches 20,000mAh power banks with 33W and 66W fast charging, built-in cables & color displays",
+   "summary": "iQOO has released a new 20,000mAh power bank, offering it in two different charging configurations: a 33W model and a 66W model. The devices are currently available in China, with the 33W version priced at 189 yuan ($28) and the 66W version carrying an introductory price of 229 y",
+   "link": "https://www.gizmochina.com/2026/10/28/iqoo-20000mah-33w-and-66w-power-banks-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iQOO-20000mAh-Power-Bank-300x169.png?x80236",
+   "publishedAt": "2026-10-28T20:59:48.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "iQOO",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/iqoo-20000mah-33w-and-66w-power-banks-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "1e4bee8ef309",
+   "title": "km5 unveils portable, wireless sound system with CD player, mixer and speaker",
+   "summary": "km5 unveils portable, wireless sound system with CD player, mixer and speaker Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc1NtWmZSLTkyTF9UZDAwRExTY1h4a1VmQm5PYW91RVBMMUI2bWFLT29nSElVYkxKbF9DdzdYd0N6UTRjR2NpejZxbmx4ck1NZTNfdnA1U3BmdjBiT1Ewdm9NNGFvemgxVWRNeHdtUXBwd096ekNvTWoyb0w2dGt0Y3VaTHp6NUt6Z0xPb0RYb09kSUlpVWtkdWFZVjVEWEd6dzlLUmw5eGZDWEg2dHBDMXI0X1ItUkN5UHh1aA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T20:54:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc1NtWmZSLTkyTF9UZDAwRExTY1h4a1VmQm5PYW91RVBMMUI2bWFLT29nSElVYkxKbF9DdzdYd0N6UTRjR2NpejZxbmx4ck1NZTNfdnA1U3BmdjBiT1Ewdm9NNGFvemgxVWRNeHdtUXBwd096ekNvTWoyb0w2dGt0Y3VaTHp6NUt6Z0xPb0RYb09kSUlpVWtkdWFZVjVEWEd6dzlLUmw5eGZDWEg2dHBDMXI0X1ItUkN5UHh1aA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "f20136619c5c",
+   "title": "Denver’s Miles Labs launches device to monitor teen drivers and vehicle health",
+   "summary": "Denver’s Miles Labs launches device to monitor teen drivers and vehicle health ColoradoBiz",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2hvemNwbGlOUy00ODBtQzZ2bUtEN0d2OWQwSUpqR3E2RU5ZUlZkRm8xc01scHJ1ZkgzS0lRQnhtWXpuVGV2VllsalNPb0VUM3VPaGc2TEpJMi1FeTVBSHpRQ2F6c1FPRmpWRFpQeXBoNFpiWlI2N3ljRGktTjlLNGNPdDFCOXJWbnluUUln?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T20:35:25.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ColoradoBiz",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2hvemNwbGlOUy00ODBtQzZ2bUtEN0d2OWQwSUpqR3E2RU5ZUlZkRm8xc01scHJ1ZkgzS0lRQnhtWXpuVGV2VllsalNPb0VUM3VPaGc2TEpJMi1FeTVBSHpRQ2F6c1FPRmpWRFpQeXBoNFpiWlI2N3ljRGktTjlLNGNPdDFCOXJWbnluUUln?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
    "id": "ac1d6812e02a",
    "title": "Apple introduces new power adapters for Mac, plus extension cable, travel kit",
    "summary": "Today alongside the launch of the MacBook Pro with PROLED XDR, Apple has introduced four new accessories for Mac: two updated power adapters, a power extension cable, and a travel adapter kit. more…",

@@ -1,18 +1,18 @@
 {
- "lastRefresh": "2026-10-28T20:11:44.196Z",
+ "lastRefresh": "2026-10-29T00:46:42.544Z",
  "timezone": "Asia/Kolkata",
- "tookMs": 3365,
+ "tookMs": 3198,
  "feedsOk": 52,
  "feedsTotal": 54,
- "added": 49,
+ "added": 12,
  "days": [
   {
    "date": "2026-10-29",
-   "count": 2
+   "count": 10
   },
   {
    "date": "2026-10-28",
-   "count": 101
+   "count": 105
   },
   {
    "date": "2026-10-27",
@@ -221,17 +221,7 @@
   {
    "name": "Google News US",
    "ok": true,
-   "count": 23
-  },
-  {
-   "name": "Google News US",
-   "ok": true,
-   "count": 54
-  },
-  {
-   "name": "Google News US",
-   "ok": true,
-   "count": 53
+   "count": 56
   },
   {
    "name": "Google News US",
@@ -240,103 +230,98 @@
   },
   {
    "name": "Google News US",
-   "ok": true,
-   "count": 46
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 23
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 42
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 52
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 43
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 44
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 23
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 41
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 53
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 20
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 53
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 23
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 42
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 52
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 44
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 45
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 54
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 54
-  },
-  {
-   "name": "Google News AU",
    "ok": true,
    "count": 25
   },
   {
-   "name": "Google News AU",
+   "name": "Google News US",
    "ok": true,
    "count": 44
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
+   "count": 55
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 45
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 47
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 56
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 43
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 44
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 49
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 55
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 54
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 51
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 53
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 24
   },
   {
    "name": "Google News AU",
@@ -344,14 +329,29 @@
    "count": 46
   },
   {
-   "name": "Google News CA",
+   "name": "Google News AU",
    "ok": true,
-   "count": 22
+   "count": 52
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 44
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 50
   },
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 43
+   "count": 24
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 45
   },
   {
    "name": "Google News CA",
@@ -361,12 +361,12 @@
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 20
+   "count": 44
   },
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 52
+   "count": 49
   }
  ]
 }

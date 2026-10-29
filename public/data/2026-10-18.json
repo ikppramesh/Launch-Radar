@@ -79,7 +79,7 @@
    "category": "Smartphone",
    "brand": "iQOO",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -89,6 +89,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/495901/iqoo-neo-12-price-specifications.html"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/iqoo_neo12_debuts_with_a_9000mah_battery_185hz_display-news-75250.php"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"
