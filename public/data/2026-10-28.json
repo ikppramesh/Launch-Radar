@@ -45,6 +45,10 @@
     {
      "name": "Bloomberg",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTlfVVpxYXA5T2hUNEcxcEsxMkFEX3otUWdmbUNpQllaOWJBZVVBbElWTXhUYVZQM20yZGdkSFZhN1VSU0dWSDZQX1NpOG9FcmlodGJwN3hlalMwdlBBUkxBeVM3WTRWbDN6V2xpUXRrOFh2NXpwV2JHTDg3UC1vR1UwYTlvdVVw?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -164,32 +168,6 @@
    "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
-   "id": "91aaf4356136",
-   "title": "Apple introduces MacBook Pro 14″ and 16″ with PROLED XDR Tandem OLED 120Hz touch display; India price starts at Rs. 3,49,900",
-   "summary": "Apple has announced an updated generation of its MacBook Pro lineup, introducing major hardware revisions headlined by a tandem OLED “PROLED XDR” display, native touchscreen capabilities, and the integration of the Dynamic Island into macOS. Available in 14-inch and 16-inch confi",
-   "link": "https://www.fonearena.com/blog/495929/apple-macbook-pro-proled-xdr-display-price-india-features.html",
-   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Apple-MacBook-Pro-PROLED-XDR-Display-1024x552.jpg",
-   "publishedAt": "2026-10-28T17:51:00.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "Laptop",
-   "brand": "Apple",
-   "region": "India",
-   "confidence": 3,
-   "aggregator": false,
-   "sources": [
-    {
-     "name": "FoneArena",
-     "link": "https://www.fonearena.com/blog/495929/apple-macbook-pro-proled-xdr-display-price-india-features.html"
-    },
-    {
-     "name": "GadgetMatch",
-     "link": "https://www.gadgetmatch.com/apple-unveils-macbook-pro-with-proled-xdr-display-and-touch/"
-    }
-   ],
-   "firstSeen": "2026-10-28T20:11:44.196Z"
-  },
-  {
    "id": "e29f4358b338",
    "title": "CHUWI Launches GameBook Max Gaming Laptop Featuring Core i9-14900HX and RTX 5060",
    "summary": "CHUWI Launches GameBook Max Gaming Laptop Featuring Core i9-14900HX and RTX 5060 XiaomiToday",
@@ -256,6 +234,36 @@
    "firstSeen": "2026-10-29T00:46:42.544Z"
   },
   {
+   "id": "91aaf4356136",
+   "title": "Apple introduces MacBook Pro 14″ and 16″ with PROLED XDR Tandem OLED 120Hz touch display; India price starts at Rs. 3,49,900",
+   "summary": "Apple has announced an updated generation of its MacBook Pro lineup, introducing major hardware revisions headlined by a tandem OLED “PROLED XDR” display, native touchscreen capabilities, and the integration of the Dynamic Island into macOS. Available in 14-inch and 16-inch confi",
+   "link": "https://www.fonearena.com/blog/495929/apple-macbook-pro-proled-xdr-display-price-india-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Apple-MacBook-Pro-PROLED-XDR-Display-1024x552.jpg",
+   "publishedAt": "2026-10-28T17:11:44.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495929/apple-macbook-pro-proled-xdr-display-price-india-features.html"
+    },
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/apple-unveils-macbook-pro-with-proled-xdr-display-and-touch/"
+    },
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
    "id": "67e73cb7144f",
    "title": "Apple Announces OLED MacBook Pro With Touch Display",
    "summary": "Apple today announced a new high-end MacBook Pro , which is available in 14-inch and 16-inch sizes. The new device has a PROLED XDR display that supports touch gestures, and a glowing rear Apple logo. Pricing on the &zwnj;MacBook Pro&zwnj; starts at $2,899 for the 14-inch model a",
@@ -267,7 +275,7 @@
    "category": "TV & Entertainment",
    "brand": "Apple",
    "region": "China",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -277,44 +285,18 @@
     {
      "name": "MacRumors",
      "link": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/"
-    }
-   ],
-   "firstSeen": "2026-10-28T20:11:44.196Z"
-  },
-  {
-   "id": "b10453936dde",
-   "title": "MacBook Pro With PROLED XDR Display Launched in India as Apple’s First Touchscreen Laptop: Price, Specifications",
-   "summary": "MacBook Pro with PROLED XDR display has been launched in India, the Cupertino-based tech giant announced on Wednesday. The laptop was launched as part of the company's ‘Pro and Tell’ event. The MacBook Pro with PROLED XDR display arrives as Apple’s first laptop with an OLED displ",
-   "link": "https://www.gadgets360.com/laptops/news/macbook-pro-proled-xdr-touchscreen-price-in-india-launch-sale-date-specifications-features-12250654",
-   "image": "https://i.gadgets360cdn.com/large/macbook_book_pro_touchscreen_main_1793208792329.png",
-   "publishedAt": "2026-10-28T17:08:09.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "Laptop",
-   "brand": "Apple",
-   "region": "India",
-   "confidence": 3,
-   "aggregator": false,
-   "sources": [
-    {
-     "name": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmsxbkE0N3NIZ1VPdTFQR3lhczdQRndMTWptZ254eURubTVUdmN3UjVhejVteE43X1VfNGh2YjdoeVFTNHE2TmxLYVpyNHFjT3d4cFN0RmJRdXNWN1BkUUZjM1o5Y1lPSklCd2JtTWhUSFhBQ0pLS21IdlpKYm9hR3NXNXJwdVc1VlpPTVNBTkVkTDFET1lUVXBmbjR6b080ZnNiREpWUm5iSG4xMFR0X1RFX19LMWFRSVN4UjVYNA?oc=5"
     },
     {
-     "name": "شبكة تواصل الإخبارية",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zMWtrSGo4b0p6NzI3Q2wtYjRpWkN2czJiODhOZ2tuVjYwUkU4Q0NiWWpiVE1FZlVjQnJjUXRrcW5lWjczQ01TTU1rTWJPYi01U0Vz?oc=5"
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254.php"
     },
     {
-     "name": "Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmxxSjQzenA0MkIySEZjbG0yQ3BPLXlUUGVLUVh1YWpqZm1UbnFTMWx5cFhKRC1lTXN4a2pKNHRWSm4zZkNod2tsVWY5cU8yMmZHd19YQWhWbV9wUXhMZWUtUWNENWZuN3NybTNXVWFOLXNJMjR2clY0bnFISWRxNnlUamFNZWZUN0IzdDJ3ZlByUDd4V3BON3NIS3NvdjhYV0Q1YVB1Y2I5SWRkWm9kSw?oc=5"
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/28/apples-oled-macbook-pro-launched-price-specs/"
     },
     {
-     "name": "Gadgets 360",
-     "link": "https://www.gadgets360.com/laptops/news/macbook-pro-proled-xdr-touchscreen-price-in-india-launch-sale-date-specifications-features-12250654"
-    },
-    {
-     "name": "9to5Mac",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalRpQUtpbHpMNU1WcUY4MFZOQVh4TjkzYlF2ekV4eWRXcUFTMGVBZ29odkF4ZUgwMzZreTlUeW92UUM5emdaYVZxQmVJU2dZSU1KeWVXR0tEMndpQURRQTlKLTBCVEk0Z1hYQUpzZTlFMWFTLXBtcEhYNFd4SFRidDFraVVJSTBEcVY2S2YyQVhRX25ST1d4bHhpZ0dlSUlJcFFNSVNpMW5JZzhybzNZZXI2ZzZVLWs?oc=5"
+     "name": "Apple",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU5jN1VPRVdLbGVXaUdVOGppelVlTGdUdWJ5b2swYWx3TVktb1ctTklVUEdlS2stVGJEbmswajNsb2tWcjVzNWF5bFROSTBiSzA0Tk12Wm9kU1pxbTNuV3lBY0J0UTFKcGZHbVQwLTdGSlhZM3RzMG9qU0psMC1tcmJzS3h3MDZkLU44WUNUa2V0UHZGM0MwdWNTOHJTMWRFNGhzQS1LVQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -337,6 +319,10 @@
     {
      "name": "Yahoo Finance UK",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkN0aXo5Y2RDTi1xdkZrelVEb3VUOVppcFNYMktjQ2FWVmNTNDBvVi00OWliLWV1Z3ZTRUMtTUFES2J2QjF6RkF4QV94MEozQWViR25FTE4tWVRVZnNqdVM2aTg1Sll0b0d5T0dlNkRVd01XRzRoNHhEbl9fTlUwRlRJRW1OdlZG?oc=5"
+    },
+    {
+     "name": "9to5Mac",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalRpQUtpbHpMNU1WcUY4MFZOQVh4TjkzYlF2ekV4eWRXcUFTMGVBZ29odkF4ZUgwMzZreTlUeW92UUM5emdaYVZxQmVJU2dZSU1KeWVXR0tEMndpQURRQTlKLTBCVEk0Z1hYQUpzZTlFMWFTLXBtcEhYNFd4SFRidDFraVVJSTBEcVY2S2YyQVhRX25ST1d4bHhpZ0dlSUlJcFFNSVNpMW5JZzhybzNZZXI2ZzZVLWs?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -371,6 +357,64 @@
     {
      "name": "Apple",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU5jN1VPRVdLbGVXaUdVOGppelVlTGdUdWJ5b2swYWx3TVktb1ctTklVUEdlS2stVGJEbmswajNsb2tWcjVzNWF5bFROSTBiSzA0Tk12Wm9kU1pxbTNuV3lBY0J0UTFKcGZHbVQwLTdGSlhZM3RzMG9qU0psMC1tcmJzS3h3MDZkLU44WUNUa2V0UHZGM0MwdWNTOHJTMWRFNGhzQS1LVQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "b10453936dde",
+   "title": "MacBook Pro With PROLED XDR Display Launched in India as Apple’s First Touchscreen Laptop: Price, Specifications",
+   "summary": "MacBook Pro with PROLED XDR display has been launched in India, the Cupertino-based tech giant announced on Wednesday. The laptop was launched as part of the company's ‘Pro and Tell’ event. The MacBook Pro with PROLED XDR display arrives as Apple’s first laptop with an OLED displ",
+   "link": "https://www.gadgets360.com/laptops/news/macbook-pro-proled-xdr-touchscreen-price-in-india-launch-sale-date-specifications-features-12250654",
+   "image": "https://i.gadgets360cdn.com/large/macbook_book_pro_touchscreen_main_1793208792329.png",
+   "publishedAt": "2026-10-28T17:05:56.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmsxbkE0N3NIZ1VPdTFQR3lhczdQRndMTWptZ254eURubTVUdmN3UjVhejVteE43X1VfNGh2YjdoeVFTNHE2TmxLYVpyNHFjT3d4cFN0RmJRdXNWN1BkUUZjM1o5Y1lPSklCd2JtTWhUSFhBQ0pLS21IdlpKYm9hR3NXNXJwdVc1VlpPTVNBTkVkTDFET1lUVXBmbjR6b080ZnNiREpWUm5iSG4xMFR0X1RFX19LMWFRSVN4UjVYNA?oc=5"
+    },
+    {
+     "name": "شبكة تواصل الإخبارية",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zMWtrSGo4b0p6NzI3Q2wtYjRpWkN2czJiODhOZ2tuVjYwUkU4Q0NiWWpiVE1FZlVjQnJjUXRrcW5lWjczQ01TTU1rTWJPYi01U0Vz?oc=5"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmxxSjQzenA0MkIySEZjbG0yQ3BPLXlUUGVLUVh1YWpqZm1UbnFTMWx5cFhKRC1lTXN4a2pKNHRWSm4zZkNod2tsVWY5cU8yMmZHd19YQWhWbV9wUXhMZWUtUWNENWZuN3NybTNXVWFOLXNJMjR2clY0bnFISWRxNnlUamFNZWZUN0IzdDJ3ZlByUDd4V3BON3NIS3NvdjhYV0Q1YVB1Y2I5SWRkWm9kSw?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/laptops/news/macbook-pro-proled-xdr-touchscreen-price-in-india-launch-sale-date-specifications-features-12250654"
+    },
+    {
+     "name": "9to5Mac",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalRpQUtpbHpMNU1WcUY4MFZOQVh4TjkzYlF2ekV4eWRXcUFTMGVBZ29odkF4ZUgwMzZreTlUeW92UUM5emdaYVZxQmVJU2dZSU1KeWVXR0tEMndpQURRQTlKLTBCVEk0Z1hYQUpzZTlFMWFTLXBtcEhYNFd4SFRidDFraVVJSTBEcVY2S2YyQVhRX25ST1d4bHhpZ0dlSUlJcFFNSVNpMW5JZzhybzNZZXI2ZzZVLWs?oc=5"
+    },
+    {
+     "name": "The Verge",
+     "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell"
+    },
+    {
+     "name": "The National",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0huWEZkU2x4SGhISTZzMnpZTHFzTmxtMU9seVBLM2hUck5XVndQTkxid3lKU3l5bm1mNndBbklxT1l6MTJpQ1FxTWw0cUgwekJtM1poRnJ2R0hUWlEzU3lGSUlWdHR5TFJpVEZYZ0FkTUVYRXhZMENwbE5ySVFMUVV6eDRHNGdraXpweUpwdk11bVhLTlNjUQ?oc=5"
+    },
+    {
+     "name": "Dimsum Daily",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jcFVlRTBJbzJacTN6YVdfSDNmR0RnZUVuV0FQaVFQa25xcEtjWFdrU2pLLUppbHlOdmpiTXV2aVo4d2V6dFdGMVdJVGpmc3AyZzVsWFBUbW5kbHJWcUlVWkFtTXZ5bFRkSlpycFlXT0szYnFXMEp0RDFwMA?oc=5"
+    },
+    {
+     "name": "ETV Bharat",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3ZQVHdhVjYtWmFSNnd6cmNBTFNyRWFDVDFBREFiY1l6cU8yb0xtMHNudjVmSUczOUZBNEhVWUx0cWI5UXZPdzg5RUtFdFNJZVhTZ1RCV29ZZi1xY055OTBrc2Q2dW5aeXlfZ1NxX0tCRjlEQlhoSjlkS2JJbFd3MzFNV3JYVGVnd042LWt6U1pVcEJRcHBxejQzTXluS0VENlhPeVh5Ui15TmNQS1Fhc0Q1dzZBTGkxMHk1WVhwTTFSX1U4cEpjcVNDU2dTV0hQYWNJ0gHYAUFVX3lxTE1ULWVOc2JhaG5MX3RiOENxdFFYM3BabzJUYXh3Sm9xcmdTb2ROeWpIb29ZNlJkd2doWVBoZGpOQmxvay1zcU5KYWNEUUxtSFNBSHJsb0MtMDF5LTI0ZVlwYXZjYi1lRzZodXNlVnNVSkdGQTVJNDQ1WkgybHQ1SEw5Tms1eWNCeDlBOTlaUExxcmNCM0xzeTJfa2c5TEFyTDU3cnFyNF8wMEhkU0lnd3NjVjl0ZFB1akVvM2wtYTRJMlROZzU3bDZBQXA0eTRGRlh5b0RBRm9sZg?oc=5"
+    },
+    {
+     "name": "AugustMan Singapore",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUE1vQU1vQzA4cUg0cTFqeE5pcUhQajUwY2FOSUdRVXliZGU4RUFTWmVlWkRmR1NKUFhJOVM0YXd4LW1NbnlaZGxMUzFvZUIycGxVbXZTWm5qcjRQNTdubUNTNjlubDZTZy15OUFHQ1VmRy1tZldkR01hU3N4RlZpLXNINldLeTR3OVIzaVBLRVNPQnFZRFRmTm1iQkhiRVRxU2g1QmdTRXVwTVZYaVhBYdIBtgFBVV95cUxNQ2RSOGlZTDRsdjIyeklOQUw3VUdETHdVQTZCWVZBUThuYzdpNVNkLXJrdm5HVHpURlVERFFPWVplNHltRUVSZW5EOVNNZ2R2WXRKXzE1TEF5ZnVaLUFKZmVyY0FXdTZwRXZXNDBsbWtHMkUtTUZwNGd0cFFReUxDblRVN0RxeVFmVWw5VG9wVzNpTU5sY1hMUkdZd1h2V0N5WElNbXJubUo3S1hhakZvWU9jRGVzdw?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -638,6 +682,50 @@
    "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
+   "id": "8d636eb546ea",
+   "title": "Apple iPhone 20 Pro series may feature 200MP main camera: Check expected specs, price and launch timeline",
+   "summary": "Apple iPhone 20 Pro series may feature 200MP main camera: Check expected specs, price and launch timeline Digit",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREtMVFVSaUR0MUxFMVRsdXl0eTUxano5aUl3T3Z1UUR3ZkxPS013X2ZtT1BQcUVXRXpTSGVLb2QwTWNVXzJnZWZiVzFYQldiSHBIMjM4Uk1sUXdHTDZQQXJ0NHl5dUZGSUlSaDYtQVhPNHlSWnpmNXlSS2RuN2hFU3llcEVoUE9fRDFINXNZd05SQVRreWRYOWVGVGtveGFKUDQ5Zk5SYnM5R1JzNFhQS1Zoc0hJd25xZDY0Ykh6Q0NXRUpHUmg3ZzRRZFNxM1VvLVF0Vlg1VUx4U2llUkNKa3hn0gHoAUFVX3lxTE1wYkZib3c5M1hjVDh5Y0FheGI0M0ZPUkdXX2JoVzZzWldrVW5pQ0dwTzU4VDJTeHNGWGxHN2VQamM5RzhfVkJ2akxwclItemtMci1EQjZrZzZoYWtoTXZSRm4wVXE5bUI3cUx0cllOdzJabDM4aGVfekVybnhkVXEzdXJsa1FSQjlTMFhnTDNvdEM2dmRxWDI2WF81WnMzY0Q3d0syR0wteWw5S3BIMm4ybkdTWXRnbURTVy1XZDlWWm1jNi1ib3NVUjlrTFY4YVlDQVBmQjMwcVZKSGZLOFNyTzB5NVZ6MmQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T15:28:00.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREtMVFVSaUR0MUxFMVRsdXl0eTUxano5aUl3T3Z1UUR3ZkxPS013X2ZtT1BQcUVXRXpTSGVLb2QwTWNVXzJnZWZiVzFYQldiSHBIMjM4Uk1sUXdHTDZQQXJ0NHl5dUZGSUlSaDYtQVhPNHlSWnpmNXlSS2RuN2hFU3llcEVoUE9fRDFINXNZd05SQVRreWRYOWVGVGtveGFKUDQ5Zk5SYnM5R1JzNFhQS1Zoc0hJd25xZDY0Ykh6Q0NXRUpHUmg3ZzRRZFNxM1VvLVF0Vlg1VUx4U2llUkNKa3hn0gHoAUFVX3lxTE1wYkZib3c5M1hjVDh5Y0FheGI0M0ZPUkdXX2JoVzZzWldrVW5pQ0dwTzU4VDJTeHNGWGxHN2VQamM5RzhfVkJ2akxwclItemtMci1EQjZrZzZoYWtoTXZSRm4wVXE5bUI3cUx0cllOdzJabDM4aGVfekVybnhkVXEzdXJsa1FSQjlTMFhnTDNvdEM2dmRxWDI2WF81WnMzY0Q3d0syR0wteWw5S3BIMm4ybkdTWXRnbURTVy1XZDlWWm1jNi1ib3NVUjlrTFY4YVlDQVBmQjMwcVZKSGZLOFNyTzB5NVZ6MmQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "123a2ac22aef",
+   "title": "Allye launches fixed or mobile EV chargers",
+   "summary": "Allye launches fixed or mobile EV chargers International Rental News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVRRS1JRRnVveDEyalNZZ01iMDc5SDRnSWtKbGlNdGU5MUJyMl9Ockt6Z2FIWkpWOUt3LS1MRFhQZ3Jzb2Jsc1diYkVLMG5PRUU5R1E2T21zSExLSmowS0xUVnBJX3QzTjNLOTRIUjZQZ21tamM3akduU1dOenhram1ZanBCam9lNWhjU1pJZWhhdm1fcl9paF9tWmZHcTdDajdkejVB?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T15:15:20.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "International Rental News",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVRRS1JRRnVveDEyalNZZ01iMDc5SDRnSWtKbGlNdGU5MUJyMl9Ockt6Z2FIWkpWOUt3LS1MRFhQZ3Jzb2Jsc1diYkVLMG5PRUU5R1E2T21zSExLSmowS0xUVnBJX3QzTjNLOTRIUjZQZ21tamM3akduU1dOenhram1ZanBCam9lNWhjU1pJZWhhdm1fcl9paF9tWmZHcTdDajdkejVB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
    "id": "bdebde1ebddc",
    "title": "iQOO Neo 12 Launched in China With Snapdragon 8 Elite Gen 5, 185Hz Display and 9,000mAh Battery",
    "summary": "iQOO Neo 12 Launched in China With Snapdragon 8 Elite Gen 5, 185Hz Display and 9,000mAh Battery My Mobile India",
@@ -680,6 +768,28 @@
     }
    ],
    "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "2c1c5218fe65",
+   "title": "Amazon Unveils New Alexa Devices: Echo Show 16, Smart Speakers, and Photo Frame",
+   "summary": "Amazon Unveils New Alexa Devices: Echo Show 16, Smart Speakers, and Photo Frame Mezha",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xNmZ6b0Nqb2VmbXFXaFcwblh5SGlIV0ZGSk9vX01PLWthV0tQZ2JmeDQyR1NTMU1qek9fc3dteUpqMFZTTFM4QS1VNzhEUGR1SEp5Tm13X3c1dnlzVzJUS2JkOGVReEVaWmc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T15:00:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mezha",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xNmZ6b0Nqb2VmbXFXaFcwblh5SGlIV0ZGSk9vX01PLWthV0tQZ2JmeDQyR1NTMU1qek9fc3dteUpqMFZTTFM4QS1VNzhEUGR1SEp5Tm13X3c1dnlzVzJUS2JkOGVReEVaWmc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
   },
   {
    "id": "7ad9cb4f3626",
@@ -1012,32 +1122,6 @@
    "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
-   "id": "150e6e1620f6",
-   "title": "iQOO Pad Pro 8.8″ with 2.3K 165Hz OLED display, Snapdragon 8 Elite Gen 5, active cooling fan announced",
-   "summary": "At its latest product launch event, iQOO officially unveiled the iQOO Pad Pro 8.8-inch tablet that is positioned as a compact, gaming-focused device, after the iQOO Pad Ultra. Core Processing and Architecture The tablet operates on a dual-chip platform led by Qualcomm Snapdragon ",
-   "link": "https://www.fonearena.com/blog/495923/iqoo-pad-pro-8-8-price-specifications.html",
-   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/iQOO-Pad-Pro.jpg",
-   "publishedAt": "2026-10-28T12:50:48.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "TV & Entertainment",
-   "brand": "iQOO",
-   "region": "India",
-   "confidence": 3,
-   "aggregator": false,
-   "sources": [
-    {
-     "name": "Techgenyz",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZnZMUXp1cWU3OGM0aUx0cnZadFNXdTdHbWd5N1RFdi15UGR0V1RjbVl0T2h5UEFxWS14Rm1iQzMwNzlpbVNVQ1QyWXBCUl9PUGNwaGNTS3A4UWc?oc=5"
-    },
-    {
-     "name": "FoneArena",
-     "link": "https://www.fonearena.com/blog/495923/iqoo-pad-pro-8-8-price-specifications.html"
-    }
-   ],
-   "firstSeen": "2026-10-28T20:11:44.196Z"
-  },
-  {
    "id": "1252ee68b0c2",
    "title": "Amazon announced five new Alexa devices, including 16-inch Echo Show",
    "summary": "Apple recently launched new HomePod mini speakers and its HomeView smart display , and today it’s Amazon’s turn with five new Alexa devices. This includes a new Echo speaker with visual intelligence and an Echo Show with a larger 16-inch display and a nanomatte option … more…",
@@ -1059,6 +1143,44 @@
     {
      "name": "KELO-AM",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDlEZHJEZTNhYWdaeE80TTd6LTNPMnc2MXVqZmo1bEsyS2FoYWl0dEdsNWtsOGxLbDNsd2VTZFZBODFlbmEyblZ4RTlDWHFWOFhkS0xScHJQS25VdHhBXzZSdllmRGlmN1ZwYUpIWXJiMDRpM0JrOWpkRFpzMjVoWldoemkxRGMzRUExdUZQYjNTVnRiRzdPX1RhQkhZX1RMWDB4dw?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWNGZUlvRHlNNjBxNE5PR2Z4OWxPS2E1ZWtJZTFFRFJTUS0wcmxMM3JOTVFVMTNpTXNBd1ljbGYydC04T042aFJkbzlpQWMxXzhkVXRycFhXUzBrNWZJM2JHX2NKeVBBUi1FTW40STdzWGNjdTk4VnZTZmUyajVxYlJ3X0dNS0JzLXhDMDFMdmpxSm9YUVhTZ2I2eDBCTE01clVCa2xKTXY3NlY1MlJtd2VDbFh4R2xm?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "150e6e1620f6",
+   "title": "iQOO Pad Pro 8.8″ with 2.3K 165Hz OLED display, Snapdragon 8 Elite Gen 5, active cooling fan announced",
+   "summary": "At its latest product launch event, iQOO officially unveiled the iQOO Pad Pro 8.8-inch tablet that is positioned as a compact, gaming-focused device, after the iQOO Pad Ultra. Core Processing and Architecture The tablet operates on a dual-chip platform led by Qualcomm Snapdragon ",
+   "link": "https://www.fonearena.com/blog/495923/iqoo-pad-pro-8-8-price-specifications.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/iQOO-Pad-Pro.jpg",
+   "publishedAt": "2026-10-28T12:46:03.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "iQOO",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Techgenyz",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZnZMUXp1cWU3OGM0aUx0cnZadFNXdTdHbWd5N1RFdi15UGR0V1RjbVl0T2h5UEFxWS14Rm1iQzMwNzlpbVNVQ1QyWXBCUl9PUGNwaGNTS3A4UWc?oc=5"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495923/iqoo-pad-pro-8-8-price-specifications.html"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/tablets/news/iqoo-pad-pro-8-8-price-launch-sale-features-specifications-12249004"
+    },
+    {
+     "name": "Sangri Today",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXlvQy1Wcmc5WGhPS29KWUpJRWE5WkpvdEs4WDhUV3cwYy05cG1EdVpXMFYzdC1JbHUzeGdkTkFpTUV4a2ZwUVNMT1dYQ3R3VkpOQk9wR3RTalc2NF9TWUZqS0RCc2VENXQ5ejNLUnBvNmx3ZDY2SGVaeko1UzBxU3MwNHBfcmdUZnp1MWtsamcydDItY1Y3QkJ0MlF5YTJjTGNMeWJNQWYycUxBLUxqOUg4S3VjZnBXWnVVUnB6d2x5T3RvWlHSAcYBQVVfeXFMTTV5b0MtVnJnOVhoT0tvSllKSUVhOVpKb3RLOFg4VFd3MGMtOXBtRHVaVzBWM3QtSWx1M3hnZE5BaU1FeGtmcFFTTE9XWEN0d1ZKTkJPcEd0U2pXNjRfU1lGaktEQnNlRDV0OXozS1JwbzZsd2Q2NkhlWnpKNVMwcVNzMDRwX3JnVGZ6dTFrbGpnMnQyLWNWN0JCdDJReWEyY0xjTHliTUFmMnFMQS1MajlIOEt1Y2ZwV1p1VVJwendseU90b1pR?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -1287,6 +1409,10 @@
     {
      "name": "The Independent",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlUxOFpFbFI0cDFiTmRhOGRLbm9ra3ZrOWh0MUNvNWpKdkNTTkE1MVhKdmIxTG5xUFVaXzVPNUF1MDM4UmVYbi1nblRUWExmQlV2eWMyanl2dWM5ZlB4X1N3aWdtdW5ZbEV2dG1DMmo1WlQ1T211Tmd3U3hxOHFZWU1KOWd6cjNIR2JDNFhRWGYxcEVzRmtaRXAwNTBfZ1pD?oc=5"
+    },
+    {
+     "name": "AOL.co.uk",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemZkaGNMVktyZklzSThMNzNuNjhnbERGT2w2UHBodHYtNnZzb1h1RHptTG9hOEtQbW1FX1lTQ2hOcHQyTFJTY3JHM0Z3dmhfZHM3NnFaT2M2ZlRLaTJZZ3I1Y29JY0M3NVVKQ3NTUmktZmNqRUVZV3Fhc0RESlluaG9DRlNVanpqTVBlWA?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T12:40:01.370Z"
@@ -1475,6 +1601,10 @@
     {
      "name": "IT Voice Media",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHNrcTJ2OVp3Uk5pYTFtcHlJd3lOUEpiTUtlWHpSRlhoT3FBaVo2aGVoNXZtWkl1ZE5Cd0RUaDNZOHVVaTQxWG5kRXZsRFQxaWFEay1KQ1NsejVSTUtnUjI3WnNXV05Dc0lYWlpIOUtZVHcxSEhoQmtIVVJpTkRCckx4VWZaY2hOUHh3TkY3aTc2UjhmVzhuNkE3WF9zOG8?oc=5"
+    },
+    {
+     "name": "The Tribune",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2NGdUpWR2dWWG1BRFA0Y0tFelJPMElQb3VVSVc1YXE5R1l1WmFzSjJNR2hTLWphTF9ObkFpaUNoUUJiSFdKcm5jZHZqVE1OelJJb1pWVjdPM3RpdmJ2eFc1VzFVTWF5b2xCX0RoZjlUb1JEN2V2NmMzV3p1R25yQ3lHQ0k2OFJhbVdYdnI4OFN1REhkV3RlbU04cGQtQ2xmaXFkamQyUmJjbnhySXNxdG1EV2ZselFwZ1pv0gG_AUFVX3lxTE9DaUZWMHhQZjhtMW4xMDE0b0hOM2dBdXY1bnJLMy1uYnNyb202NFkwbzYzRGZxdXJXNWl1c0lCbkxMR2Job2MxeE4wc1h1ZGRCcllWdE5NRGFsRGVZSzdOdWZ4bm85VGFBbHNsbkpCbHFlbGR1dmNOTjI0T3h6YXRCMWhjZk1OVjZObEU0Ukg0Y1NHZmxsYjhWMEpMUEUwYUE3UGYwajVacks4Vzg0eXR1aUMxWlRKOXRFOXkzTVVJ?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -1500,6 +1630,28 @@
     }
    ],
    "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "bda27c74a492",
+   "title": "Punjab Launches Mobile Veterinary Hospitals for Livestock",
+   "summary": "Punjab Launches Mobile Veterinary Hospitals for Livestock TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFM2OFdwTEU2Tl9UQklleHV4Q05LcWlkSGhFVTZZR0g4ZDdNa1BMQnRYWWI1M3JBYVpGaUMtWkQ4cUY0aW5HZkhUNUZpSlo2a2tQUktNZDdXQ2NhM0htOTNMMXY4Y01aUWRRNUNNRFdyaFZIYmdDWlNoRFpvSkhGOTN1SEJhQmp5djhV?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T09:11:14.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFM2OFdwTEU2Tl9UQklleHV4Q05LcWlkSGhFVTZZR0g4ZDdNa1BMQnRYWWI1M3JBYVpGaUMtWkQ4cUY0aW5HZkhUNUZpSlo2a2tQUktNZDdXQ2NhM0htOTNMMXY4Y01aUWRRNUNNRFdyaFZIYmdDWlNoRFpvSkhGOTN1SEJhQmp5djhV?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
   },
   {
    "id": "dae3f35cb2fe",
@@ -1563,6 +1715,10 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/10/28/huawei-pura-90-plus-launches-with-kirin-9025-quad-curved-screen-and-5700mah-battery/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/huawei-pura-90-plus-price-in-india-launch-specifications-12252448"
     }
    ],
    "firstSeen": "2026-10-28T12:40:01.370Z"
@@ -2076,6 +2232,28 @@
    "firstSeen": "2026-10-28T05:24:23.357Z"
   },
   {
+   "id": "16b7b7f8d318",
+   "title": "NEC to launch Lavie Tab T8 Android tablet in Japan on October 29",
+   "summary": "NEC to launch Lavie Tab T8 Android tablet in Japan on October 29 Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yQnFWTW1fY09vc2xWV2I1MWRSbWRLbGpwcE1NMHFJMzlNV2lOdF85V05LTFpNR19RSDNSdjUyVVduZ2s5VGRhMUc0cmI4b2FzZFh6UVNHYnQzV1FKMHA1aWQydkhDVVp2b1dzYXlzbzIwTW9fc2lOUkxLOFo?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T01:30:28.000Z",
+   "date": "2026-10-28",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yQnFWTW1fY09vc2xWV2I1MWRSbWRLbGpwcE1NMHFJMzlNV2lOdF85V05LTFpNR19RSDNSdjUyVVduZ2s5VGRhMUc0cmI4b2FzZFh6UVNHYnQzV1FKMHA1aWQydkhDVVp2b1dzYXlzbzIwTW9fc2lOUkxLOFo?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
    "id": "2d342a106a3e",
    "title": "16-inch 'GAMING A16' Gaming Laptop with Core Ultra 9 and RTX 5070 Arrives for ¥320,000",
    "summary": "16-inch 'GAMING A16' Gaming Laptop with Core Ultra 9 and RTX 5070 Arrives for ¥320,000 ASCII.jp",
@@ -2096,6 +2274,28 @@
     }
    ],
    "firstSeen": "2026-10-28T05:24:23.357Z"
+  },
+  {
+   "id": "1308db673465",
+   "title": "Japanese brand announces affordable 8.7-inch Android tablet with 1TB microSD support",
+   "summary": "Japanese brand announces affordable 8.7-inch Android tablet with 1TB microSD support Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWVvdVNXaExKb3hsODhWbGNFZHdDcExGdmxObGQ1LV8tRHlxaWYxWndmTEhTX3o2dVNpWFRNSktVM0dMVXZTUUhmMWRqNldXcUVOOXl1anVyTE0ydHVjN1NrM3NoOFE4bi16REt1UXhBdE1odVVtVDR5SlZObHBTVFdDY3RmMWE0dzZ5YU9RYzhvMEJnRS00UDdMSHFNRGFpa2l0RkVwVzRSWDBpMWVITDM4QUlFX3h4QmlUano4QW0wSi05MjdWbQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T00:56:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWVvdVNXaExKb3hsODhWbGNFZHdDcExGdmxObGQ1LV8tRHlxaWYxWndmTEhTX3o2dVNpWFRNSktVM0dMVXZTUUhmMWRqNldXcUVOOXl1anVyTE0ydHVjN1NrM3NoOFE4bi16REt1UXhBdE1odVVtVDR5SlZObHBTVFdDY3RmMWE0dzZ5YU9RYzhvMEJnRS00UDdMSHFNRGFpa2l0RkVwVzRSWDBpMWVITDM4QUlFX3h4QmlUano4QW0wSi05MjdWbQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
   },
   {
    "id": "b9911d434d04",

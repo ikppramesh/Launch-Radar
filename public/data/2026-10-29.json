@@ -2,6 +2,506 @@
  "date": "2026-10-29",
  "items": [
   {
+   "id": "d06e39d8e111",
+   "title": "Logitech MX Master 4 Developer Edition wireless mouse launched in India",
+   "summary": "Logitech has launched the limited-edition MX Master 4 Developer Edition in India. The edition features a terminal-inspired design created for developers. The mouse has a matte body with laser-etched syntax annotations (//), markup tags ( ), circuit traces and a compiling {Hello, ",
+   "link": "https://www.fonearena.com/blog/496012/logitech-mx-master-4-developer-edition-price-india-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Logitech-MX-Master-4-Developer-Edition-1024x575.jpg",
+   "publishedAt": "2026-10-29T08:45:53.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Logitech",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496012/logitech-mx-master-4-developer-edition-price-india-features.html"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "76e241372543",
+   "title": "OnePlus Announces Festive Offers on OnePlus 15, Nord 6 Series, OnePlus Pad 4 and More",
+   "summary": "OnePlus has announced its festive sale offers in India across its smartphones, tablets, and audio products. The company is offering discounts, bank offers, no-cost EMI, and bundled accessories on select devices. Among the most notable offers are on the OnePlus 15 series, OnePlus ",
+   "link": "https://www.gadgets360.com/mobiles/news/oneplus-festive-offers-oneplus-15-nord-6-series-oneplus-pad-4-more-12252639",
+   "image": "https://i.gadgets360cdn.com/large/oneplus_15_review_ndtv_main_1763040005487.jpg",
+   "publishedAt": "2026-10-29T08:08:25.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "OnePlus",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/oneplus-festive-offers-oneplus-15-nord-6-series-oneplus-pad-4-more-12252639"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "3ccd0931a780",
+   "title": "Panasonic launches Let's note FC7 laptop in Europe",
+   "summary": "Panasonic launches Let's note FC7 laptop in Europe IT Brief UK",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmVmTlBCNjRjOHJGRnpJOHJia2RUb3UwVjA1bXZfSE1nRkxnUERUM1NodnpPaE9JS3VuWk1lb3RjMjJqRzZ2MFZmRlE5cGdHUkJlemtjQzZGbVhCT25SVm1KOVplcjN3bjRIcFl0b2FyWm11WGRFczhiT21yME11WW8yNjU?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T08:00:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Panasonic",
+   "region": "Europe",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "IT Brief UK",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmVmTlBCNjRjOHJGRnpJOHJia2RUb3UwVjA1bXZfSE1nRkxnUERUM1NodnpPaE9JS3VuWk1lb3RjMjJqRzZ2MFZmRlE5cGdHUkJlemtjQzZGbVhCT25SVm1KOVplcjN3bjRIcFl0b2FyWm11WGRFczhiT21yME11WW8yNjU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "9598379f7179",
+   "title": "Noise Buds R1 Gaana Edition with 1 year free Gaana Plus subscription launched",
+   "summary": "Noise and Gaana have introduced the Noise Buds R1 Gaana Edition, a co-branded pair of wireless earbuds. The partnership also extends to Gaana subscriptions across Noise’s wider product portfolio, with the collaboration aiming to reach 2.5 million consumers by the end of 2026. The",
+   "link": "https://www.fonearena.com/blog/495990/noise-buds-r1-gaana-edition-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Noise-Buds-R1-Gaana-Edition-1024x576.jpg",
+   "publishedAt": "2026-10-29T07:41:35.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Noise",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495990/noise-buds-r1-gaana-edition-price-features.html"
+    },
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtWHduUFNqZlo0YVRJc3k3b2VhNHR6dTJfR2NfWXRGeGUya2dDdTFhZ2k1TDc2MmFsOVplbG5EcE9MT3pKeGlGdm9ETzJPODZtR0tIWTFONDZFX2cwUVBqVE5XN3lFek9XRG13LWltNHZaQlRBc0hXVFF0STJ0Z9IBgwFBVV95cUxNb3RKMHBTZDdZMzVtZXI0Y0JPNFRCOXVZdVFvQXdBRzFzVnA5WW4tRGpBa01DVkp1VUk5S3ZQTXd1dktVcHU3cXpqTWlUVlp6Q1oxb2Zod0tOdVhXb001V3JyWDFfajZocXNkbHdoWDJ2R1BIZFIzUW5MWXBsNl81Ylhqbw?oc=5"
+    },
+    {
+     "name": "The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR2tZSUJXR1F2bFNSVzRJZDJvQVZ0ZDlxX1NoSG1yblpVaUxJaWNmaFVNZHg1dThRY0lpZ0VxUmpmd0d1OXNONncyOGpaeTBwalgwY0t2QUpxdTVnWXhUSmhnLU1vc1NVd1Nkb3RTMGw2M1RTRnZaaDcxaEFvS2dJV3RSV0tpNWl3elZHRmVWRDlCWTFTcTBMRGN0RE02eGRhYkN3VlF1ZlFjNk9RUkhvdjYtcjBjWHV5eFNuUGx3YWR5UjF6bzBXWXlvUmhiYjFEWFNHcWJLaC1tVmtmTjhhdFo3X3rSAeoBQVVfeXFMTS1DM1B2V0liQ2F6SUNYTkFCREF1cVZhVmRqMnpTZzFJa21Ub2duTmxqSHo1eF9KbVpSYmUxSDQ1S1FSVzFJV0hSeGgzcWFMSEhRVUhUVmZsSUhPQUZWbHF2UldYNkRHWjFjSk11X05VaVdRX0pCeFBiQWN6NTFzTFFGemVFeVVzZnVTQ1d0MGtPb2F2QzJzdWJSZkxGVDVLN3gxMzJ5WVhLQkVxaEs5bkw5U1pEck9adG9xRTJyXzJzYXFwQlJIMzhoMFp5eU9wYkxlMldYZHJOUE40bzVMZnAyMm8xU3NWUzNR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "5ed66c78cb7e",
+   "title": "vivo Ignite 2026 national finale winners announced",
+   "summary": "vivo India has declared Dheyay Shah from RMG Maheshwari English School in Surat, Gujarat, the national winner of vivo Ignite 2026. The announcement took place at the initiative’s National Finale held at Bharat Mandapam, New Delhi, on October 28. Now in its fourth edition, vivo Ig",
+   "link": "https://www.fonearena.com/blog/495988/vivo-ignite-2026-winners.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/vivo-Ignite-2026-winners-1024x576.jpg",
+   "publishedAt": "2026-10-29T07:32:13.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Vivo",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495988/vivo-ignite-2026-winners.html"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "d8d984544a50",
+   "title": "Nothing announces recipients of inaugural $40,000 Club Nothing Fund",
+   "summary": "London-based consumer technology company Nothing has announced the four recipients of its first $40,000 Club Nothing Fund, an initiative designed to finance and support independent music events worldwide. Selected by a panel representing the music, nightlife, and creative sectors",
+   "link": "https://www.fonearena.com/blog/495985/club-nothing-fund-recipients.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Nothing-Club-Nothing-Fund-recipients-1024x576.jpg",
+   "publishedAt": "2026-10-29T07:02:01.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Nothing",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495985/club-nothing-fund-recipients.html"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "66aee1ffbe4c",
+   "title": "Mobile cafe chain Rawsters launches franchise model",
+   "summary": "Mobile cafe chain Rawsters launches franchise model Inside Retail Australia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEtRLVF4R1dBZnpCVmxMOFBsZ2dPSTNUVnRqc1diRmtBcWlQelRkbTFULVVzQVRKUFB2cEltTmxXa3RQM2tpa0pIYmc5LVAtS0dMOVIyTkswR1NKckdaMEEtWnlwcHFNMFVBbXU3S21BTTM2OUJ4S0pyWHpZVndFYVNCa0xqS1llQXFXc3RZaXk1R25paW5Cdmwxcw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T06:31:36.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Inside Retail Australia",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEtRLVF4R1dBZnpCVmxMOFBsZ2dPSTNUVnRqc1diRmtBcWlQelRkbTFULVVzQVRKUFB2cEltTmxXa3RQM2tpa0pIYmc5LVAtS0dMOVIyTkswR1NKckdaMEEtWnlwcHFNMFVBbXU3S21BTTM2OUJ4S0pyWHpZVndFYVNCa0xqS1llQXFXc3RZaXk1R25paW5Cdmwxcw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "181461c85023",
+   "title": "Huawei may launch these 7 smartphones in November",
+   "summary": "Huawei may launch these 7 smartphones in November Huawei Central",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYldVcVNBN0pVWnJacjZ6VHVWYW0yQVFyc1ZUZGpXTzNWRUR3cnowTWxJUTZOWEF5Wk9mVXEyQ0tWUjlNRldyZEZpQ0dsMDNJNGRaUG54TTRaa2JsRWFHMU1vVDgzYV9ERnNjd0Z2OEJlQ0VWdE5JOVZVUVZMNHJRckdhdm9tNmPSAYwBQVVfeXFMT2pwbEw3UXJMZUdNQVpXcEdoM0JUZUxFaVpvSFZGMVlkcWFCSlJySmwzblpRdUgzbm9INGFiUkhFekpuWW11ZVZHaUxyLUtKZVZ3RmZOcUlrbUhXeU9SRUMtYlRfdXpJbVVnZ3VrVTA5bThEZUkzQXd3dTVQNkc1SFkwN3dOUnJMS0VXakE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T06:13:16.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Huawei Central",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYldVcVNBN0pVWnJacjZ6VHVWYW0yQVFyc1ZUZGpXTzNWRUR3cnowTWxJUTZOWEF5Wk9mVXEyQ0tWUjlNRldyZEZpQ0dsMDNJNGRaUG54TTRaa2JsRWFHMU1vVDgzYV9ERnNjd0Z2OEJlQ0VWdE5JOVZVUVZMNHJRckdhdm9tNmPSAYwBQVVfeXFMT2pwbEw3UXJMZUdNQVpXcEdoM0JUZUxFaVpvSFZGMVlkcWFCSlJySmwzblpRdUgzbm9INGFiUkhFekpuWW11ZVZHaUxyLUtKZVZ3RmZOcUlrbUhXeU9SRUMtYlRfdXpJbVVnZ3VrVTA5bThEZUkzQXd3dTVQNkc1SFkwN3dOUnJMS0VXakE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "7c27e5f567e3",
+   "title": "Apple Launches Touchscreen MacBook Pro Starting at $2,899",
+   "summary": "Apple Launches Touchscreen MacBook Pro Starting at $2,899 Udaipur Kiran",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2QxRld0U05FUkptY3RBZXpKLXktSXIzZFFXaEZrOGotUmUxdXhsNGIybk5LaVJ3ZWtrSHVrTXlMN0JEUGdISVlIWkdlSjY4ZVZ0enFHQXZnbmFuWmtERlBXTk9FMnkzdkxQNVNTLUpsbl9tSWdmTENqeFF3b0diY0NoQ2hoNVMz?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T06:00:46.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2QxRld0U05FUkptY3RBZXpKLXktSXIzZFFXaEZrOGotUmUxdXhsNGIybk5LaVJ3ZWtrSHVrTXlMN0JEUGdISVlIWkdlSjY4ZVZ0enFHQXZnbmFuWmtERlBXTk9FMnkzdkxQNVNTLUpsbl9tSWdmTENqeFF3b0diY0NoQ2hoNVMz?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "d35f29030cae",
+   "title": "Wobble Speed 5G smartphone teased ahead of India launch",
+   "summary": "Wobble has officially released the first teaser for its upcoming smartphone, the Wobble Speed 5G, signaling its entry into India’s competitive sub-₹20,000 price category. Positioned as the successor in the brand’s lineup following the earlier release of the Wobble One, the new de",
+   "link": "https://www.fonearena.com/blog/495982/wobble-speed-5g-teaser.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Wobble-Speed-5G-teaser-1024x788.jpg",
+   "publishedAt": "2026-10-29T05:54:58.000Z",
+   "date": "2026-10-29",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/495982/wobble-speed-5g-teaser.html"
+    },
+    {
+     "name": "FoneArena.com",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xSVJ1aEdvUlNhb3IyeWFCWjdVeGY3Y3U3bmtFNFdkY1AtTm9OVTRkRWxPd0haRS1TbjdhMW9lSHp5QVJRbG9RYm0wNXo5VmR4dmx2N3lRT21fVVZMMVFNU05KTDZjVzRNX2dMdWtYenlCY3PSAXhBVV95cUxPR0oyUlMydmlYMC1YaFFiaktjLXFpOXJNcEJydTVEMlFmQmVCS0ZpVnFScU9RUFB2Z2dlRUhScWxMVS1Fc2lCYm41aUhuZXk5T2h3NjRYR19YNEs2MWkwc2dWY190bkdEWnNZM2lVOVhxMkxOcU5PSmo?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "307510488d45",
+   "title": "NTT Docomo launches AI tool to estimate sleep quality from smartphone data",
+   "summary": "NTT Docomo launches AI tool to estimate sleep quality from smartphone data Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnQtTmpzVlBqZ19PdmtnbzVGeEstcDNNcWtsZktubURnQi11aVduSmRUbXNpUzFOZjZJbGx1Z0RxRnBzRHFzTzZzTVFtWURjUmxlclZ5dGRLUXZfdVpJUUE1VHpqdzhJTTNld3psOEtZdWkxQ1BuOF9KZ2ZuZi0xZDFqZ2dZSzRvcFZIX2dSdnQzd2Y4Smg1QTNta1NWX2o5RlJCOXBxd2pfSHEyZVJfRkRWQ2RSNFpo?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T05:42:12.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Telecompaper",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnQtTmpzVlBqZ19PdmtnbzVGeEstcDNNcWtsZktubURnQi11aVduSmRUbXNpUzFOZjZJbGx1Z0RxRnBzRHFzTzZzTVFtWURjUmxlclZ5dGRLUXZfdVpJUUE1VHpqdzhJTTNld3psOEtZdWkxQ1BuOF9KZ2ZuZi0xZDFqZ2dZSzRvcFZIX2dSdnQzd2Y4Smg1QTNta1NWX2o5RlJCOXBxd2pfSHEyZVJfRkRWQ2RSNFpo?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "d8a39ea94290",
+   "title": "Apple launches first touchscreen MacBook Pro in India from Rs 3.49 lakh",
+   "summary": "Apple launches first touchscreen MacBook Pro in India from Rs 3.49 lakh Tech Observer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYl9iS2hFYWpsbXNsRGZ4aGJDLTRQcXc4YzJUNmZhbEVva2F2eU90U1lhQWM2M1dSNnk4VDNyLVNxMFRLalZibTlhc1FHSWY1MUk1X0piV0p5NkRyOG5GSVVCRFo5Ui1ic3h3aTNpazItblA0a1hualRfREZZTVNFM09Sc0tISzc3LTI0WjFrZlYtWFh2T2lWZU1ySdIBmwFBVV95cUxNYl9iS2hFYWpsbXNsRGZ4aGJDLTRQcXc4YzJUNmZhbEVva2F2eU90U1lhQWM2M1dSNnk4VDNyLVNxMFRLalZibTlhc1FHSWY1MUk1X0piV0p5NkRyOG5GSVVCRFo5Ui1ic3h3aTNpazItblA0a1hualRfREZZTVNFM09Sc0tISzc3LTI0WjFrZlYtWFh2T2lWZU1ySQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T05:30:28.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Tech Observer Magazine",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYl9iS2hFYWpsbXNsRGZ4aGJDLTRQcXc4YzJUNmZhbEVva2F2eU90U1lhQWM2M1dSNnk4VDNyLVNxMFRLalZibTlhc1FHSWY1MUk1X0piV0p5NkRyOG5GSVVCRFo5Ui1ic3h3aTNpazItblA0a1hualRfREZZTVNFM09Sc0tISzc3LTI0WjFrZlYtWFh2T2lWZU1ySdIBmwFBVV95cUxNYl9iS2hFYWpsbXNsRGZ4aGJDLTRQcXc4YzJUNmZhbEVva2F2eU90U1lhQWM2M1dSNnk4VDNyLVNxMFRLalZibTlhc1FHSWY1MUk1X0piV0p5NkRyOG5GSVVCRFo5Ui1ic3h3aTNpazItblA0a1hualRfREZZTVNFM09Sc0tISzc3LTI0WjFrZlYtWFh2T2lWZU1ySQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "c2eab52f681c",
+   "title": "The Hunt Begins on Smartphones at Last! Monster Hunter Outlanders Officially Launches Service!",
+   "summary": "The Hunt Begins on Smartphones at Last! Monster Hunter Outlanders Officially Launches Service! Saiga NAK",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tbUdMN2Rua1Qxc3RYZzZLZXFMQzFnNVBDSGNHWl9CQnJwaUVPVW9kUkpBTjJVTkNBaUZ2YzRwZG9EQm0yZm5VdWViRjlOUC16M21kVU1VbzRhSUlvWWlYQTBWRdIBaEFVX3lxTE5Lb1R1VnRaMW4wWV9MMmxWNG9fWFNINXoxMmdSV0VNcHdWMHR4VXpGMXZYZUxZQjdFNno2ZjJiWjNld3JMLTdibXlYMzdlalZaSXViVnFoUlhFSUxqS3NyTm1neHhpT2Jo?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T04:10:54.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Saiga NAK",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tbUdMN2Rua1Qxc3RYZzZLZXFMQzFnNVBDSGNHWl9CQnJwaUVPVW9kUkpBTjJVTkNBaUZ2YzRwZG9EQm0yZm5VdWViRjlOUC16M21kVU1VbzRhSUlvWWlYQTBWRdIBaEFVX3lxTE5Lb1R1VnRaMW4wWV9MMmxWNG9fWFNINXoxMmdSV0VNcHdWMHR4VXpGMXZYZUxZQjdFNno2ZjJiWjNld3JMLTdibXlYMzdlalZaSXViVnFoUlhFSUxqS3NyTm1neHhpT2Jo?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "ba95cbe4bde7",
+   "title": "FADU wants to take the CPU out of AI storage by putting the file system inside the SSD, but the proof won't arrive until 2027",
+   "summary": "FADU's new SSD runs its own file system, so GPUs and DPUs can read files without CPU intervention, but samples won't land until Q3 2027.",
+   "link": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027",
+   "image": "https://cdn.mos.cms.futurecdn.net/tZASHhh4xCHsCrTqVYKVzf-1920-80.jpg",
+   "publishedAt": "2026-10-29T04:00:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/pro/fadu-wants-to-take-the-cpu-out-of-ai-storage-by-putting-the-file-system-inside-the-ssd-but-the-proof-wont-arrive-until-2027"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "ab63b433486d",
+   "title": "HUAWEI Launches Pura 90 Plus with Kirin 9025 Chip, 100W SuperCharge",
+   "summary": "HUAWEI Launches Pura 90 Plus with Kirin 9025 Chip, 100W SuperCharge https://jamonline.ph/",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YdUhRWWc5aFBaZm1lRmlGTFpjYXF3b3EtSzdWOUxiMmpBdVB6T3JzTjQyc1pCb1BWc2FjT3Q0c3FlTGpNZTNtekowY0FhcGQxR0VtNVhyS0FqQTJzNmFXUS1GSGp1LXVaMUhIMmRJMnhGX2lkRTl5OGQ5VnRQajQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T03:38:58.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "https://jamonline.ph/",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YdUhRWWc5aFBaZm1lRmlGTFpjYXF3b3EtSzdWOUxiMmpBdVB6T3JzTjQyc1pCb1BWc2FjT3Q0c3FlTGpNZTNtekowY0FhcGQxR0VtNVhyS0FqQTJzNmFXUS1GSGp1LXVaMUhIMmRJMnhGX2lkRTl5OGQ5VnRQajQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "71ffa99849aa",
+   "title": "Mouse Computer Launches 16-Inch Creator Laptop \"DAIV Z6\" with RTX 5060 at ¥419,800",
+   "summary": "Mouse Computer Launches 16-Inch Creator Laptop \"DAIV Z6\" with RTX 5060 at ¥419,800 BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2eVZPV29YeGY1RVMyVGZERkQyVjFoTmstRlFHSnFiZHUwSjY3dXRwQ2Zkam5OWXdYYngzeHk3UEl0Vi1fMnhjNnJjUTR1ajM2MjZiZ2xQcjRVY2RLblBiYUx2RWZQUERzQXFkZmg4U2hONUhNT1E?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T03:35:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2eVZPV29YeGY1RVMyVGZERkQyVjFoTmstRlFHSnFiZHUwSjY3dXRwQ2Zkam5OWXdYYngzeHk3UEl0Vi1fMnhjNnJjUTR1ajM2MjZiZ2xQcjRVY2RLblBiYUx2RWZQUERzQXFkZmg4U2hONUhNT1E?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "e413c3406b0a",
+   "title": "Amazon Launches New Echo Devices With Smarter Alexa Features and Home Camera",
+   "summary": "Amazon launched a new range of Alexa-powered devices on Wednesday. The company has introduced upgrades across its Echo speakers, smart displays, and home accessories. Its latest lineup includes a new Echo Dot with a built-in smart home hub, an Echo Studio variant with a camera, a",
+   "link": "https://www.gadgets360.com/smart-home/news/amazon-echo-devices-smarter-alexa-features-home-camera-price-availability-12251626",
+   "image": "https://i.gadgets360cdn.com/large/amazon_alexa_1793244007064.jpg",
+   "publishedAt": "2026-10-29T03:21:46.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/smart-home/news/amazon-echo-devices-smarter-alexa-features-home-camera-price-availability-12251626"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "fde1d59614d8",
+   "title": "Monster Hunter Outlanders launches on mobile with free SSR heroes and controller support",
+   "summary": "Monster Hunter Outlanders launches on mobile with free SSR heroes and controller support astig.ph",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NdkpjdXlNdjhlMTFZZWhtR1hqeEwzVE5iME9HYmdGUVJXMzdtZ21MWndHNUdENzlXV1h3dktQN2R5OVNjMTF2SEppZVJ1T2Z1YVJtSi1lRmxrUzZaVGFPTmJiQ1VLRm5STHMwM0JuVURqWmQ5QVFmZjdSWmd5Z2s?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T02:50:43.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "astig.ph",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NdkpjdXlNdjhlMTFZZWhtR1hqeEwzVE5iME9HYmdGUVJXMzdtZ21MWndHNUdENzlXV1h3dktQN2R5OVNjMTF2SEppZVJ1T2Z1YVJtSi1lRmxrUzZaVGFPTmJiQ1VLRm5STHMwM0JuVURqWmQ5QVFmZjdSWmd5Z2s?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "6cb8cca7f502",
+   "title": "Budget tablet launches with 10.1-inch display and 1TB expandable storage in the Philippines",
+   "summary": "Budget tablet launches with 10.1-inch display and 1TB expandable storage in the Philippines Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0NvLWtEaVQtd1hFNVRQVExtN0M5NUlGdk1EMXlkVFhiZzRweGxmZWh2RUhRMTRYLXJ3RWxuM3AyM3F1UGtHNlFobmcwTWgtMFNUVHF6T0xvUDhaa1A4VGQ3QS1INkdaeEZkeGJPaDF0bFRhZGFDWXBDWlBzaXBnOEdjT3JleGcyaFhkZzdRcTlrd25FT191ay1SVVJLeVByNkZKUU01UnZZUjljNWlkbWJMUGhrN2VoSjJwbXRYRk8wOUVZbFZkVVh0a3lOeDE2aUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T02:36:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Southeast Asia",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0NvLWtEaVQtd1hFNVRQVExtN0M5NUlGdk1EMXlkVFhiZzRweGxmZWh2RUhRMTRYLXJ3RWxuM3AyM3F1UGtHNlFobmcwTWgtMFNUVHF6T0xvUDhaa1A4VGQ3QS1INkdaeEZkeGJPaDF0bFRhZGFDWXBDWlBzaXBnOEdjT3JleGcyaFhkZzdRcTlrd25FT191ay1SVVJLeVByNkZKUU01UnZZUjljNWlkbWJMUGhrN2VoSjJwbXRYRk8wOUVZbFZkVVh0a3lOeDE2aUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "6f3b731780f8",
+   "title": "Honor X8e 4G quietly launches with a 108MP camera and a 7,700mAh battery",
+   "summary": "Is it true that you can’t have too many models? Maybe, maybe not, but here's one more – the Honor X8e 4G, a phone that is nearly identical to the Honor X7e Plus 4G from August. Honor X8e 4G The most eye-catching feature on this phone is the 108MP camera. The phone is an entry-lev",
+   "link": "https://www.gsmarena.com/honor_x8e_4g_quietly_launches_with_a_108mp_camera_and_a_7700mah_battery-news-75251.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-x8e-announced/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-29T02:33:02.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Honor",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/honor_x8e_4g_quietly_launches_with_a_108mp_camera_and_a_7700mah_battery-news-75251.php"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/29/honor-x8e-launched-price-specs/"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "2d47b8602de7",
+   "title": "Sony to launch smartphone-connected 3D display in December",
+   "summary": "Sony to launch smartphone-connected 3D display in December 디지털투데이",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHY5SXVkV2FIemw3NTNnZnV1bS1QWWVsbkxqaVlad0JtOWx2UmszUWdRTHpQTXNmdGlGZTBTV0h6MklIaTVYRGFqZHFxakdVUThFZ1VEWGRSRFByRmxCTTA2a1JLU1JSYjRtb3g4NFVGaDR5czQ5OG51dnRCeE1KUkFXRklwWlJKWTFpZ1lJcE5mOUtaNF9jUFlzX0NadG03TjhpVERNRQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T02:29:55.000Z",
+   "date": "2026-10-29",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "디지털투데이",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHY5SXVkV2FIemw3NTNnZnV1bS1QWWVsbkxqaVlad0JtOWx2UmszUWdRTHpQTXNmdGlGZTBTV0h6MklIaTVYRGFqZHFxakdVUThFZ1VEWGRSRFByRmxCTTA2a1JLU1JSYjRtb3g4NFVGaDR5czQ5OG51dnRCeE1KUkFXRklwWlJKWTFpZ1lJcE5mOUtaNF9jUFlzX0NadG03TjhpVERNRQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "05a6ec52e030",
+   "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+   "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply c",
+   "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "publishedAt": "2026-10-29T02:22:46.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "The Verge",
+     "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
    "id": "f671a80cd82e",
    "title": "Apple has finally unveiled its first touchscreen laptop. It hasn’t answered the most important question",
    "summary": "Apple has finally unveiled its first touchscreen laptop. It hasn’t answered the most important question Nine.com.au",
@@ -22,6 +522,28 @@
     }
    ],
    "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "c6e1377840eb",
+   "title": "Swap Mobile launches flexible Singapore service on StarHub",
+   "summary": "Swap Mobile launches flexible Singapore service on StarHub CFOtech Asia",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEswOEFqV09yQjNoRHNNXzZpbkRoTGVqdDVvNkpVaHA2dWhTaEVyTkstYlRKRVVTNk94Q29oNURNeVpBT0FyMGVOVDRROGNKSVBkLXBvVzJFWmNNYkRuWFhlbVhBT0xUZVFTVHhUUFRCUEI1dXRZSkNmTHJFcWY3NkN3N09pT0twU1pqZzRR?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T00:30:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Southeast Asia",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "CFOtech Asia",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEswOEFqV09yQjNoRHNNXzZpbkRoTGVqdDVvNkpVaHA2dWhTaEVyTkstYlRKRVVTNk94Q29oNURNeVpBT0FyMGVOVDRROGNKSVBkLXBvVzJFWmNNYkRuWFhlbVhBT0xUZVFTVHhUUFRCUEI1dXRZSkNmTHJFcWY3NkN3N09pT0twU1pqZzRR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T09:47:18.631Z"
   },
   {
    "id": "69d12155b74f",

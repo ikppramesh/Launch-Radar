@@ -961,7 +961,7 @@
    "category": "Other gadget",
    "brand": "iQOO",
    "region": "China",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -971,6 +971,10 @@
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/mobiles/news/iqoo-neo-12-price-launch-sale-date-specifications-features-12248820"
+    },
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1BTeml0ejFvd0tteWFDcVp3SlE2QmZWQkVMQnR2NzVHUXZCZjg1MVNJNjB1OGVRRjJ4THFwTnM0M2hZY2Y2Z01TRnRjbG1kRWdtQmFaYlVVMmRZcjljQVBPQXdHUTRWU3NWUkpyMFpLUTFQTHJuZjhGWDY4N3dMLWJITGZzSFBKWk1RbkI3UVpHSzg?oc=5"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"
