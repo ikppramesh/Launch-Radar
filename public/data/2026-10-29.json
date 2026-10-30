@@ -188,13 +188,17 @@
    "status": "Launched",
    "category": "Other gadget",
    "brand": "Honor",
-   "region": "Global",
-   "confidence": 2,
+   "region": "China",
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "GSMArena",
      "link": "https://www.gsmarena.com/honor_x9e_s_launched_-news-75264.php"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/30/honor-x9e-s-launches-with-8560mah-battery-and-snapdragon-6-gen-4-chip/"
     }
    ],
    "firstSeen": "2026-10-29T18:23:53.054Z"
@@ -336,6 +340,28 @@
    "firstSeen": "2026-10-29T18:23:53.054Z"
   },
   {
+   "id": "6cdc8cbbaa5c",
+   "title": "A 9,000mAh battery in an 8.59mm phone: OnePlus unveils Ace 7 series",
+   "summary": "A 9,000mAh battery in an 8.59mm phone: OnePlus unveils Ace 7 series Mathrubhumi English",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUWZkT3h2cTd5NHB2UHBQUDQyc1lCQ0k3akp4V1MtcUFtT3JReEpYbXVUU29wMmZWSHRSeW5memV4TGNPNFhTMzNwVU1RZHI3S2piZmh2VF9GbTNyYUtsUUJaNUtWaXR5bFNBM0VtSnVCYlZxeGg2cGhIblByTndycVFkMktyQjFyY3JQcjhSSWNKLW9kTkRKdUdYYy1JQ1pNQ3M4MEJzNlpIbEtBMUdTNnc1c0laSjQ0WG5qdXpBQ3ZWNzRUd3lwX09VZF90MknSAdQBQVVfeXFMT1JIcHlha3pVQm45UXRkMG1tVy0zZU1lcm12WG45amctSFQ2YzV3OW9GSFE1dEg1TXpna1RvbXYwcU1xWEs2emppelh6eElQUzE0Y2hXaTRWZUtLLXc0ai1XVU5SRUxyUVRydmdCcDBUX2RvY01RckFTUXM5R25kVzZmWElhT0ItZUlUXzNHUkdmUVZ0ZzViZGpHd2I2YWpqU2RuMmZqbVJXZERZaXczdE1wem01am54VEYyMUoyaGxoNk1PZzgwYTVqNHp6QWw2WlZTVV8?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T13:33:05.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "OnePlus",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mathrubhumi English",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUWZkT3h2cTd5NHB2UHBQUDQyc1lCQ0k3akp4V1MtcUFtT3JReEpYbXVUU29wMmZWSHRSeW5memV4TGNPNFhTMzNwVU1RZHI3S2piZmh2VF9GbTNyYUtsUUJaNUtWaXR5bFNBM0VtSnVCYlZxeGg2cGhIblByTndycVFkMktyQjFyY3JQcjhSSWNKLW9kTkRKdUdYYy1JQ1pNQ3M4MEJzNlpIbEtBMUdTNnc1c0laSjQ0WG5qdXpBQ3ZWNzRUd3lwX09VZF90MknSAdQBQVVfeXFMT1JIcHlha3pVQm45UXRkMG1tVy0zZU1lcm12WG45amctSFQ2YzV3OW9GSFE1dEg1TXpna1RvbXYwcU1xWEs2emppelh6eElQUzE0Y2hXaTRWZUtLLXc0ai1XVU5SRUxyUVRydmdCcDBUX2RvY01RckFTUXM5R25kVzZmWElhT0ItZUlUXzNHUkdmUVZ0ZzViZGpHd2I2YWpqU2RuMmZqbVJXZERZaXczdE1wem01am54VEYyMUoyaGxoNk1PZzgwYTVqNHp6QWw2WlZTVV8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
    "id": "6a1fc73a2117",
    "title": "iQOO Launches Flagship-Grade Gaming Tablet With With Enhanced Cooling",
    "summary": "iQOO Launches Flagship-Grade Gaming Tablet With With Enhanced Cooling ProPakistani",
@@ -400,6 +426,28 @@
     }
    ],
    "firstSeen": "2026-10-29T18:23:53.054Z"
+  },
+  {
+   "id": "74c806038d69",
+   "title": "Huawei Pura 90 Plus Launched With 1-Inch Camera Sensor, Check Details",
+   "summary": "Huawei Pura 90 Plus Launched With 1-Inch Camera Sensor, Check Details NewsBricks",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTVpnRkNENnRNMV9RaEJJdXl5WkdPUWYzdE40d1FaLUppckpFSFAzcVJvamw0d01TaEdjY3g1U3Y3bllYRzlxb3NfQ01OQU1DZlNBVkYycmp1OVZld2l4RzJZRngxN3hhSVpwenNZM1Y2alF4cG5wVTl6TTJXdmNBSDJONUFraVR0WnVv?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T13:00:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "NewsBricks",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTVpnRkNENnRNMV9RaEJJdXl5WkdPUWYzdE40d1FaLUppckpFSFAzcVJvamw0d01TaEdjY3g1U3Y3bllYRzlxb3NfQ01OQU1DZlNBVkYycmp1OVZld2l4RzJZRngxN3hhSVpwenNZM1Y2alF4cG5wVTl6TTJXdmNBSDJONUFraVR0WnVv?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T09:52:37.324Z"
   },
   {
    "id": "ece0ac4cbe72",
@@ -648,6 +696,28 @@
    "firstSeen": "2026-10-29T18:23:53.054Z"
   },
   {
+   "id": "950015e6331b",
+   "title": "Steve Jobs' 'ergonomically terrible' remark resurfaces after Apple launches touchscreen laptop | 'Touch surfaces don't want to be vertical' | Inshorts",
+   "summary": "Steve Jobs' 'ergonomically terrible' remark resurfaces after Apple launches touchscreen laptop | 'Touch surfaces don't want to be vertical' | Inshorts Inshorts",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQenBFZlE2dFczT2JoczZqV0VqeTkxajBqTWJtTFhPeDJSemdfLUI3R0NhVmxtX09xNFZnZ241UWJyS2NnckdaVnR0eG5OMmxJSmhNaGhGTnBRbHdTaXJtMUJTcEp0OUliRkI1MkxGVHVwQjZHanNhOG50Q3RoVVRJVk5Pc1RwLU8zUEF5Wkw0ZVJLLUUtQVdJbWd4N2Joa1lkaVJGaG9mcVkwN0p6RGNVdDJyeGVrenhTV0tkcmlRZl96LUl4ODI2WUgxdzM1cWc3eXfSAdcBQVVfeXFMTVYxMm5YV2FkM1EyTENfb1V3b3Z3YVZTelRBTVlSZzJUZkd2YldWcUlVVTY4V0FrdXU1VFNRQVd6OXdfdGwyNk1CU25fQzZ4bVhyeEt2dkozcWdPd1ZRQWRXeFl3X2poX29sSGxXUGR0dGZHYWhwYlEwN2JfX2JVbmVtbEtDTExLWnN6OTU2S0dQZ0dILUxISDNMd1BRdVptWEFaZzlsMS1jNHRfTEx3dFpTTW40cmZsME5yMDFSYWlaeUZzRnJvNk8xa1prbmRoTHFDRkpnWjA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T10:33:56.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Inshorts",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQenBFZlE2dFczT2JoczZqV0VqeTkxajBqTWJtTFhPeDJSemdfLUI3R0NhVmxtX09xNFZnZ241UWJyS2NnckdaVnR0eG5OMmxJSmhNaGhGTnBRbHdTaXJtMUJTcEp0OUliRkI1MkxGVHVwQjZHanNhOG50Q3RoVVRJVk5Pc1RwLU8zUEF5Wkw0ZVJLLUUtQVdJbWd4N2Joa1lkaVJGaG9mcVkwN0p6RGNVdDJyeGVrenhTV0tkcmlRZl96LUl4ODI2WUgxdzM1cWc3eXfSAdcBQVVfeXFMTVYxMm5YV2FkM1EyTENfb1V3b3Z3YVZTelRBTVlSZzJUZkd2YldWcUlVVTY4V0FrdXU1VFNRQVd6OXdfdGwyNk1CU25fQzZ4bVhyeEt2dkozcWdPd1ZRQWRXeFl3X2poX29sSGxXUGR0dGZHYWhwYlEwN2JfX2JVbmVtbEtDTExLWnN6OTU2S0dQZ0dILUxISDNMd1BRdVptWEFaZzlsMS1jNHRfTEx3dFpTTW40cmZsME5yMDFSYWlaeUZzRnJvNk8xa1prbmRoTHFDRkpnWjA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
    "id": "f5e6dbb955a9",
    "title": "Nikon NIKKOR Z 120-300mm f/2.8 TC VR S telephoto zoom lens launched in India",
    "summary": "Nikon India Pvt. Ltd. has launched the NIKKOR Z 120-300mm f/2.8 TC VR S, a professional telephoto zoom lens for full-frame FX-format mirrorless cameras. Part of Nikon’s S-Line, it is the world’s first interchangeable zoom lens to combine a constant maximum aperture of f/2.8 with ",
@@ -709,32 +779,6 @@
     {
      "name": "ProPakistani",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUNDX3dWZnRqVVRLLXV0cEZkTTgtcVJxcWhGSFA4NUxHQVlFRTJMeFVGSHB6Qjl1RU03bkNaaDcwRU13VnZhTGk1MzhjMVZoTktBQ2c2MDh4NHdqTEF1MExjQWRZWW84aWpvaEJGelZScWhkeERFcXc1dk5iQ0FKZmpIRC1tSi00QWVyRzB5aWZGZmM0QnB6SEhraVl3UdIBngNBVV95cUxPZ25weEFnQWpxaklVZkl5YTlOMl80RFlIbTV2MzFBWXBXRmJtb2Y0cFZoYW1UT19GOVJ5dGUxRHBxNkRpMW5VUWx0T3Rxc3FvaEI0RVVCQjREMXlsblNRRENEb1ZMeHZaRkx0WmRsSTZZTUtMLVFWM0c1bHZESlRSN0dhTFEwV0FKQTVuQS1wUkVfdERXOXV2dTh2Ny1jUGluWU1xd0hxRnNZdVBnQ0RUUEg5MHNUWVpTREc4R0FjbWtIM3VfbzVNallMSWczMkV6dDA0OHVQLXVMX1RTNGxCeDFCVC1PLU5laTBWaGxKZ2hFblJYWXZDdklXUVZGdzRWTjh5dzJEWnZURHk5V2E5TFk5dXRSOFg4ZDlHTndIeGV2S0JueU5JNzRfR0NBZ0wzQld1eGV2Q1FadXpleHd4bnlqWkhvSzFuaURoRVRBMTlhdTN3aWxRUTVra1pvb2c1eExOMWJlTC1LQ1BIbmRiRnEwbUs1MmRfTVhVbjlGcVlTdlVEUC1pTGlSTERKdDl6V1JycW4yTG1vR0J3WkE?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-29T18:23:53.054Z"
-  },
-  {
-   "id": "51dfc5f49e4e",
-   "title": "Wobble to launch its second smartphone, the Speed 5G",
-   "summary": "Wobble, an Indian smartphone brand owned by Indkal Technologies, is preparing to launch its second handset, the Speed 5G. The company debuted its first smartphone, the Wobble One, in November last year. The company has shared a couple of teasers on social media, confirming the up",
-   "link": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php",
-   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/wobble-speed-india-launch/-184x111/gsmarena_000.jpg",
-   "publishedAt": "2026-10-29T09:47:02.000Z",
-   "date": "2026-10-29",
-   "status": "Upcoming",
-   "category": "Smartphone",
-   "brand": "—",
-   "region": "Global",
-   "confidence": 1,
-   "aggregator": false,
-   "sources": [
-    {
-     "name": "GSMArena.com",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODNqNWtMN2xYWGxtVDYxRFpZMTJjN1Y0MjkxSnNVNmlNYUxaUFBVN1RVR0FnS0N5VU1Ic1hlOUl6c2owQlpqV0d1LXF2TnBfUkNrMkJBZlQzQnI0UGx4Q1BhLTdpN21XdjMydkZnVVc3S0hYSXdMMGd5VlhibWZEelRNU1hjOFpFbE05RHoxV05sa1RqN1HSAZIBQVVfeXFMTzVKNlhDWVRSZWRXQ1hNQkVnQjIweHVHbFVUbWtxRWFobmVhMFVZaXhSeGlrUFNYUmZWY2JZWC10R0RqY0x4OExGWUhxclM2RV8tWG9RYjJMME9CQWJndDFHbmVxVjJmUEVoYzBFc3lzQTMwVDFROXhDNEtBUERmSnhyN0Z6dE90OUdpel9henEzT0E?oc=5"
-    },
-    {
-     "name": "GSMArena",
-     "link": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php"
     }
    ],
    "firstSeen": "2026-10-29T18:23:53.054Z"
@@ -891,6 +935,14 @@
     {
      "name": "Moneycontrol.com",
      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWM4cWhPdDE3QXptd0ZPZE45ak9XbV9FNlZPR29uVDhsS0hUYkVvSzNqUkRRNTdYSXRGMngxLXZ4M05oT1gtRUpYeWRMejJHM3ozMElTUVkyUXpobGk5T2RkYUJ3TXQ4S1dkUDYwLUlBMXJOMGdWcDRIMW5wZkpHRkN5TUtmRzhpWVFEZksxTnFGdmV6TVRodVBZUWFYM0lzbThCTUtSZ3ptbjhOWHZGTmVtVGhyd3QwMXN5a1lMUkhiN0VWb3Voa19ZbTdiZ21uUGJtbjhCOFEyYXBUaE1xeWZ30gHnAUFVX3lxTE13VzVMRXVjallPV2ZoRmEtdVZxTnJnWDJxMWtJZHQ5QmFVRmlrMlBZWG1tMzhUTDRKbGFseWlQNHotdFJaZXlfVEVaTnNZZ2hRR2NNZmthdnFSUmFuamVBMzNjSVhyN19HXzh4R1dNN243RlpzcGZrMUtNbVc3RFFZcGY4R1JTakE4am5TYlNvUmI5dF9JSFZlWko4azVGdDZFY2E1TXViZjBJLUxua3ZVTEVGZGcwVlZBVzh1SXpqUXNCM1JHdmRuNWVuRXpkT194eUppeEpYQ0h0ZjVkcjhnUlZXTE52aw?oc=5"
+    },
+    {
+     "name": "TelecomTalk",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uNzd5S1FhSGxKOUd2cklReTZMMGsxbmxxUG9lMjhHbV9uaGtMWmwxakF5UHFpUWFtdFN1VmRXMGJLR2VOaUt0MXlJcTZ6cFpxZ3hkZWcwYVNUakJDUV9XMkRPdEVWZk5iM0NlMmx1alhKbkVrVm8zRG5n?oc=5"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3BuZzQ5OFUzUFF6SThNS1BqWlp6TVV6NXN0ZWNOZE9Mb0NKWHRtRTdXOXRxdHBWOHM2MlJVaWRvaVY3enA2cHRmanBQQzFSTzRzTEJEQnhDbEItV3Z0MFdYeFdDLWV3aHRBLXJXSHFEQ0xERjE4WkRPS3BiaVBRNHV4cEtNSDFEbjg2NGVSVXlfVVVDX0xZenRXSUhmdnFsRnB6U3JBNi1kdnRobWlxd2FvTUxFUmZ3SWxkMThlNGdGZmN3UUd5UQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-29T09:47:18.631Z"
@@ -1006,6 +1058,50 @@
    "firstSeen": "2026-10-29T09:47:18.631Z"
   },
   {
+   "id": "965cea2519fc",
+   "title": "Amazon cuts 250 jobs after new Kindle launches",
+   "summary": "Amazon cuts 250 jobs after new Kindle launches News Karnataka",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnI5WlVaX245Q2RFQW9JSkxiVERKUTRmdE9CbnNGVmw3VTZPRjROS01hS0FPYmkzMy1JTjlZb2JvN0tXbWh4dDQxX3Mxa1ZTZnpSd1BUZU5DV1FQNUs4YzBTQXhUNEE5Ui1Uc1JrWGlIOThIUHFmc01IZUNwMmVJSVppa3lhRDdfV1VKTnlnNFpiTWl2RVE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T06:11:23.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "News Karnataka",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnI5WlVaX245Q2RFQW9JSkxiVERKUTRmdE9CbnNGVmw3VTZPRjROS01hS0FPYmkzMy1JTjlZb2JvN0tXbWh4dDQxX3Mxa1ZTZnpSd1BUZU5DV1FQNUs4YzBTQXhUNEE5Ui1Uc1JrWGlIOThIUHFmc01IZUNwMmVJSVppa3lhRDdfV1VKTnlnNFpiTWl2RVE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
+   "id": "39e2372da3fd",
+   "title": "MacBook Pro OLED Price in India: PROLED XDR Touchscreen, Specs and Launch Date",
+   "summary": "MacBook Pro OLED Price in India: PROLED XDR Touchscreen, Specs and Launch Date Gogi Tech",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CMzJKZmdQVXhEeVpZVHFWSXhUSjk5Y0ZCVThWTVhLX2NVVGRRMGFKbS1aVkJKcE9MdTlJQ2hnNmVqaEZEdzlzejd4YTVEOTRDVS1hMmRtZmpZRHc0b3gyVVhoa9IBaEFVX3lxTFB0WllBN0toX0RpNFEwNHZQbkUzNXVuaUdyUzRLdTNhMVAtZGlpRFFMeFhneXpBNTduVTgzQWROWkNSLVJLSkdRaDQySzZtaV9pbjFXbHRDQkdGVEN6M0tmSV8zMnptTkJj?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T06:05:12.000Z",
+   "date": "2026-10-29",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gogi Tech",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CMzJKZmdQVXhEeVpZVHFWSXhUSjk5Y0ZCVThWTVhLX2NVVGRRMGFKbS1aVkJKcE9MdTlJQ2hnNmVqaEZEdzlzejd4YTVEOTRDVS1hMmRtZmpZRHc0b3gyVVhoa9IBaEFVX3lxTFB0WllBN0toX0RpNFEwNHZQbkUzNXVuaUdyUzRLdTNhMVAtZGlpRFFMeFhneXpBNTduVTgzQWROWkNSLVJLSkdRaDQySzZtaV9pbjFXbHRDQkdGVEN6M0tmSV8zMnptTkJj?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
    "id": "7c27e5f567e3",
    "title": "Apple Launches Touchscreen MacBook Pro Starting at $2,899",
    "summary": "Apple Launches Touchscreen MacBook Pro Starting at $2,899 Udaipur Kiran",
@@ -1026,6 +1122,36 @@
     }
    ],
    "firstSeen": "2026-10-29T09:47:18.631Z"
+  },
+  {
+   "id": "51dfc5f49e4e",
+   "title": "Wobble to launch its second smartphone, the Speed 5G",
+   "summary": "Wobble, an Indian smartphone brand owned by Indkal Technologies, is preparing to launch its second handset, the Speed 5G. The company debuted its first smartphone, the Wobble One, in November last year. The company has shared a couple of teasers on social media, confirming the up",
+   "link": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/wobble-speed-india-launch/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-10-29T05:54:58.000Z",
+   "date": "2026-10-29",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena.com",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODNqNWtMN2xYWGxtVDYxRFpZMTJjN1Y0MjkxSnNVNmlNYUxaUFBVN1RVR0FnS0N5VU1Ic1hlOUl6c2owQlpqV0d1LXF2TnBfUkNrMkJBZlQzQnI0UGx4Q1BhLTdpN21XdjMydkZnVVc3S0hYSXdMMGd5VlhibWZEelRNU1hjOFpFbE05RHoxV05sa1RqN1HSAZIBQVVfeXFMTzVKNlhDWVRSZWRXQ1hNQkVnQjIweHVHbFVUbWtxRWFobmVhMFVZaXhSeGlrUFNYUmZWY2JZWC10R0RqY0x4OExGWUhxclM2RV8tWG9RYjJMME9CQWJndDFHbmVxVjJmUEVoYzBFc3lzQTMwVDFROXhDNEtBUERmSnhyN0Z6dE90OUdpel9henEzT0E?oc=5"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php"
+    },
+    {
+     "name": "FoneArena.com",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xSVJ1aEdvUlNhb3IyeWFCWjdVeGY3Y3U3bmtFNFdkY1AtTm9OVTRkRWxPd0haRS1TbjdhMW9lSHp5QVJRbG9RYm0wNXo5VmR4dmx2N3lRT21fVVZMMVFNU05KTDZjVzRNX2dMdWtYenlCY3PSAXhBVV95cUxPR0oyUlMydmlYMC1YaFFiaktjLXFpOXJNcEJydTVEMlFmQmVCS0ZpVnFScU9RUFB2Z2dlRUhScWxMVS1Fc2lCYm41aUhuZXk5T2h3NjRYR19YNEs2MWkwc2dWY190bkdEWnNZM2lVOVhxMkxOcU5PSmo?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
   },
   {
    "id": "d35f29030cae",
@@ -1392,6 +1518,28 @@
    "firstSeen": "2026-10-29T09:47:18.631Z"
   },
   {
+   "id": "d4a6b750a5d2",
+   "title": "Sony launches Xperia Z3 & Z3 compact flagship smartphones in India",
+   "summary": "Sony launches Xperia Z3 & Z3 compact flagship smartphones in India Digit",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSE1SQ1N5OVl2cFItUXhZb250Mlc5YllTWFhFNGg1RFE3a0MzVjB5UWdoQ1V0SVpEdF9zSFhOU0JPSFZfTEdXSVRLMVVfcGhuOFFjTDRvOEs4YV84ODhlUzFyQl9fRGhHT01sWTlmUmR6M1lJY1VRbTlXc1RscVRXRzU5Zk91Sjk2UWd0QUtyakJwUVF0SkRXeDdwT1RRbTA5MndyYko5aUF5QdIBsAFBVV95cUxQR0tKWVZfRmpSTkZvN0Fma3Z0VmVmdXF3TU5zRzgwSndUM3ZwNXpWZ2lxOXdTMXFZY1hnTE5FOF9Fc04zR0RGQlpuelpmNDNKNHJ4UnNtQ0FMb055UEo4WWRXYktFb1ZtYWlReml4bng1VnJrX1dvZDBmMk5tWWVIbnUxenRtZ0ZuZV9hajZXaGRDM2F5MHAyYXU2TkVucmJnSjZxczRST0ZMYUVoZ3UtRQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T00:00:00.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Sony",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSE1SQ1N5OVl2cFItUXhZb250Mlc5YllTWFhFNGg1RFE3a0MzVjB5UWdoQ1V0SVpEdF9zSFhOU0JPSFZfTEdXSVRLMVVfcGhuOFFjTDRvOEs4YV84ODhlUzFyQl9fRGhHT01sWTlmUmR6M1lJY1VRbTlXc1RscVRXRzU5Zk91Sjk2UWd0QUtyakJwUVF0SkRXeDdwT1RRbTA5MndyYko5aUF5QdIBsAFBVV95cUxQR0tKWVZfRmpSTkZvN0Fma3Z0VmVmdXF3TU5zRzgwSndUM3ZwNXpWZ2lxOXdTMXFZY1hnTE5FOF9Fc04zR0RGQlpuelpmNDNKNHJ4UnNtQ0FMb055UEo4WWRXYktFb1ZtYWlReml4bng1VnJrX1dvZDBmMk5tWWVIbnUxenRtZ0ZuZV9hajZXaGRDM2F5MHAyYXU2TkVucmJnSjZxczRST0ZMYUVoZ3UtRQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
    "id": "69d12155b74f",
    "title": "Loudest Skullcandy Headphones - Skullcandy just launched its most advanced headphones to date What Hi Fi",
    "summary": "Loudest Skullcandy Headphones - Skullcandy just launched its most advanced headphones to date What Hi Fi auroradesio.it",
@@ -1568,26 +1716,48 @@
    "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
-   "id": "1583e001a00a",
-   "title": "OnQ Unveils Retail Security Brackets for Apple iPhone Duo and Apple HomeView",
-   "summary": "OnQ Unveils Retail Security Brackets for Apple iPhone Duo and Apple HomeView 01net",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVERIbkNmLVFqOGRMaG5PZVhtRFdZclA3Uk1kZG9pYVFVX3cwamVuMEtEc0VWQVpScXFhNVV3bmYyNm9tSTR4eGFhZXQzNkRIcFR1TE56ZG5VNVVHZU1MWk51R1RjcjNJSzUwcG1pVlNWOWlubUVFcGg1Nm5RbTJPTnRCU1IwbHJ4YkRsYnNnTzA5X3dsZl96X0RTY3Z3UzA?oc=5",
+   "id": "6a7a91d60876",
+   "title": "Hunting on smartphones is finally here! \"Monster Hunter Outlanders\" officially launches!",
+   "summary": "Hunting on smartphones is finally here! \"Monster Hunter Outlanders\" officially launches! Saiga NAK",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Lb1R1VnRaMW4wWV9MMmxWNG9fWFNINXoxMmdSV0VNcHdWMHR4VXpGMXZYZUxZQjdFNno2ZjJiWjNld3JMLTdibXlYMzdlalZaSXViVnFoUlhFSUxqS3NyTm1neHhpT2Jo0gFoQVVfeXFMTktvVHVWdFoxbjBZX0wybFY0b19YU0g1ejEyZ1JXRU1wd1YwdHhVekYxdlhlTFlCN0U2ejZmMmJaM2V3ckwtN2JteVgzN2VqVlpJdWJWcWhSWEVJTGpLc3JObWd4eGlPYmg?oc=5",
    "image": "",
-   "publishedAt": "2026-10-28T19:00:00.000Z",
+   "publishedAt": "2026-10-28T19:10:54.000Z",
    "date": "2026-10-29",
    "status": "Launched",
    "category": "Smartphone",
-   "brand": "Apple",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Saiga NAK",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Lb1R1VnRaMW4wWV9MMmxWNG9fWFNINXoxMmdSV0VNcHdWMHR4VXpGMXZYZUxZQjdFNno2ZjJiWjNld3JMLTdibXlYMzdlalZaSXViVnFoUlhFSUxqS3NyTm1neHhpT2Jo0gFoQVVfeXFMTktvVHVWdFoxbjBZX0wybFY0b19YU0g1ejEyZ1JXRU1wd1YwdHhVekYxdlhlTFlCN0U2ejZmMmJaM2V3ckwtN2JteVgzN2VqVlpJdWJWcWhSWEVJTGpLc3JObWd4eGlPYmg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
+   "id": "61b19c2e6db7",
+   "title": "Amazon unveils Echo Studio with a 13-megapixel camera — Ars Technica",
+   "summary": "Amazon unveils Echo Studio with a 13-megapixel camera — Ars Technica UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGk2dUtacTNtcDREbnpjYnJBV1lJQUZuZ1k1QWV4Q183aHhORVRkSWd4TXdHZzh0WldWSjJabGRLbVhmOEJ6NjJZNmd5Q2libkZiOFdnQXEwYWxZNTRfcG1Lc3B0d0ZGUWhPTjJOVU1jVFBoRWVrX2psNU1OT2FDbHE4OXdleTgxcWk3RjktZnVtNlJUVW5QREQxUzZVZURTdWtNa3Q1cw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T18:43:51.000Z",
+   "date": "2026-10-29",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
    "region": "Global",
    "confidence": 3,
    "aggregator": true,
    "sources": [
     {
-     "name": "01net",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVERIbkNmLVFqOGRMaG5PZVhtRFdZclA3Uk1kZG9pYVFVX3cwamVuMEtEc0VWQVpScXFhNVV3bmYyNm9tSTR4eGFhZXQzNkRIcFR1TE56ZG5VNVVHZU1MWk51R1RjcjNJSzUwcG1pVlNWOWlubUVFcGg1Nm5RbTJPTnRCU1IwbHJ4YkRsYnNnTzA5X3dsZl96X0RTY3Z3UzA?oc=5"
+     "name": "UA.NEWS",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGk2dUtacTNtcDREbnpjYnJBV1lJQUZuZ1k1QWV4Q183aHhORVRkSWd4TXdHZzh0WldWSjJabGRLbVhmOEJ6NjJZNmd5Q2libkZiOFdnQXEwYWxZNTRfcG1Lc3B0d0ZGUWhPTjJOVU1jVFBoRWVrX2psNU1OT2FDbHE4OXdleTgxcWk3RjktZnVtNlJUVW5QREQxUzZVZURTdWtNa3Q1cw?oc=5"
     }
    ],
-   "firstSeen": "2026-10-28T20:11:44.196Z"
+   "firstSeen": "2026-10-30T09:52:37.324Z"
   }
  ]
 }

@@ -125,22 +125,26 @@
   },
   {
    "id": "8333b4d2065c",
-   "title": "Apple unveils colorful new HomePod mini 2 with no Siri AI at launch",
-   "summary": "Apple unveils colorful new HomePod mini 2 with no Siri AI at launch Mashable",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3XzZWTERTQTh5ZjJMbUFEYUtnUkRUbWZzUTc1QWtxWlZfOGt4VkcwNW9rdG8zYmY4Q2cwNUhaVG1KNUNzU3VwQWtuSTR0Z1Exc0I2TEpWSzlWNVBJVW5ERThCQVFhZGUzRVpLS0tMTHQxeF9CZXg2c1dn?oc=5",
-   "image": "",
+   "title": "Apple HomePod Mini 2 Goes on Sale in India Today: Price, Specifications",
+   "summary": "Apple HomePod mini 2 is now available for purchase in India. Apple announced its latest smart speaker on October 13, featuring enhanced audio and support for Siri AI. Apple will introduce the upgraded voice assistant in a future software update. When paired with the new Apple TV ",
+   "link": "https://www.gadgets360.com/audio/news/apple-homepod-mini-2-sale-india-price-specifications-features-12257226",
+   "image": "https://i.gadgets360cdn.com/large/homepod_mini_2_1793334893756.jpg",
    "publishedAt": "2026-10-19T17:03:00.000Z",
    "date": "2026-10-19",
    "status": "Launched",
    "category": "Smart Home",
    "brand": "Apple",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "Mashable",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3XzZWTERTQTh5ZjJMbUFEYUtnUkRUbWZzUTc1QWtxWlZfOGt4VkcwNW9rdG8zYmY4Q2cwNUhaVG1KNUNzU3VwQWtuSTR0Z1Exc0I2TEpWSzlWNVBJVW5ERThCQVFhZGUzRVpLS0tMTHQxeF9CZXg2c1dn?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/apple-homepod-mini-2-sale-india-price-specifications-features-12257226"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"

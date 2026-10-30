@@ -1611,12 +1611,16 @@
    "category": "Other gadget",
    "brand": "iQOO",
    "region": "Global",
-   "confidence": 1,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "GSMArena",
      "link": "https://www.gsmarena.com/iqoo_16r_receives_its_first_certification_ahead_of_release-news-75147.php"
+    },
+    {
+     "name": "The Hans India",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTm9OU0NnNm9PczRCR3JtRXNBNVpCaUkyMDhEakxiYXp4LU9qb1FyV1drUGM4OHBiMGRtclRLZjhVOFFqVG1PeVZXejZmM0RvZU82MU16Qno4NXZMV3Z6U2dVQjRkLVJPV3AyOWhYSmRZUzVlZ2E1YmJWR09zRmRqSzhNcDhKbjVUb3JQUTVGdGpyU1BOeGRsYkJQT0VxaXIwVG11QTFxdE5teWZubzNyR1hLakhGczA?oc=5"
     }
    ],
    "firstSeen": "2026-10-22T04:27:47.286Z"
