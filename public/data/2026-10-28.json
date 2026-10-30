@@ -190,28 +190,6 @@
    "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
-   "id": "6f7cca2bae0f",
-   "title": "Apple launches its first touchscreen MacBook Pro: What is new, India price and more",
-   "summary": "Apple launches its first touchscreen MacBook Pro: What is new, India price and more India Today",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXpQejJoTGNUcDZrYkNlaElGbi1XNVNrOXM3NWVldlRDU2hYRmo5bXBuODJLUTZEbTNndzEzbGJkbTVScHBlRFJYMTJQR0pvb1JJWXFudjQyN3JiRkJRZ2NCLXRjWkNzWjg4U1d5NDdxNENweXg1SzNnOW5nNkxRbl9rS25iU0k4TFA0VVZmVmRYOHZWbUN6X1BDUF80R1h5VWdTU1JZMTU1TkNERE5hYng3Y2hOOXZpYkdBamE1VF9NZGF1M1JKblFnNVJYWU0xOE1uay1WU2s5czZvVXVsbDRR0gHnAUFVX3lxTE11dHAta0tQNlcxc0JiRnRVc2h3bHExeFJQV19wTTJ3OEJRUDc1czZrTnRJaF84WFBERmNfNmhVNFpOd3RNUGZROGV4d0ZzaXRUUFhUaUdscTJKdEtoREFNVmg4UGU4bldSaE5vS0ZKTjNNdXA1X1ZUNWtLNmRBbkF6RF9TWjE1U1piM0hlc283YnRVNFR3U0FCQ3lwSmxhNkpTRmxIaG9JU19IdUR6WVk4OFRUNzVjOFc4UTJTNWZxamkyT3cxejJVTWZFdWQ0NkFCeFlVQnhsRnZhUlVGSGdUMXVtM0tqcw?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-28T17:21:46.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "Laptop",
-   "brand": "Apple",
-   "region": "India",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "India Today",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXpQejJoTGNUcDZrYkNlaElGbi1XNVNrOXM3NWVldlRDU2hYRmo5bXBuODJLUTZEbTNndzEzbGJkbTVScHBlRFJYMTJQR0pvb1JJWXFudjQyN3JiRkJRZ2NCLXRjWkNzWjg4U1d5NDdxNENweXg1SzNnOW5nNkxRbl9rS25iU0k4TFA0VVZmVmRYOHZWbUN6X1BDUF80R1h5VWdTU1JZMTU1TkNERE5hYng3Y2hOOXZpYkdBamE1VF9NZGF1M1JKblFnNVJYWU0xOE1uay1WU2s5czZvVXVsbDRR0gHnAUFVX3lxTE11dHAta0tQNlcxc0JiRnRVc2h3bHExeFJQV19wTTJ3OEJRUDc1czZrTnRJaF84WFBERmNfNmhVNFpOd3RNUGZROGV4d0ZzaXRUUFhUaUdscTJKdEtoREFNVmg4UGU4bldSaE5vS0ZKTjNNdXA1X1ZUNWtLNmRBbkF6RF9TWjE1U1piM0hlc283YnRVNFR3U0FCQ3lwSmxhNkpTRmxIaG9JU19IdUR6WVk4OFRUNzVjOFc4UTJTNWZxamkyT3cxejJVTWZFdWQ0NkFCeFlVQnhsRnZhUlVGSGdUMXVtM0tqcw?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-29T18:23:53.054Z"
-  },
-  {
    "id": "c25706f86556",
    "title": "Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance",
    "summary": "Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance Bloomberg.com",
@@ -259,6 +237,10 @@
     {
      "name": "The New York Times",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTlfVVpxYXA5T2hUNEcxcEsxMkFEX3otUWdmbUNpQllaOWJBZVVBbElWTXhUYVZQM20yZGdkSFZhN1VSU0dWSDZQX1NpOG9FcmlodGJwN3hlalMwdlBBUkxBeVM3WTRWbDN6V2xpUXRrOFh2NXpwV2JHTDg3UC1vR1UwYTlvdVVw?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UZVFUYzZ2a0EtNGpDTVpWaXVNa0Y2MlBfZGhwZUdGT0ZPWk1lLThwQ0RtbU9aMDJCd2xlYkN3a0JXTEsyVXluZTB2SkFsRkZpVkNjZGRsWE11Zy1jNlZ3Ym91Z2d1WEVRcHpHNFpnRnRCRmNYeTJacE5JRzA4QQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-29T00:46:42.544Z"
@@ -376,6 +358,52 @@
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "6f7cca2bae0f",
+   "title": "Apple launches its first touchscreen MacBook Pro: What is new, India price and more",
+   "summary": "Apple launches its first touchscreen MacBook Pro: What is new, India price and more India Today",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXpQejJoTGNUcDZrYkNlaElGbi1XNVNrOXM3NWVldlRDU2hYRmo5bXBuODJLUTZEbTNndzEzbGJkbTVScHBlRFJYMTJQR0pvb1JJWXFudjQyN3JiRkJRZ2NCLXRjWkNzWjg4U1d5NDdxNENweXg1SzNnOW5nNkxRbl9rS25iU0k4TFA0VVZmVmRYOHZWbUN6X1BDUF80R1h5VWdTU1JZMTU1TkNERE5hYng3Y2hOOXZpYkdBamE1VF9NZGF1M1JKblFnNVJYWU0xOE1uay1WU2s5czZvVXVsbDRR0gHnAUFVX3lxTE11dHAta0tQNlcxc0JiRnRVc2h3bHExeFJQV19wTTJ3OEJRUDc1czZrTnRJaF84WFBERmNfNmhVNFpOd3RNUGZROGV4d0ZzaXRUUFhUaUdscTJKdEtoREFNVmg4UGU4bldSaE5vS0ZKTjNNdXA1X1ZUNWtLNmRBbkF6RF9TWjE1U1piM0hlc283YnRVNFR3U0FCQ3lwSmxhNkpTRmxIaG9JU19IdUR6WVk4OFRUNzVjOFc4UTJTNWZxamkyT3cxejJVTWZFdWQ0NkFCeFlVQnhsRnZhUlVGSGdUMXVtM0tqcw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T17:05:56.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "India Today",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXpQejJoTGNUcDZrYkNlaElGbi1XNVNrOXM3NWVldlRDU2hYRmo5bXBuODJLUTZEbTNndzEzbGJkbTVScHBlRFJYMTJQR0pvb1JJWXFudjQyN3JiRkJRZ2NCLXRjWkNzWjg4U1d5NDdxNENweXg1SzNnOW5nNkxRbl9rS25iU0k4TFA0VVZmVmRYOHZWbUN6X1BDUF80R1h5VWdTU1JZMTU1TkNERE5hYng3Y2hOOXZpYkdBamE1VF9NZGF1M1JKblFnNVJYWU0xOE1uay1WU2s5czZvVXVsbDRR0gHnAUFVX3lxTE11dHAta0tQNlcxc0JiRnRVc2h3bHExeFJQV19wTTJ3OEJRUDc1czZrTnRJaF84WFBERmNfNmhVNFpOd3RNUGZROGV4d0ZzaXRUUFhUaUdscTJKdEtoREFNVmg4UGU4bldSaE5vS0ZKTjNNdXA1X1ZUNWtLNmRBbkF6RF9TWjE1U1piM0hlc283YnRVNFR3U0FCQ3lwSmxhNkpTRmxIaG9JU19IdUR6WVk4OFRUNzVjOFc4UTJTNWZxamkyT3cxejJVTWZFdWQ0NkFCeFlVQnhsRnZhUlVGSGdUMXVtM0tqcw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR2FZV040X3lnOTZIMUJuZWt0Y1haZTd1TlpSMWRGQi0zU19WN2t0MldNT21GNUtyZzlxX21lUjJKQ0h3SWFHTW9FYVJ3T1BtVVRhWHpnZGtJVDNZSF9ROXBDcERKVzZDSWpvSUVya3lEN1BHZDF1RzMzUnFycmh1NmRSQ2hJMWRtWVR6NGJWTDhVQUJkVlUxNGJqUjFjRk44MVdBaW5sSkZRZDNXd1E1anFBTHhLZUNMaWE4Uk0wOA?oc=5"
+    },
+    {
+     "name": "AugustMan Singapore",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUE1vQU1vQzA4cUg0cTFqeE5pcUhQajUwY2FOSUdRVXliZGU4RUFTWmVlWkRmR1NKUFhJOVM0YXd4LW1NbnlaZGxMUzFvZUIycGxVbXZTWm5qcjRQNTdubUNTNjlubDZTZy15OUFHQ1VmRy1tZldkR01hU3N4RlZpLXNINldLeTR3OVIzaVBLRVNPQnFZRFRmTm1iQkhiRVRxU2g1QmdTRXVwTVZYaVhBYdIBtgFBVV95cUxNQ2RSOGlZTDRsdjIyeklOQUw3VUdETHdVQTZCWVZBUThuYzdpNVNkLXJrdm5HVHpURlVERFFPWVplNHltRUVSZW5EOVNNZ2R2WXRKXzE1TEF5ZnVaLUFKZmVyY0FXdTZwRXZXNDBsbWtHMkUtTUZwNGd0cFFReUxDblRVN0RxeVFmVWw5VG9wVzNpTU5sY1hMUkdZd1h2V0N5WElNbXJubUo3S1hhakZvWU9jRGVzdw?oc=5"
+    },
+    {
+     "name": "The National",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0huWEZkU2x4SGhISTZzMnpZTHFzTmxtMU9seVBLM2hUck5XVndQTkxid3lKU3l5bm1mNndBbklxT1l6MTJpQ1FxTWw0cUgwekJtM1poRnJ2R0hUWlEzU3lGSUlWdHR5TFJpVEZYZ0FkTUVYRXhZMENwbE5ySVFMUVV6eDRHNGdraXpweUpwdk11bVhLTlNjUQ?oc=5"
+    },
+    {
+     "name": "The Verge",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdjhRb1VMVVhfVkVFMjBaZDhMeWVhb1JZSzJPcTdXLVl5blpIQXVDOXZ2S0JfNEJFYWN0MlB3b2I1LTc2MVBjYU5nUWxYMkZaMV9DNENsSEluajJJWU15bWFDQnhqclBPdkpLbl9LM25CaUtXOS1uUWhCdDUwNV9KNVViakJXdw?oc=5"
+    },
+    {
+     "name": "AOL.ca",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFTFFmRGhPNTFrQk9SNXd4M0pOUVhYOG5tUlNtaDZBV09EWTdqSk44QXNIbndId1l4T1NIdkRrd3hWWDAtdVJtV0VtdFV5UXB5dENET2NhNEdPN2k4TDI3b0RoVGZSWnhncmduQ0lmbFJ5ZkZsX3JNS3ZVQ1Y?oc=5"
+    },
+    {
+     "name": "Dimsum Daily",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jcFVlRTBJbzJacTN6YVdfSDNmR0RnZUVuV0FQaVFQa25xcEtjWFdrU2pLLUppbHlOdmpiTXV2aVo4d2V6dFdGMVdJVGpmc3AyZzVsWFBUbW5kbHJWcUlVWkFtTXZ5bFRkSlpycFlXT0szYnFXMEp0RDFwMA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-29T18:23:53.054Z"
   },
   {
    "id": "478b2c4b0be0",
@@ -514,7 +542,7 @@
    "status": "Launched",
    "category": "Laptop",
    "brand": "Apple",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
    "aggregator": false,
    "sources": [
@@ -533,6 +561,10 @@
     {
      "name": "Pocket-lint",
      "link": "https://www.pocket-lint.com/apple-officially-unveils-its-touchscreen-oled-macbook-pro/"
+    },
+    {
+     "name": "WION",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMlNoc1VaY0VUTlNtVFR3OFZ1VE1VNDViQzdsWjg0REEyZzljbzVoeGVRR1dud2dtZ0FfNG43bTdkWDg1Wm52Y1ZKNHEtV3oyaTNhOS15bzFYZkVIS3M4eTBpcUYxLTVaRlBNMEJmNV81LUlYVlFUd1VZX1VjZ1VWeDNVdjdMWnpQVThKak1iYmM4VERFdHJEWlVySzR3UjdXUngydk9mUzBKRENaYU5Pa21DUm9pTXpBYjhzeG56VUJJQTc5V3hLT1VSZ2M2Nmo1eHdr0gHYAUFVX3lxTE9OcmI2NjZlcU40YWx3aXJPUEp5N3p2TDRrSWU1NUZYNzVPWXY2eDFlWmlSRG5qMzJZVWdLMDlWbzJKR2tHcXZISEh0akhNNkRWV01ydHB6UGdOeDRza2o4dTdFRS14TmtMalc1SWhERDlXdkVHb0pPZmphMkVzUDJ2MlozNWJ2SVNNZWtBbXN3MFgxRzQ1NFNtem1JbUw5Mnk2T29uZHBLbXdIVk5MMXRzNXlwcEFHUVo3TWVrX1ZRU0g3NFhBMll4elpUNlRNQ1IzRUQ1VlVydg?oc=5"
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
@@ -679,7 +711,7 @@
    "summary": "Anduril and Qualcomm prepare to launch US-made BlueChip laptop for critical use cases Telecompaper",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZjMxclRGSEtqVVZWWVFyNXhjenlQZU8zanc2Tm9ZdVlLNUNYamhvODI4YTRGc1p1RFlBa3p1aFNJR2x2eFZDZGtjUXoxZHVyYzg3WXQxY1NFSGxNNEFKd0lWUENOY1JGNVBxSnlfbTlFR0I3ajlkeHpnTnNWZ051WGE5SUNCaXBpaURZOEQ1S0QxbWVnMTdnV0pqRlhRUUVBMmUyUGdXeTdKd0ktYnJSQUhTZlVMZDJSMnAtM2JhR2N4SkNQZDBN?oc=5",
    "image": "",
-   "publishedAt": "2026-10-28T15:35:42.000Z",
+   "publishedAt": "2026-10-28T15:35:05.000Z",
    "date": "2026-10-28",
    "status": "Upcoming",
    "category": "Laptop",
@@ -848,6 +880,28 @@
     }
    ],
    "firstSeen": "2026-10-28T20:11:44.196Z"
+  },
+  {
+   "id": "22737e13688b",
+   "title": "Samsung unveils its first sports ear hook headphones.",
+   "summary": "Samsung unveils its first sports ear hook headphones. Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXJsREdYaGNDZXlEaVRpdTdvOTVSVzZ4d1FfSVkyLWZsZWExRXhDUW5udFE0d1c1TlowaWxwejc1bXdINkwtc2gzUEQ0TThrSHRHRjBZME94S3V5OW1YNXFoT3hCbld2V2V1cFBhRmVzYWY1bkQ2dFUtSXJLV2FjSklOWko?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T14:54:49.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXJsREdYaGNDZXlEaVRpdTdvOTVSVzZ4d1FfSVkyLWZsZWExRXhDUW5udFE0d1c1TlowaWxwejc1bXdINkwtc2gzUEQ0TThrSHRHRjBZME94S3V5OW1YNXFoT3hCbld2V2V1cFBhRmVzYWY1bkQ2dFUtSXJLV2FjSklOWko?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T00:47:14.321Z"
   },
   {
    "id": "8d452a657390",
@@ -1978,28 +2032,6 @@
    "firstSeen": "2026-10-28T07:24:55.929Z"
   },
   {
-   "id": "81bcacbff1fa",
-   "title": "XPPen Launches Magic Pro 13, a 12.95-inch Android Tablet with 16,384 Pressure Levels, at ¥169,800",
-   "summary": "XPPen Launches Magic Pro 13, a 12.95-inch Android Tablet with 16,384 Pressure Levels, at ¥169,800 BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xb2IzdmJWczFBZXp6TGI1clphRlJqbGg5R0NCQTU0LTNYeG03a3kyUGhhb2FZd3NjWXpHSkdLUnZvb2s0UE80QTRnMFlwVWg2NFJWd2JwWGVkV2dnM3czMW5RaG1McHB0Y2g2MG0wSGZNdndGcUE?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-28T07:00:21.000Z",
-   "date": "2026-10-28",
-   "status": "Launched",
-   "category": "Tablet",
-   "brand": "—",
-   "region": "China",
-   "confidence": 2,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "BigGo Finance",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xb2IzdmJWczFBZXp6TGI1clphRlJqbGg5R0NCQTU0LTNYeG03a3kyUGhhb2FZd3NjWXpHSkdLUnZvb2s0UE80QTRnMFlwVWg2NFJWd2JwWGVkV2dnM3czMW5RaG1McHB0Y2g2MG0wSGZNdndGcUE?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-28T20:11:44.196Z"
-  },
-  {
    "id": "bdebde1ebddc",
    "title": "iQOO Neo 12 Launched in China With Snapdragon 8 Elite Gen 5, 185Hz Display and 9,000mAh Battery",
    "summary": "iQOO Neo 12 Launched in China With Snapdragon 8 Elite Gen 5, 185Hz Display and 9,000mAh Battery My Mobile India",
@@ -2024,6 +2056,28 @@
     }
    ],
    "firstSeen": "2026-10-29T00:46:42.544Z"
+  },
+  {
+   "id": "81bcacbff1fa",
+   "title": "XPPen Launches Magic Pro 13, a 12.95-inch Android Tablet with 16,384 Pressure Levels, at ¥169,800",
+   "summary": "XPPen Launches Magic Pro 13, a 12.95-inch Android Tablet with 16,384 Pressure Levels, at ¥169,800 BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xb2IzdmJWczFBZXp6TGI1clphRlJqbGg5R0NCQTU0LTNYeG03a3kyUGhhb2FZd3NjWXpHSkdLUnZvb2s0UE80QTRnMFlwVWg2NFJWd2JwWGVkV2dnM3czMW5RaG1McHB0Y2g2MG0wSGZNdndGcUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-28T06:55:00.000Z",
+   "date": "2026-10-28",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xb2IzdmJWczFBZXp6TGI1clphRlJqbGg5R0NCQTU0LTNYeG03a3kyUGhhb2FZd3NjWXpHSkdLUnZvb2s0UE80QTRnMFlwVWg2NFJWd2JwWGVkV2dnM3czMW5RaG1McHB0Y2g2MG0wSGZNdndGcUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-28T20:11:44.196Z"
   },
   {
    "id": "d3524f861823",
