@@ -34,13 +34,17 @@
    "status": "Launched",
    "category": "Laptop",
    "brand": "Apple",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "آي-فون إسلام",
      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVUJ1bzhzeU1BMi1uZFlmcEUtY0JrQmVDUmlXRTBBSnRlRHU5N2xuRjVnRU4yTFlFZEZGcld5LThxM1NDTlV4OV92OE16Rm9FWGNETzVjTWI4QkpQZkxZZmVSM0JWYjN2cmhtQ2oyZEFSenItMGpqMk11aXRWZUZCVnBYY2F6Y3YyWlp5RVhzQm1vb0lTbGtPRUliZl90ZGtBM196UEZMbmJfSVZNeTBoaUFTbEJVQTBJMlF0T0tWQkhIcXZNeGZSM2k1REF2a0dUa3h5NHdmRS1jR1BhX01ObWs2QnB1WTBURGNWMWVKWXZnMEQ1Ujc1Yw?oc=5"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjV5VGQ1ZWJkWTE0OEJuWkQtbWlDU0dhN1o3c0VQNld1OXlxbUxmTGFVS3JoQlkwSV92MmJ1Qi0tbkZaRVk1aHBXVlk0Q0RhM25HZF9sV0JHWkdNMUUwdkM0TXRXVlR5M2Y0VXVTaUY2SGhhWmlaU0U0RFQ5THNpdkVLWUZhZ2J3WkZSMUlQcFN0R1NxR05Edkh2MXhXS0FEc0HSAacBQVVfeXFMT0o4cGpVek50NTk0VTZkeFBRc1dscngtai1Fc21aSERNMWRnTC00a1RlZlJTREN0X3Vna3pwT3lybjVtUlhPbkRXZ2tIeGhJWkRvQzJSblBIQ1FXM1RpNE5xZ2dzNUpUN1VIQ1NaMkJkX093ZWp0WmNXSnJhd0FDUnhMVTYwaThWOFlTaXBYMjNEZVBQV2xBLUg0eDdySFBfdWktczEzWjA?oc=5"
     }
    ],
    "firstSeen": "2026-10-20T08:01:16.942Z"

@@ -2,6 +2,278 @@
  "date": "2026-10-30",
  "items": [
   {
+   "id": "612388503974",
+   "title": "Criminal investigation launched into Google's Finnish data center project",
+   "summary": "Remember the furore over Google's AI data center in Finland? The police are now investigating the matter.",
+   "link": "https://www.techradar.com/computing/a-criminal-investigation-is-now-underway-into-googles-ai-data-center-project-in-finland-where-330-hectares-of-forest-were-torn-down",
+   "image": "https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM-1920-80.jpg",
+   "publishedAt": "2026-10-30T18:00:00.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/computing/a-criminal-investigation-is-now-underway-into-googles-ai-data-center-project-in-finland-where-330-hectares-of-forest-were-torn-down"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "68f4747f1699",
+   "title": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
+   "summary": "Following a month of beta testing , Apple Music 7.0 is rolling out with a Liquid Glass redesign for Android, as well as the new icon for the streaming service. more…",
+   "link": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Music-7-1.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-10-30T17:26:48.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/"
+    },
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "c8460910f9b3",
+   "title": "Oppo Reno17 series confirmed to launch next month, blind pre-orders go live",
+   "summary": "Oppo’s upcoming Reno17 series has been the subject of several leaks and rumors over the past few weeks. While a recent rumor pointed to a launch next month, Oppo has now officially confirmed the timeline. In a post on Weibo, Oppo's official account confirmed that the Reno17 serie",
+   "link": "https://www.gsmarena.com/oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-pad-air-6-watch-5-launch/-184x111/gsmarena_00.jpg",
+   "publishedAt": "2026-10-30T17:02:02.000Z",
+   "date": "2026-10-30",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287.php"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "eb03b9161af8",
+   "title": "Attack Shark Unveils X60 Gaming Headset with RGB Wireless-Charging Dock",
+   "summary": "Attack Shark Unveils X60 Gaming Headset with RGB Wireless-Charging Dock TechPowerUp",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0ZWZnZhaExqLWhwV2lSUC1QZnhrRGhOR2R3Wmh2QXQySl9ydW5IaG53ZjBQVXFzVFJiemc3ODZxcnNGMEtUOGVNT3VROW9hZU9wSFN2VTI4TVRoMHQ0eU45NGp3MmhKbjZxSUFwVU5pTG1DLVd1eWRhR2dRcnhaZ1VaWXd4YjBlV1dyaTNLSmZjVlRzS3c2YnAtdXF5MzVjTlVISUhnOXgtdE94S09F0gGvAUFVX3lxTE5jRlZmdmFoTGotaHBXaVJQLVBmeGtEaE5HZHdaaHZBdDJKX3J1bkhobndmMFBVcXNUUmJ6Zzc4NnFyc0YwS1Q4ZU1PdVE5b2FlT3BIU3ZVMjhNVGgwdDR5Tjk0ancyaEpuNnFJQXBVTmlMbUMtV3V5ZGFHZ1FyeFpnVVpZd3hiMGVXV3JpM0tKZmNWVHNLdzZicC11cXkzNWNOVUhJSGc5eC10T3hLT0U?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T16:46:40.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechPowerUp",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0ZWZnZhaExqLWhwV2lSUC1QZnhrRGhOR2R3Wmh2QXQySl9ydW5IaG53ZjBQVXFzVFJiemc3ODZxcnNGMEtUOGVNT3VROW9hZU9wSFN2VTI4TVRoMHQ0eU45NGp3MmhKbjZxSUFwVU5pTG1DLVd1eWRhR2dRcnhaZ1VaWXd4YjBlV1dyaTNLSmZjVlRzS3c2YnAtdXF5MzVjTlVISUhnOXgtdE94S09F0gGvAUFVX3lxTE5jRlZmdmFoTGotaHBXaVJQLVBmeGtEaE5HZHdaaHZBdDJKX3J1bkhobndmMFBVcXNUUmJ6Zzc4NnFyc0YwS1Q4ZU1PdVE5b2FlT3BIU3ZVMjhNVGgwdDR5Tjk0ancyaEpuNnFJQXBVTmlMbUMtV3V5ZGFHZ1FyeFpnVVpZd3hiMGVXV3JpM0tKZmNWVHNLdzZicC11cXkzNWNOVUhJSGc5eC10T3hLT0U?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "855ac2f66729",
+   "title": "Apple Has Released More Than 25 New Products in the Past Two Months",
+   "summary": "Since late August, Apple has been on an absolute spree, releasing more than 25 new devices and accessories. Quite the start to the John Ternus era . Below, we have recapped most of the new products that Apple has released over the past two months, with some available now and othe",
+   "link": "https://www.macrumors.com/2026/10/30/25-new-apple-products/",
+   "image": "https://images.macrumors.com/article-new/2026/10/Apple-Has-Released-More-Than-25-New-Products-in-the-Past-Two-Months-Feature.jpg",
+   "publishedAt": "2026-10-30T14:57:44.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/10/30/25-new-apple-products/"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "2e00f1693569",
+   "title": "Samsung's Galaxy Glasses to Launch in Select Markets in December: Report",
+   "summary": "Samsung is reportedly preparing to launch its first AI-powered smart glasses, Intelligent Eyewear, in South Korea and the US in mid-December. The upcoming wearable will mark the company's entry into the AI smart glasses segment. The upcoming wearable will run on Google's Android ",
+   "link": "https://www.gadgets360.com/wearables/news/samsung-galaxy-ai-glasses-intelligent-eyewear-launch-timeline-report-12259352",
+   "image": "https://i.gadgets360cdn.com/large/samsung_galaxy_glasses_main_1784722239073.png",
+   "publishedAt": "2026-10-30T13:59:43.000Z",
+   "date": "2026-10-30",
+   "status": "Upcoming",
+   "category": "Wearable",
+   "brand": "Samsung",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/samsung-galaxy-ai-glasses-intelligent-eyewear-launch-timeline-report-12259352"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "03f46c2409c8",
+   "title": "Oppo Reno 17 launches in November, but only in China for now",
+   "summary": "Oppo Reno 17 launches in November, but only in China for now Gagadget.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXBNeVdTNUJudm9Wbi14bTB2MmVwci1BbDR6X0ZOaXRDU0tLY1pPVS0wSEhlaVhTLVJJWHk0Wkx3N1ZXRk5JeWlJTUdfRW5VbXR0cDNCS3JGeXpuSzU5UldRREc0WVhmTkY0ZC12aF82eHFmSlBZYVh2OTdDMmpYaUxpQTR2ZVVleXdfQ2o2ampBUUpsd3fSAZsBQVVfeXFMUGhEOEJ5Q05RbmEzamxOUDZlcFRiNkVWUkdLdWc1MTVXR0NqMGd5MG1id1dMNEgwcGx6ZHhsMkxROThJWExQMjNmbndwZTR3cHdMSjI3YmR1ZTI1algxdFJKZFJ6Q3FHenJDTnU3d04xcFFzZ2Jld01Xa3hVdC1RUmM0TTV3NUN3MURaRjl1OVFpYVBGSFNaaVB3Yk0?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T13:34:17.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gagadget.com",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXBNeVdTNUJudm9Wbi14bTB2MmVwci1BbDR6X0ZOaXRDU0tLY1pPVS0wSEhlaVhTLVJJWHk0Wkx3N1ZXRk5JeWlJTUdfRW5VbXR0cDNCS3JGeXpuSzU5UldRREc0WVhmTkY0ZC12aF82eHFmSlBZYVh2OTdDMmpYaUxpQTR2ZVVleXdfQ2o2ampBUUpsd3fSAZsBQVVfeXFMUGhEOEJ5Q05RbmEzamxOUDZlcFRiNkVWUkdLdWc1MTVXR0NqMGd5MG1id1dMNEgwcGx6ZHhsMkxROThJWExQMjNmbndwZTR3cHdMSjI3YmR1ZTI1algxdFJKZFJ6Q3FHenJDTnU3d04xcFFzZ2Jld01Xa3hVdC1RUmM0TTV3NUN3MURaRjl1OVFpYVBGSFNaaVB3Yk0?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "33e746b2b04d",
+   "title": "Amazon unveils new Alexa Tablet lineup featuring Nanomatte displays",
+   "summary": "Amazon unveils new Alexa Tablet lineup featuring Nanomatte displays Bandwidth Blog",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDSjg4ZUVlRWZ6VEZPNzVKZDRMNTNRdi12YWstQ0JUQnVneUswYXVFVjJHWEFWZmtQU1FJd2pwRmNmTWZtZXVvb1pEcDJIZXpTM1dHc3Y1TDRqRjJXSWo3SUQtTk5HaGFVRHBvNlJIcm4zenc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T13:28:16.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Bandwidth Blog",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDSjg4ZUVlRWZ6VEZPNzVKZDRMNTNRdi12YWstQ0JUQnVneUswYXVFVjJHWEFWZmtQU1FJd2pwRmNmTWZtZXVvb1pEcDJIZXpTM1dHc3Y1TDRqRjJXSWo3SUQtTk5HaGFVRHBvNlJIcm4zenc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "94c636248daa",
+   "title": "Nothing Announces 2027 Product Roadmap, Plans to Launch Over Twice as Many Smartphones Next Year",
+   "summary": "Nothing will launch twice the number of smartphones in 2027 as it did in 2026, Nothing India Co-Founder and President, Akis Evangelidis, announced on Friday. For reference, the Carl Pei-led smartphone maker launched three phones this year, namely Nothing Phone (4a), Phone (4a) Pr",
+   "link": "https://www.gadgets360.com/mobiles/news/nothing-2027-smartphone-launch-plans-announced-co-creation-program-delhi-12259024",
+   "image": "https://i.gadgets360cdn.com/large/nothing_phone_4a_gadgets360_inline_1773383881398.jpg",
+   "publishedAt": "2026-10-30T11:42:46.000Z",
+   "date": "2026-10-30",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Nothing",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/nothing-2027-smartphone-launch-plans-announced-co-creation-program-delhi-12259024"
+    },
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsazMzLVpJSXQ0RGdiRmZHQlhNQm5VRzV1a0JtYVFfZFE5Vm9YTS1abUFlR1ByVDRYbUhyTDBIa2RsZk8xaDRmQ21vRDVmMFFHLUFyRGZTQWpxWEt2OEdpVkRXUDFzNVNQaTdfcVJuWFp1aW9mcHpId052djR2WXc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "00bc5cea7dfc",
+   "title": "Samsung Launches Luxury Foldable Phone With Gold Finish",
+   "summary": "Samsung Launches Luxury Foldable Phone With Gold Finish ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xcVdkQTI1bnRSZ1VCdjhYUUp3NUxIWXBpZFhZUDhUTUdwVGdYelBnVlZnWU8wUThMUE9Hb3BBRE5IcS03NmFoeFR30gGbAUFVX3lxTE9NbUhXdEZHbHo2ZHFoQmxnMHhPY0U4OHJidzlrYzFlaGRuT0NLQnVVMzlheUF6S0lraHpJRUltZDU5N0JjeEFBNjVsM0pfeThfNW1qME5BYWM1MGZQWUVjTVJEbGFxVndGQ1IzdGlFNXJDMUtWTnM1V1lhNEFGeE9uV3NrWWJjWERRQ0VVQTVBSnUwR0c0eTJnWEJR?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T11:30:38.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xcVdkQTI1bnRSZ1VCdjhYUUp3NUxIWXBpZFhZUDhUTUdwVGdYelBnVlZnWU8wUThMUE9Hb3BBRE5IcS03NmFoeFR30gGbAUFVX3lxTE9NbUhXdEZHbHo2ZHFoQmxnMHhPY0U4OHJidzlrYzFlaGRuT0NLQnVVMzlheUF6S0lraHpJRUltZDU5N0JjeEFBNjVsM0pfeThfNW1qME5BYWM1MGZQWUVjTVJEbGFxVndGQ1IzdGlFNXJDMUtWTnM1V1lhNEFGeE9uV3NrWWJjWERRQ0VVQTVBSnUwR0c0eTJnWEJR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "3ac315b0ea2d",
+   "title": "Samsung launches a premium version of the Z Fold 8 Ultra in China for $2,850",
+   "summary": "The design stands out with a dual-tone look and premium golden accents on the frame, hinge, camera module, and lens rings. The post Samsung launches a premium version of the Z Fold 8 Ultra in China for $2,850 appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/10/30/samsung-launches-a-premium-version-of-the-z-fold-8-ultra-in-china-for-2850/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/samsung-w27-300x169.png?x54692",
+   "publishedAt": "2026-10-30T11:02:45.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Samsung",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/10/30/samsung-launches-a-premium-version-of-the-z-fold-8-ultra-in-china-for-2850/"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
+   "id": "5776434ebf35",
+   "title": "Apple Launches Latest MacBook Pro, Enters Touchscreen Laptop Market",
+   "summary": "Apple Launches Latest MacBook Pro, Enters Touchscreen Laptop Market RS Web Solutions",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWROSkNqVFQ4X2JUSk9TNkwxQmVPMzFST01xZWxMRWRtRDZ1Mk40clg3aGx4dl80X21hMzhubmdhOU5obWVzcUFha3hmUW5JYjlsb0YxVU56bmlvUzYxM0RkVDBaaWcwOFJvUGx5TWpKelQtWGRpYmQySkJCODdraVpjajZOMF9xYVNZUlRXbHdYN3Zya2lUdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T10:00:00.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "RS Web Solutions",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWROSkNqVFQ4X2JUSk9TNkwxQmVPMzFST01xZWxMRWRtRDZ1Mk40clg3aGx4dl80X21hMzhubmdhOU5obWVzcUFha3hmUW5JYjlsb0YxVU56bmlvUzYxM0RkVDBaaWcwOFJvUGx5TWpKelQtWGRpYmQySkJCODdraVpjajZOMF9xYVNZUlRXbHdYN3Zya2lUdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
    "id": "499ac3bec93d",
    "title": "Nokia 2360 Flip for seniors with SOS button, Family Assist announced",
    "summary": "HMD has announced the Nokia 2360 Flip, a clamshell 2G feature phone designed primarily for users seeking simplified mobile communication, such as older adults and young students. The device pairs a traditional flip format with remote-assistance software and dedicated emergency ha",
@@ -22,6 +294,28 @@
     }
    ],
    "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
+   "id": "1bb0fdcb9bd1",
+   "title": "Oppo Reno 17F 5G Receives NBTC Certification Ahead of Global Launch",
+   "summary": "Oppo Reno 17F 5G has appeared on Thailand's NBTC certification database with the model number CPH3013. The listing confirms the smartphone's name and its 5G connectivity. The listing indicates that its launch will happen soon. The Reno 17 series is expected to debut in China in N",
+   "link": "https://www.gadgets360.com/mobiles/news/oppo-reno-17f-17-5g-nbtc-certifications-listing-model-number-12258123",
+   "image": "https://i.gadgets360cdn.com/large/reno_16f_oppo_1782452207500.jpg",
+   "publishedAt": "2026-10-30T09:17:41.000Z",
+   "date": "2026-10-30",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/oppo-reno-17f-17-5g-nbtc-certifications-listing-model-number-12258123"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
   },
   {
    "id": "2f94d090726e",
@@ -200,6 +494,28 @@
    "firstSeen": "2026-10-30T09:52:37.324Z"
   },
   {
+   "id": "a97ace9261f5",
+   "title": "OnePlus Ace 7 series launched with 9,000mAh batteries, Snapdragon 8 Elite Gen 5 chipsets",
+   "summary": "OnePlus Ace 7 series launched with 9,000mAh batteries, Snapdragon 8 Elite Gen 5 chipsets 91Mobiles",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS05yOTZCUUtMeVVBLWc2dURjNmplekRkcUxRbzF6N256NDFPX2RNc0h0OXZUUEIweFRZRXdaaGNRdlY3ZnRmSEdpNDgyU240dERyeG4yUjRJZDJ4TENjQ3hkd1o2azZjUzFMRjVrbFFFRHpaajJTTkRXZHZGV2EwZUM2X3JVTm1MRjRjNTY0SHpITFZHWlh4c0ZBVHU2LVpQalB4XzRWSlhaMVFm0gGyAUFVX3lxTE52bm5HbEVLTDE4Z0J1TFRSUXBnbTBxdTJYV2xyUXBMTndDbXVuSWtRS05WWnItV2lzdi1TSkYxUWwzMkJQQ1hUYWVIeVA4VjZ4dkpPdDVBbnFwRjlsVFRnUUpvYzJ5RFlWa3VlaU9iVEoyOUJEdnJXX0o0aWRZZjhRR0JNMkRFSkNIWmVXTmVHdWVPZkNXT09FSHJZczNDYl83TV9PNDFGUXNZM0ZGMzJjRlE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T04:53:11.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "OnePlus",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS05yOTZCUUtMeVVBLWc2dURjNmplekRkcUxRbzF6N256NDFPX2RNc0h0OXZUUEIweFRZRXdaaGNRdlY3ZnRmSEdpNDgyU240dERyeG4yUjRJZDJ4TENjQ3hkd1o2azZjUzFMRjVrbFFFRHpaajJTTkRXZHZGV2EwZUM2X3JVTm1MRjRjNTY0SHpITFZHWlh4c0ZBVHU2LVpQalB4XzRWSlhaMVFm0gGyAUFVX3lxTE52bm5HbEVLTDE4Z0J1TFRSUXBnbTBxdTJYV2xyUXBMTndDbXVuSWtRS05WWnItV2lzdi1TSkYxUWwzMkJQQ1hUYWVIeVA4VjZ4dkpPdDVBbnFwRjlsVFRnUUpvYzJ5RFlWa3VlaU9iVEoyOUJEdnJXX0o0aWRZZjhRR0JNMkRFSkNIWmVXTmVHdWVPZkNXT09FSHJZczNDYl83TV9PNDFGUXNZM0ZGMzJjRlE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
    "id": "b17c0da52fd3",
    "title": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone",
    "summary": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone 91Mobiles",
@@ -358,6 +674,28 @@
    "firstSeen": "2026-10-30T09:52:37.324Z"
   },
   {
+   "id": "83562892ef33",
+   "title": "Epson launches home theatre laser projectors in Australia",
+   "summary": "Epson launches home theatre laser projectors in Australia FutureFive Australia",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0NMY2Y0RVJtM3dyLWxQUE5ZOHBobkN1RWtmTDZTYkFpR3ZubUJWSTE5R19UZHlIOEpQUTBsWkU0QzE3Z1VKS3p5R1N0MHVDMjJTTHhjNDJaSk85eDhGVzlPZVdFZ0ZIY3c1MEpJUmpnaW4wQUFtelhrUHlqTlUzQzItVC0xanFJTW5UMkJ4dnY4UlU?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T02:32:00.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "FutureFive Australia",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0NMY2Y0RVJtM3dyLWxQUE5ZOHBobkN1RWtmTDZTYkFpR3ZubUJWSTE5R19UZHlIOEpQUTBsWkU0QzE3Z1VKS3p5R1N0MHVDMjJTTHhjNDJaSk85eDhGVzlPZVdFZ0ZIY3c1MEpJUmpnaW4wQUFtelhrUHlqTlUzQzItVC0xanFJTW5UMkJ4dnY4UlU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
+  },
+  {
    "id": "87435b16c0e0",
    "title": "Motorola Signature 27 set for November 5 launch, key specs emerge via Geekbench listing",
    "summary": "Motorola has locked in November 5 as the launch date for the Motorola Signature 27, ending weeks of “coming this November” teasers. A post on Motorola’s official X account says the phone is “elegantly crafted for comfort” and invites fans to “see for yourself on November 5.” The ",
@@ -492,6 +830,28 @@
     }
    ],
    "firstSeen": "2026-10-30T00:47:14.321Z"
+  },
+  {
+   "id": "0a50cdfdb586",
+   "title": "DT Research Unveils LT365PA Rugged Laptop with Intel Arrow Lake H",
+   "summary": "DT Research Unveils LT365PA Rugged Laptop with Intel Arrow Lake H Technetbook",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNelkwajdiTHI3bnBYUnFWNklzTTJSWHpMbWJZWDFMV3hOVWpISTdmM0k0bmNIRkFpQkQwbkxYQzRfdXpmSDE0X1BKNjQ5Vm1TeTBkU3dWZk45RThFSTBMdUJDU29YNUhaNmdIMVc3Z0gxdjN0TGFTVWVXRy1uc1MxellR?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T21:00:00.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Intel",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Technetbook",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNelkwajdiTHI3bnBYUnFWNklzTTJSWHpMbWJZWDFMV3hOVWpISTdmM0k0bmNIRkFpQkQwbkxYQzRfdXpmSDE0X1BKNjQ5Vm1TeTBkU3dWZk45RThFSTBMdUJDU29YNUhaNmdIMVc3Z0gxdjN0TGFTVWVXRy1uc1MxellR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T18:02:24.926Z"
   },
   {
    "id": "c73af103ba33",
