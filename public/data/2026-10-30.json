@@ -2,6 +2,28 @@
  "date": "2026-10-30",
  "items": [
   {
+   "id": "bf1a2e2dcefd",
+   "title": "Acer Launches Shadow Knight G710 Gaming Tablet with 165 Hz Display",
+   "summary": "Acer Launches Shadow Knight G710 Gaming Tablet with 165 Hz Display Technetbook",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEJ6SzNPU1U0NTNsUk5lTTdiZE5DUzh2M0Z4Rzc4WWpObExpV1ZZZnFwRkFIbDQ4S1h1OFV0b2lSSjgyQlhCN2doVzdNWUxtSkltdDB6Y2lHWEhLMTZyWEZURnNpbEk2RWdfSGVRZTc3d3VYaWFpcFF1SnpwMGZvT1hWaXJiUm1v?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T18:26:00.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Acer",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Technetbook",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEJ6SzNPU1U0NTNsUk5lTTdiZE5DUzh2M0Z4Rzc4WWpObExpV1ZZZnFwRkFIbDQ4S1h1OFV0b2lSSjgyQlhCN2doVzdNWUxtSkltdDB6Y2lHWEhLMTZyWEZURnNpbEk2RWdfSGVRZTc3d3VYaWFpcFF1SnpwMGZvT1hWaXJiUm1v?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T22:12:25.132Z"
+  },
+  {
    "id": "612388503974",
    "title": "Criminal investigation launched into Google's Finnish data center project",
    "summary": "Remember the furore over Google's AI data center in Finland? The police are now investigating the matter.",
