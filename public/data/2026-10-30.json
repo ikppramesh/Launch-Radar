@@ -82,7 +82,7 @@
    "status": "Upcoming",
    "category": "Smartphone",
    "brand": "Oppo",
-   "region": "Global",
+   "region": "China",
    "confidence": 3,
    "aggregator": false,
    "sources": [
@@ -93,6 +93,14 @@
     {
      "name": "Notebookcheck",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDZudnFvTmk3WEpnR3RFeE52U0pPZDc0anhQVkZwazBWRTZZMEVvc1VncU1ITXlWbmxzalJfNWdja0lLdkpRMnkxYTJqVkhINVJ2LTdxU3V3MWNGXzg3cGFhYUdydFdmd1pMWFRlU0xndV9pWmQ5TmlBUm02TFZZM2RNbUJxeUMwbnJzbE5kS1U3NVJldGRQSWpTam9Cekk3bDNEdDNtNkdrQ2lRMXlQdDRLaw?oc=5"
+    },
+    {
+     "name": "NewzTodays",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CajVTVDRDNXBmX3NmeGZPTFFqOUVrNF9lcGFtYURndllTTmlhQjd4TmF3YlBLR2REU3lqOGFkcnlfT0UxZkgyb3JCR2hhMXNGdUQzUklYNkZXdE1HdllZVUZXTzNGU19oSXdHdVV1RG1kajBNUFhUOTlTSUxyVU0?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIZW0zY3FSekE5aEtISG84cjd1WTViWVBoeW9kU25md0swSk1wd3EwVldxNjRnQ2dnaWhyMUpSVlh3S1E4MjR3VWY5TzcwMkZ6OWh3ODBPb2ZDQlFycUU4dHAxc1JrX3p6azJ4OXZHS0EwVmxudlE?oc=5"
     }
    ],
    "firstSeen": "2026-10-30T18:02:24.926Z"
@@ -256,6 +264,28 @@
    "firstSeen": "2026-10-30T18:02:24.926Z"
   },
   {
+   "id": "dab2c6d8db61",
+   "title": "PlayStation unveils transparent Prism Collection for PS5, starts at PHP 5,099",
+   "summary": "PlayStation unveils transparent Prism Collection for PS5, starts at PHP 5,099 YugaTech",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdHlwakNSTnYxYm9VbUV5NnFkYkdhWVhOUlpXZlk1Wm5JZXhMUlNXMVRSQy1QSWJHdzRROW45UWJLVllYSWRWNEFnSE9VUzFBMnlXcm93cDNjNjUwNU81elF2c25qTS16ZTB6bHJpdXVaTjh3Uy1VVTMxMjZoZE5BdEFRd1NZOTlzVVQ4WnhJbHNpdlZTSlZGMFgydGlhczhzaTJvOTdWcEkzUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T11:42:37.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "PlayStation",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "YugaTech",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdHlwakNSTnYxYm9VbUV5NnFkYkdhWVhOUlpXZlk1Wm5JZXhMUlNXMVRSQy1QSWJHdzRROW45UWJLVllYSWRWNEFnSE9VUzFBMnlXcm93cDNjNjUwNU81elF2c25qTS16ZTB6bHJpdXVaTjh3Uy1VVTMxMjZoZE5BdEFRd1NZOTlzVVQ4WnhJbHNpdlZTSlZGMFgydGlhczhzaTJvOTdWcEkzUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-31T19:13:31.312Z"
+  },
+  {
    "id": "00bc5cea7dfc",
    "title": "Samsung Launches Luxury Foldable Phone With Gold Finish",
    "summary": "Samsung Launches Luxury Foldable Phone With Gold Finish ProPakistani",
@@ -364,6 +394,28 @@
     }
    ],
    "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
+   "id": "a9439bab69d6",
+   "title": "Nikon Unveils New NIKKOR Z Telephoto Zoom Lens with Built-In 1.4× Teleconverter",
+   "summary": "Nikon Unveils New NIKKOR Z Telephoto Zoom Lens with Built-In 1.4× Teleconverter digital terminal",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmI3NUFfNE1PMDZacmFCR2ZabGdaNDlFcnp5ejBxUmpVQUpoODMtU1pQV3M2bW5feXJCYVR3TExIMGdMS19SSHZ4OGNOSW1kaWNRWmFLMzZpcmhOeVhHUGlUdnBnV2oxbFJZR0VCM19fQmhtRlJEY1gxaUxtUV83SmJod3RDZm5fOGMyWXpPNW1MTlBWeXphYnN0ZVhYMFhwMTVPZS1WTFZVdkotM3VMT9IBvgFBVV95cUxNY2NiN2h0d0VOTnF4LVZlWXlsWHdPcGxOS3VWeHRrbGVqSzMxb0hfUnVFc196dFlTcUZiWFlJS1A3cFQ0RUhhNWJCb1J2NGh1SDlydktHX0xZazRPam1Yc3kxTEJhRmpEY1pWY1dlWDZTYVNlX0VkcGlWS2JmYlRacXhWd3A4SWVNZUZOSFBVRXFXVWo2TjhvMFI2WHNuWmcyZXNHbzlPaG1vWnpOTC1IYjRKR0FYeEZva2VRTU5R?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T09:18:39.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Nikon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "digital terminal",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmI3NUFfNE1PMDZacmFCR2ZabGdaNDlFcnp5ejBxUmpVQUpoODMtU1pQV3M2bW5feXJCYVR3TExIMGdMS19SSHZ4OGNOSW1kaWNRWmFLMzZpcmhOeVhHUGlUdnBnV2oxbFJZR0VCM19fQmhtRlJEY1gxaUxtUV83SmJod3RDZm5fOGMyWXpPNW1MTlBWeXphYnN0ZVhYMFhwMTVPZS1WTFZVdkotM3VMT9IBvgFBVV95cUxNY2NiN2h0d0VOTnF4LVZlWXlsWHdPcGxOS3VWeHRrbGVqSzMxb0hfUnVFc196dFlTcUZiWFlJS1A3cFQ0RUhhNWJCb1J2NGh1SDlydktHX0xZazRPam1Yc3kxTEJhRmpEY1pWY1dlWDZTYVNlX0VkcGlWS2JmYlRacXhWd3A4SWVNZUZOSFBVRXFXVWo2TjhvMFI2WHNuWmcyZXNHbzlPaG1vWnpOTC1IYjRKR0FYeEZva2VRTU5R?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-31T19:13:31.312Z"
   },
   {
    "id": "1bb0fdcb9bd1",
@@ -476,6 +528,28 @@
    "firstSeen": "2026-10-30T09:52:37.324Z"
   },
   {
+   "id": "de403548a0a9",
+   "title": "Samsung Galaxy Buds On gets US pricing and release date",
+   "summary": "Samsung Galaxy Buds On gets US pricing and release date Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcC1LcFNiek40UTVfMFVZQXNoQktsWEp2VWVkcXU1OHJEcmFaanpBelFhaTZfR1JiaTJQS0RJVTlYV1dQbUo3aWVmaHVxV3BpZWdsc3pfTEYtSm5Da25XOTgxaWVCWVEwVDdEeDBZYzhYakFWdzItYmtkTnk3TW1MLWhYcFZNeXhuaEtXb3J4VThjb243dG1RX19kejdyYVVObFE?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T07:21:00.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "USA",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcC1LcFNiek40UTVfMFVZQXNoQktsWEp2VWVkcXU1OHJEcmFaanpBelFhaTZfR1JiaTJQS0RJVTlYV1dQbUo3aWVmaHVxV3BpZWdsc3pfTEYtSm5Da25XOTgxaWVCWVEwVDdEeDBZYzhYakFWdzItYmtkTnk3TW1MLWhYcFZNeXhuaEtXb3J4VThjb243dG1RX19kejdyYVVObFE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-31T19:13:31.312Z"
+  },
+  {
    "id": "4c94e599dd2a",
    "title": "NCC Launches NG-IMEI Scanner to Help Nigerians Spot Fake, Cloned Phones in Nigeria",
    "summary": "NCC Launches NG-IMEI Scanner to Help Nigerians Spot Fake, Cloned Phones in Nigeria Legit News",
@@ -586,6 +660,28 @@
    "firstSeen": "2026-10-31T05:20:22.207Z"
   },
   {
+   "id": "24d415cfd339",
+   "title": "Apple Introduces First Touchscreen MacBook Pro Breaking Longstanding Tradition",
+   "summary": "Apple Introduces First Touchscreen MacBook Pro Breaking Longstanding Tradition India News Network",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmFnTHpneDQta3FabTAzUkNmMjQzb3YyN2NjazBYc3dZc3RzdUpYNmw5RExYR1k3NW1NZ0VXekFONmk5cEkzbTJHUkoyOWYxSVBxcUkyYVhMUHhZcXVDZjg1VGFkVjQwd3Nxc2tfT2NIdFM5MF9kNllYMXpuX0pLN0tZRlV5U2taeVV2c3hHYk83Xzk4SkFhR0xVTFpneTM5a1BsXzNlZ0cwZ0VkZWRiZS15LXlQMmNOVUY0Zk5uNmg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T05:43:28.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "India News Network",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmFnTHpneDQta3FabTAzUkNmMjQzb3YyN2NjazBYc3dZc3RzdUpYNmw5RExYR1k3NW1NZ0VXekFONmk5cEkzbTJHUkoyOWYxSVBxcUkyYVhMUHhZcXVDZjg1VGFkVjQwd3Nxc2tfT2NIdFM5MF9kNllYMXpuX0pLN0tZRlV5U2taeVV2c3hHYk83Xzk4SkFhR0xVTFpneTM5a1BsXzNlZ0cwZ0VkZWRiZS15LXlQMmNOVUY0Zk5uNmg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-31T19:13:31.312Z"
+  },
+  {
    "id": "7fecb4147ac4",
    "title": "Now is the perfect time for Samsung to release a cheaper Galaxy Z Fold 9 FE — and it's all because of iPhone Duo",
    "summary": "Samsung could be preparing to release a cheaper version of the Galaxy Z Fold 9 — and the timing couldn't be better.",
@@ -652,28 +748,6 @@
    "firstSeen": "2026-10-30T18:02:24.926Z"
   },
   {
-   "id": "b17c0da52fd3",
-   "title": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone",
-   "summary": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone 91Mobiles",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVE2ZXh1MmhTRmlabWJpUFZ0RnZGbjZpNVZsSlp3ZlpSMGg4UTd1WC1fNGd6Yko0ZUVYdFJudjNNOWhfMWhBODRzalE3cEV0UXNHbkFDbEd0SFhlYVVlYVFXbXl3UzVJSDFhdjFVX2JlbmtOb1Z4YTZPMVRQTmp5Uy1fRmRNVFVwdldZbWo1RG5HZ9IBlwFBVV95cUxQMjNPOWtSY2Z5SThub3p1ODEtNnFHQUNla2Y0VVJfZmI1dS1hQ2NVdGZzS2hHNmRmT2N0TkZDdmFLOGUzcFV2YWxpc2dQRVExYm1WcUtBMHkzUTdUSDRkTUh6eTFYVk53Z3pkZVgtTDNvV2ZnV204cExfaDBlaXFTVVFjcm1FTmVFVVBxeGxzT3JrbzNyd01J?oc=5",
-   "image": "",
-   "publishedAt": "2026-10-30T04:34:14.000Z",
-   "date": "2026-10-30",
-   "status": "Upcoming",
-   "category": "PC & Components",
-   "brand": "Motorola",
-   "region": "India",
-   "confidence": 2,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "91Mobiles",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVE2ZXh1MmhTRmlabWJpUFZ0RnZGbjZpNVZsSlp3ZlpSMGg4UTd1WC1fNGd6Yko0ZUVYdFJudjNNOWhfMWhBODRzalE3cEV0UXNHbkFDbEd0SFhlYVVlYVFXbXl3UzVJSDFhdjFVX2JlbmtOb1Z4YTZPMVRQTmp5Uy1fRmRNVFVwdldZbWo1RG5HZ9IBlwFBVV95cUxQMjNPOWtSY2Z5SThub3p1ODEtNnFHQUNla2Y0VVJfZmI1dS1hQ2NVdGZzS2hHNmRmT2N0TkZDdmFLOGUzcFV2YWxpc2dQRVExYm1WcUtBMHkzUTdUSDRkTUh6eTFYVk53Z3pkZVgtTDNvV2ZnV204cExfaDBlaXFTVVFjcm1FTmVFVVBxeGxzT3JrbzNyd01J?oc=5"
-    }
-   ],
-   "firstSeen": "2026-10-30T09:52:37.324Z"
-  },
-  {
    "id": "cc86bff131da",
    "title": "Motorola confirms the Signature 27's exact launch date",
    "summary": "Motorola first showed off the Signature 27 during Qualcomm's Snapdragon Summit back in September, but it's been holding back the full specs and pricing ever since. Yesterday, its Indian website said the phone is \"coming this November\", and now the company has narrowed that down t",
@@ -720,6 +794,28 @@
     }
    ],
    "firstSeen": "2026-10-31T05:20:22.207Z"
+  },
+  {
+   "id": "b17c0da52fd3",
+   "title": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone",
+   "summary": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone 91Mobiles",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVE2ZXh1MmhTRmlabWJpUFZ0RnZGbjZpNVZsSlp3ZlpSMGg4UTd1WC1fNGd6Yko0ZUVYdFJudjNNOWhfMWhBODRzalE3cEV0UXNHbkFDbEd0SFhlYVVlYVFXbXl3UzVJSDFhdjFVX2JlbmtOb1Z4YTZPMVRQTmp5Uy1fRmRNVFVwdldZbWo1RG5HZ9IBlwFBVV95cUxQMjNPOWtSY2Z5SThub3p1ODEtNnFHQUNla2Y0VVJfZmI1dS1hQ2NVdGZzS2hHNmRmT2N0TkZDdmFLOGUzcFV2YWxpc2dQRVExYm1WcUtBMHkzUTdUSDRkTUh6eTFYVk53Z3pkZVgtTDNvV2ZnV204cExfaDBlaXFTVVFjcm1FTmVFVVBxeGxzT3JrbzNyd01J?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T04:12:09.000Z",
+   "date": "2026-10-30",
+   "status": "Upcoming",
+   "category": "PC & Components",
+   "brand": "Motorola",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVE2ZXh1MmhTRmlabWJpUFZ0RnZGbjZpNVZsSlp3ZlpSMGg4UTd1WC1fNGd6Yko0ZUVYdFJudjNNOWhfMWhBODRzalE3cEV0UXNHbkFDbEd0SFhlYVVlYVFXbXl3UzVJSDFhdjFVX2JlbmtOb1Z4YTZPMVRQTmp5Uy1fRmRNVFVwdldZbWo1RG5HZ9IBlwFBVV95cUxQMjNPOWtSY2Z5SThub3p1ODEtNnFHQUNla2Y0VVJfZmI1dS1hQ2NVdGZzS2hHNmRmT2N0TkZDdmFLOGUzcFV2YWxpc2dQRVExYm1WcUtBMHkzUTdUSDRkTUh6eTFYVk53Z3pkZVgtTDNvV2ZnV204cExfaDBlaXFTVVFjcm1FTmVFVVBxeGxzT3JrbzNyd01J?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-30T09:52:37.324Z"
   },
   {
    "id": "4728e9409d94",
@@ -988,6 +1084,28 @@
     }
    ],
    "firstSeen": "2026-10-30T00:47:14.321Z"
+  },
+  {
+   "id": "a7c902d5f75b",
+   "title": "Premium Japanese tablet arrives with 12-inch display and 10,200 mAh battery",
+   "summary": "Premium Japanese tablet arrives with 12-inch display and 10,200 mAh battery Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVdRSFF1dzN5TnRVTEdJcko2SHpVN3EzRXU5WEJra29IcXpOZmtETGl0VGN3aXN5SGdvVm91a0xfZFNNUXpwdmtmVHNMT1dRczc3cEFqbExydUt6Y0RmVUVtS3A5YkFIMDVXNDhlNFpIeFA1MXpOTjF0RmFMTjR6V3VqZUhYYlhSMDJ3dWlMU2pEeVB3dDgydDdlbW92RnRLbC1tNjRvVk5MQXpsYTc2aWRtRy1faXEwaFllVw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T23:01:00.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVdRSFF1dzN5TnRVTEdJcko2SHpVN3EzRXU5WEJra29IcXpOZmtETGl0VGN3aXN5SGdvVm91a0xfZFNNUXpwdmtmVHNMT1dRczc3cEFqbExydUt6Y0RmVUVtS3A5YkFIMDVXNDhlNFpIeFA1MXpOTjF0RmFMTjR6V3VqZUhYYlhSMDJ3dWlMU2pEeVB3dDgydDdlbW92RnRLbC1tNjRvVk5MQXpsYTc2aWRtRy1faXEwaFllVw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-31T19:13:31.312Z"
   },
   {
    "id": "9636be51e5e4",
