@@ -83,12 +83,16 @@
    "category": "Smartphone",
    "brand": "Oppo",
    "region": "Global",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "GSMArena",
      "link": "https://www.gsmarena.com/oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287.php"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDZudnFvTmk3WEpnR3RFeE52U0pPZDc0anhQVkZwazBWRTZZMEVvc1VncU1ITXlWbmxzalJfNWdja0lLdkpRMnkxYTJqVkhINVJ2LTdxU3V3MWNGXzg3cGFhYUdydFdmd1pMWFRlU0xndV9pWmQ5TmlBUm02TFZZM2RNbUJxeUMwbnJzbE5kS1U3NVJldGRQSWpTam9Cekk3bDNEdDNtNkdrQ2lRMXlQdDRLaw?oc=5"
     }
    ],
    "firstSeen": "2026-10-30T18:02:24.926Z"
@@ -428,6 +432,28 @@
    "firstSeen": "2026-10-30T09:52:37.324Z"
   },
   {
+   "id": "2584e5d789fd",
+   "title": "HMD Announces Nokia 2360 Flip Phone with Remote Management Features",
+   "summary": "HMD Announces Nokia 2360 Flip Phone with Remote Management Features Nokiamob",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWpWWHVMQ2tBY3JFMW94a2g0TUdIcGVmS1R6N044VXNaWU9pMmZOUE1jMWhvSHM2LURmV1JMZzhtZXFTZUFHRGQ4SFdQR0QtVjRPSjRGTk4tT0dfeXBhZ0s3UlJ6QW9nMUJXdWJMb2Z4X2xVbFFsSnJMNHZndDZONFcxLVJ4WEpTaC0tNzNjX0dCbHh5c3E4cTdvckZTelktVFpBa2RR?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T07:36:33.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "HMD",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Nokiamob",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWpWWHVMQ2tBY3JFMW94a2g0TUdIcGVmS1R6N044VXNaWU9pMmZOUE1jMWhvSHM2LURmV1JMZzhtZXFTZUFHRGQ4SFdQR0QtVjRPSjRGTk4tT0dfeXBhZ0s3UlJ6QW9nMUJXdWJMb2Z4X2xVbFFsSnJMNHZndDZONFcxLVJ4WEpTaC0tNzNjX0dCbHh5c3E4cTdvckZTelktVFpBa2RR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-31T12:10:29.554Z"
+  },
+  {
    "id": "98c09aad368d",
    "title": "HONOR Pad X7b Lands in Malaysia at RM699, Earbuds From RM49",
    "summary": "HONOR Pad X7b Lands in Malaysia at RM699, Earbuds From RM49 ProductNation Malaysia",
@@ -492,6 +518,28 @@
     }
    ],
    "firstSeen": "2026-10-30T09:52:37.324Z"
+  },
+  {
+   "id": "72b057a9a484",
+   "title": "Everything Amazon Announced in October: New Tablets, Kindles, Echo Devices and More",
+   "summary": "Everything Amazon Announced in October: New Tablets, Kindles, Echo Devices and More Innovation Village",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFVYRHlPeEhlTVlZdHZYZ25wZUczSktWMEQ2QWxYb1MzbE9TWmZnaUVhRExHQkQwWllmMXBRSFY0bllzNkZlZG9KWHZKUmRKcUp6aldheEVmQWpadVE4NVNQV0dqVTdmT2hiV2V0cHRoLVFoaG5VY1ZTTkZ6Z0JHMFdVdEs4bGY0ai11SFpJNzFjRnhsLUNTMGhFVjNUS1I3Y1RXbTlDVVc3bkxlQl9TbHB3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T06:21:20.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Innovation Village",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFVYRHlPeEhlTVlZdHZYZ25wZUczSktWMEQ2QWxYb1MzbE9TWmZnaUVhRExHQkQwWllmMXBRSFY0bllzNkZlZG9KWHZKUmRKcUp6aldheEVmQWpadVE4NVNQV0dqVTdmT2hiV2V0cHRoLVFoaG5VY1ZTTkZ6Z0JHMFdVdEs4bGY0ai11SFpJNzFjRnhsLUNTMGhFVjNUS1I3Y1RXbTlDVVc3bkxlQl9TbHB3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-31T12:10:29.554Z"
   },
   {
    "id": "e29505506bff",
@@ -962,6 +1010,28 @@
     }
    ],
    "firstSeen": "2026-10-30T00:47:14.321Z"
+  },
+  {
+   "id": "12cdd11e2bf9",
+   "title": "Japan-made laptop with 32 GB RAM and 8-core CPU arrives with 30-hour battery life",
+   "summary": "Japan-made laptop with 32 GB RAM and 8-core CPU arrives with 30-hour battery life Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXRYaGx3bVBheGJ6cEVIc1pxdGVSRFRXTDZZblA4RzV1a2g0UnZVbVdkanpuYV91Ym1EbFFYa1l4R1dDcVZqdkFEQUlzOVRKb3NXWVlPVjR6LXdiUTNudGY1ODZIMW5wUlV0WmhOSEFBOGZWdlhic3BFb0ZNLTJNa256OWRjSTFVSkE5QUZmZWZNVjhWM29aQVM5NWhVUHdfR2NPS3R1TnZsT1d6c01KM1hxV2NaZEwxMmRSS1dNQ29jM2NI?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-29T22:02:00.000Z",
+   "date": "2026-10-30",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXRYaGx3bVBheGJ6cEVIc1pxdGVSRFRXTDZZblA4RzV1a2g0UnZVbVdkanpuYV91Ym1EbFFYa1l4R1dDcVZqdkFEQUlzOVRKb3NXWVlPVjR6LXdiUTNudGY1ODZIMW5wUlV0WmhOSEFBOGZWdlhic3BFb0ZNLTJNa256OWRjSTFVSkE5QUZmZWZNVjhWM29aQVM5NWhVUHdfR2NPS3R1TnZsT1d6c01KM1hxV2NaZEwxMmRSS1dNQ29jM2NI?oc=5"
+    }
+   ],
+   "firstSeen": "2026-10-31T12:10:29.554Z"
   },
   {
    "id": "07f6f2e541a6",
