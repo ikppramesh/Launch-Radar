@@ -499,12 +499,16 @@
    "category": "Other gadget",
    "brand": "Nokia",
    "region": "India",
-   "confidence": 1,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496106/nokia-2360-flip-features.html"
+    },
+    {
+     "name": "Livemint",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOS0Ntb21PaEpLTG5oZ1E3UFd3RnJHeXNsTDNhV0U1UUwtcVN0X0d0TlpCUlc4c1NPblNDcVBvdmRjSzdGaWtmdDFfdW12WU02dGc1bUJYdkJTa2RGUUFFcDhBX1A2SnZ4R19Ld2gtN2VudURBSkk4VzEyM3JReTViMFBCcnNkYWs2dlpKUENiaDlwUXY4VlZJVXdJaFVUS1pQaG9TemZ2aDAydjBhb2pHVGNFWXAyVWtmVThVRGVLWFpSWS1KNXhKNUNteU1LQ05TU2pla0lTeXIyRzRpbzN0blE0WHFlVnlPR2dtTDB4bFdiOGJVbXpRMDFMV0JrWExMdVhTVVhUMmgzbnlEeVZtbUt30gGXAkFVX3lxTE9FNXhyUHcta1FydWNBWEM3UjVPVUdvazdpZHRvbEFPUDJlMlNCd2V5eDNRaUFtcnpLbTE2V1FJTU9FY3dyMVE0bU9lWU1helotSDZZeFBjdnJjRUxpRDlKNkZ5dkxzSkdyZnVBRVJnd0V0clpJbkRsTmRic0ppUC1mNmdaQTE5LUVZMGhnWGM2Tk5IVnNXQWYyWkVSUXZOQW5PUmxCZVc1ZG1KcldBVzM3NGF4ak5HZVh1QU5rTmhvYU9veF90c1hBZ0VjQlo5SU96VlpRRFJZakFrNEtITXp4UFpJbUlhazRDT3FpRlRuVFIwTG1CWXh2aFNKYmdWMnZucnZidW5GcC1MYllyT3h6TGs0OGpoWQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-30T09:52:37.324Z"
