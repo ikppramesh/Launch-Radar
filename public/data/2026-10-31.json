@@ -354,6 +354,28 @@
    "firstSeen": "2026-10-31T12:10:29.554Z"
   },
   {
+   "id": "ad4c96fe1de1",
+   "title": "Samsung unveiled the Galaxy S26 and new Galaxy Buds 4 headphones",
+   "summary": "Samsung unveiled the Galaxy S26 and new Galaxy Buds 4 headphones Turkmenportal.com",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVEdmbm1Sa0ZPTDNMUXJzcmMyNjdNamFNSjhFWEFhUFVrMDB6bkxtRWJRSUt1NzJLaEZBcDJseVpBYldjaWc4OFBSWXRZN1ZQNTNlMGVYMGtpSWhNempOLXFIeFBZWEtFZmhsZW1VQlp0d3pCUzRMOTJva056S1BXb3cxVXdHQmkxZEFPTnQ3c2gtREFJM2RNdDhrQ1FJY2tMRmY5UUlwY1FLeWVyZTkxMjJoaGtDX0JrUGdmMFdLOG53enFxNGI2d25DRkZ5Uk4tYVJhYlktUVFabVpjTGRQeEtxMjNhNUt0U215dDV3ckY4clJx?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T08:14:28.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Turkmenportal.com",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVEdmbm1Sa0ZPTDNMUXJzcmMyNjdNamFNSjhFWEFhUFVrMDB6bkxtRWJRSUt1NzJLaEZBcDJseVpBYldjaWc4OFBSWXRZN1ZQNTNlMGVYMGtpSWhNempOLXFIeFBZWEtFZmhsZW1VQlp0d3pCUzRMOTJva056S1BXb3cxVXdHQmkxZEFPTnQ3c2gtREFJM2RNdDhrQ1FJY2tMRmY5UUlwY1FLeWVyZTkxMjJoaGtDX0JrUGdmMFdLOG53enFxNGI2d25DRkZ5Uk4tYVJhYlktUVFabVpjTGRQeEtxMjNhNUt0U215dDV3ckY4clJx?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T00:00:35.743Z"
+  },
+  {
    "id": "63f40a3a29a4",
    "title": "Connecticut mobile ID launches in November. Here’s what to know",
    "summary": "Connecticut mobile ID launches in November. Here’s what to know CT Insider",
@@ -594,6 +616,28 @@
     }
    ],
    "firstSeen": "2026-10-31T19:13:31.312Z"
+  },
+  {
+   "id": "458aadb4aec7",
+   "title": "Vivo T3 Pro 5G with 50MP camera launched in India: Price, specs and more",
+   "summary": "Vivo T3 Pro 5G with 50MP camera launched in India: Price, specs and more Digit",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1NrQVN2b0owdlkxRFNNZzBBYk90SDdRRUF0ek95NEpEZUxlMUNjV1hPRDhOU2ZmcExJd0tNaU04LWpiMm5URVZERDRFZkItWk51V29NeS1MZHFDYmQ3ZS1pa1pQSFIyczFMMlZXRUZHOGtUOFExRmpLaTNrNmZqYU9jZko5b3dsTnFnem0wZGl3dkU1OUV6OUxqRndvRzEtdldzeTlrT2JScWxtekt2LXQtME9Bd9IBvAFBVV95cUxNTjEtYmRRUFp4b2haQVdMalpkMmFrV0RqTVRwYnk5Uy01WEhLbzFRcUUzaGJ1OHdMZUtrbEN0U0YtT0UyVnVyQmJKTDhPeW1tU19LaEFqcWlDS3Fyd05BNDUzazFXd2hUaXhjeS1KRjkzWjR4Y0hsYS1kak0wMUtUakItWWhSVmJkN1dhSWhSTEQ5cFZDbHRpV3J1TEpZbkRsZ2l2NVZFUTR4ajJvaUZRcEI0MG5UV3NwUXVXUw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T00:00:00.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Vivo",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1NrQVN2b0owdlkxRFNNZzBBYk90SDdRRUF0ek95NEpEZUxlMUNjV1hPRDhOU2ZmcExJd0tNaU04LWpiMm5URVZERDRFZkItWk51V29NeS1MZHFDYmQ3ZS1pa1pQSFIyczFMMlZXRUZHOGtUOFExRmpLaTNrNmZqYU9jZko5b3dsTnFnem0wZGl3dkU1OUV6OUxqRndvRzEtdldzeTlrT2JScWxtekt2LXQtME9Bd9IBvAFBVV95cUxNTjEtYmRRUFp4b2haQVdMalpkMmFrV0RqTVRwYnk5Uy01WEhLbzFRcUUzaGJ1OHdMZUtrbEN0U0YtT0UyVnVyQmJKTDhPeW1tU19LaEFqcWlDS3Fyd05BNDUzazFXd2hUaXhjeS1KRjkzWjR4Y0hsYS1kak0wMUtUakItWWhSVmJkN1dhSWhSTEQ5cFZDbHRpV3J1TEpZbkRsZ2l2NVZFUTR4ajJvaUZRcEI0MG5UV3NwUXVXUw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T00:00:35.743Z"
   },
   {
    "id": "3798653f6908",
