@@ -90,6 +90,72 @@
    "firstSeen": "2026-10-31T19:13:31.312Z"
   },
   {
+   "id": "c46e530c0659",
+   "title": "Honor launches its super-thin, foldable Magic V2 phone in Europe",
+   "summary": "Honor launches its super-thin, foldable Magic V2 phone in Europe Mashable",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ampuR1BOOEljX0t2Vm96clVadkxMdDdXakxGT1RodFJwYmpsVmQzQ1NETzhNRlZFRTFBTDJvcVRnYW1Nc2NlOUthTVRMUGo5aFUxNS13?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T14:28:41.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Honor",
+   "region": "Europe",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ampuR1BOOEljX0t2Vm96clVadkxMdDdXakxGT1RodFJwYmpsVmQzQ1NETzhNRlZFRTFBTDJvcVRnYW1Nc2NlOUthTVRMUGo5aFUxNS13?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T05:48:47.033Z"
+  },
+  {
+   "id": "4dd8c266887f",
+   "title": "Garmin just launched the screen-free Cirqa Smart Band, and it looks a lot like Whoop",
+   "summary": "Garmin just launched the screen-free Cirqa Smart Band, and it looks a lot like Whoop Mashable",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VNEp2cXFseUtzeWtmUC1jMEdKZGZLUFpUSU4wQWdfdEttNkRqYzZEODUwZGpXcjZQMHRlR3V0VGI5dWViZWZWRm1HQ2RmUjdKMWtYUFZTazREVU04aDBpYmhZMDVQVTRuSG1xUHV4SHNlMy1tbEVJ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T14:28:41.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Garmin",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VNEp2cXFseUtzeWtmUC1jMEdKZGZLUFpUSU4wQWdfdEttNkRqYzZEODUwZGpXcjZQMHRlR3V0VGI5dWViZWZWRm1HQ2RmUjdKMWtYUFZTazREVU04aDBpYmhZMDVQVTRuSG1xUHV4SHNlMy1tbEVJ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T05:48:47.033Z"
+  },
+  {
+   "id": "75ec02912323",
+   "title": "Amazon introduces a host of new smart home devices: Meet the updated Echo line",
+   "summary": "Amazon introduces a host of new smart home devices: Meet the updated Echo line Mashable",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVZ1emR3UGYzV1lHMGZpcWd6T0o3RXRoWG1oMmlFbnc3S1JqMEZCaHZxZVhpbDJFZFpLdXM0eWpOUlRlWVNIRHlsRmdNOTYxdmtZVlNSc2w2aVlSSG1iWTFRYmV2dXg3NF9VcEs2dVhpSUhFSHRJXzlzYVZLUElYMmRvT2Z6aGZ6RkJLVmxoUUU5NWhTZ1loeA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T14:28:41.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVZ1emR3UGYzV1lHMGZpcWd6T0o3RXRoWG1oMmlFbnc3S1JqMEZCaHZxZVhpbDJFZFpLdXM0eWpOUlRlWVNIRHlsRmdNOTYxdmtZVlNSc2w2aVlSSG1iWTFRYmV2dXg3NF9VcEs2dVhpSUhFSHRJXzlzYVZLUElYMmRvT2Z6aGZ6RkJLVmxoUUU5NWhTZ1loeA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T05:48:47.033Z"
+  },
+  {
    "id": "11aa95b672db",
    "title": "November 2026 Tech Launches: Motorola, Asus, Apple and Vivo Devices to Watch",
    "summary": "November 2026 Tech Launches: Motorola, Asus, Apple and Vivo Devices to Watch Analytics Insight",
@@ -129,6 +195,10 @@
     {
      "name": "Notebookcheck",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTBhVWlDd3F6VkItdlh5ZG9CYTJEOVlWVHZwUUNJZ0NDbFpqdzJ6Y1pSc2RMZ2k1NFZjWk80c3ZqRWs3N0pweTMxQTdzQkZRbFBFSnlybEV5dlhQYVhDdTYtRDc3cW1tcnVKMk5pdENfS0dHY19BREsxYjdRaGhzd0RnNkM3dGxLSkcwaWF4czE0NHFaLWRoWU9xenNvZi1OQ2pka0QtVV8wLXc?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVg1akM3SFNVYzM4VVB6dTRVdEtQdHdLTlAwMW5IWkdiaWZDci11T0pJUVJ0SmdjeGM1Z0pHVHNjOEktb05TdnluelJ2bnpuV1E5QXpsZ2lYMndzZUlVaGRnZ1p2eF9NSUZSb2hDMk5ITjdka2FjR2Rzcl9rRjJwQ2JNaS1nZw?oc=5"
     }
    ],
    "firstSeen": "2026-10-31T19:13:31.312Z"
@@ -398,6 +468,28 @@
    "firstSeen": "2026-10-31T12:10:29.554Z"
   },
   {
+   "id": "bd5069de898c",
+   "title": "HP launches OmniBook 5 AI PC: lightweight, colorful 14-inch OLED",
+   "summary": "HP launches OmniBook 5 AI PC: lightweight, colorful 14-inch OLED NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnZWU0oyU0ZfMGJwNWh4VmlTbVNDTFNhT21IdDh1UlNsTlNETk5feWI2cjc3X21WV2F5SUc0WlRwaC1GRzdzM0FzaHRqbExCazhVY2ItU3NsLWZlU25LTnZnekN5Y2cxaU9mNm4tbGQ0ajYzaDZYMUFPVkNUTU9NV2FFbEd2b3o0eGdBWXk3azZRMEFqWWdDWFhtREplcUtTOVRqSm51VmRrNU5ybmc?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T07:43:22.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "HP",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "NewsBytes",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnZWU0oyU0ZfMGJwNWh4VmlTbVNDTFNhT21IdDh1UlNsTlNETk5feWI2cjc3X21WV2F5SUc0WlRwaC1GRzdzM0FzaHRqbExCazhVY2ItU3NsLWZlU25LTnZnekN5Y2cxaU9mNm4tbGQ0ajYzaDZYMUFPVkNUTU9NV2FFbEd2b3o0eGdBWXk3azZRMEFqWWdDWFhtREplcUtTOVRqSm51VmRrNU5ybmc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T05:48:47.033Z"
+  },
+  {
    "id": "2bd300c8de06",
    "title": "OnePlus may not launch new compact phones in the future",
    "summary": "Tipster Digital Chat Station says OnePlus does not plan to update its small-screen phone for now. That means a successor to the OnePlus 15T is not coming soon. The tipster shared the news in a post today. He did not give a reason or a timeline. He only said you can expect a wide-",
@@ -640,6 +732,28 @@
    "firstSeen": "2026-11-01T00:00:35.743Z"
   },
   {
+   "id": "ac6d1f1b0299",
+   "title": "Vivo T1 44W and Vivo T1 Pro 5G launched in India: Price and Specifications",
+   "summary": "Vivo T1 44W and Vivo T1 Pro 5G launched in India: Price and Specifications Digit",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXhycEVNLW9OMllWYnJ5Z0FGd1ZtWk8wTDZBbFBjZ3RoeUJkRzl5X0tjX082ZWVfM0t2dzQ1LXZtYVk0eUU4WVJQY1BxSjVxdU5ka211bURWblpGc1Y0YXpJaEIwUS1DVmJqSnJaTng5eWVWVEZkZzdQSVlqbUZmNDQ2QWI0VGxJaHlRb3ZzMloyaEdfQ3NaWUc2THhWaGpPamRZNHo4YjlZa01KdmRQWGhqOHNGcVFXZ3dVaVpQUjNNZ9IByAFBVV95cUxQeEQ0X3dWeFVidzhpN05nOXpGT0JYakFsNTRpZ0lrWXI2UGdnSlBNaWZqWkRBdEJQNE5TeUhwMGZtUEIycFlOaE02aUtMR1IzcXpQd0paaVVXTVdWci1LZWNtQmlCNmR3M3RmMVcyakRxT0Q3MUJwY1FfeHJWSHdJUVFWbU0tN0pUNl9KOUN3dDBGMnoydEp6VUFRcjdIQWEtdEhUSi1GbTZwUUl2VkFibUZLbzJqTFZKNFA1VWprOWttMUNIcVAxSw?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T00:00:00.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Vivo",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXhycEVNLW9OMllWYnJ5Z0FGd1ZtWk8wTDZBbFBjZ3RoeUJkRzl5X0tjX082ZWVfM0t2dzQ1LXZtYVk0eUU4WVJQY1BxSjVxdU5ka211bURWblpGc1Y0YXpJaEIwUS1DVmJqSnJaTng5eWVWVEZkZzdQSVlqbUZmNDQ2QWI0VGxJaHlRb3ZzMloyaEdfQ3NaWUc2THhWaGpPamRZNHo4YjlZa01KdmRQWGhqOHNGcVFXZ3dVaVpQUjNNZ9IByAFBVV95cUxQeEQ0X3dWeFVidzhpN05nOXpGT0JYakFsNTRpZ0lrWXI2UGdnSlBNaWZqWkRBdEJQNE5TeUhwMGZtUEIycFlOaE02aUtMR1IzcXpQd0paaVVXTVdWci1LZWNtQmlCNmR3M3RmMVcyakRxT0Q3MUJwY1FfeHJWSHdJUVFWbU0tN0pUNl9KOUN3dDBGMnoydEp6VUFRcjdIQWEtdEhUSi1GbTZwUUl2VkFibUZLbzJqTFZKNFA1VWprOWttMUNIcVAxSw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T05:48:47.033Z"
+  },
+  {
    "id": "3798653f6908",
    "title": "Planning to buy new smartphone this festive season?: 7 upcoming launches to watch in Nov '26 ranging from ₹...",
    "summary": "Planning to buy new smartphone this festive season?: 7 upcoming launches to watch in Nov '26 ranging from ₹... Bhaskar English",
@@ -660,6 +774,28 @@
     }
    ],
    "firstSeen": "2026-10-31T05:20:22.207Z"
+  },
+  {
+   "id": "34eec87e4e3f",
+   "title": "Planning to buy smartphone priced less than ₹20,000?: 7 upcoming launches to watch in Nov with premium features",
+   "summary": "Planning to buy smartphone priced less than ₹20,000?: 7 upcoming launches to watch in Nov with premium features Bhaskar English",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMzdodTNZOUFEcmQ1dVNpTE1mWnhGRUVJYmNxeGZSeEwyS3Jvc1JneG9uMGdZbnFmdHdLR0pxZUl3SWxOMDRvTDZGOXpQakROSDJPX3V3QXkwa1R5SWhMMzNLbENraW9SQ245LU9DX3Znd1pVZmg0MzB0OEZHT01xc19WeUdudFYwc01ZalNwWWpJV3B3Y1lleGVwTlpVV0FCRFdQOFpTVkNKVGs0ZUxESlRoTTI5OUhHZ2RwZFFhQWllQmpoQ1hydFhXY29QRndpaVRXMGF3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T23:35:00.000Z",
+   "date": "2026-10-31",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Bhaskar English",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMzdodTNZOUFEcmQ1dVNpTE1mWnhGRUVJYmNxeGZSeEwyS3Jvc1JneG9uMGdZbnFmdHdLR0pxZUl3SWxOMDRvTDZGOXpQakROSDJPX3V3QXkwa1R5SWhMMzNLbENraW9SQ245LU9DX3Znd1pVZmg0MzB0OEZHT01xc19WeUdudFYwc01ZalNwWWpJV3B3Y1lleGVwTlpVV0FCRFdQOFpTVkNKVGs0ZUxESlRoTTI5OUhHZ2RwZFFhQWllQmpoQ1hydFhXY29QRndpaVRXMGF3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T05:48:47.033Z"
   },
   {
    "id": "c4d229316848",
