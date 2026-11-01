@@ -397,6 +397,10 @@
     {
      "name": "Gadget Bridge",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEFuYTBQS05JdC1UblhSZVpOQm9VOEYzdk9rT2pRY2k0aWtFR3BaZnBMRjMxVG5tRGFZd01MNGp0dzRHX1JfTWEycUNCdnE3UFo0bUhEN3pqT3pocGJMLVgtUzkzRXRpZ0dFT1BOR0lDTGdoNmV4QmxwOUdHOEZydG80UGpyTU5XejktUU9IOGRnVVE2WGJOWnFvOGdtU0xYR3hFQ3BwR0J2aWJjeWpRTmk0bktmMXhQRC12ZVFJMF96amphNTh2V1AxOVJKR2dNSkHSAdIBQVVfeXFMTmxBbmEwUEtOSXQtVG5YUmVaTkJvVThGM3ZPa09qUWNpNGlrRUdwWmZwTEYzMVRubURhWXdNTDRqdHc0R19SX01hMnFDQnZxN1BaNG1IRDd6ak96aHBiTC1YLVM5M0V0aWdHRU9QTkdJQ0xnaDZleEJscDlHRzhGcnRvNFBqck1OV3o5LVFPSDhkZ1VRNlhiTlpxbzhnbVNMWEd4RUNwcEdCdmliY3lqUU5pNG5LZjF4UEQtdmVRSTBfempqYTU4dldQMTlSSkdnTUpB?oc=5"
+    },
+    {
+     "name": "Analytics Insight",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcGVKaWZlNW9GNkJEVS11MzkxU3NEM1VJNkQ4YXlkWVpyVFgtc1JEdV9xZ2pRU0xtdDVtbVZacVc3OHNKRFlHUFBUeDA1UzZUdm5SeWpCb0xINXMtaDJxRUp5OVF6M00wTHVPUktuTmhOQ0RadnNaaHBVXzhkai1iejZCdVdFcmxNWGtCenVsakRlXzltOTRkOEJsNWw5dUhTVXhXT0VWMVB6cmNO0gG6AUFVX3lxTE9QbTVEZlVZejlKR19CZ1hsVG8xTWI5QVhQbkR0aVl3OUNucWFJWGtULTVENUtmY2NVUVZWU1F5MDkzcXNET0J1TzFEcnlPckl1YzBuUUVLUjNYekhLM0V3REhDNVdod0xlS1NzUzlzNzdmaW9FUm1RSkJfT0xMOTdIemFxZndCUzhOdU5iZzlRbkw3T0hLUWYtVDJOTGExWEVkSkhkMmJqbVc5bHhPM0l1bDR5QlJ4MU5zdw?oc=5"
     }
    ],
    "firstSeen": "2026-10-31T19:13:31.312Z"
@@ -490,6 +494,28 @@
    "firstSeen": "2026-11-01T05:48:47.033Z"
   },
   {
+   "id": "47dfc8cf013b",
+   "title": "Motorola Signature 27 to Debut With Snapdragon 8 Elite Extreme Gen 6 in India Ahead of iQOO 16",
+   "summary": "Motorola Signature 27 to Debut With Snapdragon 8 Elite Extreme Gen 6 in India Ahead of iQOO 16 My Mobile India",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSEl5dmJPdEdzeHlXNXJaRXBUUEtDSnkxVjNlYWRLT09ya2NVc24yaVVkSjJNdkl5OWRORGlJT1BYSHgxa1hzZXhrMGtmQkFfZ244MFBHTjFnTDB6dkhyaDBmZFdxNkVuUDdwOHVGNUpsaTRBM1pKREthSW5pWHZkemhVamNPaFNjR2ZGVTZxUU9aUmlpNDVfNlVFWGViVEoyMjFUUkdRSXVnaVJDTkhFUnlrdldMbnF4OVNkVXJrdjFIR2c?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T07:30:12.000Z",
+   "date": "2026-10-31",
+   "status": "Upcoming",
+   "category": "PC & Components",
+   "brand": "Motorola",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSEl5dmJPdEdzeHlXNXJaRXBUUEtDSnkxVjNlYWRLT09ya2NVc24yaVVkSjJNdkl5OWRORGlJT1BYSHgxa1hzZXhrMGtmQkFfZ244MFBHTjFnTDB6dkhyaDBmZFdxNkVuUDdwOHVGNUpsaTRBM1pKREthSW5pWHZkemhVamNPaFNjR2ZGVTZxUU9aUmlpNDVfNlVFWGViVEoyMjFUUkdRSXVnaVJDTkhFUnlrdldMbnF4OVNkVXJrdjFIR2c?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T13:09:49.954Z"
+  },
+  {
    "id": "2bd300c8de06",
    "title": "OnePlus may not launch new compact phones in the future",
    "summary": "Tipster Digital Chat Station says OnePlus does not plan to update its small-screen phone for now. That means a successor to the OnePlus 15T is not coming soon. The tipster shared the news in a post today. He did not give a reason or a timeline. He only said you can expect a wide-",
@@ -507,6 +533,10 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/10/31/oneplus-may-not-launch-new-compact-phones-in-the-future/"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXAxZ05iT3hacFgyYU9MaEJTUzdxRjAzNUkwUUJZOXBxWVlhYlk4RFlxcGt4emM5eDYxMTFzbm9wQVZtN3l4YXltUFNlaXBkdm5aclJYdFhTSlRiazBJOTJvT3NVYW9JaGNZVEl5WFREWmZvYjA3S0tubnhaNER1dEppZG14ZTZ4bHhDOVVzU3hXWEg2TzFyVjdXTC0?oc=5"
     }
    ],
    "firstSeen": "2026-10-31T12:10:29.554Z"
@@ -576,6 +606,28 @@
     }
    ],
    "firstSeen": "2026-10-31T12:10:29.554Z"
+  },
+  {
+   "id": "cb7765d63f59",
+   "title": "iPhone 18: Six Expected Upgrades and 2027 Launch",
+   "summary": "iPhone 18: Six Expected Upgrades and 2027 Launch News Karnataka",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDhwRFZLWnNjVjZVMFNyUXJzWE5NSVlVaVBpNkk0d3JUQ2lTVjRucGFhS09YSmFOSjRZSzZyVjVKeER5d2NCSTZUbGVkYmxsZUFjUnRjSTlrZk56U01Pb01fa3M1dzBnd1BvM1Fhckc5RDlWcnZQRy1BTkxyZUgtRDZaQnJtWGwzaXI0T0xRLU14WWFrdEVnYWV3?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T05:22:14.000Z",
+   "date": "2026-10-31",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "News Karnataka",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDhwRFZLWnNjVjZVMFNyUXJzWE5NSVlVaVBpNkk0d3JUQ2lTVjRucGFhS09YSmFOSjRZSzZyVjVKeER5d2NCSTZUbGVkYmxsZUFjUnRjSTlrZk56U01Pb01fa3M1dzBnd1BvM1Fhckc5RDlWcnZQRy1BTkxyZUgtRDZaQnJtWGwzaXI0T0xRLU14WWFrdEVnYWV3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T13:09:49.954Z"
   },
   {
    "id": "00df60c76943",
@@ -752,6 +804,28 @@
     }
    ],
    "firstSeen": "2026-11-01T05:48:47.033Z"
+  },
+  {
+   "id": "daf168b72d2e",
+   "title": "Moto G45 5G with 50MP camera launched in India: Specs, price and more",
+   "summary": "Moto G45 5G with 50MP camera launched in India: Specs, price and more Digit",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnNHT1dqTFhkM09Id182Q204SDlBV2U1VGFpczlfZk9uRm1wbEd4d05wVEo3c1NsYXJBaTNLQkljdzNYUTlhSG1RaDNRMkJVUWcwNzVoMWFYcTE5R216UGhwa3lFdHVBT2oyaUI1djhKSXB3YVF3SFVucDRvZG9oNW83cDV6N0R0WDBwVEdtdnk2ZXUwcUxNSzkyMU9menNGbmFFcS1wTkdwSzEzbEs0Z3JB0gG4AUFVX3lxTFBQMjRaZXJXa05zQVpVeU16MnBwc1JSMk53WlRtS1hRNUFpQnlqaU9DUTA4VDlTdkdRdFBrYVNaM0FSUEM3ZE1qOWd6emNkVzF1azQ1UWhyN25sVGRpYXVwZ3FuUjNPWno4Ri0yOGkyOG5pcEc4REFLT2hFQldrdnVIMTdvZEFZX2FyVTJKT0tPdXpJOVBQMFM1emhqVmpYTVlsbTdGYXJsQXZ4Ym4xQXpfLUsydHB5WFA?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T00:00:00.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnNHT1dqTFhkM09Id182Q204SDlBV2U1VGFpczlfZk9uRm1wbEd4d05wVEo3c1NsYXJBaTNLQkljdzNYUTlhSG1RaDNRMkJVUWcwNzVoMWFYcTE5R216UGhwa3lFdHVBT2oyaUI1djhKSXB3YVF3SFVucDRvZG9oNW83cDV6N0R0WDBwVEdtdnk2ZXUwcUxNSzkyMU9menNGbmFFcS1wTkdwSzEzbEs0Z3JB0gG4AUFVX3lxTFBQMjRaZXJXa05zQVpVeU16MnBwc1JSMk53WlRtS1hRNUFpQnlqaU9DUTA4VDlTdkdRdFBrYVNaM0FSUEM3ZE1qOWd6emNkVzF1azQ1UWhyN25sVGRpYXVwZ3FuUjNPWno4Ri0yOGkyOG5pcEc4REFLT2hFQldrdnVIMTdvZEFZX2FyVTJKT0tPdXpJOVBQMFM1emhqVmpYTVlsbTdGYXJsQXZ4Ym4xQXpfLUsydHB5WFA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T13:09:49.954Z"
   },
   {
    "id": "3798653f6908",
@@ -994,6 +1068,28 @@
     }
    ],
    "firstSeen": "2026-10-30T22:12:25.132Z"
+  },
+  {
+   "id": "16a4116ab7e3",
+   "title": "Lenovo confirms global launch for new budget gaming monitor",
+   "summary": "Lenovo confirms global launch for new budget gaming monitor Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOURZc0R1aXFRTWhSMnNrcDVVazRBSnBiR1NtbFRVb3RmWnAzWURPM05ndHJGVWozUHNuekFrTTVIQnJlZ21Bd3RPdEdhdXBFZTlpSjlmdXBaYlpSTVVCTzhtT2JWcUNzX3hlcDBsaWdqZzBfWG5kX2ZTUzlUcW0zdlVITXlpeFBobXA4SUwxMnVmRFBEYUJFYzBYU0F4d3ZQdzZyUC1oSQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-30T18:50:00.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Lenovo",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOURZc0R1aXFRTWhSMnNrcDVVazRBSnBiR1NtbFRVb3RmWnAzWURPM05ndHJGVWozUHNuekFrTTVIQnJlZ21Bd3RPdEdhdXBFZTlpSjlmdXBaYlpSTVVCTzhtT2JWcUNzX3hlcDBsaWdqZzBfWG5kX2ZTUzlUcW0zdlVITXlpeFBobXA4SUwxMnVmRFBEYUJFYzBYU0F4d3ZQdzZyUC1oSQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-01T13:09:49.954Z"
   },
   {
    "id": "ff853f293ba5",
