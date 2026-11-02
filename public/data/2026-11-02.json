@@ -2,6 +2,72 @@
  "date": "2026-11-02",
  "items": [
   {
+   "id": "614ebdaef00a",
+   "title": "Compact Android tablet set to launch with 8.7-inch display and 4G LTE",
+   "summary": "Compact Android tablet set to launch with 8.7-inch display and 4G LTE Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3hEQl91Y2pYbTJuNWZERGdoQVMzSUhfNHl4TEdyQTJrSzJBV0FBS1NvN19Ec2NHd25BZDZOWnVGaEIwbTdtdEszTU41YndEcEE5UjFoYU83ZTNmM3I1bGZiMHFQQl9GcE5XZEpYUEVYOTVTTU5rQjEzOFNycmh4Q0VnSnlnblEyMXpfN1BvUGhadm5uckxxNzkwZ1JhNzQwaE5HMVI0N192UDFQUE9rX0xfNUU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T00:15:00.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3hEQl91Y2pYbTJuNWZERGdoQVMzSUhfNHl4TEdyQTJrSzJBV0FBS1NvN19Ec2NHd25BZDZOWnVGaEIwbTdtdEszTU41YndEcEE5UjFoYU83ZTNmM3I1bGZiMHFQQl9GcE5XZEpYUEVYOTVTTU5rQjEzOFNycmh4Q0VnSnlnblEyMXpfN1BvUGhadm5uckxxNzkwZ1JhNzQwaE5HMVI0N192UDFQUE9rX0xfNUU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T00:32:28.329Z"
+  },
+  {
+   "id": "38df107d43d1",
+   "title": "Google Unveils Googlebook Detachables as Next Evolution in Laptop Form Factors at 2026 Android Dev Summit",
+   "summary": "Google Unveils Googlebook Detachables as Next Evolution in Laptop Form Factors at 2026 Android Dev Summit SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaFBzVG9hcWdBZ2pscU05dnlocG56TWhRVHpUbXJUWllDRFRBREVNYk1qalYtblNRbDdCRDc2OTIyQ3QtVDc1RkxKdTBDRjdsT01SQUNnd0ZNaU8tajJPMTFlUjUwZjRBX1VNQjBnY0tZVXlzWW5ZSjRLREZPOThLemdzRWt0b3ktdmdmVHByM1c1REpNWjZRLTFiWEhlWm40OF85bG5kTHUwejFKRm5vb0J4MGR5WWpuRXlaZ0JSemVUMy0xSml0M3AzWUI?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-01T23:35:27.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "SSBCrack",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaFBzVG9hcWdBZ2pscU05dnlocG56TWhRVHpUbXJUWllDRFRBREVNYk1qalYtblNRbDdCRDc2OTIyQ3QtVDc1RkxKdTBDRjdsT01SQUNnd0ZNaU8tajJPMTFlUjUwZjRBX1VNQjBnY0tZVXlzWW5ZSjRLREZPOThLemdzRWt0b3ktdmdmVHByM1c1REpNWjZRLTFiWEhlWm40OF85bG5kTHUwejFKRm5vb0J4MGR5WWpuRXlaZ0JSemVUMy0xSml0M3AzWUI?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T00:32:28.329Z"
+  },
+  {
+   "id": "daa3bb7e7520",
+   "title": "Made-in-India Pioneer Mivi Opens ₹200-Crore Factory, Unveils Mivi One 5G Smartphone",
+   "summary": "Made-in-India Pioneer Mivi Opens ₹200-Crore Factory, Unveils Mivi One 5G Smartphone Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbnliYTg2elgwQmxucVhQWXVhX0xzV3dua3BlRGxCSnVqazV3a3dBUTR4cWwxeXp0ZGtEOWZmY3FKcG1KU3FJUDlidGhtdnIwSGJWSF8wMkJYc3Fwb3J2c2ticmttRTFlTHlEMzVmZWZjaC15X0xZNU9pUlhzVkZoSW10VTNhVkxGRURCTVA2S2FhLU92cjZiNmRDUWx1dFJFSW52c2pZMTdSak5NamVEc0xkSm5ycGh6NWpxMjNldWxUeEd0dUFVMEhHZjN5RzVleHc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-01T22:55:30.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Tech Times",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbnliYTg2elgwQmxucVhQWXVhX0xzV3dua3BlRGxCSnVqazV3a3dBUTR4cWwxeXp0ZGtEOWZmY3FKcG1KU3FJUDlidGhtdnIwSGJWSF8wMkJYc3Fwb3J2c2ticmttRTFlTHlEMzVmZWZjaC15X0xZNU9pUlhzVkZoSW10VTNhVkxGRURCTVA2S2FhLU92cjZiNmRDUWx1dFJFSW52c2pZMTdSak5NamVEc0xkSm5ycGh6NWpxMjNldWxUeEd0dUFVMEhHZjN5RzVleHc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T00:32:28.329Z"
+  },
+  {
    "id": "25ca96b05e05",
    "title": "iPad Mini 8 Battery Capacity, Price, Release Date, Specs and Everything We Know So Far",
    "summary": "iPad Mini 8 Battery Capacity, Price, Release Date, Specs and Everything We Know So Far International Business Times UK",

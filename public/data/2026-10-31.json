@@ -46,6 +46,28 @@
    "firstSeen": "2026-10-31T19:13:31.312Z"
   },
   {
+   "id": "631bac071899",
+   "title": "Asus ROG Announces the G752 Gaming Laptop",
+   "summary": "Asus ROG Announces the G752 Gaming Laptop eTeknix",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qbDljZllSM2x1eDRRQk5fWlNuRlBXUXBQcExlSkNYVW9IVlVVbWlIWTVhWXlpWkFFM0loS09nWENyVXRTUFlmanJBb0xOdzduX0k5bXZwYk5uU0xfQUxzSHI2dnIyRFFQRjVrdWI5UQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T17:01:45.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Asus",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "eTeknix",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qbDljZllSM2x1eDRRQk5fWlNuRlBXUXBQcExlSkNYVW9IVlVVbWlIWTVhWXlpWkFFM0loS09nWENyVXRTUFlmanJBb0xOdzduX0k5bXZwYk5uU0xfQUxzSHI2dnIyRFFQRjVrdWI5UQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T00:32:28.329Z"
+  },
+  {
    "id": "e88bfddc2115",
    "title": "Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch",
    "summary": "Motorola announced the Signature 27 in September at the Snapdragon Summit, where Qualcomm introduced the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6 chips. The Signature 27, slated to launch on November 5, will be powered by the 2nm Snapdragon 8 Elite Extreme Ge",
@@ -432,6 +454,28 @@
    "firstSeen": "2026-10-31T19:13:31.312Z"
   },
   {
+   "id": "c39a18cc85e1",
+   "title": "Motorola launches the Moto Pad 2026 tablet series in Vietnam, featuring integrated AI.",
+   "summary": "Motorola launches the Moto Pad 2026 tablet series in Vietnam, featuring integrated AI. Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0hRcjBWTzF3RGNSZnZ1dnVFaDZOakhpcXJDbWZCTGNCcklHSDlzZ0JWQkpld2F4OEpBQnhuUHEyS2hmeVg4R1QzU3owNmNEWE9YeGpTWVR1MWdmelpaTHlKd2R0dGJnY2wzZjE4cVdJZzZZeHdqdGxBeGp1ZDJHallQZ0FSTWl6bGFYWXRYNUw2Yld1dFl3R24xTUJob1ZGZFpqWg?oc=5",
+   "image": "",
+   "publishedAt": "2026-10-31T09:11:12.000Z",
+   "date": "2026-10-31",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Motorola",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0hRcjBWTzF3RGNSZnZ1dnVFaDZOakhpcXJDbWZCTGNCcklHSDlzZ0JWQkpld2F4OEpBQnhuUHEyS2hmeVg4R1QzU3owNmNEWE9YeGpTWVR1MWdmelpaTHlKd2R0dGJnY2wzZjE4cVdJZzZZeHdqdGxBeGp1ZDJHallQZ0FSTWl6bGFYWXRYNUw2Yld1dFl3R24xTUJob1ZGZFpqWg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T00:32:28.329Z"
+  },
+  {
    "id": "7511afe6fba8",
    "title": "OnePlus Ace 7 and Ace 7 Pro Launched in China with 9,000mAh Battery and 185 Hz Display: Price & Specifications",
    "summary": "OnePlus Ace 7 and Ace 7 Pro Launched in China with 9,000mAh Battery and 185 Hz Display: Price & Specifications iamabiker.com",
@@ -475,6 +519,10 @@
     {
      "name": "New Age BD",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEVzM3FCMXRsaVYzakxMS05FekY0UmpYQVY0RjZ5VFMtTmFWaU05cnVGTmFWUkFlWjVDWENDbEJSOGJDUnI2d0ZYSUwtS1V1VVJ4eXJxZVgyOFhvckhGcVBvc3RFTjBuMmI5dnBBTXBSUHJ3Y3pJelNrZmRKV0pHV1JVaVJzeVpaVUV5c2NBX3FFejc4Q3lDU1kzcVpLMmNwemc?oc=5"
+    },
+    {
+     "name": "www.daily-sun.com",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUGtoYnZvaUIwcGZTM1EyZExsWmlGZmJteHdKV04xWEQwZmpPNFVaV01CVG1mbzVZbS1KNmhUekpJRk51TFhiazJzTHczM0pYV2FoSW9NQkVYaGJxQUlHdw?oc=5"
     }
    ],
    "firstSeen": "2026-11-01T00:00:35.743Z"
