@@ -2,6 +2,696 @@
  "date": "2026-11-02",
  "items": [
   {
+   "id": "d2e6a34b918a",
+   "title": "Redmi Pad 3 Receives SIRIM Certification in Malaysia Ahead of Expected Launch",
+   "summary": "The Redmi Pad 3 appears to be inching closer to its launch as the successor to the Redmi Pad 2, which first debuted in June 2025. While the Xiaomi sub-brand has yet to confirm the tablet, it has now been spotted on a certification site. The listing identifies the purported tablet",
+   "link": "https://www.gadgets360.com/tablets/news/redmi-pad-3-sirim-certification-malaysia-launch-features-specifications-12270987",
+   "image": "https://i.gadgets360cdn.com/large/xiaomi_redmi_pad_2_main_big_gadgets_360_1754906252986.jpg",
+   "publishedAt": "2026-11-02T10:44:28.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "Redmi",
+   "region": "Southeast Asia",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/tablets/news/redmi-pad-3-sirim-certification-malaysia-launch-features-specifications-12270987"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "430b7de27b7f",
+   "title": "I’ve used every Android foldable released this year. Here’s how the iPhone Duo stacks up",
+   "summary": "The iPhone Duo is a fun and frustrating first attempt.",
+   "link": "https://www.androidauthority.com/iphone-duo-android-user-impressions-3728257/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-AA-14.jpg",
+   "publishedAt": "2026-11-02T10:30:32.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/iphone-duo-android-user-impressions-3728257/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "10ce3c32fc98",
+   "title": "Karbonn Rebel and Karbonn Rebel Pro smartphones launched in India; Check out the specs and pricing",
+   "summary": "Karbonn Rebel and Karbonn Rebel Pro smartphones launched in India; Check out the specs and pricing The Tech Outlook",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUmxwTDVISS1XS3R0T3M4QUFReTVOSVhYbUU2YldMOV8xeXd1a3ZTVEM5NDQwRkxtelZNQ0M1bWhPZko5cFlWYldRSUpwUFVJUl81WmRtdFJPdmlWaUw3SlhnWWpiRlJaLVBHWVZpdUZPdGdpbUc5U3Z1Rl9BcXNjYjJucGQ0U0Rrd0RzSEhhZnktWmpsR0M1aXVsbkRoVncxRU9IaVM0bC1NYk9oakpOZ1JLbEZKb1h6VHBIWXFRMXZQZ3lwU3dPUDUtWnpUMTJTeGxhU3VqY1l6ejhvRllzVjZ3cm5jdnZOdWNLMVhhUkNkRzRjbnVv?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T10:21:57.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Tech Outlook",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUmxwTDVISS1XS3R0T3M4QUFReTVOSVhYbUU2YldMOV8xeXd1a3ZTVEM5NDQwRkxtelZNQ0M1bWhPZko5cFlWYldRSUpwUFVJUl81WmRtdFJPdmlWaUw3SlhnWWpiRlJaLVBHWVZpdUZPdGdpbUc5U3Z1Rl9BcXNjYjJucGQ0U0Rrd0RzSEhhZnktWmpsR0M1aXVsbkRoVncxRU9IaVM0bC1NYk9oakpOZ1JLbEZKb1h6VHBIWXFRMXZQZ3lwU3dPUDUtWnpUMTJTeGxhU3VqY1l6ejhvRllzVjZ3cm5jdnZOdWNLMVhhUkNkRzRjbnVv?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "e15666927961",
+   "title": "Apple Launching Five New Products This Friday",
+   "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week , including its first touchscreen MacBook Pro models. The following new products will be available from Friday: iPad mini with OLED display and A20 Pro chip iMac with M6 chip ",
+   "link": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/",
+   "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+   "publishedAt": "2026-11-02T09:22:23.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "95dd1fbc9463",
+   "title": "Motorola Signature 27 Launch: Expected Price, Camera, Chip, Battery, Features And Other Key Details",
+   "summary": "Motorola Signature 27 Launch: Expected Price, Camera, Chip, Battery, Features And Other Key Details NDTV Profit",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkNMNGd6eTNfVGtWdWFUc2Z1eXczSkZ4cUw4WUxKdnZpRVUzajA4ajZDcDhvX3FKdkl5UFdIUldsbzcxTzA5bXNFcGV1eXo5R1BabEVvYjFnbWlXQmFvd3hqb2xKdG5uWGd4cG9PWjY2dGdFZGNaajVnUmhubHpMN2pFMER3QUZCRkVkOWhzN015QmppeGh5OFR0bEJjYzJlT3BmVm5aRXBibnBabmRGTktSUG9XQTdLOEVQbGpHdndQUDFic3F4ZzRYeHRobG05b1cxcHRiYVfSAeABQVVfeXFMTmhGaGpheFlXTVozVWFsT3ZIb0NXTHI1Y1N1VnhQaVZZR204eVpZcU5ZdHJhMHd4aUF1VEsyQk9sQk95R2xTcjhRbEt2d0lpUEtRSnYtaVJ5U0tmREtpcWl2NnprQ2dOa0ZFTTd5QURQa1RhTnk4ejZXT2JlMFVyTmxuSDE2dkV6QjFUU1I1UHhiaTZVY05qWFNiaVUtTUlCZVJEMjEtNjNIdEVUdTMyX0lTd0dCSWFGYVNJcWZPWmRaMmJab0JvMnFXeXRGdWdCdURTckxFQk1mZkNXMzlTOHc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T09:15:27.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Camera & Drone",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "NDTV Profit",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkNMNGd6eTNfVGtWdWFUc2Z1eXczSkZ4cUw4WUxKdnZpRVUzajA4ajZDcDhvX3FKdkl5UFdIUldsbzcxTzA5bXNFcGV1eXo5R1BabEVvYjFnbWlXQmFvd3hqb2xKdG5uWGd4cG9PWjY2dGdFZGNaajVnUmhubHpMN2pFMER3QUZCRkVkOWhzN015QmppeGh5OFR0bEJjYzJlT3BmVm5aRXBibnBabmRGTktSUG9XQTdLOEVQbGpHdndQUDFic3F4ZzRYeHRobG05b1cxcHRiYVfSAeABQVVfeXFMTmhGaGpheFlXTVozVWFsT3ZIb0NXTHI1Y1N1VnhQaVZZR204eVpZcU5ZdHJhMHd4aUF1VEsyQk9sQk95R2xTcjhRbEt2d0lpUEtRSnYtaVJ5U0tmREtpcWl2NnprQ2dOa0ZFTTd5QURQa1RhTnk4ejZXT2JlMFVyTmxuSDE2dkV6QjFUU1I1UHhiaTZVY05qWFNiaVUtTUlCZVJEMjEtNjNIdEVUdTMyX0lTd0dCSWFGYVNJcWZPWmRaMmJab0JvMnFXeXRGdWdCdURTckxFQk1mZkNXMzlTOHc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "f7751ba587d8",
+   "title": "Honor Magic 9 series launching globally this week with Snapdragon 8 Elite Extreme Gen 6",
+   "summary": "Honor will start its international rollout of the Honor Magic 9 series in Hong Kong on Wednesday, November 4. Honor global CMO Guan Haitao shared the update via a Weibo post. Until now, everything we knew about the Honor Magic 9 Pro series came from the Magic 9 series launch in C",
+   "link": "https://www.gizmochina.com/2026/11/02/honor-magic-9-series-launching-globally-this-week-with-snapdragon-8-elite-extreme-gen-6/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-Max-300x232.jpg?x54692",
+   "publishedAt": "2026-11-02T08:53:30.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Honor",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/02/honor-magic-9-series-launching-globally-this-week-with-snapdragon-8-elite-extreme-gen-6/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "a4c5ecae337f",
+   "title": "AAGO 15W Dual USB DC Charger with dual USB outputs launched",
+   "summary": "AAGO by Consistent Infosystems has introduced the AAGO 15W Dual USB DC Charger (AG-DC001) in India. The charger has a compact white rectangular body with a textured top surface and AAGO branding. Two USB output ports are positioned on the front, while red-and-black clamp connecto",
+   "link": "https://www.fonearena.com/blog/496210/aago-15w-dual-usb-dc-charger-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/AAGO-15W-Dual-USB-DC-Charger.jpeg",
+   "publishedAt": "2026-11-02T08:35:34.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496210/aago-15w-dual-usb-dc-charger-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "dce946afb89f",
+   "title": "Vivo Buds Clip launches globally, brings open-ear design and 42-hour battery life",
+   "summary": "Vivo recently held the global launch of the Vivo X500 series of photography-focused flagship phones in late October. Alongside the phones, the brand also unveiled the Vivo Buds Clip, which had so far been limited to the Chinese market. The open-ear clip-on earbuds are now officia",
+   "link": "https://www.gizmochina.com/2026/11/02/vivo-buds-clip-global-launch-europe-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-6-300x169.jpg?x54692",
+   "publishedAt": "2026-11-02T08:06:52.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Vivo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/02/vivo-buds-clip-global-launch-europe-price/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "b8d190b4ffbd",
+   "title": "Apple Unveils Touchscreen MacBook, Embracing a Feature Steve Jobs Once Banned",
+   "summary": "Apple Unveils Touchscreen MacBook, Embracing a Feature Steve Jobs Once Banned BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HcEh0YlluVHB6QWQtdzI5SWlqdzUxMDFvOEdNWWhYWGVnWm9UMnp1ZGhaTmNRWnlINUxRZTBVRFRscHJzaHlCNFdTNFBFazBWODFsSWpOY0M4VGh3Q1BTNWRjYUo3SVY5R3d0ZmtFV18tZkswWWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T08:02:07.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HcEh0YlluVHB6QWQtdzI5SWlqdzUxMDFvOEdNWWhYWGVnWm9UMnp1ZGhaTmNRWnlINUxRZTBVRFRscHJzaHlCNFdTNFBFazBWODFsSWpOY0M4VGh3Q1BTNWRjYUo3SVY5R3d0ZmtFV18tZkswWWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "cac75328c2d4",
+   "title": "Japanese med-tech giant Omron unveils blood pressure monitor production plant near Chennai",
+   "summary": "Japanese med-tech giant Omron unveils blood pressure monitor production plant near Chennai Pharmabiz.com",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OOXNyZFJnMmZHbTVmeTRjWFQ5cUMyX2JUWDJLMTlhNWJieG5vbXFpcWw2Tk5vSjBQd3lGX3E1WVkxbHdOeUw5RzNuUnVrWDZoWXNlNURLam01d0xITjg2NVhFc0k3a0Z0ZGFn?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T07:55:34.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Pharmabiz.com",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OOXNyZFJnMmZHbTVmeTRjWFQ5cUMyX2JUWDJLMTlhNWJieG5vbXFpcWw2Tk5vSjBQd3lGX3E1WVkxbHdOeUw5RzNuUnVrWDZoWXNlNURLam01d0xITjg2NVhFc0k3a0Z0ZGFn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "290e76533f58",
+   "title": "Samsung’s Intelligent Eyewear smart glasses will launch next month",
+   "summary": "More than a year after announcing its plans for smart glasses, Samsung might finally be ready to bring them to market. However, the availability of the Android XR-powered Intelligent Eyewear will be limited this year. Samsung Intelligent Eyewear launch timeline A report from Sout",
+   "link": "https://www.sammobile.com/news/samsungs-intelligent-eyewear-smart-glasses-launch-next-month/",
+   "image": "",
+   "publishedAt": "2026-11-02T07:38:08.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Wearable",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "SamMobile",
+     "link": "https://www.sammobile.com/news/samsungs-intelligent-eyewear-smart-glasses-launch-next-month/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "aa8b7e86a2ef",
+   "title": "Keychron launches new 8K keyboard with golden compass design and magnetic switches",
+   "summary": "Keychron has a new 8K magnetic keyboard in its lineup, called the Keychron Q19 HE 8K. It is a wired 60% magnetic switch keyboard with a nautical theme and a retail price of $254.99. What’s special about the Q19 HE 8K is that it comes in a golden finish, officially called Golden C",
+   "link": "https://www.gizmochina.com/2026/11/02/keychron-launches-new-8k-keyboard-with-golden-compass-design-and-magnetic-switches/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Keychron-Q19-HE-8K-Magnetic-Switch-Keyboard-Launch-Specs-Price-300x200.jpg?x54692",
+   "publishedAt": "2026-11-02T07:26:46.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/02/keychron-launches-new-8k-keyboard-with-golden-compass-design-and-magnetic-switches/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "0cb6fbfe68e8",
+   "title": "Sony FX5 Cinema Line camera with internal RAW recording and Open Gate shooting launched in India",
+   "summary": "Sony India has introduced the FX5, a new full-frame camera in its Cinema Line series. The company has also introduced optional accessories, including a detachable OLED viewfinder and an XLR handle unit. Sony FX5 Cinema Line camera The Sony FX5 features a full-frame fully stacked ",
+   "link": "https://www.fonearena.com/blog/496188/sony-fx5-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/Sony-FX5-Cinema-Line-camera.jpg",
+   "publishedAt": "2026-11-02T07:20:13.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Sony",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496188/sony-fx5-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "55aa41ebc806",
+   "title": "Launching this week: MacBook Pro, iPad Mini OLED, Motorola Signature 27 and more",
+   "summary": "Seven products launch or go on sale this week, from Apple’s first OLED MacBook Pro to new phones, a watch, and two accessories. Friday is the busiest day featuring four launches. Wednesday, 4 Nov iQOO G1 gaming controller Confirmed iQOO launches its G1 gaming controller on Wednes",
+   "link": "https://www.gizmochina.com/2026/11/02/launching-this-week-macbook-pro-ipad-mini-oled-motorola-signature-27-and-more/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Review-1.mp4_20261009_103226.431-300x150.jpg?x54692",
+   "publishedAt": "2026-11-02T07:13:52.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Motorola",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/02/launching-this-week-macbook-pro-ipad-mini-oled-motorola-signature-27-and-more/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "61d40c9951a5",
+   "title": "Sony launches Xperia 10 VIII smartphone at RM2,999 with a 50-megapixel camera and 6.1in display",
+   "summary": "Sony launches Xperia 10 VIII smartphone at RM2,999 with a 50-megapixel camera and 6.1in display The Star",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWQ3ZzhFeGY3TFpaTEtOdmtPaFRpVE55U2JHRnVueFlVX3lCMVdJNWNIT0NpYzlGSGtNWmR0bHE1OEs0N3BQX2dvVHBDaUxINkE4MEs3ZW9LNGhudjFacTYzN2tpYXhOSEdNc3E1ZEJBTDktOUg2dFA2QnpoZWk3VzdNQ1NYLUNMNzloSFdaWFE0NnBvSnZ5eTFJRG1MUmtMb0tnT3Q4WFhyUU9ndnp1b0lfWXh6cGZ1bnZZRkp5c1JTLU1Vdmk3VnVNRS1KOG1lOFd6dWxpbUYtOEFmZVFn?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T07:00:00.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Star",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWQ3ZzhFeGY3TFpaTEtOdmtPaFRpVE55U2JHRnVueFlVX3lCMVdJNWNIT0NpYzlGSGtNWmR0bHE1OEs0N3BQX2dvVHBDaUxINkE4MEs3ZW9LNGhudjFacTYzN2tpYXhOSEdNc3E1ZEJBTDktOUg2dFA2QnpoZWk3VzdNQ1NYLUNMNzloSFdaWFE0NnBvSnZ5eTFJRG1MUmtMb0tnT3Q4WFhyUU9ndnp1b0lfWXh6cGZ1bnZZRkp5c1JTLU1Vdmk3VnVNRS1KOG1lOFd6dWxpbUYtOEFmZVFn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "ef07a95e260e",
+   "title": "Lenovo Xiaoxin Pro 27 Vitality Edition launches with 13mm body and 120Hz QHD screen",
+   "summary": "Lenovo has launched the Xiaoxin Pro 27 Vitality Edition all-in-one PC in China. It shares its chassis with the earlier Xiaoxin 27 Vitality Edition, but with a screen change. You now get a 27-inch QHD panel with a 120Hz refresh rate and 400 nits of brightness. It also covers 100% ",
+   "link": "https://www.gizmochina.com/2026/11/02/lenovo-xiaoxin-pro-27-vitality-edition-launches-with-13mm-body-and-120hz-qhd-screen/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Lenovo-Xiaoxin-Pro-27-Vitality-Edition-launch-specs-price-300x200.jpg?x54692",
+   "publishedAt": "2026-11-02T06:58:53.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Lenovo",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/02/lenovo-xiaoxin-pro-27-vitality-edition-launches-with-13mm-body-and-120hz-qhd-screen/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "02161282f2a1",
+   "title": "Wear OS 7.1 is official, but a future version will copy this key Android phone feature",
+   "summary": "Wear OS will gain a system status bar in apps, but not in Wear OS 7.1.",
+   "link": "https://www.androidauthority.com/wear-os-android-feature-system-status-bar-3730455/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516-500w-260h.jpg",
+   "publishedAt": "2026-11-02T06:43:28.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/wear-os-android-feature-system-status-bar-3730455/"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "82bb446ec3d4",
+   "title": "Vivo Y32 5G with Snapdragon 4 Gen 2 SoC unveiled in the global market",
+   "summary": "Vivo Y32 5G with Snapdragon 4 Gen 2 SoC unveiled in the global market The Tech Outlook",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3FTa0pCOWJMdVN3Rm9kQkpKYnZLZW02NTVaOGRNbHpCWGJ3Mm53ZnlpRHd2ZEk0eTdRN201NWJLUUNjdUpEc2dHTFM4UTBkRnVOTnQxc3pjOFh2cExNWEVaWUo0ZmpNOXZFUkYyaFhqc0xPeURVdmppLXNBRzRDancxUTBzSTZ2WEJfVEFuNmxOQnZUY3Y4TUhwaDlxT1ZYWEI5SE5POE55WlF3YjlNTW9BOVpfWGlvSldDa1d4TnBaaUNpRHFpdFhYVzFiQ0FLVlE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T06:40:00.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Vivo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Tech Outlook",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3FTa0pCOWJMdVN3Rm9kQkpKYnZLZW02NTVaOGRNbHpCWGJ3Mm53ZnlpRHd2ZEk0eTdRN201NWJLUUNjdUpEc2dHTFM4UTBkRnVOTnQxc3pjOFh2cExNWEVaWUo0ZmpNOXZFUkYyaFhqc0xPeURVdmppLXNBRzRDancxUTBzSTZ2WEJfVEFuNmxOQnZUY3Y4TUhwaDlxT1ZYWEI5SE5POE55WlF3YjlNTW9BOVpfWGlvSldDa1d4TnBaaUNpRHFpdFhYVzFiQ0FLVlE?oc=5"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXVMQ1RHWWx6WWV3d0NTTFVfeGVIUFFiQTh0VHNWMjZiVzZNQV9uektIUUh2cTNPMFdzNU1uQ0ZiYy1PWXVaVnY2TFpTMUtIWVBDUjhkYXJuXzZpWlUzT2tGMHl4bktNUl93SHNYNktIQ2N0NkpHVmFiTERqSWducXo5QjRCZ0V2T3F0My1HT3hyTkFfNkpWRktEeWwwblJjSVBfemttMV83SGxJTlJRYVg3YjFHZXN5WWo0blF3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "5e6cce19a69e",
+   "title": "Motorola Signature 27 to Vivo X500: Smartphones expected to launch in India this November",
+   "summary": "Motorola Signature 27 to Vivo X500: Smartphones expected to launch in India this November Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbFFiTFE5SktuTFlTazlJeW9mX0FGRVFzQ0V3RTNlUkxoU09nUUFqMjFSSUYwUFBYcWxRaERXTlFQUzk4SDZURHFCbFp1RlMyWVBtX1Q1VF9SVjRkXzFQNXRmcUdadFFzRk9SWW93ZC1nZk9ySjNseE1yaUk5NnY5S1JVbjlqQ1NnQ2tNMkJTM25yNVhrRWpsOXNuZkRvZGVpSlZzUGkyZld6SVFkQUZUOVMzMUhsa1ZvOEVNcUNKMmdpcU14cklIVnJhblpGa1RZZ3FiWTEwR2RPdFdKNWZJRlYzZHhfbjJGbW55dGd30gHzAUFVX3lxTE96QmRWYW0yYjFnMkw4ZTdyQ01UVExCa2E3NXdFVDg4b2xfSW1IUERDUkRCNWlFcmF5alFMTTRTTUVNZzJ3M3loaXNHWS1xNmw2N1dBUTlUY21WaG5aNmpEV2FYSXN1SW5wWmdqVjNHVFRkTTVGbDBQN3N6OFVFVlltd3l6akFEQzhrMUNzX0V3Rk1YZU1hdi00c0FiWDJKd0trcWt5X2p6clpaMzBUU1VSVTlhcGNZNkZUY01qeFFFYmJyLUZlSEo4WkQxXzlnTXcycDc4czduSmdxUElkTUlFZVF2aWFCaS1FX3Bmall3Um92aw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T06:39:47.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Motorola",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Business Today",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbFFiTFE5SktuTFlTazlJeW9mX0FGRVFzQ0V3RTNlUkxoU09nUUFqMjFSSUYwUFBYcWxRaERXTlFQUzk4SDZURHFCbFp1RlMyWVBtX1Q1VF9SVjRkXzFQNXRmcUdadFFzRk9SWW93ZC1nZk9ySjNseE1yaUk5NnY5S1JVbjlqQ1NnQ2tNMkJTM25yNVhrRWpsOXNuZkRvZGVpSlZzUGkyZld6SVFkQUZUOVMzMUhsa1ZvOEVNcUNKMmdpcU14cklIVnJhblpGa1RZZ3FiWTEwR2RPdFdKNWZJRlYzZHhfbjJGbW55dGd30gHzAUFVX3lxTE96QmRWYW0yYjFnMkw4ZTdyQ01UVExCa2E3NXdFVDg4b2xfSW1IUERDUkRCNWlFcmF5alFMTTRTTUVNZzJ3M3loaXNHWS1xNmw2N1dBUTlUY21WaG5aNmpEV2FYSXN1SW5wWmdqVjNHVFRkTTVGbDBQN3N6OFVFVlltd3l6akFEQzhrMUNzX0V3Rk1YZU1hdi00c0FiWDJKd0trcWt5X2p6clpaMzBUU1VSVTlhcGNZNkZUY01qeFFFYmJyLUZlSEo4WkQxXzlnTXcycDc4czduSmdxUElkTUlFZVF2aWFCaS1FX3Bmall3Um92aw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "f5e6e6fc04d1",
+   "title": "OnePlus Buds Pro 4 Specifications, Features Officially Revealed Ahead of Launch",
+   "summary": "The OnePlus Buds Pro 4 will feature an 11mm woofer, a 6mm planar tweeter and independent dual DACs, with audio tuning by Dynaudio. Their specifications also include adaptive ANC, Spatial Audio with head tracking, AI Live Translation and Clear Audio Recording. The earbuds support ",
+   "link": "https://www.gadgets360.com/audio/news/oneplus-buds-pro-4-features-officially-revealed-ahead-of-launch-12269634",
+   "image": "https://i.gadgets360cdn.com/large/oneplus_buds_pro_4_oneplus_1793595919194.jpg",
+   "publishedAt": "2026-11-02T06:19:23.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Audio",
+   "brand": "OnePlus",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/oneplus-buds-pro-4-features-officially-revealed-ahead-of-launch-12269634"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "3e7e0cf45bc5",
+   "title": "iBall Partyriot 410 240W DJ Speaker with dual UHF rechargeable mics, RGB lighting, up to 8h playback launched",
+   "summary": "iBall has launched the Partyriot 410 DJ Speaker in India. The Partyriot 410 features a three-way speaker system with a 20.32 cm down-firing woofer, two 13.33 cm midrange drivers and two 6 cm tweeters. It delivers 240W RMS output, has a frequency response of 35Hz to 15kHz and incl",
+   "link": "https://www.fonearena.com/blog/496181/iball-partyriot-410-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/iBall-Partyriot-410-DJ-Speaker-1024x633.jpg",
+   "publishedAt": "2026-11-02T06:13:46.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496181/iball-partyriot-410-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "b458057fd902",
+   "title": "SD Gundam G Generation Eternal Launches Mobile Suit Gundam EIGHT Collaboration",
+   "summary": "SD Gundam G Generation Eternal Launches Mobile Suit Gundam EIGHT Collaboration Inven Global",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnVoZVo2MnY5Y1VXZWllR3NLZXRnSmRSNUtSclFxNmJwNDZGdV9JaWZGNTJKa0kyV0plWVdXM3ZUbnNfY2wwQjI5eGxfcElDUkZ2c29KUXhBNGJUSjM0MWMtVVBnaHVtbW8yQi0yWXRyYXJzUkxoX1RXTnNXaDFIckE4X1VxdVQ3cW5WVWZ1M0JDckpCU0ItR0I4UXF3eW1XU3lkV2JFbjhRdkFiU0xDQlI1NXNmdlNwQkpfbE1n?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T05:33:11.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Inven Global",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnVoZVo2MnY5Y1VXZWllR3NLZXRnSmRSNUtSclFxNmJwNDZGdV9JaWZGNTJKa0kyV0plWVdXM3ZUbnNfY2wwQjI5eGxfcElDUkZ2c29KUXhBNGJUSjM0MWMtVVBnaHVtbW8yQi0yWXRyYXJzUkxoX1RXTnNXaDFIckE4X1VxdVQ3cW5WVWZ1M0JDckpCU0ItR0I4UXF3eW1XU3lkV2JFbjhRdkFiU0xDQlI1NXNmdlNwQkpfbE1n?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "8f435a5ec609",
+   "title": "Apple to launch three new iPad models early next year",
+   "summary": "Apple to launch three new iPad models early next year news.lavx.hu",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2ozdTlIMDRwUnZpLWZLZDliQzJJa3JJMzcwVXk4ckl5RHNLZ0hSOTlxcVBDRGNQaERod1pFVUJuYXlOdGdLYTlSeDlXM3dUQ2JaY0pTUUhTOHl3Qkdsb2lvQTNIcUFGb2N2VXBNUldYT0dMbm1Wb1RYN3NzSGVnMlQ0QUxtallDOEE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T04:50:45.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2ozdTlIMDRwUnZpLWZLZDliQzJJa3JJMzcwVXk4ckl5RHNLZ0hSOTlxcVBDRGNQaERod1pFVUJuYXlOdGdLYTlSeDlXM3dUQ2JaY0pTUUhTOHl3Qkdsb2lvQTNIcUFGb2N2VXBNUldYT0dMbm1Wb1RYN3NzSGVnMlQ0QUxtallDOEE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "f9630b2778b5",
+   "title": "HAMMER Smash 2 10W portable speaker with RGB lighting, up to 6h playback launched",
+   "summary": "HAMMER has launched the Smash 2, a portable Bluetooth speaker with a white finish and grey mesh fabric. It weighs 285g and has a water-resistant body. The HAMMER Smash 2 features 52mm dynamic drivers with 10W RMS output and multi-colour RGB LED lighting. Connectivity options incl",
+   "link": "https://www.fonearena.com/blog/496169/hammer-smash-2-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/HAMMER-Smash-2-Bluetooth-speaker-1024x392.jpg",
+   "publishedAt": "2026-11-02T04:44:40.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496169/hammer-smash-2-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "c7ad4d922fc1",
+   "title": "Xiaomi 18 Pro series officially confirmed for global launch this November",
+   "summary": "Xiaomi has locked in a November window for the global debut of its Xiaomi 18 Pro series. The company said on X that the lineup is “going global this November,” asking fans which market they are most excited about. That follows an earlier confirmation that the Pro phones would lea",
+   "link": "https://www.gizmochina.com/2026/11/02/xiaomi-18-pro-series-global-launch-november/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-3-300x169.jpg?x54692",
+   "publishedAt": "2026-11-02T04:41:24.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/02/xiaomi-18-pro-series-global-launch-november/"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496167/xiaomi-18-pro-series-global-launch-teaser.html"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "e9a1f34272c3",
+   "title": "Apple Plans to Launch Three New iPad Models in First Half of 2027",
+   "summary": "Apple Plans to Launch Three New iPad Models in First Half of 2027 The Mac Observer",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDZ2QlBBSDRLRnFIc2I0a01MaEFRaTVWTDdfNm1KdXFCeTFocHA3dlBacjEtdjFYaFU1dzdIemNrU01aZDRPU2dmRllkc3VkaDh3ZE92dUpHVi1WazdiVlZ2bWgzUlB2eWJDMDVQQzhoMjc4SUxJRFdORjJzd0YxajN3YkhCaHNvVERwVE05WDlWZmRpLWF4OVFTMS1TYm92?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T04:11:08.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Mac Observer",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDZ2QlBBSDRLRnFIc2I0a01MaEFRaTVWTDdfNm1KdXFCeTFocHA3dlBacjEtdjFYaFU1dzdIemNrU01aZDRPU2dmRllkc3VkaDh3ZE92dUpHVi1WazdiVlZ2bWgzUlB2eWJDMDVQQzhoMjc4SUxJRFdORjJzd0YxajN3YkhCaHNvVERwVE05WDlWZmRpLWF4OVFTMS1TYm92?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "a40f9a0b4202",
+   "title": "Oppo Reno 17 5G Live Image Reveals Key Specs: Launch Soon",
+   "summary": "Oppo Reno 17 5G Live Image Reveals Key Specs: Launch Soon TelecomTalk",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHZjSW9kOWVwSXBGWTFqSzZwdXVOTFFhdlpYZ2ZSWlRLb2taRU9nRVk1UktIYnZXM1JzaGlaUDdPdWNxTEEzWk40ZzdFdmlrWnhHYkw0V2g3WWdYTm0wWlAtLW5haHJuam53a2liUGFlNWZPVy01N1JjSGxIdEhVQjNkRENDblY3cURnbVlTZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T03:35:16.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TelecomTalk",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHZjSW9kOWVwSXBGWTFqSzZwdXVOTFFhdlpYZ2ZSWlRLb2taRU9nRVk1UktIYnZXM1JzaGlaUDdPdWNxTEEzWk40ZzdFdmlrWnhHYkw0V2g3WWdYTm0wWlAtLW5haHJuam53a2liUGFlNWZPVy01N1JjSGxIdEhVQjNkRENDblY3cURnbVlTZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "9abf2d15f45c",
+   "title": "Motorola launches the first generation of Moto Pad 60 and Pad 70 Series tablets in Vietnam.",
+   "summary": "Motorola launches the first generation of Moto Pad 60 and Pad 70 Series tablets in Vietnam. Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2ZMdGtTRnNCdzJjTGhXcW1hTlo1SC1zOTRuU2g4aDhqNW1tdnFTNWJxc3pwUUtZM3lUVXFoU09NZ204MVl0dlJ2UzNza0tjQXZBaENMWDYzcGRKZGJ5VXRXbVlsNmR0Q2lCS3N3SFBjZ3hoQTZySGgtRHh3LVBWM2FNRWpyQUlob1hMaDFvU2RlS0lZMVFEU2k0RmhpLXpVLXFpT0pJVWdQaDJ0T09V?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T03:20:50.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Motorola",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2ZMdGtTRnNCdzJjTGhXcW1hTlo1SC1zOTRuU2g4aDhqNW1tdnFTNWJxc3pwUUtZM3lUVXFoU09NZ204MVl0dlJ2UzNza0tjQXZBaENMWDYzcGRKZGJ5VXRXbVlsNmR0Q2lCS3N3SFBjZ3hoQTZySGgtRHh3LVBWM2FNRWpyQUlob1hMaDFvU2RlS0lZMVFEU2k0RmhpLXpVLXFpT0pJVWdQaDJ0T09V?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "ae49cdeacd2c",
+   "title": "Xiaomi Launches REDMI M100 Pro with Dimensity 7300 Ultra Processor",
+   "summary": "Xiaomi Launches REDMI M100 Pro with Dimensity 7300 Ultra Processor Technetbook",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGp1X1FhcVhBNFlSTzdDajBkRWNrbjhmbzFHallZdHFDZy12cDR3b3BwTm9QQU02eHhDSUlkYzBZMS1UZm1wTVFXVjFBa0UyU3gyQWR2cWl3T2xvVk1oMmk1V1U1bUM2aC1rdjB4djE2eWxRU09zT1k3SlVVZzFDcDUyMA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T02:55:00.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Technetbook",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGp1X1FhcVhBNFlSTzdDajBkRWNrbjhmbzFHallZdHFDZy12cDR3b3BwTm9QQU02eHhDSUlkYzBZMS1UZm1wTVFXVjFBa0UyU3gyQWR2cWl3T2xvVk1oMmk1V1U1bUM2aC1rdjB4djE2eWxRU09zT1k3SlVVZzFDcDUyMA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "ca52e9ab90f6",
+   "title": "Zip Launches Mobile Connectivity Product in Australia",
+   "summary": "Zip Launches Mobile Connectivity Product in Australia www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURfX1NpUWZ4TTNtNXhhWXhBYlhSYnBpMkdqMWtEdnRzbHplRnVMRXVUSGhJZF9hQ1pjTnpyLUZHbE1GcXU0bXJzZUF2RFFOMjlOSmNjQ2FJeXQ0UHNQVkdiSzJwOWVaRzJKRlRreDA2SmJVNWl3eUJOS09VS1RtX00xZzNFN2ljZXBuTkx5cWNaS3BQYWVpUVhGZWdWYXFGOVBFT3VuOVJZZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T02:26:21.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "www.marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURfX1NpUWZ4TTNtNXhhWXhBYlhSYnBpMkdqMWtEdnRzbHplRnVMRXVUSGhJZF9hQ1pjTnpyLUZHbE1GcXU0bXJzZUF2RFFOMjlOSmNjQ2FJeXQ0UHNQVkdiSzJwOWVaRzJKRlRreDA2SmJVNWl3eUJOS09VS1RtX00xZzNFN2ljZXBuTkx5cWNaS3BQYWVpUVhGZWdWYXFGOVBFT3VuOVJZZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "81e03d61949f",
+   "title": "Casio unveils CMK-100, a titanium automatic field watch made for daily use",
+   "summary": "Casio unveils CMK-100, a titanium automatic field watch made for daily use GIZGUIDE",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0LWJxWDhNNGJUOXpmNnZlOUhCQW85YXhsTmw0RGhYZ3d1bmFfLXQ1YU1tODdvWUZ6U0RyMmFiWXkyTUxndkNJTGYyckhuQnZydGJZcWlJVkNjSGtoeGVpUnBkY3VaenFoNHBtVXB1MnNrd0RJUG5J?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T02:19:00.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "GIZGUIDE",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0LWJxWDhNNGJUOXpmNnZlOUhCQW85YXhsTmw0RGhYZ3d1bmFfLXQ1YU1tODdvWUZ6U0RyMmFiWXkyTUxndkNJTGYyckhuQnZydGJZcWlJVkNjSGtoeGVpUnBkY3VaenFoNHBtVXB1MnNrd0RJUG5J?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
    "id": "614ebdaef00a",
    "title": "Compact Android tablet set to launch with 8.7-inch display and 4G LTE",
    "summary": "Compact Android tablet set to launch with 8.7-inch display and 4G LTE Notebookcheck",
@@ -22,6 +712,72 @@
     }
    ],
    "firstSeen": "2026-11-02T00:32:28.329Z"
+  },
+  {
+   "id": "f2cd8709457a",
+   "title": "Fly Mobile launches two dual-SIM touchscreen phones for under Rs. 6,000",
+   "summary": "Fly Mobile launches two dual-SIM touchscreen phones for under Rs. 6,000 Digit",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzR6SDJyNjZNUWtVa0hUUXRWdEdOZEVHbVVtOVBCa19qd1dlOVlTQVZJVXBnVU1YdTNfWFZhTFhtTUtkTWJ6MVJBWFo3UmczQVBPS1k1WnZnU1dlM0Y1Y0p6dmh3cEtvY3AtZFJsM3FuNmt0MGVrcFFsUjZ0Vld6amR4amhUVEdmMGxCZ1VBZHJ5amJLMF82TUNMUktEZmUweHJFeTNTLWVLZE1tT3ZiQ0UySkNJV25sVFEyYtIBwwFBVV95cUxOY2drcHBPemdseTZuTlFQMjNxUHlJMzFTbFlTNl9JNU9YeFhzdFBaN3d1VFQxZzVpN0tZRHB2clFXUVEzTDhHSkhLNjV2eDlmRmpsN1dOcGFpdko4b2ZZNEpreWJvcmxTblpTZFdDd2h0ZDI5TFNNTlpLRE1nR2RuNEpmZ3A1UDA4c0twNTh6MTBZXy1oZmJrTFN4VGR1MldGU0c4NWktTndScXBhbWF3NmpoY0ZIOEcxOFR1SE1HM1Y0LUk?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T00:00:00.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzR6SDJyNjZNUWtVa0hUUXRWdEdOZEVHbVVtOVBCa19qd1dlOVlTQVZJVXBnVU1YdTNfWFZhTFhtTUtkTWJ6MVJBWFo3UmczQVBPS1k1WnZnU1dlM0Y1Y0p6dmh3cEtvY3AtZFJsM3FuNmt0MGVrcFFsUjZ0Vld6amR4amhUVEdmMGxCZ1VBZHJ5amJLMF82TUNMUktEZmUweHJFeTNTLWVLZE1tT3ZiQ0UySkNJV25sVFEyYtIBwwFBVV95cUxOY2drcHBPemdseTZuTlFQMjNxUHlJMzFTbFlTNl9JNU9YeFhzdFBaN3d1VFQxZzVpN0tZRHB2clFXUVEzTDhHSkhLNjV2eDlmRmpsN1dOcGFpdko4b2ZZNEpreWJvcmxTblpTZFdDd2h0ZDI5TFNNTlpLRE1nR2RuNEpmZ3A1UDA4c0twNTh6MTBZXy1oZmJrTFN4VGR1MldGU0c4NWktTndScXBhbWF3NmpoY0ZIOEcxOFR1SE1HM1Y0LUk?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "cacc006820b3",
+   "title": "Apple iPhone 17 Pro Max launch date, price, specification, design and everything else we know so far",
+   "summary": "Apple iPhone 17 Pro Max launch date, price, specification, design and everything else we know so far Digit",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU3FaTHNJbjlkOWI3WXdVNzY5NE1saHpYS3VTd1N5d0pOWEo3UlltSUk0bW45X3A5UEU4SGZaU0h6Sjl3Wl9EeVdMdkxGWjJlRlhkNnZzdlM0cmZ3cmVnaFNTMFRCNUtTcGJ1YWRiTXBOX1ZlVFNha0E5ZnRLV1g3YmFNb08wRUI4c0V2SDY2VC1HSnY3MEQtcXFlWVUyRjZCemJaRHVBRE9MZlBfSDBLT2JZQjFxQWFZbHZJRnZDRFhNSmlqbnlKN1JydFdieDY4NWJNS1djX1hmQdIB9wFBVV95cUxNRS1fRmZLTVJkZ1BSTmxuMVlUb2pKMXZzbFo5Z2RlbjJJSFFmUDI0TG9kbFd6ck5IQTNDOXdaNl9JRHVVMDlBSzJnaU1TNlh0X2ZTa01NcG5EeVZKdGk5Wm01T1JmZDBXeUwwUThiMi1kZldBbHpNVzgySjVhTkwzVjFaRHdueG0tTHA1ZW54ZERHRFI5bm9VaWx0VUZsaExfOHl6ZS1VQndQX1lVSjhnOFhHVlNtZGhGNi16U21lVlJiQUg0TXRfQzJuVmJTOWJMM0locHVwNEY4anc0Y0M3OG1SODJ3dnByNEJJbDh0RzNDVUJsQ3hv?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-02T00:00:00.000Z",
+   "date": "2026-11-02",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU3FaTHNJbjlkOWI3WXdVNzY5NE1saHpYS3VTd1N5d0pOWEo3UlltSUk0bW45X3A5UEU4SGZaU0h6Sjl3Wl9EeVdMdkxGWjJlRlhkNnZzdlM0cmZ3cmVnaFNTMFRCNUtTcGJ1YWRiTXBOX1ZlVFNha0E5ZnRLV1g3YmFNb08wRUI4c0V2SDY2VC1HSnY3MEQtcXFlWVUyRjZCemJaRHVBRE9MZlBfSDBLT2JZQjFxQWFZbHZJRnZDRFhNSmlqbnlKN1JydFdieDY4NWJNS1djX1hmQdIB9wFBVV95cUxNRS1fRmZLTVJkZ1BSTmxuMVlUb2pKMXZzbFo5Z2RlbjJJSFFmUDI0TG9kbFd6ck5IQTNDOXdaNl9JRHVVMDlBSzJnaU1TNlh0X2ZTa01NcG5EeVZKdGk5Wm01T1JmZDBXeUwwUThiMi1kZldBbHpNVzgySjVhTkwzVjFaRHdueG0tTHA1ZW54ZERHRFI5bm9VaWx0VUZsaExfOHl6ZS1VQndQX1lVSjhnOFhHVlNtZGhGNi16U21lVlJiQUg0TXRfQzJuVmJTOWJMM0locHVwNEY4anc0Y0M3OG1SODJ3dnByNEJJbDh0RzNDVUJsQ3hv?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "931ff35678e0",
+   "title": "Telenet Business Launches Dynamic Mobile Plans for Belgian Companies",
+   "summary": "Telenet Business Launches Dynamic Mobile Plans for Belgian Companies The Fast Mode",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc013dGZadnhBUTVZVThNdGVRcjVMS0lYQm5zMzJfb0h1OGI4V0tfNFRDbjc3a2JDd1k5TnF2dmU4ckNlZ1ZwYUtRR0x0NElIUThBOEc3QkFpMDlScDFlbEJkTEhnWHU5WHFTMnBuaVZNVHFBdi1RNUl2b0wzMUlkVlRQbWU4Mm1DTFhMWFhyTkVzTnJ0d2FfVGpXRkVWMWhYdXk1SjFNM1VVWWlKazVMTnhFSE1tMUZ3X0pmVlp1aHFqRWx0aWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-01T23:54:41.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Fast Mode",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc013dGZadnhBUTVZVThNdGVRcjVMS0lYQm5zMzJfb0h1OGI4V0tfNFRDbjc3a2JDd1k5TnF2dmU4ckNlZ1ZwYUtRR0x0NElIUThBOEc3QkFpMDlScDFlbEJkTEhnWHU5WHFTMnBuaVZNVHFBdi1RNUl2b0wzMUlkVlRQbWU4Mm1DTFhMWFhyTkVzTnJ0d2FfVGpXRkVWMWhYdXk1SjFNM1VVWWlKazVMTnhFSE1tMUZ3X0pmVlp1aHFqRWx0aWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
   },
   {
    "id": "38df107d43d1",
@@ -66,6 +822,72 @@
     }
    ],
    "firstSeen": "2026-11-02T00:32:28.329Z"
+  },
+  {
+   "id": "cbd3fc7cb139",
+   "title": "Belkin unveils affordable SoundForm earbuds and kids’ ANC headphones at IFA 2026",
+   "summary": "Belkin unveils affordable SoundForm earbuds and kids’ ANC headphones at IFA 2026 Mashable",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWdYNnZWeFRnUUxxQ2V6MEZWUVlOQVpIVGNzMWw5SXJTcm0tQW10UVEwb083REJDaVhBakk3VGcwMVVORHprQUVnQXhEOG5HTnRGZTN0cjFjT0xUVDFjeTFyWUMtZktEdE1hYk9sSDZtTXhWbHFheTJNc0FTaDRNVVpHNA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-01T22:00:00.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Belkin",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWdYNnZWeFRnUUxxQ2V6MEZWUVlOQVpIVGNzMWw5SXJTcm0tQW10UVEwb083REJDaVhBakk3VGcwMVVORHprQUVnQXhEOG5HTnRGZTN0cjFjT0xUVDFjeTFyWUMtZktEdE1hYk9sSDZtTXhWbHFheTJNc0FTaDRNVVpHNA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "328ef8c94a4d",
+   "title": "T-Mobile Launches Promotional Offer for Apple iPhone 18 Pro",
+   "summary": "T-Mobile Launches Promotional Offer for Apple iPhone 18 Pro azat.tv",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGQmd5OGluX0FhMkxXV005RVZTY2ZiSlNjTDJ2REZXYUUxWlV3ZnR3VXd6TVlFZFBxY3A3SzFwUmdhdlZnZ0hyVE1fajhBUThrZUgxMUlFVGxfbThtRkRLY1drcDdMVEtkamtJS25aNkh0aGFhckE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-01T21:30:00.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "azat.tv",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGQmd5OGluX0FhMkxXV005RVZTY2ZiSlNjTDJ2REZXYUUxWlV3ZnR3VXd6TVlFZFBxY3A3SzFwUmdhdlZnZ0hyVE1fajhBUThrZUgxMUlFVGxfbThtRkRLY1drcDdMVEtkamtJS25aNkh0aGFhckE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
+  },
+  {
+   "id": "b223b7b521f3",
+   "title": "Love My Phone Repair Unveils Fast iPhone 14 Pro Max Repairs in Kissimmee",
+   "summary": "Love My Phone Repair Unveils Fast iPhone 14 Pro Max Repairs in Kissimmee FinancialContent",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSmVNckRCcEtnMklIYk80Q3lZYlBid0VEcXE4akJQaVROWndCTGppT0l2dzRSb2UtcE9yajZCaWxmbF9MM0tUTlBkTVNjeFlwWl91dzdvT1ZESmZ0Ym1idFlXZ3R3YVJoTW93emtxTjdQdFpoT1F1aXhsc0xhOUozVldxejNrWEN6ZmY3Y21LUThYUHUwb1pVNWZoN2E3TTBTbHVxY0w3cl9vaXZuR3lIZ2JVWjdCSTVWWGNBdFF5OTNLcGVHcmE0cV9WYVBxekxiU3hpXw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-01T21:00:00.000Z",
+   "date": "2026-11-02",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "FinancialContent",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSmVNckRCcEtnMklIYk80Q3lZYlBid0VEcXE4akJQaVROWndCTGppT0l2dzRSb2UtcE9yajZCaWxmbF9MM0tUTlBkTVNjeFlwWl91dzdvT1ZESmZ0Ym1idFlXZ3R3YVJoTW93emtxTjdQdFpoT1F1aXhsc0xhOUozVldxejNrWEN6ZmY3Y21LUThYUHUwb1pVNWZoN2E3TTBTbHVxY0w3cl9vaXZuR3lIZ2JVWjdCSTVWWGNBdFF5OTNLcGVHcmE0cV9WYVBxekxiU3hpXw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-02T10:53:15.092Z"
   },
   {
    "id": "25ca96b05e05",
