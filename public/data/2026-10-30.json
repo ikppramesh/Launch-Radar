@@ -651,12 +651,16 @@
    "category": "Tablet",
    "brand": "Honor",
    "region": "Southeast Asia",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "ProductNation Malaysia",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PRWtfallRdGNLNDJpX3lUMFJWZW5CUmoxMnBza0JteHhnU1IwM2M5LVZBaUFKSlREd3JBVUdaX0w1OUpteHBGOGZCZFZQTUNLcDJBQlA4bFJTLUJLVFRTbEJiSC1fdXJoRHhWcFBfMDNmLWRVci1MU3Q0S3M3UHM?oc=5"
+    },
+    {
+     "name": "KLGadgetGuy",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56R2FQN1ZCN0Fudkg3WmZaWmtPWDloV3EwNXdJSE42V29FV2xzaVRKRENtcWQ3a19BclRTWTdUMk1VaklYdW5RS0NlNGpZYlpkRTYtVEJQOHRvQ0g3UWF3T2duaURrLWkxZ05iNXVpbUY5ZGJYcVJOTVVNc21JUQ?oc=5"
     }
    ],
    "firstSeen": "2026-10-30T09:52:37.324Z"

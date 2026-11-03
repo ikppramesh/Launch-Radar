@@ -2,6 +2,94 @@
  "date": "2026-11-03",
  "items": [
   {
+   "id": "55c0f492f3cf",
+   "title": "Apple announces Fitness+ Gym Strength program with personalized workout plans",
+   "summary": "Apple wants to help you get stronger. Apple Fitness+ is expanding to the gym with a new strength training experience. Gym Strength is now available in beta, bringing personalized workout plans, exercise demonstrations, and Apple Watch logging to your lifting routine. more…",
+   "link": "https://9to5mac.com/2026/11/03/apple-announces-fitness-gym-strength-program-with-personalized-workout-plans/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/fitness-stregnth-training.webp?w=1600",
+   "publishedAt": "2026-11-03T18:26:16.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/03/apple-announces-fitness-gym-strength-program-with-personalized-workout-plans/"
+    }
+   ],
+   "firstSeen": "2026-11-03T23:12:30.335Z"
+  },
+  {
+   "id": "24be9b95bb79",
+   "title": "The REDMAGIC 12 Pro launches globally, sales go live Nov. 18",
+   "summary": "The post The REDMAGIC 12 Pro launches globally, sales go live Nov. 18 appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/the-redmagic-12-pro-launches-globally-sales-go-live-nov-18.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/11/REDMAGIC-12-Pro.jpg",
+   "publishedAt": "2026-11-03T17:48:51.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/the-redmagic-12-pro-launches-globally-sales-go-live-nov-18.html"
+    }
+   ],
+   "firstSeen": "2026-11-03T23:12:30.335Z"
+  },
+  {
+   "id": "fbed26eee593",
+   "title": "Galaxy A38 Battery and A58 Charging Specs Emerge Ahead of Launch",
+   "summary": "The post Galaxy A38 Battery and A58 Charging Specs Emerge Ahead of Launch appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/galaxy-a38-battery-a58-charging-specs-leak.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/05/AH-Samsung-Galaxy-A57-Review-3.jpg",
+   "publishedAt": "2026-11-03T16:58:50.000Z",
+   "date": "2026-11-03",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/galaxy-a38-battery-a58-charging-specs-leak.html"
+    }
+   ],
+   "firstSeen": "2026-11-03T23:12:30.335Z"
+  },
+  {
+   "id": "9a9b9f88c2c1",
+   "title": "Sony Launches First 200MP Smartphone Sensor: LYTIA 901",
+   "summary": "Sony Launches First 200MP Smartphone Sensor: LYTIA 901 TechInsights",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUF3RUpBV1d5SWJZOEcybmtjS1liYXBQLTJqem5qVWxmMnB6TGJLUlhNblhWcWJrNWJwOWx3Tm10M2JDMUZ4YkJmd0NLRndRYWhfeS1DZVgyUmNjWHFCLXowQ29ZemJGUTk2M21Dd3Rkc3FXd0xiUFpfVGo0bVplcTlVQ1JiTzRBYWFjeDd4V04?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T16:31:53.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechInsights",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUF3RUpBV1d5SWJZOEcybmtjS1liYXBQLTJqem5qVWxmMnB6TGJLUlhNblhWcWJrNWJwOWx3Tm10M2JDMUZ4YkJmd0NLRndRYWhfeS1DZVgyUmNjWHFCLXowQ29ZemJGUTk2M21Dd3Rkc3FXd0xiUFpfVGo0bVplcTlVQ1JiTzRBYWFjeDd4V04?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-03T23:12:30.335Z"
+  },
+  {
    "id": "8de21c63f1d3",
    "title": "The Raiju V3 Pro Signature Edition is Razer's 'most ambitious' PS5 controller to date, featuring materials 'chosen for strength, durability, and finish' — here's where you can get the limited release gamepad",
    "summary": "Razer has announced the Raiju V3 Pro Signature Edition, a new version of its officially licensed PS5 controller built on a decade of experience.",
@@ -13,12 +101,16 @@
    "category": "Gaming",
    "brand": "Razer",
    "region": "Global",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "TechRadar",
      "link": "https://www.techradar.com/gaming/the-raiju-v3-pro-signature-edition-is-razers-most-ambitious-ps5-controller-to-date-featuring-materials-chosen-for-strength-durability-and-finish-heres-where-you-can-get-the-limited-release-gamepad"
+    },
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -85,6 +177,10 @@
     {
      "name": "9to5Mac",
      "link": "https://9to5mac.com/2026/11/03/t-mobile-launches-5-gigabit-fiber-for-90-mo-with-10-year-price-guarantee/"
+    },
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/t-mobile-launches-new-5-gig-fiber-plan-with-a-10-year-price-guarantee.html"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -222,6 +318,76 @@
    "firstSeen": "2026-11-03T16:58:01.940Z"
   },
   {
+   "id": "2474d6d1e098",
+   "title": "REDMAGIC 12 Pro Launches Globally With RGB Liquid Cooling, 185Hz Display and 8,400mAh Battery",
+   "summary": "REDMAGIC 12 Pro Launches Globally With RGB Liquid Cooling, 185Hz Display and 8,400mAh Battery androguru.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjdYaGxqMVJxanFZRVdyLVQyTXVPcVlCVHh0R0RlLXcweTZvWG5heFFsQW5iVkkwSkptdUlrdFBlcExwRzN3djBpTXRpR0lvVk51UUZHNmlGU0pqSXE4VHVzUUdOSVMycnAteWk2Y1V3d3R2UG9ETE1XaVJ1cHpTc1pDTndKZndxUWx1eE5tZnozQS1iUng0czJfeGxRWGRTaHFMVmxSMldtOFN1UENWNi0tSER6ZkFFOXJyaGJFWQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T12:27:22.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "androguru.com",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjdYaGxqMVJxanFZRVdyLVQyTXVPcVlCVHh0R0RlLXcweTZvWG5heFFsQW5iVkkwSkptdUlrdFBlcExwRzN3djBpTXRpR0lvVk51UUZHNmlGU0pqSXE4VHVzUUdOSVMycnAteWk2Y1V3d3R2UG9ETE1XaVJ1cHpTc1pDTndKZndxUWx1eE5tZnozQS1iUng0czJfeGxRWGRTaHFMVmxSMldtOFN1UENWNi0tSER6ZkFFOXJyaGJFWQ?oc=5"
+    },
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUZpUzJ5dUxyS1luUXNfc2Z4dWxyRW5YNi00LTFTcDVlbER5T0xkeUxPWWt5UUxkS1FZUWh2Vk9SdFYtN19GQ2xFV2pxTGVOTGhIVFFPaS1lMThibHZ4SjVCYTZNaTJRQi1jWjNOWHdwVk84ekZCQ2FDZDQwejY3Ml9kZWRvZTRLM3ZGNTh5S3RNU0Y2SjVrR0ZLWVJzOEUybG4wSUVmYw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-03T23:12:30.335Z"
+  },
+  {
+   "id": "e860faf43de7",
+   "title": "‘Tears on a Tuesday morning’ — Fans emotional as John Lewis unveils 2026 Christmas advert",
+   "summary": "‘Tears on a Tuesday morning’ — Fans emotional as John Lewis unveils 2026 Christmas advert Extra.ie",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKNXFHaExQbWJNQTlId2dsM1IxZ3FvblVteHV3Z1BSaWRlTXp2NjVPUWlFeVFaVy1UMXVqQlJsdFhZbC1OeWFUVGt0OXh6Ukl5MHA0VkdtZGRXRk5XWDJQWHl1bWFWUjZJeXJqRGIweGk?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T12:00:31.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Extra.ie",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKNXFHaExQbWJNQTlId2dsM1IxZ3FvblVteHV3Z1BSaWRlTXp2NjVPUWlFeVFaVy1UMXVqQlJsdFhZbC1OeWFUVGt0OXh6Ukl5MHA0VkdtZGRXRk5XWDJQWHl1bWFWUjZJeXJqRGIweGk?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-03T23:12:30.335Z"
+  },
+  {
+   "id": "24e751b68c44",
+   "title": "New Infinix XPAD 30 Pro tablet set to launch in Malaysia @ RM1,199",
+   "summary": "New Infinix XPAD 30 Pro tablet set to launch in Malaysia @ RM1,199 Nasi Lemak Tech",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmWVRHdFBVNVJNSEFkV2xtRjBueGd0RHBSMnlseE44QXpKRVNILXpCdFRHVk9nRzRJWmkybm1hRGFzSGg2RnVuSlpjVUl1NUhxSTZLWVZkc2sxVGNHMHRWMWprNExpSTJPcG5zS1NuZ1VjM2xMTW93?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T11:27:16.000Z",
+   "date": "2026-11-03",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "Infinix",
+   "region": "Southeast Asia",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Nasi Lemak Tech",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmWVRHdFBVNVJNSEFkV2xtRjBueGd0RHBSMnlseE44QXpKRVNILXpCdFRHVk9nRzRJWmkybm1hRGFzSGg2RnVuSlpjVUl1NUhxSTZLWVZkc2sxVGNHMHRWMWprNExpSTJPcG5zS1NuZ1VjM2xMTW93?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-03T23:12:30.335Z"
+  },
+  {
    "id": "4ba8d81dc041",
    "title": "Galaxy Z Fold 8 Sales Jumped 20% After the iPhone Duo Launched",
    "summary": "The post Galaxy Z Fold 8 Sales Jumped 20% After the iPhone Duo Launched appeared first on Android Headlines .",
@@ -265,6 +431,10 @@
     {
      "name": "GlobeNewswire",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2V3cmZYZGFXRUMtRVYwWFVUakNXX2RjRFYyZ3Jqdmc0UWFSZ1RQX0R3T2ZMME81eWJVMnNLZHNyTGM3YzFNYWxCSGdpRVZrUFBHSlY4OFZJc2RzaVNqYmFpSURoeGZnYjdzYVQ5NTBVZDhqMXdnd0o4aUh3ZGdlZUZaZWNkalladWt0bHpnemxxZHp2MFRYeEE3YXpqRnRaMGV6ZDgwaU9tMUVhS2ZLc3ZKUDlKUmJ5ckdvb0xiU0l3bEdVS09PUEJ4NlFXZHowbWc?oc=5"
+    },
+    {
+     "name": "Telecompaper",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2I1RnlsTG41cDdmUkJreGVUM2FqTTRzSk13azB3WkNCNHlZTTFQS0FncFhCQURDbWEySXBFRmU5TmwwY09yRFJrZU1lQlkxaFM2UHRnNTMzSGFMNGJ5aXZJOTlvZFZNbXlpcFBPM3l1VGRSODlycjVlV0Y5WnFEWFpuZVNqNmNwYWZwbGlfcmphN3J5?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -291,6 +461,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496300/hp-omnibook-5-probook-4-g2is-price-india-features.html"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSENvMVcwQzZ0eGY4TTFRN3RSRUlweTBsZXdEZ1lBWFVILW5qZTZRSV90V0pXTTkxZWVCcXdQWjZoaHM0OC13TlBvZmQyR0xVMnR2UDgtc0JDcWt0WmloaWRDQWRERURlWTZMekdLeTYxNjd1alZTSmZBbHZleGxJSWZlaTFvSVM1elM0LUZaR1c0blpMM0tFQjhkOUh6YldIZDNobWREaVpHei16eEF30gG0AUFVX3lxTE1tb2RCczdWaGs2RU5oODYwM0tCMVNxdXlqSmhUSTZ4QXcyLWRTX01jWjBVcERWNTFweHA1Q3RGYVg0WjZKM2ZhODBYenVWaXNDXzM5RzFxTGNZbkotcFhYbUl5RTN4aGFrRFJ1TU5KN0lTWWFJTGs3NEJhUFdnX2FNd0oyRTZqTnFUZHdGRkR5eEJMODdveFF4WDBfOUhhbVFiRUFUMVJFbWFrLUtNOFNWMHNVeg?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -778,6 +952,28 @@
    "firstSeen": "2026-11-03T06:29:47.303Z"
   },
   {
+   "id": "54f51ba61bd1",
+   "title": "GamesBeat announces winners of the inaugural Mobile Mogul Awards",
+   "summary": "GamesBeat announces winners of the inaugural Mobile Mogul Awards GamesBeat",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1p2OExtSzEwZkV0bkdUdUFtSDdHaGZyWVlsRk5fMTBOOGlzRkdxTFY3amtXbGk4NnJTcG5Sa3FyaE1jWUh6V2h3VndIVm1jQThzajZRMDZSQW1rR0Eyd0xwNzlOeTNZV2RCMWNSNk1jUFl1UDk5cjZfRGlWQmlrdzlld0M2TlBfZ2VKSTlFVGM?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T01:01:14.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "GamesBeat",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1p2OExtSzEwZkV0bkdUdUFtSDdHaGZyWVlsRk5fMTBOOGlzRkdxTFY3amtXbGk4NnJTcG5Sa3FyaE1jWUh6V2h3VndIVm1jQThzajZRMDZSQW1rR0Eyd0xwNzlOeTNZV2RCMWNSNk1jUFl1UDk5cjZfRGlWQmlrdzlld0M2TlBfZ2VKSTlFVGM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-03T23:12:30.335Z"
+  },
+  {
    "id": "13785dbf9d90",
    "title": "Ollo Audio Launches X2 Reference Headphones",
    "summary": "Ollo Audio Launches X2 Reference Headphones Mixonline",
@@ -795,6 +991,10 @@
     {
      "name": "Mixonline",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQy1QZG5nYnRHS0VMYW0wS0lpRk13cXcyQ0FRekMtcmN5NzZuR0JLa0RsUmNPUVdVUEt6WUN5Vm9mRFZzMDVrZUFkODNiZXNmZDNJRjhVR210SVpIcG9maGVYemFuTVBKOVZTajBfQWRlS2tEeXQxRFRNZ0tvX1UxV1k1TEYzemVreTNhQnlzMVpFOVczS0VhRmxn?oc=5"
+    },
+    {
+     "name": "Major HiFi",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuNFlRSTJFQTNYOWtMZXBnT2RtUTB0NE1UZ25WSE0wazk4OGU0dUxYOXUwY0ZXNGxxTE5pNUhPV3Uzc1MzWThpamF0aFpNdDRYdWktRmM5c3kzT1RFNTduRGtrZ0hZWU5MeWVqS29B?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T06:29:47.303Z"
