@@ -309,18 +309,18 @@
   },
   {
    "id": "bb41e7cb1c91",
-   "title": "vivo V80 Launches for Only P42,999",
-   "summary": "vivo V80 Launches for Only P42,999 TeknoGadyet",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xaVhfSnhmMXoxblkyY3dHSVJncm5HVF9GcUg1VG84Nmk3TjNCOEVyLXRpbUc1X1lPeGlTMWpiS1hNanZKRU5zTUFxZk9wWlcwaGluY2FVRHVTZThMaUdrcGRfQnU0NE8xNDU1UzF3?oc=5",
-   "image": "",
+   "title": "Vivo V80 FE launches (almost) with 50MP triple cameras, Dimensity 7400, 7,000mAh battery",
+   "summary": "Vivo has already launched the Vivo V80 and Vivo V80 Lite in select markets, and the lineup is now getting another addition. The brand appears to be preparing the Vivo V80 FE for its next market debut. Its specifications have now surfaced on Vivo’s Philippines website, leaving lit",
+   "link": "https://www.gizmochina.com/2026/11/03/vivo-v80-fe-goes-official/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Vivo-V80-FE-banner-300x153.png?x42064",
    "publishedAt": "2026-10-30T13:00:00.000Z",
    "date": "2026-10-30",
    "status": "Launched",
    "category": "Smartphone",
    "brand": "Vivo",
-   "region": "Global",
+   "region": "China",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "TeknoGadyet",
@@ -329,6 +329,10 @@
     {
      "name": "NepaliTelecom",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TdmpEVXF6LTRkWUZac3FBRDZXNVhfSmcxWlRabFkxZkI5WW9OTkEzV3B2dkVoSHM3a25KdFJ0OThGTUlEd0RDZWR4Z3VoUjJpOWVVSmpFMmo0MzNHQlpkbjlXMA?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/03/vivo-v80-fe-goes-official/"
     }
    ],
    "firstSeen": "2026-11-01T00:00:35.743Z"
