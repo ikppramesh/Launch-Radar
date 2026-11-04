@@ -133,6 +133,10 @@
     {
      "name": "Pokde.Net",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hUDZHZWZ0SXNxY0RDeDYwaXBod0twRWpic0FNVmZvcW1KWFhTTGY2ZktNWDlSdVVtelZsVWZWODJYbWRfVEZhc2ZKTkJqQld5UVUxRWVFWFdud0ZjUmt1NVRzbVREakVjaVhncWlMN0Q0enliMkxRUm1MYw?oc=5"
+    },
+    {
+     "name": "Hitech Century",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iWmFLbU56b25FalVIUnJfR0hJeEpCWmhVVmNOTWNPWWJ5WnRTdFNkWFk2Ym5aOUE1bmIyWWNhT1RoUm1RRHBKT19CcGRpNWZVTWlZTEhlSUgyNVlIVHZScGlVQlJSMDVE?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -316,6 +320,28 @@
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
+  },
+  {
+   "id": "f863fce080ed",
+   "title": "HP OmniBook 5 Launched in India With OLED Display and 42-Hour Battery Life Claim",
+   "summary": "HP OmniBook 5 Launched in India With OLED Display and 42-Hour Battery Life Claim Xpertpick",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUURvVFE4dVBIeFRsN1U1bUl5TGFGNDVJWUFwcElRTF9kUzBJZ1dobkZjX1U1TUJidEF6N2dsMXRxZzdJTk9PYU0xMk04bWhxdDRXcExrSm9pb3B2MU9tOGMxbTRjWVhILVFYSTVvYUhmLWxOQXlxdkk2YzlBQ2JIcjdsbUtDYzJabVhYWk5oRnBOWW5LNTY0cXhNcVNIS2pxSXNoZUswc1FNSklNQXh6aV9UWDY3ZWN1eEM0cNIBwgFBVV95cUxPWnZ3S1RveVQta3NzY1RuQ3FSRmo1QWp5RVlPenhnTUxPdWV6clhIU3ltNDVZeGdfYTdOeEt2VUxhQXBVWWdvMk1zM1BzS0JCRkc1bENXYk5pZDctQVViTlRYS0dGZW1YVmd1MlNsclBaeWczY2Q3Qk1nT0lYVGwwWXBhUkdDeHpmcG5MSlgyTjBWUGJGenFTcTEzYlEyQXVkUmJUWkpOSmt2REhmVnN4cHdKZVI0Rkl4bmQtd3ZTMTFnZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T12:48:34.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "HP",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Xpertpick",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUURvVFE4dVBIeFRsN1U1bUl5TGFGNDVJWUFwcElRTF9kUzBJZ1dobkZjX1U1TUJidEF6N2dsMXRxZzdJTk9PYU0xMk04bWhxdDRXcExrSm9pb3B2MU9tOGMxbTRjWVhILVFYSTVvYUhmLWxOQXlxdkk2YzlBQ2JIcjdsbUtDYzJabVhYWk5oRnBOWW5LNTY0cXhNcVNIS2pxSXNoZUswc1FNSklNQXh6aV9UWDY3ZWN1eEM0cNIBwgFBVV95cUxPWnZ3S1RveVQta3NzY1RuQ3FSRmo1QWp5RVlPenhnTUxPdWV6clhIU3ltNDVZeGdfYTdOeEt2VUxhQXBVWWdvMk1zM1BzS0JCRkc1bENXYk5pZDctQVViTlRYS0dGZW1YVmd1MlNsclBaeWczY2Q3Qk1nT0lYVGwwWXBhUkdDeHpmcG5MSlgyTjBWUGJGenFTcTEzYlEyQXVkUmJUWkpOSmt2REhmVnN4cHdKZVI0Rkl4bmQtd3ZTMTFnZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-04T06:00:17.262Z"
   },
   {
    "id": "2474d6d1e098",
@@ -663,6 +689,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496260/sandisk-portable-extreme-portable-ssd-price-india-features.html"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/03/sandisk-new-portable-ssds-launched-in-india-specs-price/"
     }
    ],
    "firstSeen": "2026-11-03T06:29:47.303Z"
@@ -903,6 +933,10 @@
     {
      "name": "Thailand Business News",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHdoaVg3WXhENFV5V2YwM19qUkRGb0dwQ1VnNFJyZlNLU0pGTFZMZnpFb0V6QXRqcWQ0WWt2cEdTbThtVDZWTkhla1paR3lQYzk2cmxUaWFybmhtY1l1RDFvSXdkaHZmU0pBaDJmZXRzUTdLV3NQazF6blRpOFE4RkZwcHFWSnhFVGo2aEtJdTY0LTlaNmJPcFFMTlA1NmxPOEloMFF1cHZ6NVRZTkVDX3Vtbw?oc=5"
+    },
+    {
+     "name": "vietnamnews.vn",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0dPUzVEVnVIa3ZiemwzamR1WDNvSWczNkg0eEZQLTUtRzFXQkNfWHJXT3VoU0otRXBUcllRdjBkbUNrNmF0R203YjVreUg1dWRXVmRoYXVKa01XVXRnZWVydU5TaTB4TEZQT3ZYRVdWQzBRYnJIRzZfQ2Rqck9hMzFiaDRDeDFzblNGSW8xMXowem9JWTM2TzMxV01pVGJvNWJ2UVpNQVZjanVuMHVPMm0zSUhVMFI1b2c?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T06:29:47.303Z"
@@ -1042,6 +1076,28 @@
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
+  },
+  {
+   "id": "bc5efa80a08b",
+   "title": "Moto G35 5G with 50MP camera launched in India: Price, specs and other details",
+   "summary": "Moto G35 5G with 50MP camera launched in India: Price, specs and other details Digit",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUhHQzdwb1BXdTlVaDg4UW5yNk5jejJ0MWZGekdDVkx4NFEwWnRhYWtjVmZ3c0VuMVlSUFZaN0Z4OHNBdl9VQjY2a2NHaGZXM2lZc2dPS2RfUGxNNFY2YnRPdTlScXpmNmN4N0doX3M0QTdfVGdkQ3dtOWNXdHhBajR1Y25kZzIzc3RYOTZacHdmOHlra0NBVWc1ZXI0OU5TS1ZrMFotTi11bWdubHlIS0ZmSTZSY3BYWWxPaTZn0gHEAUFVX3lxTE9sV0hMYVhFLURlbVZkRjY2UnpnQ0hQdXJTMmVnVzFtRGtBamdaZVFsVFlnbXlIOTJaQmVkeFhWVmdyQzNiOUlWb3ZNY211a1FhY05lMHVtanlQZlpORjVra3M1aXk4dzI4TXotc3BoZXlZbXY0d0hNb0V4R2pCQ3BFS2dPVHV6RkJTaEo4MHJCSkxnY2lZdXV0OUdrM2M2UXNKUFctdnhpbFd6cTBVNE1RZDI5NUdBN3o0QkxVLXdKTEsxc2Q?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T00:00:00.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUhHQzdwb1BXdTlVaDg4UW5yNk5jejJ0MWZGekdDVkx4NFEwWnRhYWtjVmZ3c0VuMVlSUFZaN0Z4OHNBdl9VQjY2a2NHaGZXM2lZc2dPS2RfUGxNNFY2YnRPdTlScXpmNmN4N0doX3M0QTdfVGdkQ3dtOWNXdHhBajR1Y25kZzIzc3RYOTZacHdmOHlra0NBVWc1ZXI0OU5TS1ZrMFotTi11bWdubHlIS0ZmSTZSY3BYWWxPaTZn0gHEAUFVX3lxTE9sV0hMYVhFLURlbVZkRjY2UnpnQ0hQdXJTMmVnVzFtRGtBamdaZVFsVFlnbXlIOTJaQmVkeFhWVmdyQzNiOUlWb3ZNY211a1FhY05lMHVtanlQZlpORjVra3M1aXk4dzI4TXotc3BoZXlZbXY0d0hNb0V4R2pCQ3BFS2dPVHV6RkJTaEo4MHJCSkxnY2lZdXV0OUdrM2M2UXNKUFctdnhpbFd6cTBVNE1RZDI5NUdBN3o0QkxVLXdKTEsxc2Q?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-04T06:00:17.262Z"
   },
   {
    "id": "fb1102ba4a21",
