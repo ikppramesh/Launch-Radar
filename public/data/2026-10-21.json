@@ -213,6 +213,14 @@
     {
      "name": "PaidFreeDroid",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSEtWbWJiSm5Jem5sczRUdEhncXdENzdodjA1Rmo3LWRwWExwSER0S2x6ZDh6ejZINEw5bktINFRBa1ZtLUliLUhOOW9pN1NhV3R0ZW12MEFWdUdnQUwwUEwxcy1nbnJPLWw1TElIa0N1NllNTFllN2VZa3MweXU2RUt2WnN6Qi1DZ3NkSTBTZ0xqdEZ6OS00YnBVRzdKeXBLb0ZF0gGoAUFVX3lxTFBPcmRUR0lVMFU4MGdsNzZ2RGpzY0pNMTVFSFAzQUhMamIxbG8wend0RHRYTEgwaWF5N01hdkZLdGdqUlVrNnVpUU5iZzRFWW1nSThzSHlOVHI1ZWpKSkdGOWJEWUhNS19UZWJjZ2thMnlnRkloY0hpV0pRZ0w2RnVaNzZFZDRldTMzeWMxaEhYdTZKWEVmWXloZDVuUjBiLWg2WW8xNHJHSA?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/04/dell-14s-launched-india-price-specs/"
+    },
+    {
+     "name": "Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVGdGZ0N5NkxhS1B1NHJPSnNVR292SEwyWEhKUUNINFdsUTZCY0I2S25zSkk2amVoc3JlTDYwajhwSVNJb05RZzJSMmlib1dFQnlZeHF2Tk5LX21IMG5WeV9BN0dJYTN1czlkTkxldzdoUkVSU0VBWVNpdlphRnZTdUlxWTVONGlwN0lMVmhlbHVxVzBFbGV2LWo5TTFnSHVRTW5kWjRsaC1iQ3BsUlBpQ2hkNDRpaFlodnFSTVB4ekNEZy1OVnhFckRydXcxUl9OZkpwaUZUSHN3QXJEQy1vOEZzTl9JaXc0UVNhVjBtZWzSAfYBQVVfeXFMTUhsOEhCbVVUSnNid1EzcHVLc3AzeExuMW85d0w3UUNwbjVpVy1uN2x3ZGV6amFfOXFfX0Z1bjV6RHhJT0pXc3lpLXFhMFBGdkdrS1NheU1pXzVocDgxM00zY21yaERwSUhaMF9iQ1hlSWFFR1NGZXJYUU5NWHN6emZwdnVOMGJfMm1QR3VfajRWdmZFcXUxcEltUGpzNEpNcHJaWEVReWZabUFteXNTaERmbkRkZzFLcVZRS1o4aG1WekJIeGR3TUZCZGZ3SGtFdTJRTlFHMHVnQVdManRfQ0FzWkJmNVFzN0ZtLXIxU19EZzdlMWRR?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T21:33:17.047Z"
@@ -637,10 +645,10 @@
   },
   {
    "id": "2de4975b091a",
-   "title": "INIU Outdoor launches rugged 10000 power bank for trips",
-   "summary": "INIU Outdoor launches rugged 10000 power bank for trips ChannelLife UK",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVQwcmVzOU13TERfekFhQnhwU2JxMENiUzZiZmtVWmYwbmVRcmRGU1dTdzlxQW9Vc004RmlKcWkxbF83UWZXRFVaanduczhQRXIydlg0NDZodlFCakVUVElLVGxKUGhDUGpGNmZLX2tLb2lmUWxIbkpMMXJrNnBpQW00SWtBUWV5YU00RUNoLVU?oc=5",
-   "image": "",
+   "title": "INIU Outdoor Rugged 20000 Power Bank Is Now Available to Purchase",
+   "summary": "The post INIU Outdoor Rugged 20000 Power Bank Is Now Available to Purchase appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/iniu-outdoor-rugged-20000-power-bank-is-now-available-to-purchase.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/10/INIU-Outdoor-Rugged-20000-images-1-scaled.jpg",
    "publishedAt": "2026-10-21T12:47:00.000Z",
    "date": "2026-10-21",
    "status": "Launched",
@@ -648,11 +656,15 @@
    "brand": "—",
    "region": "Global",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "ChannelLife UK",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVQwcmVzOU13TERfekFhQnhwU2JxMENiUzZiZmtVWmYwbmVRcmRGU1dTdzlxQW9Vc004RmlKcWkxbF83UWZXRFVaanduczhQRXIydlg0NDZodlFCakVUVElLVGxKUGhDUGpGNmZLX2tLb2lmUWxIbkpMMXJrNnBpQW00SWtBUWV5YU00RUNoLVU?oc=5"
+    },
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/iniu-outdoor-rugged-20000-power-bank-is-now-available-to-purchase.html"
     }
    ],
    "firstSeen": "2026-10-21T21:33:17.047Z"
@@ -1577,6 +1589,10 @@
     {
      "name": "PaidFreeDroid",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSkdnU1E0S0NXdFRoOXV5SklRVHRpNWNPVU4xNXdhY1diOXZ5OGpYMllBOTJmWFkyTmwxTTdGYXZBYnFoSEt0WHIwVVFJZTZWa1NBSkZfV3I0U25Ib2YyUGNpWldJejA0UnBhZEt1Ql9oQzcwd0gxbWo3WERhMng1aVc4Rm1fVjd5cWlSYkRhb3pyQ2pRQnZxOVVaRWV4UnEzZzBWWkE0YmtUODdK0gGsAUFVX3lxTE5KR2dTUTRLQ1d0VGg5dXlKSVFUdGk1Y09VTjE1d2FjV2I5dnk4algyWUE5MmZYWTJObDFNN0ZhdkFicWhIS3RYcjBVUUllNlZrU0FKRl9XcjRTbkhvZjJQY2laV0l6MDRScGFkS3VCX2hDNzB3SDFtajdYRGEyeDVpVzhGbV9WN3lxaVJiRGFvenJDalFCdnE5VVpFZXhScTNnMFZaQTRia1Q4N0o?oc=5"
+    },
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSGt3OG9qUFNWZHNvMF8wekNFUlJENEhUVVdFQU0xX0FBdThXZUZObXFZeUZacGh2S1NVYTBfNy1EWkJuODZtTnV2Wjk5RWxXVE1HSnI4bS1nSGw3SkptY2lBOGVUU2pwWWNrZ1dVbXZpSlpJTGZobWx6WEkzOWxHQk5MQXBNRzBIb0ExQVFja9IBlAFBVV95cUxNNy14d2NHVHdDa2hmMGhOSFpIVmNBaEkwbENwM2pkdWpIVTA0UXhkQjZmYXJGRnpFVlVuRE1lcGVHamR3LTVkTVdwSzYxS21wa2NEa2tMWEZtS050MGdoMV9ydXNIWktfR2hmQ3FqbVBxY3VoWDRRc1JHNFNrUjYxWld3WS1fcnZVVVlnZldrUVlqRkZ0?oc=5"
     }
    ],
    "firstSeen": "2026-10-21T11:38:30.343Z"

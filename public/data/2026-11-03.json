@@ -56,13 +56,17 @@
    "status": "Upcoming",
    "category": "Smartphone",
    "brand": "Samsung",
-   "region": "Global",
+   "region": "India",
    "confidence": 2,
    "aggregator": false,
    "sources": [
     {
      "name": "Android Headlines",
      "link": "https://www.androidheadlines.com/2026/11/galaxy-a38-battery-a58-charging-specs-leak.html"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-a38-battery-capacity-tipped-upgrade-specifications-features-12282096"
     }
    ],
    "firstSeen": "2026-11-03T23:12:30.335Z"
@@ -461,6 +465,10 @@
     {
      "name": "Telecompaper",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2I1RnlsTG41cDdmUkJreGVUM2FqTTRzSk13azB3WkNCNHlZTTFQS0FncFhCQURDbWEySXBFRmU5TmwwY09yRFJrZU1lQlkxaFM2UHRnNTMzSGFMNGJ5aXZJOTlvZFZNbXlpcFBPM3l1VGRSODlycjVlV0Y5WnFEWFpuZVNqNmNwYWZwbGlfcmphN3J5?oc=5"
+    },
+    {
+     "name": "WBOC TV",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWHBmYTQ1SXhPTGlNLVNQTnZaTHo1Z1l5ek9taDdXSUtJTHFjUFMzMXp4SVNkZTc2RHVtZmNGOEFSRnd0Um5YbldDOVZFRkM0ZlZ1U2FpQkJKN3A1eFhvZERrR3piNzlQQVVqem1VeXRocWUzVU84SkR5QUdPS3FZa09SWkoxZzU3MWpUelNBUVUzNFF2c2xiWTBRamhMcFRIWl8wLTZvUDlOT3FxY2FGYW9ueUdWU25iZUYzSHR0R2I2UExobm5VckpoWTJOV01JN2NKd1V3cmZLWFZ5eDdZUWE4S0FKQzVsbUZpNEI3Vk5PTW9xNWVfZ0Fn?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -491,6 +499,14 @@
     {
      "name": "PaidFreeDroid",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSENvMVcwQzZ0eGY4TTFRN3RSRUlweTBsZXdEZ1lBWFVILW5qZTZRSV90V0pXTTkxZWVCcXdQWjZoaHM0OC13TlBvZmQyR0xVMnR2UDgtc0JDcWt0WmloaWRDQWRERURlWTZMekdLeTYxNjd1alZTSmZBbHZleGxJSWZlaTFvSVM1elM0LUZaR1c0blpMM0tFQjhkOUh6YldIZDNobWREaVpHei16eEF30gG0AUFVX3lxTE1tb2RCczdWaGs2RU5oODYwM0tCMVNxdXlqSmhUSTZ4QXcyLWRTX01jWjBVcERWNTFweHA1Q3RGYVg0WjZKM2ZhODBYenVWaXNDXzM5RzFxTGNZbkotcFhYbUl5RTN4aGFrRFJ1TU5KN0lTWWFJTGs3NEJhUFdnX2FNd0oyRTZqTnFUZHdGRkR5eEJMODdveFF4WDBfOUhhbVFiRUFUMVJFbWFrLUtNOFNWMHNVeg?oc=5"
+    },
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRiRU1fUlVkU3Nwc0UyX2t0bkVaNXoxTDFWeXZqMGxxeUZxRkxna0JrWXMzRkhiRFdzemI1cWhqZjZ3TkxsMEIzU2JMZVljMW5XWDFGZlQ2U043VnkzZzhhYWZ4MkpnS0FPelcwNnd6UXNFZDQwUDJ2VmFBT1VTMU0tcDVSQ0tkVk5kMWRTUXpOb3BJNVVULXluamNwMnAwem1BeDZB0gGrAUFVX3lxTE05TjlSekVIR3Fva0hOU3dpUlpMMWFYc2JnUGZ6Mk9CR0FQS09lQmV5YmZwZTZmX3RNV1pxT0t6b0xyajhvQzEyOTJHdVZRR19XRVFyTV84M3FVTk9maXlQUzQ5dFp2eGV2MC1ROGxXcGZpSDNkc3pPczFyWGwxdXgybEV6RUtLdjI0RUtmVmpvNXZTc3J2RFAwTWZOVmJjSkhRaEJJTE04b2hOUQ?oc=5"
+    },
+    {
+     "name": "News18",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc3c5WUxKR255ZG9RbnFUdlN3X3dzUjBiTW9EUEp0NUR4MGFoZFRMeU9qNV9KcG5EOXA1TFJkM1VQbHlydVNQMEpwZUJKcWpHQVpJR1g5VGE4MHNnWlNSQndVQmo3YTB2aUhCOU9qd0gtczR5ZXBzYTJDVGVGd0ZlUkJQLXRpVXFZLS1ZYlB6WC1mRGZIMFJKTzVNeTNCMWNPcFlUblpTQklhZnNpck5HMVVIYjBXWW1xallNd0tKSzYzaVFnWGRaSmM1RC1OTlc20gHWAUFVX3lxTE8xcV9PcHVEaE4zUE1aSkhTczVEMHNwWkJOQXI0c2JYdG5qcElkaUJkSU1ZUjRkcWlPYkdoRGhXV05UYW9CUl9yM09KRTlPZzBjbmFtYUxIWW84ZkdkYlB3WDVsT1ZWekVKTlhKTmF5S25LbVJLMXBaTlJyYlFTcUxHbDRwcEV6X3pTRnpJYzYtRkxEWUplay1oazRrOU4wTlBlMXNUQzVmQm1BSmU2bjd3b2J3RXRuU3J4SHZtZFljMUlISmh2UEliWGR0cnNDaTRyMEU1NGc?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -582,6 +598,28 @@
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
+  },
+  {
+   "id": "555261cd80de",
+   "title": "Huawei Mate XT2 Launches With Upgraded Cameras and New Foldable Design",
+   "summary": "Huawei Mate XT2 Launches With Upgraded Cameras and New Foldable Design TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1hZUmM0cnA1NnZUdWZKT2xtYTg5cnRZdF9HbE1sNmVkZnFPeWEzcjJiZzJ4d3BhZm9RWm9lMEhGQkJsNEVmWEUySlpaOEpYRGRZRHI3NHZ0X1ZfdldlMkVpVzI3WFJ1WUZRNVBGVW5LUDdzWktUVjJZVDgtU2lrRlpDMjZWN0RLelhDTnphZk9LeV9KV25wcHh2Nm8?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T08:16:25.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1hZUmM0cnA1NnZUdWZKT2xtYTg5cnRZdF9HbE1sNmVkZnFPeWEzcjJiZzJ4d3BhZm9RWm9lMEhGQkJsNEVmWEUySlpaOEpYRGRZRHI3NHZ0X1ZfdldlMkVpVzI3WFJ1WUZRNVBGVW5LUDdzWktUVjJZVDgtU2lrRlpDMjZWN0RLelhDTnphZk9LeV9KV25wcHh2Nm8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-04T14:18:33.216Z"
   },
   {
    "id": "6a9059f8d1fe",
@@ -1098,6 +1136,50 @@
     }
    ],
    "firstSeen": "2026-11-04T06:00:17.262Z"
+  },
+  {
+   "id": "23a016cf6b51",
+   "title": "Realme GT Neo 5 to launch with a 240W charger, check out its features, price and specifications",
+   "summary": "Realme GT Neo 5 to launch with a 240W charger, check out its features, price and specifications Digit",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcncxXzJBWGtGQ2REVWYtUGVUbXFjbXBReHJDTDdzMjNoa2VHMzRHS3ZZY3JYcGdodjdEUzc5ck80MzZKN0VzM1RLc2FqZmJHanpONFBMdVJXbF9Td0VJQXRvRU1uQnp6YnJQenpiSWNsNzV0aW5CVDNBX0pUZDMwWXc1M3N2Vl9xMUVWU3hIRzF6Y0lFbkNpLVM4bU1pbkkyb3I1Y2czcEpJNkJEM080S3JkdDdjNTR1eEwtaTFZZzZoeXJyT2RFRnlFQm9JbFdNREZkeFJ0ZG5wNFIy0gHjAUFVX3lxTE5DNHA4R0ZfY1Bocjd0OGg0V3BTTnEtczdkTEdWbWNtZlRhYVVidW9FdnNlWGkzMWJMTUhmZVVadWEwOV9sVnNpZjlTYnJzZ3Y2S0lGaTBPT3J5VHd6c0YzTXJyd1p4RWtscU9hRjdGZ0dLcnZjU3ZVZFpBeEhqdXNVRmtncG9odXFkWXBESXF1eGVfaUJVZW9FbTRDd1Z4ZUF1Tlk1dml1ckd6UUNUTE90bEdscmk3MUEwQzJ4a1owUk9obEpKbDJoOERRbmcxNGRqcGlnUlY3NThDZEVOaTczN2E0?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T00:00:00.000Z",
+   "date": "2026-11-03",
+   "status": "Upcoming",
+   "category": "Accessories",
+   "brand": "Realme",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcncxXzJBWGtGQ2REVWYtUGVUbXFjbXBReHJDTDdzMjNoa2VHMzRHS3ZZY3JYcGdodjdEUzc5ck80MzZKN0VzM1RLc2FqZmJHanpONFBMdVJXbF9Td0VJQXRvRU1uQnp6YnJQenpiSWNsNzV0aW5CVDNBX0pUZDMwWXc1M3N2Vl9xMUVWU3hIRzF6Y0lFbkNpLVM4bU1pbkkyb3I1Y2czcEpJNkJEM080S3JkdDdjNTR1eEwtaTFZZzZoeXJyT2RFRnlFQm9JbFdNREZkeFJ0ZG5wNFIy0gHjAUFVX3lxTE5DNHA4R0ZfY1Bocjd0OGg0V3BTTnEtczdkTEdWbWNtZlRhYVVidW9FdnNlWGkzMWJMTUhmZVVadWEwOV9sVnNpZjlTYnJzZ3Y2S0lGaTBPT3J5VHd6c0YzTXJyd1p4RWtscU9hRjdGZ0dLcnZjU3ZVZFpBeEhqdXNVRmtncG9odXFkWXBESXF1eGVfaUJVZW9FbTRDd1Z4ZUF1Tlk1dml1ckd6UUNUTE90bEdscmk3MUEwQzJ4a1owUk9obEpKbDJoOERRbmcxNGRqcGlnUlY3NThDZEVOaTczN2E0?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-04T14:18:33.216Z"
+  },
+  {
+   "id": "76a5a6d7ad46",
+   "title": "Vivo T4 Ultra India launch soon: Display, camera, price and other details we know",
+   "summary": "Vivo T4 Ultra India launch soon: Display, camera, price and other details we know Digit",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFZ4Sk53N2lCcjZHRTZHdmhWNGMwNE1EWmxHeEg4U3FOR0toSVNVZEI2YzdlWkQ4dERrSXhRUGZ4NV9GT01NbFNPZEpXWm5mLVhVX1p3UzBNbVJYenB6a0lUb3puOHFvaUZHeXlnb1RYQ3g2NUw0VWNmSFIteTh3RmJxeFZZbnN5YmVvX3RKYTViTm1QZ2stQmhqblNoTkdtX204ZGl4RVN0QnIwVWNOVTZ6ZkNSWlJHLVowNm8tMWHSAccBQVVfeXFMTmdFV29CQ2x3blNBaFNyelFSVnJrVjZhenNHN0hxWWJzb19VNzJ0Q3Bnam95UXE4enhOTnBnRUlNcG1temkzYXBZMDZ5bTFCX0VybzZyNUFUWGhaZi1pNnZ1VkxlRi1COFYzZU9UWVlwTWIyT0c2amJuSVJIZ29fQVJjX1J5N3RMRFpNU0lOQmFqR2w1UExXVlB0Yk5DWGszN2JxcjFManJTX0FGeDdQYTE3bnl5MXpxbnEzR1kxWHN3OTZvVkFNOA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T00:00:00.000Z",
+   "date": "2026-11-03",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Vivo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFZ4Sk53N2lCcjZHRTZHdmhWNGMwNE1EWmxHeEg4U3FOR0toSVNVZEI2YzdlWkQ4dERrSXhRUGZ4NV9GT01NbFNPZEpXWm5mLVhVX1p3UzBNbVJYenB6a0lUb3puOHFvaUZHeXlnb1RYQ3g2NUw0VWNmSFIteTh3RmJxeFZZbnN5YmVvX3RKYTViTm1QZ2stQmhqblNoTkdtX204ZGl4RVN0QnIwVWNOVTZ6ZkNSWlJHLVowNm8tMWHSAccBQVVfeXFMTmdFV29CQ2x3blNBaFNyelFSVnJrVjZhenNHN0hxWWJzb19VNzJ0Q3Bnam95UXE4enhOTnBnRUlNcG1temkzYXBZMDZ5bTFCX0VybzZyNUFUWGhaZi1pNnZ1VkxlRi1COFYzZU9UWVlwTWIyT0c2amJuSVJIZ29fQVJjX1J5N3RMRFpNU0lOQmFqR2w1UExXVlB0Yk5DWGszN2JxcjFManJTX0FGeDdQYTE3bnl5MXpxbnEzR1kxWHN3OTZvVkFNOA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-04T14:18:33.216Z"
   },
   {
    "id": "fb1102ba4a21",
