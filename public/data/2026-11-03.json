@@ -519,6 +519,10 @@
     {
      "name": "News18",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc3c5WUxKR255ZG9RbnFUdlN3X3dzUjBiTW9EUEp0NUR4MGFoZFRMeU9qNV9KcG5EOXA1TFJkM1VQbHlydVNQMEpwZUJKcWpHQVpJR1g5VGE4MHNnWlNSQndVQmo3YTB2aUhCOU9qd0gtczR5ZXBzYTJDVGVGd0ZlUkJQLXRpVXFZLS1ZYlB6WC1mRGZIMFJKTzVNeTNCMWNPcFlUblpTQklhZnNpck5HMVVIYjBXWW1xallNd0tKSzYzaVFnWGRaSmM1RC1OTlc20gHWAUFVX3lxTE8xcV9PcHVEaE4zUE1aSkhTczVEMHNwWkJOQXI0c2JYdG5qcElkaUJkSU1ZUjRkcWlPYkdoRGhXV05UYW9CUl9yM09KRTlPZzBjbmFtYUxIWW84ZkdkYlB3WDVsT1ZWekVKTlhKTmF5S25LbVJLMXBaTlJyYlFTcUxHbDRwcEV6X3pTRnpJYzYtRkxEWUplay1oazRrOU4wTlBlMXNUQzVmQm1BSmU2bjd3b2J3RXRuU3J4SHZtZFljMUlISmh2UEliWGR0cnNDaTRyMEU1NGc?oc=5"
+    },
+    {
+     "name": "Pragativadi",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2s0MGI3TEQxRVFMMFNzaGRKVFpzSEZRM2RELXRFbDFUM1JXSmhzdzRpUklNbVU3TDcyZWRsMTE3TG1KMDZYSzIyOVlnQWJYSU9rX1VneDZxR0xBVDFsTFlMak9zYV9XUTUzOUpwZVNxcVduZjZNdW5oNFZOSGc5LQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -720,6 +724,28 @@
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
+  },
+  {
+   "id": "6cc987aa2f17",
+   "title": "Elliptic Labs Reports 37 Laptop and 61 Smartphone Launches YTD",
+   "summary": "Elliptic Labs Reports 37 Laptop and 61 Smartphone Launches YTD TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFNmci1GVkVhWk03SGpNYzFvbFJRdGg0THhXOWtfNG1rM05WYzNjUW42YXQyOWU1YlViNGMwQkJWZTBYQ1NJV0hMZVF3cldFSG52bXFCMnhueFlPc1EyV3ZHdkdoT0pKYWZoZGR3Zlp6SkZUbEZ4UTVHajlYS1g4bFZrWEcxQmlLeWhxT0NnTE11WDMybzl3RG5ON2NEODZINW9WWFk2UEltOUVnZUZZdl85YUc5eFJ4ZFdUTG9tdHludw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-03T07:00:00.000Z",
+   "date": "2026-11-03",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFNmci1GVkVhWk03SGpNYzFvbFJRdGg0THhXOWtfNG1rM05WYzNjUW42YXQyOWU1YlViNGMwQkJWZTBYQ1NJV0hMZVF3cldFSG52bXFCMnhueFlPc1EyV3ZHdkdoT0pKYWZoZGR3Zlp6SkZUbEZ4UTVHajlYS1g4bFZrWEcxQmlLeWhxT0NnTE11WDMybzl3RG5ON2NEODZINW9WWFk2UEltOUVnZUZZdl85YUc5eFJ4ZFdUTG9tdHludw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T06:27:33.058Z"
   },
   {
    "id": "34fa712d6187",

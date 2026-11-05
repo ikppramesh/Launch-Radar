@@ -869,10 +869,10 @@
   },
   {
    "id": "336273549b2d",
-   "title": "Upcoming Smartphones November 2026: India Launches",
-   "summary": "Upcoming Smartphones November 2026: India Launches Dainik Jagran MP CG",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0JtX3Z0Zk5RMzZrcHVMWGkyenZHbVppYXQ0VWJaTG1ZdHRXSmMwMGtIaUlRYTFWVlFXNlNYaEhvTHUtU1AzLUhnNEdhdDY2OXM0QXJtZXdiM1h6S1FBNjRzZXplSGhfLWJRUUlqbUFQclJNNzd6WVUwUkpTZzlkZFFXZWszUUhzQ2tLcmEydU90WFpoMW85aVA5SkhLUDU5QTVidHk5dE5Wdk9JYmVYQlJTOG4wc1NnZ3JUNkhHVnVGX2hlOGlRbA?oc=5",
-   "image": "",
+   "title": "Upcoming phones launching in November 2026",
+   "summary": "November 2026 is expected to bring several notable smartphone launches, with Motorola, Oppo, Honor, and Vivo preparing new devices for different market segments. From flagship Snapdragon processors and advanced periscope cameras to large batteries and ZEISS-tuned imaging systems,",
+   "link": "https://www.gizmochina.com/2026/11/05/upcoming-phones-november-2026/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/motorola-signature-27-razr-flex-27-retail-listing-2-300x169.jpg?x42064",
    "publishedAt": "2026-10-27T10:45:19.000Z",
    "date": "2026-10-27",
    "status": "Upcoming",
@@ -880,11 +880,15 @@
    "brand": "—",
    "region": "India",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "Dainik Jagran MP CG",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0JtX3Z0Zk5RMzZrcHVMWGkyenZHbVppYXQ0VWJaTG1ZdHRXSmMwMGtIaUlRYTFWVlFXNlNYaEhvTHUtU1AzLUhnNEdhdDY2OXM0QXJtZXdiM1h6S1FBNjRzZXplSGhfLWJRUUlqbUFQclJNNzd6WVUwUkpTZzlkZFFXZWszUUhzQ2tLcmEydU90WFpoMW85aVA5SkhLUDU5QTVidHk5dE5Wdk9JYmVYQlJTOG4wc1NnZ3JUNkhHVnVGX2hlOGlRbA?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/05/upcoming-phones-november-2026/"
     }
    ],
    "firstSeen": "2026-10-27T10:49:49.831Z"
