@@ -2,6 +2,50 @@
  "date": "2026-11-05",
  "items": [
   {
+   "id": "e96b10b078e3",
+   "title": "Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator",
+   "summary": "Bad Monkey , an Apple TV comedy from the creator of Ted Lasso and Shrinking, returns soon for a new season. Here’s the just-released trailer for Bad Monkey season 2. more…",
+   "link": "https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/bad-monkey-season-2.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-05T18:23:55.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator/"
+    }
+   ],
+   "firstSeen": "2026-11-05T23:32:00.883Z"
+  },
+  {
+   "id": "6b49ceada402",
+   "title": "moto buds 2 ultra with Sound by Bose dual drivers, Bose QuietControl ANC announced",
+   "summary": "motorola has introduced its latest premium wireless earbuds, the moto buds 2 ultra (also designated as the moto buds ultra 27 in select markets). Aimed at high-fidelity audio users, the earbuds integrate acoustic engineering from Bose, advanced active noise cancellation, and a ra",
+   "link": "https://www.fonearena.com/blog/496511/moto-buds-2-ultra-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/moto-buds-2-ultra-1024x587.jpg",
+   "publishedAt": "2026-11-05T17:33:34.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Bose",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496511/moto-buds-2-ultra-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-05T23:32:00.883Z"
+  },
+  {
    "id": "0ab0d7d80676",
    "title": "Sony is launching $60 retro Walkman headphones with USB-C",
    "summary": "Sony is launching $60 retro Walkman headphones with USB-C Quartz",
@@ -116,6 +160,28 @@
    "firstSeen": "2026-11-05T17:18:36.071Z"
   },
   {
+   "id": "a1e9e74750a5",
+   "title": "Emdoor Information Launches Six Rugged Vehicle Tablet Models",
+   "summary": "Emdoor Information Launches Six Rugged Vehicle Tablet Models TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRDdZSTB6RlRKQUpQU21fM1FjX1RkSnRmYUhtS1Y5X0JxMnpPaXpDcHBUUmF6Q25GQjJ4V3hrUVBWQUloWEpnZ3VTbG9FeW5HaHFDaWtoOERhR29uVmF0aTJsYWFTSVpWQ0tsS0t0THlZUG92UjFENzFXM1lLM1lFaU1BQ0JvVUFuUXVnaVJyMV9aQ2cyQVkyTlMtNEpFZHNxUHFCOFgyYmdubFhiX1NMVWpUSzE0dkNvbzdQYWtEaw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T16:00:00.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRDdZSTB6RlRKQUpQU21fM1FjX1RkSnRmYUhtS1Y5X0JxMnpPaXpDcHBUUmF6Q25GQjJ4V3hrUVBWQUloWEpnZ3VTbG9FeW5HaHFDaWtoOERhR29uVmF0aTJsYWFTSVpWQ0tsS0t0THlZUG92UjFENzFXM1lLM1lFaU1BQ0JvVUFuUXVnaVJyMV9aQ2cyQVkyTlMtNEpFZHNxUHFCOFgyYmdubFhiX1NMVWpUSzE0dkNvbzdQYWtEaw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T23:32:00.883Z"
+  },
+  {
    "id": "dc0189e2d1e4",
    "title": "Motorola launches new Dolby Atmos 3D earbuds globally with Bose QuietControl ANC",
    "summary": "Motorola launches new Dolby Atmos 3D earbuds globally with Bose QuietControl ANC Notebookcheck",
@@ -165,7 +231,7 @@
    "summary": "Phase launches Proxy to enable smartphone-based AI connectivity Cryptonews.net",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcVJfS2l6X25JbVRYYUljWE1fYm4ydExjd18wM3VsQXJEaUNZQ3BPSVdSOV8tb2Z2bW94NHo3NnhtSnoyV1h1VXd5UWs1RnZIU3lpeWVQeGxZUQ?oc=5",
    "image": "",
-   "publishedAt": "2026-11-05T14:19:30.000Z",
+   "publishedAt": "2026-11-05T14:17:39.000Z",
    "date": "2026-11-05",
    "status": "Launched",
    "category": "Smartphone",
@@ -199,6 +265,10 @@
     {
      "name": "GSMArena",
      "link": "https://www.gsmarena.com/moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366.php"
+    },
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/moto-watch-2-fit-and-moto-buds-2-ultra-3732293/"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -209,7 +279,7 @@
    "summary": "Railway launches mobile ticketing service at Jammu station Greater Kashmir",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjAzaU5KNzVhUmdOc1U1U3JXSlo5dGxBUElNVC1pbnBzTEhpTDgwVnhBM0EtX0tuX21ZWExLWGpXb2o1bm9OYWszRFc0eHYtSzBiQjlwQ1B4dFR3OUU2eUYxU18xWUMwZ0dvTllHcEJnSDdzWk1QSlZpN0xESFRJNlNVQmdtVXJPejEtNXRZcmM1WjdqOE5QY2FBN0hlNGxGYnZPM192Z9IBrAFBVV95cUxQZHBfenRoMkM3OVRvRE9qWm5HR3NnVkwtTDV6Q2JJb0dsVTRzZTdDSmViVTktU2xLYV81SXBRNkY2b19WaUNKa1hLcWh0dUFmZV9ZYTdSbXBndDdIS0xTbnRXVTFPR01BTEFDMFFHOEVhOHBuS1IxeGUtNFJGQnY5SnJsS1hiTExwdEpMVUtSWFo0dUdSOWRJQXNMUTBZVmktcTVqN1gyTEQ1Wlk1?oc=5",
    "image": "",
-   "publishedAt": "2026-11-05T13:50:27.000Z",
+   "publishedAt": "2026-11-05T13:43:22.000Z",
    "date": "2026-11-05",
    "status": "Launched",
    "category": "Smartphone",
@@ -221,6 +291,14 @@
     {
      "name": "Greater Kashmir",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjAzaU5KNzVhUmdOc1U1U3JXSlo5dGxBUElNVC1pbnBzTEhpTDgwVnhBM0EtX0tuX21ZWExLWGpXb2o1bm9OYWszRFc0eHYtSzBiQjlwQ1B4dFR3OUU2eUYxU18xWUMwZ0dvTllHcEJnSDdzWk1QSlZpN0xESFRJNlNVQmdtVXJPejEtNXRZcmM1WjdqOE5QY2FBN0hlNGxGYnZPM192Z9IBrAFBVV95cUxQZHBfenRoMkM3OVRvRE9qWm5HR3NnVkwtTDV6Q2JJb0dsVTRzZTdDSmViVTktU2xLYV81SXBRNkY2b19WaUNKa1hLcWh0dUFmZV9ZYTdSbXBndDdIS0xTbnRXVTFPR01BTEFDMFFHOEVhOHBuS1IxeGUtNFJGQnY5SnJsS1hiTExwdEpMVUtSWFo0dUdSOWRJQXNMUTBZVmktcTVqN1gyTEQ1Wlk1?oc=5"
+    },
+    {
+     "name": "The Week",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ2NKQkpTTVhVRXU2WmFDMGlJY3NhYXdZMklDVzVGVVVOWGQ0a3NhZHNuaXRvM2Zhb2EtdnJvcmlEcXg4R0ttNFBPMVJObWZwUnFzdkViNnN1b25tTHRXcnlJbklUa0hSWUczbGZzZEh3VGtrelRRTDFuNEZVX1RydHhSbi1ZTTlkZU9PVUNLTEpSN0VTYWxhVHdEc1NyZDVvMW44em9FTkZuZzRHMHFRVUxVS01aeURtSm8zSzAya0XSAcABQVVfeXFMTUNjSkJKU01YVUV1NlphQzBpSWNzYWF3WTJJQ1c1RlVVTlhkNGtzYWRzbml0bzNmYW9hLXZyb3JpRHF4OEdLbTRQTzFSTm1mcFJxc3ZFYjZzdW9ubUx0V3J5SW5JVGtIUllHM2xmc2RId1Rra3pUUUwxbjRGVV9UcnR4Um4tWU05ZGVPT1VDS0xKUjdFU2FsYVR3RHNTcmQ1bzFuOHpvRU5Gbmc0RzBxUVVMVUtNWnlEbUpvM0swMmtF?oc=5"
+    },
+    {
+     "name": "Daily Excelsior",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ2dYSVJ2TFF2TXJseUdjODBuVkRnOUxQblNRMFlMX3NGbVRfRjJVY0FBVFpubjhVdXpTXzlUUnpIM2hsTTY5OU5LeG9vbFBMN2kzdnJXbUdVdFB1cW9Wd0Q0QUlVbzFvQ0w4cVNSYnVuWTZJSXFVMXVhejRWMkx3ZDNvZ2NMalZCU2ZpckpRRFk0ZC1r0gGYAUFVX3lxTFB6bDZpLXVNbmRLM1UxQVZybUlxc1lFbG0wamliNEQxZkUzUHVCMld0X1NtYW9zRkJWTUpESDNyYUZTakl0U2xyTjlIWEVmOHIxYlJxVkFfb0YwYWN1NFYxUnhTZ0pqaF9VMUhXd09uSDJnSGw2Z2JBNE5DS2ZQLTZFTnJxTWVWRHZ6WHhmWWxYREZnWU8tNHh2?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -545,6 +623,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496480/portronics-zyron-price-features.html"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/05/portronics-zyron-magnetic-wireless-charger-launched-specs-price/"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -594,6 +676,28 @@
    "firstSeen": "2026-11-05T17:18:36.071Z"
   },
   {
+   "id": "b9360c26a435",
+   "title": "Asus Zenbook 14 with 33-hour battery life launched in India: Check price, features and more details",
+   "summary": "Asus Zenbook 14 with 33-hour battery life launched in India: Check price, features and more details Digit",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjZGMHFlLU03VUhXaXY1NG5pOUlTSzBxZ2VNdVNfZ0ZmQVFQQWVZQnBZdlFSQnpDLW42VXZ5MmJqVFRpSm1ZMVJaWHJBd3d0Nmg0QUpVQnBRem5NYjN6UkszM1IxOWFrTWdEalBWZWotSGYwN0JjUGthWEp0ZEcwLWZSd1ZESDNjanRUbEZrNkl4cUFRaWdXakpfbXFWZDQ5bERyaF9NMkRhbjB6T1hMa0kwRnZBWTJNbGlSUlBDVW5wN044T3VVTExMSXF2TnJ2bUHSAdgBQVVfeXFMUGM3SE1EaFQzVWhFVVhkWWRpLXM1YzVIUHZHdHo2bVRYYnQwMW9tUUtubUc0OV9QdG03UTB3aU91REtFckNmUEdWb2h4UnNmNUlETmpGOGhWRmV3WVB4VXRQVVI0VE9icGFVUzMyYVVMRkNjZG53dmdzOThubkthd1dhQnpRWHdOTk12UmthRzdTcE1SajgzemRDLTYtUHhfek9NVVNtR3Q3T2k1UDhrNjFXSWctdWJweTVfY0t4dDJGSy0ya3hzSDVvWnlyNEs2SUI3RndvSUNt?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T09:23:31.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Asus",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjZGMHFlLU03VUhXaXY1NG5pOUlTSzBxZ2VNdVNfZ0ZmQVFQQWVZQnBZdlFSQnpDLW42VXZ5MmJqVFRpSm1ZMVJaWHJBd3d0Nmg0QUpVQnBRem5NYjN6UkszM1IxOWFrTWdEalBWZWotSGYwN0JjUGthWEp0ZEcwLWZSd1ZESDNjanRUbEZrNkl4cUFRaWdXakpfbXFWZDQ5bERyaF9NMkRhbjB6T1hMa0kwRnZBWTJNbGlSUlBDVW5wN044T3VVTExMSXF2TnJ2bUHSAdgBQVVfeXFMUGM3SE1EaFQzVWhFVVhkWWRpLXM1YzVIUHZHdHo2bVRYYnQwMW9tUUtubUc0OV9QdG03UTB3aU91REtFckNmUEdWb2h4UnNmNUlETmpGOGhWRmV3WVB4VXRQVVI0VE9icGFVUzMyYVVMRkNjZG53dmdzOThubkthd1dhQnpRWHdOTk12UmthRzdTcE1SajgzemRDLTYtUHhfek9NVVNtR3Q3T2k1UDhrNjFXSWctdWJweTVfY0t4dDJGSy0ya3hzSDVvWnlyNEs2SUI3RndvSUNt?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T23:32:00.883Z"
+  },
+  {
    "id": "167415dd176c",
    "title": "Samsung Galaxy Buds T1 Fitness Earbuds Receive FCC Certification Ahead of Expected 2027 Launch",
    "summary": "Initially revealed as the 'Galaxy Buds Canal 5', Samsung’s ear-hook type workout earbuds have now visited the US’ FCC for certification. While Samsung hasn’t revealed much in its FCC listing, we now have details about its wireless range, Bluetooth capability and idea about its de",
@@ -636,6 +740,28 @@
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "a0501f2e3115",
+   "title": "Codelocks Launches ConnectShare Smart Locks to Simplify Hotel Access, Mobile Entry and Remote Management",
+   "summary": "Codelocks Launches ConnectShare Smart Locks to Simplify Hotel Access, Mobile Entry and Remote Management Hotel Technology News",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdzJOQmlLUmFmYTBrRU5SaU84MnBjY19CRjRHekFicC00alBiT3hhS0R5b2lBeTNyLXB1aDFqc0pyUUdMcU90dVYwX1R5cVQyeklEX0tlNjhmYkdaMW1ZcjlxWHlwZkwwOWExUzNuclN5NDVQaWFvb0IzN0VManRFdjVuQnBiODdfaTZjdHE5TXV1TUlRQzdkZ1NXRi1uTzZUYjBERWx6WExZTFdMM0ZQX2gydmR2Z2lwaGJfZHpoWTl6ZUNsR2VlZmRBRExYN0tjRXFpY0lvcHNDazdK?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T09:04:53.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Hotel Technology News",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdzJOQmlLUmFmYTBrRU5SaU84MnBjY19CRjRHekFicC00alBiT3hhS0R5b2lBeTNyLXB1aDFqc0pyUUdMcU90dVYwX1R5cVQyeklEX0tlNjhmYkdaMW1ZcjlxWHlwZkwwOWExUzNuclN5NDVQaWFvb0IzN0VManRFdjVuQnBiODdfaTZjdHE5TXV1TUlRQzdkZ1NXRi1uTzZUYjBERWx6WExZTFdMM0ZQX2gydmR2Z2lwaGJfZHpoWTl6ZUNsR2VlZmRBRExYN0tjRXFpY0lvcHNDazdK?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T23:32:00.883Z"
   },
   {
    "id": "e7488d6b07cd",
