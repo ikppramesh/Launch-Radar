@@ -63,6 +63,10 @@
     {
      "name": "Android Authority",
      "link": "https://www.androidauthority.com/nothing-ai-hardware-3731724/"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/nothing_is_launching_an_ainative_product_next_month_design_teased-news-75361.php"
     }
    ],
    "firstSeen": "2026-11-04T21:14:08.994Z"
@@ -85,6 +89,10 @@
     {
      "name": "GSMArena",
      "link": "https://www.gsmarena.com/oppo_find_n7_officially_confirmed_to_arrive_in_europe-news-75346.php"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/oppo-find-n7-europe-launch-executive-report-12286742"
     }
    ],
    "firstSeen": "2026-11-04T21:14:08.994Z"
@@ -110,6 +118,28 @@
     }
    ],
    "firstSeen": "2026-11-04T21:14:08.994Z"
+  },
+  {
+   "id": "92ff51229173",
+   "title": "ACEMAGIC Launches Starship M2A Mini PC With Core i9 CPU and RTX 3070 GPU",
+   "summary": "ACEMAGIC Launches Starship M2A Mini PC With Core i9 CPU and RTX 3070 GPU XiaomiToday",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmpPdVVGR0NGVlNvUFNRRnJ3S0FtWmlJNzBNQzJHY25qTE1WMEp5N1ZlbFZ2LTR4b012YUxwaGR4NUQtX1pwVzZvUlR2dEJpLVhmT0F6UUd5aUh1Q3YxQTIxVlZpMkpzTVF4dWRmMjh0dlFNX1dwcjJXYzBTbGx5RlVwRWF0X0wtTEYtclR3bTFJdVhpR1B0YmoyYmFwdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-04T16:16:36.000Z",
+   "date": "2026-11-04",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "XiaomiToday",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmpPdVVGR0NGVlNvUFNRRnJ3S0FtWmlJNzBNQzJHY25qTE1WMEp5N1ZlbFZ2LTR4b012YUxwaGR4NUQtX1pwVzZvUlR2dEJpLVhmT0F6UUd5aUh1Q3YxQTIxVlZpMkpzTVF4dWRmMjh0dlFNX1dwcjJXYzBTbGx5RlVwRWF0X0wtTEYtclR3bTFJdVhpR1B0YmoyYmFwdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
   },
   {
    "id": "4addc5c5d1ba",
@@ -161,7 +191,7 @@
    "summary": "ACEMAGIC launches mini PC with RTX 3070 Laptop GPU featuring 16GB memory, a version NVIDIA never released VideoCardz.com",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTThyd1BMVmlBM050WG9wOFJYWG4teGFtZ2FaRXVMdk1mTnlCVjNrSEJwM18xSWtfc1ZiZHpGTXc0STVwb1J2TEdjVGpMZzMySzliUDlYTUZmcnAzZ2Y1a1pGajJSYzJNQkZNaWUtRUtsT095RE1DZ3JGMFR6UnE2U0RDb3Z4N1ozQXBpNVM5cTNTY0JvX0RHU3ZhZkEyQkp6STIyZzlsNUl1dEllVUczN21wc0x6emtJUG1fcFJaRVBlV0xXY1B4Qy0yd3A?oc=5",
    "image": "",
-   "publishedAt": "2026-11-04T14:44:11.000Z",
+   "publishedAt": "2026-11-04T14:40:40.000Z",
    "date": "2026-11-04",
    "status": "Launched",
    "category": "PC & Components",

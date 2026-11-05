@@ -2,6 +2,818 @@
  "date": "2026-11-05",
  "items": [
   {
+   "id": "0ab0d7d80676",
+   "title": "Sony is launching $60 retro Walkman headphones with USB-C",
+   "summary": "Sony is launching $60 retro Walkman headphones with USB-C Quartz",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMSHpsTm1nZ1pqM0xiQ2QzSllhX2Vsc3JIQTVlOHNGRWRTRFVjWmc1TUFOM2VCZF9zek9LSzNWbkcxX2lZaFFfekp2czN1ZlRaWVdXQ2NpWURyNlRzYmkzZ3Vqc1J4VFNmaHpvNTNkOEpZQQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T16:54:45.000Z",
+   "date": "2026-11-05",
+   "status": "Upcoming",
+   "category": "Audio",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Quartz",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMSHpsTm1nZ1pqM0xiQ2QzSllhX2Vsc3JIQTVlOHNGRWRTRFVjWmc1TUFOM2VCZF9zek9LSzNWbkcxX2lZaFFfekp2czN1ZlRaWVdXQ2NpWURyNlRzYmkzZ3Vqc1J4VFNmaHpvNTNkOEpZQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "ee48f0a78436",
+   "title": "Aina Launches a $399 AI Ring to Win the Race for the Device That Comes After the Phone",
+   "summary": "Aina Launches a $399 AI Ring to Win the Race for the Device That Comes After the Phone HackerNoon",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3VFV1ltSUp2SWNkS0s4Z0FWMWczc1Y5WHdYWWRXc29yMDZuZWRMel92M1hfNmdmM0FSS2lXVEg1c0tDdDdxcEZOUmR2RXd5dUFZOFVpakkxTFFwaEF6S2RTZGdueDBKenRMUkVsNThSY0dQNk5GQUI1VWdWY0wxZ0tqVFoyUHcySXNsWGstd2FUZUU0bDhVeHd5S3g2SVJvQlktRVNCa2FWbGFuZ0E?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T16:50:28.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Ring",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "HackerNoon",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3VFV1ltSUp2SWNkS0s4Z0FWMWczc1Y5WHdYWWRXc29yMDZuZWRMel92M1hfNmdmM0FSS2lXVEg1c0tDdDdxcEZOUmR2RXd5dUFZOFVpakkxTFFwaEF6S2RTZGdueDBKenRMUkVsNThSY0dQNk5GQUI1VWdWY0wxZ0tqVFoyUHcySXNsWGstd2FUZUU0bDhVeHd5S3g2SVJvQlktRVNCa2FWbGFuZ0E?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "01714c74b083",
+   "title": "moto watch 2 fit with 1.85″ gOLED display, polar algorithms, dual-frequency GPS announced",
+   "summary": "motorola has announced the latest addition to its connected device ecosystem, introducing the moto watch 2 fit (also designated in select markets as the moto Watch Fit 27). The smartwatch focuses on health tracking, outdoor durability, and extended operational endurance, highligh",
+   "link": "https://www.fonearena.com/blog/496504/moto-watch-2-fit-price-specifications.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/moto-watch-fit-2-1024x845.jpg",
+   "publishedAt": "2026-11-05T16:29:51.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496504/moto-watch-2-fit-price-specifications.html"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "224ddb290dda",
+   "title": "Sony Debuts $60 Wired Headphones With ‘80s-Inspired Design",
+   "summary": "Sony Debuts $60 Wired Headphones With ‘80s-Inspired Design Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDVaR1Z1M0x5b1B2ZzMzN1N5RmxkZVQ2UXBqdUVFSHJ0aUxXQVIyMnJoMFZqRElsQ3Fac1FrV2NQMzFsSXpQOG9ZSWVwdXVKR2RfcUdMa1Eydy0xTWc3ZFZFVDZsaFczcEZQV19EOFJFUUlTQVdnYVhXM1BrenBQX1EtRlM0MDR5ajJQV2pwNEJiU29kTFBUVTUtUzY3dklrdkJXVkRtVldPSmRkRkhXZGJWVm5nUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T16:00:05.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDVaR1Z1M0x5b1B2ZzMzN1N5RmxkZVQ2UXBqdUVFSHJ0aUxXQVIyMnJoMFZqRElsQ3Fac1FrV2NQMzFsSXpQOG9ZSWVwdXVKR2RfcUdMa1Eydy0xTWc3ZFZFVDZsaFczcEZQV19EOFJFUUlTQVdnYVhXM1BrenBQX1EtRlM0MDR5ajJQV2pwNEJiU29kTFBUVTUtUzY3dklrdkJXVkRtVldPSmRkRkhXZGJWVm5nUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "1535db4de900",
+   "title": "Sony Electronics Introduces MDR-3R USB-C®*¹ Wired Headphones, a Modern Take on the First Walkman® Headphones MDR-3",
+   "summary": "Sony Electronics Introduces MDR-3R USB-C®*¹ Wired Headphones, a Modern Take on the First Walkman® Headphones MDR-3 PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcTcyQ2psaUROekNZVjBmVl90cFFGd013Q2JVX25ZMHN3S1Y0Qm00QTBKVFVoclhQS3pqZmNZb3JtdmxqelNSWHZrTVdJREVfdkwtN3k1VF8yU0JaaVhTV1lGR0Fmc0c0OUVfSWp5UzNPOG51ZGk0UUliWHhYeVQ2ckMyYmtUMlRfdTFEU1NLVHlYeDF1T2ZneXY5WjZGOWFCRnVEVXdESVRmanAxOWxLX0ZySEgtRm1wU2pHd3BEb2tqbEtYSkRXWFE2dkV4WnBCcDJRUmR4djI3ODI2MW52Sk1tSk40cmI2VEFjMzdDWUxFazJxT2pyYQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T16:00:00.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "PR Newswire",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcTcyQ2psaUROekNZVjBmVl90cFFGd013Q2JVX25ZMHN3S1Y0Qm00QTBKVFVoclhQS3pqZmNZb3JtdmxqelNSWHZrTVdJREVfdkwtN3k1VF8yU0JaaVhTV1lGR0Fmc0c0OUVfSWp5UzNPOG51ZGk0UUliWHhYeVQ2ckMyYmtUMlRfdTFEU1NLVHlYeDF1T2ZneXY5WjZGOWFCRnVEVXdESVRmanAxOWxLX0ZySEgtRm1wU2pHd3BEb2tqbEtYSkRXWFE2dkV4WnBCcDJRUmR4djI3ODI2MW52Sk1tSk40cmI2VEFjMzdDWUxFazJxT2pyYQ?oc=5"
+    },
+    {
+     "name": "TechPowerUp",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQjF2VUkxaVBvSEEzcGVoY1k0MVhMR1pPQVZSS25SaVB1RXpubWlFZDFwN1dXYzF1c1FmT0tnSlRXZnd6c2NsZEZPb3FxdWNBNWo5cy1QZ2RZUkQ4VEk4R0pQWVk4Z1Fzc25Qc1gyOWhwX0tyN1hObnd3LVVmeTY1NEV0WmV0ZlI2bFBFVHBiQThLbHFnZ2w00gGcAUFVX3lxTE5KWDlDTGpETWdROEZyOEd0dkpjZVhEemVLTE1tOHRHY1F6b2drSlZSR05JX09LQ0ZoallRSlRxM1N4MmxSb3llcE1KeTJKOE5qWlA5c3NWUnZyN3k3RzRoeDE0X3BtaEl4NnNiOXRFRGZnb2kxRXRVdmVUNXBCNHkwMGpyZzZxalNtMURLbXphVHB3b2tKX213MUYwcA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "dc0189e2d1e4",
+   "title": "Motorola launches new Dolby Atmos 3D earbuds globally with Bose QuietControl ANC",
+   "summary": "Motorola launches new Dolby Atmos 3D earbuds globally with Bose QuietControl ANC Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1dGeU1vYjJ5VXZRT0pnaGNsOVJIWVFsX193VzhwUHNoTkc4NEJZMmtRVXU0aEZRNDhqRmxrVW9IbHNERHJncHdId1llbVFnd3VkS1FGZ0MxRk1iNHA4cndkUUUzY2lyazI0MFlhVG1pQ1JkU1ZqQVNLVUhQdVpGSmJtREktVnptMmJfMjdNd0hsZ1R4bjN0YUtqVUl0dWlIQUNsVkR2eU9oQXpYLUpnbnRXc19SZjdJcmlHdkxVNmlpNDg?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T15:26:00.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1dGeU1vYjJ5VXZRT0pnaGNsOVJIWVFsX193VzhwUHNoTkc4NEJZMmtRVXU0aEZRNDhqRmxrVW9IbHNERHJncHdId1llbVFnd3VkS1FGZ0MxRk1iNHA4cndkUUUzY2lyazI0MFlhVG1pQ1JkU1ZqQVNLVUhQdVpGSmJtREktVnptMmJfMjdNd0hsZ1R4bjN0YUtqVUl0dWlIQUNsVkR2eU9oQXpYLUpnbnRXc19SZjdJcmlHdkxVNmlpNDg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "19468dd25734",
+   "title": "Apple Creator Studio gets powerful new AI features using OpenAI models [U: Now available]",
+   "summary": "Apple Creator Studio updates were announced late last month, with what the company describes as “powerful new AI features” using a combination of Apple Intelligence and OpenAI models. At the time, Apple didn’t give a specific availability date beyond sometime in November, but the",
+   "link": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-05T15:03:24.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "ff0d9b3643dd",
+   "title": "Phase launches Proxy to enable smartphone-based AI connectivity",
+   "summary": "Phase launches Proxy to enable smartphone-based AI connectivity Cryptonews.net",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcVJfS2l6X25JbVRYYUljWE1fYm4ydExjd18wM3VsQXJEaUNZQ3BPSVdSOV8tb2Z2bW94NHo3NnhtSnoyV1h1VXd5UWs1RnZIU3lpeWVQeGxZUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T14:19:30.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Cryptonews.net",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcVJfS2l6X25JbVRYYUljWE1fYm4ydExjd18wM3VsQXJEaUNZQ3BPSVdSOV8tb2Z2bW94NHo3NnhtSnoyV1h1VXd5UWs1RnZIU3lpeWVQeGxZUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "a4b5af86a722",
+   "title": "Moto Watch 2 Fit and Moto Buds 2 Ultra launch with Polar and Bose on board",
+   "summary": "Alongside its new flagship smartphone, the Signature 27, Motorola has also announced two new wearables today. The Moto Watch 2 Fit succeeds the original Watch Fit, and for the first time in the Fit line, it comes with fitness insights powered by Polar. The Moto Buds 2 Ultra, on t",
+   "link": "https://www.gsmarena.com/moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/moto-watch-2-fit-moto-buds-2-ultra-official/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-11-05T14:02:02.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Polar",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366.php"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "af27abfd28be",
+   "title": "Railway launches mobile ticketing service at Jammu station",
+   "summary": "Railway launches mobile ticketing service at Jammu station Greater Kashmir",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjAzaU5KNzVhUmdOc1U1U3JXSlo5dGxBUElNVC1pbnBzTEhpTDgwVnhBM0EtX0tuX21ZWExLWGpXb2o1bm9OYWszRFc0eHYtSzBiQjlwQ1B4dFR3OUU2eUYxU18xWUMwZ0dvTllHcEJnSDdzWk1QSlZpN0xESFRJNlNVQmdtVXJPejEtNXRZcmM1WjdqOE5QY2FBN0hlNGxGYnZPM192Z9IBrAFBVV95cUxQZHBfenRoMkM3OVRvRE9qWm5HR3NnVkwtTDV6Q2JJb0dsVTRzZTdDSmViVTktU2xLYV81SXBRNkY2b19WaUNKa1hLcWh0dUFmZV9ZYTdSbXBndDdIS0xTbnRXVTFPR01BTEFDMFFHOEVhOHBuS1IxeGUtNFJGQnY5SnJsS1hiTExwdEpMVUtSWFo0dUdSOWRJQXNMUTBZVmktcTVqN1gyTEQ1Wlk1?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T13:50:27.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Greater Kashmir",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjAzaU5KNzVhUmdOc1U1U3JXSlo5dGxBUElNVC1pbnBzTEhpTDgwVnhBM0EtX0tuX21ZWExLWGpXb2o1bm9OYWszRFc0eHYtSzBiQjlwQ1B4dFR3OUU2eUYxU18xWUMwZ0dvTllHcEJnSDdzWk1QSlZpN0xESFRJNlNVQmdtVXJPejEtNXRZcmM1WjdqOE5QY2FBN0hlNGxGYnZPM192Z9IBrAFBVV95cUxQZHBfenRoMkM3OVRvRE9qWm5HR3NnVkwtTDV6Q2JJb0dsVTRzZTdDSmViVTktU2xLYV81SXBRNkY2b19WaUNKa1hLcWh0dUFmZV9ZYTdSbXBndDdIS0xTbnRXVTFPR01BTEFDMFFHOEVhOHBuS1IxeGUtNFJGQnY5SnJsS1hiTExwdEpMVUtSWFo0dUdSOWRJQXNMUTBZVmktcTVqN1gyTEQ1Wlk1?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "3549315946cd",
+   "title": "Ugreen launches Dark Cherry MagFlow Qi2.2 slim power bank for iPhone 18 Pro with 10,000mAh capacity",
+   "summary": "The hardware itself hasn’t changed. At 13.9 mm thick, it's easy to carry in your pocket. The post Ugreen launches Dark Cherry MagFlow Qi2.2 slim power bank for iPhone 18 Pro with 10,000mAh capacity appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/11/05/ugreen-launches-dark-cherry-magflow-qi2-2-slim-power-bank-for-iphone-18-pro-with-10000mah-capacity/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/ugreen-launches-dark-cherry-magflow-qi2-2-slim-power-bank-for-iphone-18-pro-3-300x169.jpg?x96268",
+   "publishedAt": "2026-11-05T13:42:03.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Ugreen",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/05/ugreen-launches-dark-cherry-magflow-qi2-2-slim-power-bank-for-iphone-18-pro-with-10000mah-capacity/"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "793a0eda1232",
+   "title": "Motorola launches Moto Buds Ultra 27 and Watch Fit 27 with Bose ANC, 12-day battery",
+   "summary": "Motorola has unveiled the much anticipated Signature 27 flagship phone as one of the first Snapdragon 8 Elite Extreme Gen 6 chip-powered phones to hit the global market. Alongside the phone, the brand also unveiled the Moto Buds Ultra 27 and the Moto Watch Fit 27. The new earbuds",
+   "link": "https://www.gizmochina.com/2026/11/05/moto-buds-ultra-27-watch-fit-27-launched-bose-12-day-battery/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-at-16x9-1-300x169.jpg?x96268",
+   "publishedAt": "2026-11-05T13:34:34.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Motorola",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/05/moto-buds-ultra-27-watch-fit-27-launched-bose-12-day-battery/"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVUxfT2dwNm9yOF9wbGRMQ1E3eGxHUWZVb29xX3dmQVVMQUhsWGJ5YkkxenFZV3RxS2Y1T2ZQQXhMZE5oeEpzVTNlVTE0eDRsUEExRUxOeExFancwQzZwblNSMkNOenpQSVItRm9lZHYxcFhMV010ekgyN2lTdVAyWThSTHNmU0t0MFVKelNvR2ZYQWFlZ0dra2RnX1FudlZPWEE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "3f31c8bdfa69",
+   "title": "No Intel, no Qualcomm: Huawei unveils its first ‘100% domestic’ desktop",
+   "summary": "No Intel, no Qualcomm: Huawei unveils its first ‘100% domestic’ desktop South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXlWTnJ0QTVyY0JzX1p1aWZrMWJMbVlId1J4ZjdjQjY1NXBScVg0OGlHTVItVWY4R2NjdWdCVHlCY2dEM1VjYmk3bWVFMlp6MlVPV0ZVWFJOZGN5T3B0M2dZZmFYUkJRR1VCaWM0RFpyeE9mRlBLcERiRHl5LXp6VDQ5SHZOaHp1SmVzNFFwYVRzeEROWkY5R2stOWp0ZXFNNmNxS0gwZXNwWU15eUtRUG44d29KMUNESXYwVDNqTWhWOEcyTFRjZUpTeUJ2Q3c?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T13:15:05.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Intel",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "South China Morning Post",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXlWTnJ0QTVyY0JzX1p1aWZrMWJMbVlId1J4ZjdjQjY1NXBScVg0OGlHTVItVWY4R2NjdWdCVHlCY2dEM1VjYmk3bWVFMlp6MlVPV0ZVWFJOZGN5T3B0M2dZZmFYUkJRR1VCaWM0RFpyeE9mRlBLcERiRHl5LXp6VDQ5SHZOaHp1SmVzNFFwYVRzeEROWkY5R2stOWp0ZXFNNmNxS0gwZXNwWU15eUtRUG44d29KMUNESXYwVDNqTWhWOEcyTFRjZUpTeUJ2Q3c?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "0b4327bfd032",
+   "title": "Motorola Signature 27 price, release date, and where to pre-order",
+   "summary": "The post Motorola Signature 27 price, release date, and where to pre-order appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/motorola-signature-27-price-release-date-pre-order",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/11/Motorola-Signature-27-AH-2.jpg",
+   "publishedAt": "2026-11-05T13:06:20.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/motorola-signature-27-price-release-date-pre-order"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "080f5a6c65f8",
+   "title": "Motorola Signature 27 Is Official With the Snapdragon 8 Elite Extreme Gen 6 and a $1,599 Price Tag",
+   "summary": "The post Motorola Signature 27 Is Official With the Snapdragon 8 Elite Extreme Gen 6 and a $1,599 Price Tag appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/motorola-signature-27-launch",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/11/motorola-signature-27-AH.jpg",
+   "publishedAt": "2026-11-05T13:01:43.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Motorola",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/motorola-signature-27-launch"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/motorola-signature-27-price-launch-sale-date-specifications-features-12287488"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496499/motorola-signature-27-price-specifications.html"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "9525cfef4e65",
+   "title": "Motorola's gorgeous Signature 27 finally has a release date and a price",
+   "summary": "Make sure you're sitting down for the price announcement, though",
+   "link": "https://www.androidpolice.com/motorola-signature-27-us-release-date-revealed/",
+   "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/motorola-signature-in-hand.jpg",
+   "publishedAt": "2026-11-05T13:00:10.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Police",
+     "link": "https://www.androidpolice.com/motorola-signature-27-us-release-date-revealed/"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "aa5c7da6c924",
+   "title": "Motorola Signature 27 goes official with true flagship specs and a $1,599 price tag",
+   "summary": "Motorola is officially back in the flagship space, with its new Signature 27 phone available for pre-order starting today, but it’ll cost a pretty penny. more…",
+   "link": "https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-1-copy.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-05T13:00:00.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/"
+    },
+    {
+     "name": "StreetInsider",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFMzTUVsRC1MVldQck1NUzhpaWtaVzVCMk03ZTAxT0o0dVpfMjFKQS1abHJlV1RrYXNtSVlFR0tJZ1U0TlpXVDhtOXVjMEdkMGxTM3NiX1NNRUdfRUQ1WkFjTEZyTzlvM2VVamRvOHhQQmluVy1jSmtfMGt1eE1wNDVVSEVxTjNDb2VpRHZyZ1dPaU5DLU5qUHBPeGM5bnROcmFNc053TmMxQ3ZfNnlNZUs5V1VWQkRKWmNxa0RSOURYd1U?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "74349a05d0bb",
+   "title": "Motorola Signature 27 announced with 7,000mAh battery and 12,000-nit display",
+   "summary": "The Motorola Signature 27 is a true flagship with multiple smartphone firsts, but it's priced accordingly.",
+   "link": "https://www.techradar.com/phones/motorola-phones/motorola-signature-27-announced-with-a-7-000mah-battery-and-the-brightest-display-available-in-a-smartphone-but-itll-cost-you-more-than-an-iphone-18-pro",
+   "image": "https://cdn.mos.cms.futurecdn.net/VMWxrnnMbGFMMxSmaUZZSH-1920-80.jpg",
+   "publishedAt": "2026-11-05T13:00:00.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/phones/motorola-phones/motorola-signature-27-announced-with-a-7-000mah-battery-and-the-brightest-display-available-in-a-smartphone-but-itll-cost-you-more-than-an-iphone-18-pro"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "9749809671fd",
+   "title": "Oppo to Launch a Phone With Massive 12,000mAh Battery: Report",
+   "summary": "Oppo is expected to launch a smartphone with a 12,000mAh battery, as the handset has been spotted on the MIIT certification website, according to a report. If this is true, the upcoming handset could replace the Oppo A7 Pro Max as Oppo’s phone with the largest battery. The handse",
+   "link": "https://www.gadgets360.com/mobiles/news/oppo-12000mah-battery-phone-launch-soon-specifications-features-report-12288036",
+   "image": "https://i.gadgets360cdn.com/large/oppo_a7_pro_max_5g_1790052833939.jpg",
+   "publishedAt": "2026-11-05T12:37:11.000Z",
+   "date": "2026-11-05",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/oppo-12000mah-battery-phone-launch-soon-specifications-features-report-12288036"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "9973e191c5d7",
+   "title": "Huawei Mate 80 Air Launch Date Revealed: Specs and Timeline",
+   "summary": "Huawei Mate 80 Air Launch Date Revealed: Specs and Timeline My Mobile India",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXpsRlZmVzJvRWc4Z1BGYndEbnBpdHdsT3BWbzhobGxQZUFXVjFpTGwwQ1lENXplcmRVTzQ2YVJiR0gxakxYYkZIeTFzQUxWaS1FVUlpdVNsN296YmdHNEhYWXRPUXVSOF9meTlLdHREYUM1MkEwWFFfNk5Ta3ZWRFdzSVZHTU9TYU52YnFFdThkZzg?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T11:36:55.000Z",
+   "date": "2026-11-05",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXpsRlZmVzJvRWc4Z1BGYndEbnBpdHdsT3BWbzhobGxQZUFXVjFpTGwwQ1lENXplcmRVTzQ2YVJiR0gxakxYYkZIeTFzQUxWaS1FVUlpdVNsN296YmdHNEhYWXRPUXVSOF9meTlLdHREYUM1MkEwWFFfNk5Ta3ZWRFdzSVZHTU9TYU52YnFFdThkZzg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "b85444bbd6ed",
+   "title": "Piaget unveils a limited edition Andy Warhol Camouflage watch",
+   "summary": "Piaget unveils a limited edition Andy Warhol Camouflage watch Something About Rocks",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUlxVWpQRjBhYzc4cEdFZ2ktekw5T0l0ZlRxT0hsTG5rTmVadVRNUTdlcFpjQUVIMEFTbkp6c0JNTm9Wd2l2Q2htRldEaURBQWR0ZVZKOUxYaGRaN29VbFJXQnZ6ZjFTaU5hSmJoa0xPRzBydWxGVi1LN0RtcVpHQnYtWTlRcGo1M1laQXJTZTFtU3lXdWtLTi1B?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T10:51:30.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Something About Rocks",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUlxVWpQRjBhYzc4cEdFZ2ktekw5T0l0ZlRxT0hsTG5rTmVadVRNUTdlcFpjQUVIMEFTbkp6c0JNTm9Wd2l2Q2htRldEaURBQWR0ZVZKOUxYaGRaN29VbFJXQnZ6ZjFTaU5hSmJoa0xPRzBydWxGVi1LN0RtcVpHQnYtWTlRcGo1M1laQXJTZTFtU3lXdWtLTi1B?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "8b264a389853",
+   "title": "4 Biggest Smartphone Launches in India This November 2026",
+   "summary": "4 Biggest Smartphone Launches in India This November 2026 Times Bull",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3l6TjBxTTA4RXdKNGlsN3lkTVYyWFhBbDU5Vi1Fang3ODJGdUpZbDhnUGR5SVlfNlBkd0RwZENjd0QzZVA5Njd1QjBNMDZSSzFUbXdnVU8yeEZaU0FtenlRcVNxdURGdDNSbEVZQWtLMEJNOTZwZTFRaDUyX0NpNEluYnhnQWxLaGRLbG9sOA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T10:17:12.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Times Bull",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3l6TjBxTTA4RXdKNGlsN3lkTVYyWFhBbDU5Vi1Fang3ODJGdUpZbDhnUGR5SVlfNlBkd0RwZENjd0QzZVA5Njd1QjBNMDZSSzFUbXdnVU8yeEZaU0FtenlRcVNxdURGdDNSbEVZQWtLMEJNOTZwZTFRaDUyX0NpNEluYnhnQWxLaGRLbG9sOA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "977769f88275",
+   "title": "Nothing teases a screenless AI-native device ahead of December launch",
+   "summary": "Pei called it “a tool, but one built with the personality and care that have come to define a Nothing product.” And the key detail is that it lacks a screen. The post Nothing teases a screenless AI-native device ahead of December launch appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/11/05/nothing-teases-a-screenless-ai-native-device-ahead-of-december-launch/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/nothing-s-first-ai-mative-device-300x169.jpg?x96268",
+   "publishedAt": "2026-11-05T10:10:29.000Z",
+   "date": "2026-11-05",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Nothing",
+   "region": "China",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/05/nothing-teases-a-screenless-ai-native-device-ahead-of-december-launch/"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "57ef603d6923",
+   "title": "Portronics Zyron 25W Qi2 3-in-1 magnetic wireless car charger with desk stand launched",
+   "summary": "Portronics has launched Zyron, a 3-in-1 magnetic wireless charger with an adjustable car vent mount and a detachable desk stand. It can be used as a phone mount and wireless charger in a car or as a charging stand at home and in the office. Zyron features a black finish and a com",
+   "link": "https://www.fonearena.com/blog/496480/portronics-zyron-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/Portronics-Zyron-Magnetic-Car-Charger-1024x576.jpg",
+   "publishedAt": "2026-11-05T10:00:18.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496480/portronics-zyron-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "530ec7c64dd6",
+   "title": "Asus Zenbook 14 With Intel, AMD and Snapdragon SoC Launched In India: Price, Specifications And More",
+   "summary": "Asus Zenbook 14 With Intel, AMD and Snapdragon SoC Launched In India: Price, Specifications And More News18",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSVM4dTVvWURlMDZfck9UMjEyT3pIY0dEWl9LWlIxYXEzZjhkblRScU9TdnNrUmhUVmpjdW4wNkFHU0JLa3B2S2lKZ1R1RFdsQnlIMkdqM1ZaV2Y1SDhpZG92MzBqbGRYMmJyd3d3REdURUszQnJQUlpmRWRMd2ZKakVvQ29ZS3R5YndnNmlNR21EQ05FR1FBcGFnSFd5MjU1am5KM1BoMU0zUmJlWnZMQ0xBdk91ZHdUcUNUWUp6QUw0VHI4ZXhsV2VPRGp2VkdfNG1GdXpyY3dMaEVQNUZB0gHkAUFVX3lxTFBUUGlQUXc0ck5CODVfVnBOeVNWSlZRVXdtb1czV1drZ2k1eGZnWC14WllFTWtnVnFtaXFsQzVOT2RDdXg0blZ4Si1NQkNXVUVRMkJlbkltM1hoZ2lCNjdWSUNlcnpZTl8xTXpKT3lwcmJQV1Y1YXEwQmdVeXd4ZUZabWpvOTMzVGF3em9DbFhFYmMwYTZxNlZYRGdwQkEtb1hCd0J4V092TXlBT0lhUUNtSkxLYk1HMWg0cHlpV2NoZF9QZFJ4SUJKUmVPcmZzMWZJX1d2eVNiMFRILTRENG94bXlDQw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T09:54:53.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Asus",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "News18",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSVM4dTVvWURlMDZfck9UMjEyT3pIY0dEWl9LWlIxYXEzZjhkblRScU9TdnNrUmhUVmpjdW4wNkFHU0JLa3B2S2lKZ1R1RFdsQnlIMkdqM1ZaV2Y1SDhpZG92MzBqbGRYMmJyd3d3REdURUszQnJQUlpmRWRMd2ZKakVvQ29ZS3R5YndnNmlNR21EQ05FR1FBcGFnSFd5MjU1am5KM1BoMU0zUmJlWnZMQ0xBdk91ZHdUcUNUWUp6QUw0VHI4ZXhsV2VPRGp2VkdfNG1GdXpyY3dMaEVQNUZB0gHkAUFVX3lxTFBUUGlQUXc0ck5CODVfVnBOeVNWSlZRVXdtb1czV1drZ2k1eGZnWC14WllFTWtnVnFtaXFsQzVOT2RDdXg0blZ4Si1NQkNXVUVRMkJlbkltM1hoZ2lCNjdWSUNlcnpZTl8xTXpKT3lwcmJQV1Y1YXEwQmdVeXd4ZUZabWpvOTMzVGF3em9DbFhFYmMwYTZxNlZYRGdwQkEtb1hCd0J4V092TXlBT0lhUUNtSkxLYk1HMWg0cHlpV2NoZF9QZFJ4SUJKUmVPcmZzMWZJX1d2eVNiMFRILTRENG94bXlDQw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "04752eae1787",
+   "title": "ColorOS 17 Release Schedule for November: Check Eligible Oppo, OnePlus, Realme Devices",
+   "summary": "Oppo on Thursday announced the ColorOS 17 rollout timeline for November. The company has outlined when eligible Oppo, OnePlus, and Realme smartphones and tablets are expected to receive the latest Android 17-based software update. According to Oppo, the rollout will begin today (",
+   "link": "https://www.gadgets360.com/mobiles/news/coloros-17-release-schedule-november-2026-eligible-oppo-oneplus-realme-devices-12286960",
+   "image": "https://i.gadgets360cdn.com/large/coloros_17_launch_oppo_main_1791954229879.png",
+   "publishedAt": "2026-11-05T09:53:01.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/coloros-17-release-schedule-november-2026-eligible-oppo-oneplus-realme-devices-12286960"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "167415dd176c",
+   "title": "Samsung Galaxy Buds T1 Fitness Earbuds Receive FCC Certification Ahead of Expected 2027 Launch",
+   "summary": "Initially revealed as the 'Galaxy Buds Canal 5', Samsung’s ear-hook type workout earbuds have now visited the US’ FCC for certification. While Samsung hasn’t revealed much in its FCC listing, we now have details about its wireless range, Bluetooth capability and idea about its de",
+   "link": "https://www.gadgets360.com/audio/news/samsung-galaxy-buds-t1-fitness-sports-earbuds-fcc-certification-launch-12286604",
+   "image": "https://i.gadgets360cdn.com/large/galaxy_buds_4_pro_review_photos_1775822810820.jpg",
+   "publishedAt": "2026-11-05T09:17:54.000Z",
+   "date": "2026-11-05",
+   "status": "Upcoming",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/samsung-galaxy-buds-t1-fitness-sports-earbuds-fcc-certification-launch-12286604"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "99f9ba270fb1",
+   "title": "ASUS Zenbook 14 with up to 3K 120Hz OLED touchscreen, Ceraluminum design and ZenMouse MD202 launched in India",
+   "summary": "ASUS India has announced the launch of its new Zenbook 14 (UX3480) laptop in India. The company has also introduced a new accessory, the ASUS ZenMouse MD202, alongside the laptop. ASUS Zenbook 14 (UX3480) The ASUS Zenbook 14 features Ceraluminum, a ceramic-aluminium material that",
+   "link": "https://www.fonearena.com/blog/496465/asus-zenbook-14-price-india-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/ASUS-Zenbook-14-UX3480-launch-1024x689.jpg",
+   "publishedAt": "2026-11-05T09:13:35.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Asus",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496465/asus-zenbook-14-price-india-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "e7488d6b07cd",
+   "title": "New affordable headphones launch with a built-in 8MP camera",
+   "summary": "New affordable headphones launch with a built-in 8MP camera Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGJEMTBHanNFRkUyazByRVRSbHFkNi12U1Q4QTBMU3BNQ3I5TXJQLWlRczFEaWpNazdsZWZfTWpZUS1yc2M5WldrYWJUTDdsYldXVm0wV3dOU0RuUHJ4NHpVeEJiZXZsOUlKd1UtNGZoMGFJZnplYWhjYlBHMXM2dVNJYTM2Xzg4ZXBQeDNvNmV0MHA5dDV0bjI3a09LVExuVlVYNEozOA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T09:00:00.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGJEMTBHanNFRkUyazByRVRSbHFkNi12U1Q4QTBMU3BNQ3I5TXJQLWlRczFEaWpNazdsZWZfTWpZUS1yc2M5WldrYWJUTDdsYldXVm0wV3dOU0RuUHJ4NHpVeEJiZXZsOUlKd1UtNGZoMGFJZnplYWhjYlBHMXM2dVNJYTM2Xzg4ZXBQeDNvNmV0MHA5dDV0bjI3a09LVExuVlVYNEozOA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "994da68f4fcf",
+   "title": "Apple Launching Five New Products Tomorrow",
+   "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week , including its first touchscreen MacBook Pro models. The following new products will be available from tomorrow: iPad mini with OLED display and A20 Pro chip iMac with M6 chi",
+   "link": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/",
+   "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+   "publishedAt": "2026-11-05T08:59:09.000Z",
+   "date": "2026-11-05",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "04b4c4add758",
+   "title": "iBall Dhun 450 140W Bluetooth speaker with karaoke mic input, RGB lighting, up to 7h playback launched",
+   "summary": "iBall expanded its portable audio lineup with the launch of the Dhun 450 (iB1802), a Bluetooth speaker with a 140W RMS output. Its audio setup includes a 12cm woofer, two 6.63cm full-range drivers and twin passive radiators. The speaker also features a fabric-mesh finish, multico",
+   "link": "https://www.fonearena.com/blog/496459/iball-dhun-450-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/iBall-Dhun-450-iB1802-1024x540.jpg",
+   "publishedAt": "2026-11-05T08:25:12.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496459/iball-dhun-450-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "8d19ee39eb64",
+   "title": "BGMI Air Gets December 10 Launch Date, Aims To Bring Battlegrounds Mobile India To Budget Phones",
+   "summary": "BGMI Air Gets December 10 Launch Date, Aims To Bring Battlegrounds Mobile India To Budget Phones Mashable India",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGxNUmppTTVDV0duMU1DTEhnUm5CaXp2eV9yckdYQ3ZEY25KYnZ1UllheWE2T3Vsemd2Rkl0RE4wVUtBLXZFYV9UcmlxN05nWTJSeGVPM2UtVmVwQ0pmR0N0bjhtYXlXT3E3a3prWHpoVG45MGhleUoxLUFTS3Q5bGFyeGhVWTRWT0ItdElwX29PdVZSbFpVT1ZSMmJvZ0x1QWRpYk90TnlqRWNjTVVPbG9CaS0xNlFXejhuWFp0MEZHdkZwRll2ejU2MA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T08:12:30.000Z",
+   "date": "2026-11-05",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable India",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGxNUmppTTVDV0duMU1DTEhnUm5CaXp2eV9yckdYQ3ZEY25KYnZ1UllheWE2T3Vsemd2Rkl0RE4wVUtBLXZFYV9UcmlxN05nWTJSeGVPM2UtVmVwQ0pmR0N0bjhtYXlXT3E3a3prWHpoVG45MGhleUoxLUFTS3Q5bGFyeGhVWTRWT0ItdElwX29PdVZSbFpVT1ZSMmJvZ0x1QWRpYk90TnlqRWNjTVVPbG9CaS0xNlFXejhuWFp0MEZHdkZwRll2ejU2MA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "3362ff118283",
+   "title": "JBL 305P MkIII, 306P MkIII, 308P MkIII studio monitors and 310S MkIII subwoofer announced",
+   "summary": "JBL Professional, part of HARMAN Professional Solutions, has introduced its new 3 Series MkIII family of powered studio monitors and subwoofers. The lineup consists of four models: the 305P MkIII, 306P MkIII, 308P MkIII and 310S MkIII. JBL 305P MkIII, 306P MkIII and 308P MkIII st",
+   "link": "https://www.fonearena.com/blog/496449/jbl-305p-mkiii-306p-mkiii-308p-mkiii-310s-mkiii-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/JBL-Professional-3-Series-MkIII-Family-1024x577.jpg",
+   "publishedAt": "2026-11-05T07:48:50.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "JBL",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496449/jbl-305p-mkiii-306p-mkiii-308p-mkiii-310s-mkiii-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "b867084cc37a",
+   "title": "Asus Zenbook 14 launched in India with Intel, AMD and Snapdragon options, starts at Rs 1,36,990 (~$1,448)",
+   "summary": "Asus has launched the Zenbook 14 in India with Intel, AMD and Snapdragon options across three SKUs. Pricing starts at Rs 1,36,990 (~$1,448) and climbs through FHD+ and 3K OLED display tiers. The slim 14-inch notebooks go on sale today at Asus Exclusive Stores, the Asus E-shop and",
+   "link": "https://www.gizmochina.com/2026/11/05/asus-zenbook-14-launched-india-intel-amd-snapdragon-rs-136990/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-15-300x169.jpg?x96268",
+   "publishedAt": "2026-11-05T07:42:54.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Asus",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/05/asus-zenbook-14-launched-india-intel-amd-snapdragon-rs-136990/"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "5aea3bf905f0",
+   "title": "Nothing Teases Launch of Its First ‘AI-Native’ Device With a Screenless Design, as Carl Pei Maps Evolution of Consumer Tech",
+   "summary": "Nothing will launch its first “AI-native product” in December, the company Founder and Chief Executive Officer announced in an article published on X. Pei revealed that the device will sport a screen-free design. The image shared by the Nothing executive gives a glimpse of the up",
+   "link": "https://www.gadgets360.com/ai/news/nothing-ai-device-launch-teased-screenless-design-12285754",
+   "image": "https://i.gadgets360cdn.com/large/nothing_ai_device_x_main_1793857220866.png",
+   "publishedAt": "2026-11-05T06:11:44.000Z",
+   "date": "2026-11-05",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Nothing",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/ai/news/nothing-ai-device-launch-teased-screenless-design-12285754"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "0989ad28663d",
+   "title": "Xiaomi's Mijia Electric Toothbrush 2 Pro Launched With Colour Screen, IPX8 Rating: Price, Features",
+   "summary": "The Xiaomi Mijia Electric Toothbrush 2 Pro has gone on sale in China through a crowdfunding campaign, with an introductory price lower than its regular retail price. It has a handle-mounted colour screen that displays brushing coverage, along with alerts for missed areas and inco",
+   "link": "https://www.gadgets360.com/smart-home/news/xiaomi-mijia-electric-toothbrush-2-pro-price-launch-features-12285736",
+   "image": "https://i.gadgets360cdn.com/large/Mijia_Electric_Toothbrush_2_Pro_xiaomi_1793857005365.jpg",
+   "publishedAt": "2026-11-05T06:11:22.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Xiaomi",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/smart-home/news/xiaomi-mijia-electric-toothbrush-2-pro-price-launch-features-12285736"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
    "id": "1b35dc145f0a",
    "title": "Buffalo Launches Ultra-Slim Semi-Solid Mobile Battery: Approx. 9.2mm Thick, 5000mAh, 20W Max Output",
    "summary": "Buffalo Launches Ultra-Slim Semi-Solid Mobile Battery: Approx. 9.2mm Thick, 5000mAh, 20W Max Output ASCII.jp",

@@ -115,6 +115,14 @@
     {
      "name": "Engadget",
      "link": "https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/"
+    },
+    {
+     "name": "TechPowerUp",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVV1bTRQeVBScVZfQ2tvVTVaaXhIeE5iU1hxTkVCc2lIR3hoNEF6dHlrcC1oaFdta0h4WjFXM1RPc1drclRuSzd4WkZGeUY5bnJzdzlpS3AzbWpLTzM1aE1ndWd4TXllWHZwekpHaXlpOWp3TVNTMm1LSFVoX2hqM3RKcmRHcHc5N05DV0wxVi11UdIBlwFBVV95cUxNejQ0d1B0dTROekxlV1FaZGszNUVCa2FHZ3cyZzQyLXJQQi1TTnhCSGZIMlhaeWMzb1h2TWlRLWJlME56czlhMDlmeW1PODBaWHdzd3V6aWpfQnFkTWZSbnVwSVlSaEFoSEFQMFJBSmllS0oxbUpmV0dKX0NVVkY4SjdENl9hWXRRR1E5OWZteFo1NTVZc3Zn?oc=5"
+    },
+    {
+     "name": "mobidevices.com",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qRC05TjQ2UzZPUW5HRDZFMmRfNlFWUW9KYmVDTy1RRFFKbEFEQ3Z5ZEZ5cmhMbnIxV2xkcEhZOWQ2MmF3LW1oUGdCV1pQNkw2Ql9hNncwOGd5eWdXTUhlby0tQnRmbjJs?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -523,6 +531,10 @@
     {
      "name": "Pragativadi",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2s0MGI3TEQxRVFMMFNzaGRKVFpzSEZRM2RELXRFbDFUM1JXSmhzdzRpUklNbVU3TDcyZWRsMTE3TG1KMDZYSzIyOVlnQWJYSU9rX1VneDZxR0xBVDFsTFlMak9zYV9XUTUzOUpwZVNxcVduZjZNdW5oNFZOSGc5LQ?oc=5"
+    },
+    {
+     "name": "Gizbot",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkhwUVk2VDkxWkcxZFA2SVJNdng0cVdQNXpLZHVHN2F4V3BIa1ROR0FjaHFjby0zYmRiY2FOaXNGUDdsaEk0M3hUUUJJckpDdU42Znl4THlZRk5MUWRpRHNSc2txSmJ4SmpUQ1QxN19YcHFCb290VktVYVlTSnVVN2llbS04djVhaXQ1dEZRcHZRMlBvaXNfeEY4R2tzTVA0czdDU0wyYzFMQU5Lb2ZfWDg2OHhGYVJ5bVlITWt4RGt2azhKUnRGa2xn?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
@@ -907,22 +919,26 @@
   },
   {
    "id": "4448973ef1f5",
-   "title": "ASUS Zenbook 14 (2026) India Launch: 33-Hour Battery & AI Features",
-   "summary": "ASUS Zenbook 14 (2026) India Launch: 33-Hour Battery & AI Features thedigitalbriefnews.com",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81LVlCWUYyd01GaHllTVF5OVc4b0xKQzJoRk5sSzc2N2M3QlJ0WjM0QlhhTlktUExWWGRuM0kzVE1HWUF3dWUyQWV0VDI5NEtpc2UySmg0cUhaak1GOXQ0MzVkXzdMbVYxTnZZdzRBRFQ0QVFF?oc=5",
-   "image": "",
+   "title": "Asus Zenbook 14 (2026) Launched in India With Intel, AMD and Snapdragon Chips, Up to 33-Hour Battery Life",
+   "summary": "Asus Zenbook 14 was launched in India on Thursday. The laptop is offered with Intel Core Ultra, AMD Ryzen AI, and Snapdragon X processors, depending on the variant. It sports a 3K 120Hz OLED touchscreen and a claimed NPU performance of up to 50 TOPS. Asus says the Zenbook 14’s 70",
+   "link": "https://www.gadgets360.com/laptops/news/asus-zenbook-14-2026-price-in-india-launch-sale-date-features-specifications-12286379",
+   "image": "https://i.gadgets360cdn.com/large/zenbook_14_1793864145911.jpg",
    "publishedAt": "2026-11-03T04:02:38.000Z",
    "date": "2026-11-03",
    "status": "Launched",
    "category": "Laptop",
    "brand": "Asus",
    "region": "India",
-   "confidence": 2,
-   "aggregator": true,
+   "confidence": 3,
+   "aggregator": false,
    "sources": [
     {
      "name": "thedigitalbriefnews.com",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81LVlCWUYyd01GaHllTVF5OVc4b0xKQzJoRk5sSzc2N2M3QlJ0WjM0QlhhTlktUExWWGRuM0kzVE1HWUF3dWUyQWV0VDI5NEtpc2UySmg0cUhaak1GOXQ0MzVkXzdMbVYxTnZZdzRBRFQ0QVFF?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/laptops/news/asus-zenbook-14-2026-price-in-india-launch-sale-date-features-specifications-12286379"
     }
    ],
    "firstSeen": "2026-11-03T06:29:47.303Z"
