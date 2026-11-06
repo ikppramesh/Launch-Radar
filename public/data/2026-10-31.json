@@ -752,13 +752,17 @@
    "status": "Launched",
    "category": "Laptop",
    "brand": "Motorola",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "CNBC TV18",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkJ5bk5TWW1PZzJtY2tJczdyZlVyMmZ5bUp0ZXd2eGxWdlVkOTFkcHRKUzZxQkNoYnZPMk9mdkk5WlFTVThPczRpX1JvSjRKa0xfSkQxZUlabGIxUVI2eFlLMHNHaU9kYmhpUWdNN1ZCVU5iOUE5T3lvRHJMcTgxekF6bl9rSERiS1JJeTMyc25XaXNRQnE3Y01wNjdudzRVb0kybWRNRjFuV0Z1NjJfcWhicU1CZDdCbWRrTi1wNWYwV1FaUS1ncWV0aGlpY1VE0gHWAUFVX3lxTE5uQmlXZ2JOMVZHdG5aMkVIbzZ1cF9IUzMwblFsZHBNN09jTk5oUzFISV9mbnZ5UWE0TU5QNG91aTNjQ0Q1RFppVWdHWFRGR0duVVVUajNGRVZFWDVSLXEyZno0ZGg2NzFicG40TmpxMkFNYW1FOWVzUHRGVFpTTDJsMjVfWTBPWXExSm9NY19xTkJDbzUzSGdzejJIMS1qVlc2anJGVHNBVXNrTkg5Tk8xM3BUQnBVYnlHbl9TRWlnTFpSTEFDTzVpUEQzVzg0WFN3T2NJaWc?oc=5"
+    },
+    {
+     "name": "UdaipurTimes.com",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzNodUpYcV9PXzQzR3ZRRVZwTXJwbU5lOFBiTEhBLVpQUHM4QXlRWTBOQXhqSHBMVUJZX1EwUUFlNGhabk4xdm43bmRBVXMzVnN6Rl94VHFwMnZiUnN5VWhkZFdtYk1yTThURG83eXhkWkRwRDdteFZOU0NjM0U1NTdpQmNNUW00d0ljdHV0Nkh1em1iMWlobU5nclpRTkpj?oc=5"
     }
    ],
    "firstSeen": "2026-10-31T12:10:29.554Z"

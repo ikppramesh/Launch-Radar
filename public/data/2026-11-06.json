@@ -2,6 +2,204 @@
  "date": "2026-11-06",
  "items": [
   {
+   "id": "898313e97d60",
+   "title": "Honor 700 series design officially revealed, all models to include a rear display",
+   "summary": "Honor has officially unveiled the design, color options, and storage configurations of its upcoming 700 series in China. The lineup will comprise the Honor 700, Honor 700 Pro, and Honor 700S. All three models are confirmed to feature a rear display and are now available for pre-o",
+   "link": "https://www.gsmarena.com/honor_700_series_design_officially_revealed_all_models_to_include_a_rear_display-news-75376.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-pro-s-design-pre-order/-184x111/gsmarena_00.jpg",
+   "publishedAt": "2026-11-06T06:00:02.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Honor",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/honor_700_series_design_officially_revealed_all_models_to_include_a_rear_display-news-75376.php"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "198af0607994",
+   "title": "URSB Launches Mobile Application to Bring Registration Services Closer to Ugandans",
+   "summary": "URSB Launches Mobile Application to Bring Registration Services Closer to Ugandans Nilepost",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGk1NWJiV0dUZHBqMGdURnd6NXhRMjgtMTR6NUhTMjVGaXNLRWVNVEhzU1BDZGc4cDR5bDJtQWpTRjBlTktuQmlkY3RUbXdBazA0VUdZTWMxLWFpZTRBR2cySWJ3cTlUNWc1bXVDYjR4WHpaWWM1ZHpISnZYNHcyVVNoSVdhUlJWZi1yaVhIdGd4LW5HX1VqaDg3elY4TTE0c0kxWkJxMGdpNzlHdUUxTlNZTU5PSHR4eVFJeXNn0gHIAUFVX3lxTE5ocnFFRTlQX3lfYk9GQ2pETnZBS2g4THlTRkV0eklWWEdCMExKcUpLZTR2dHJTVS1YNXlZd2FMOHc1VmQzSmNudzBYUFh5bllyODFwalBoRkxhWklsSDR4Y0oyQ1A4c2VINDZCSEp3Z3gwSWtMd3FucXFhVGx6X3ppNFZTdlh5d1p6WURCRGo5M3F3YmdWZVQtY1RmUVR4SWM2YllyaTl6ZGp4UzFJR2oyRUkta1o1NGN6cVl2TmN1ZUZ6SWxsZVlv?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-06T05:55:19.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Nilepost",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGk1NWJiV0dUZHBqMGdURnd6NXhRMjgtMTR6NUhTMjVGaXNLRWVNVEhzU1BDZGc4cDR5bDJtQWpTRjBlTktuQmlkY3RUbXdBazA0VUdZTWMxLWFpZTRBR2cySWJ3cTlUNWc1bXVDYjR4WHpaWWM1ZHpISnZYNHcyVVNoSVdhUlJWZi1yaVhIdGd4LW5HX1VqaDg3elY4TTE0c0kxWkJxMGdpNzlHdUUxTlNZTU5PSHR4eVFJeXNn0gHIAUFVX3lxTE5ocnFFRTlQX3lfYk9GQ2pETnZBS2g4THlTRkV0eklWWEdCMExKcUpLZTR2dHJTVS1YNXlZd2FMOHc1VmQzSmNudzBYUFh5bllyODFwalBoRkxhWklsSDR4Y0oyQ1A4c2VINDZCSEp3Z3gwSWtMd3FucXFhVGx6X3ppNFZTdlh5d1p6WURCRGo5M3F3YmdWZVQtY1RmUVR4SWM2YllyaTl6ZGp4UzFJR2oyRUkta1o1NGN6cVl2TmN1ZUZ6SWxsZVlv?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "368b6b8f8de6",
+   "title": "Motorola Signature 27 Launched With The Brightest Display In A Smartphone: Price, Features, More",
+   "summary": "Motorola Signature 27 Launched With The Brightest Display In A Smartphone: Price, Features, More ETV Bharat",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZW5nNWpNRVYxUFlmcGFJTUJBUWZVTzgyX01nWGRfNVVYaTItNW9XTGxrMXdHOEZYZWFpZDllcFZWUUh1Z2M4WmRWUlpTWTZzN2hXaHJNU2Rocm81SEJkbHlwa2tpYl9wS3hnem9vY2dUZnVGZURBM3lZQnNRYVI1SzE1b2V2b3BkTjB2bjdGMFl3d0lJaTVzSFdoUFl6R2ZrbEIzanlwdERza1p0NE9PQ3VlREJpbXhqMndqYVNUZGF5WHY2ak1TT3lpdi15RXhMZGk1al8zMUlzSlJKVTc4OTJ30gHnAUFVX3lxTFBfM0pZb3Q3OVVyeElZbzdKdzFreXJCbGs1UEhySFpmVzhWTlNyMm9EbzQ1RTVILXdOamlaZk9oSUlTb0U3VnVxTUNIWTY4Y3NUODRBaEtPTElPN3U1bGhfeVpSTU9MOVBUUFlUYWJSZUs5RkM3UjlEaUJwXzBSdWhiNlNlcmpkZE45aUVXb2JrdG9UZjFKSkNRY2pYS1FFYnhDUVlaTDFzM1QteXNrX2lxNWw2SFJHMGQyS1FyZUZTbGprRWNSckxiajFtWlFMX3ZocFZJTXRpWmllbzJ0TkZybG0xSVJuaw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-06T05:10:40.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ETV Bharat",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZW5nNWpNRVYxUFlmcGFJTUJBUWZVTzgyX01nWGRfNVVYaTItNW9XTGxrMXdHOEZYZWFpZDllcFZWUUh1Z2M4WmRWUlpTWTZzN2hXaHJNU2Rocm81SEJkbHlwa2tpYl9wS3hnem9vY2dUZnVGZURBM3lZQnNRYVI1SzE1b2V2b3BkTjB2bjdGMFl3d0lJaTVzSFdoUFl6R2ZrbEIzanlwdERza1p0NE9PQ3VlREJpbXhqMndqYVNUZGF5WHY2ak1TT3lpdi15RXhMZGk1al8zMUlzSlJKVTc4OTJ30gHnAUFVX3lxTFBfM0pZb3Q3OVVyeElZbzdKdzFreXJCbGs1UEhySFpmVzhWTlNyMm9EbzQ1RTVILXdOamlaZk9oSUlTb0U3VnVxTUNIWTY4Y3NUODRBaEtPTElPN3U1bGhfeVpSTU9MOVBUUFlUYWJSZUs5RkM3UjlEaUJwXzBSdWhiNlNlcmpkZE45aUVXb2JrdG9UZjFKSkNRY2pYS1FFYnhDUVlaTDFzM1QteXNrX2lxNWw2SFJHMGQyS1FyZUZTbGprRWNSckxiajFtWlFMX3ZocFZJTXRpWmllbzJ0TkZybG0xSVJuaw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "81ce9a2fa793",
+   "title": "IKEA, Xbox launch nine-piece YXSTABY gaming collection",
+   "summary": "Gaming inspired furniture The post IKEA, Xbox launch nine-piece YXSTABY gaming collection appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/ikea-xbox-launch-nine-piece-yxstaby-gaming-collection/",
+   "image": "https://www.gadgetmatch.com/wp-content/uploads/2026/11/xbox-ikea-yxstaby-collection-gaming-furniture-20261106-03.jpg",
+   "publishedAt": "2026-11-06T04:51:26.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Xbox",
+   "region": "Southeast Asia",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/ikea-xbox-launch-nine-piece-yxstaby-gaming-collection/"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "63c07c8c6604",
+   "title": "TCL unveils 2026 tablet offerings in the Philippines",
+   "summary": "TCL unveils 2026 tablet offerings in the Philippines Unbox PH",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2UWQtajY1a3dDdWNoTE5EM0ZuVzFUcFdZeG5CZFNlUS1JbVVhN2MzV3k4enAxV0xSZFNfVklMQVVTX0hESjZBRUdCS3BWUnoxSS1kaFZRN0ozX0Nrejc1QTBVaw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-06T04:30:58.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "TCL",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Unbox PH",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2UWQtajY1a3dDdWNoTE5EM0ZuVzFUcFdZeG5CZFNlUS1JbVVhN2MzV3k4enAxV0xSZFNfVklMQVVTX0hESjZBRUdCS3BWUnoxSS1kaFZRN0ozX0Nrejc1QTBVaw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "5a7070942db5",
+   "title": "The Fellowship of the Ring in Concert finally arrives in Manila",
+   "summary": "The run goes from March 4 to 6 at Solaire. The post The Fellowship of the Ring in Concert finally arrives in Manila appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/lord-of-the-rings-fellowship-of-the-ring-manila-2027/",
+   "image": "",
+   "publishedAt": "2026-11-06T04:05:49.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Ring",
+   "region": "Southeast Asia",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/lord-of-the-rings-fellowship-of-the-ring-manila-2027/"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "e7f060a0aaea",
+   "title": "Honor 700 Pro, 700, 700S officially revealed with rear display ahead of launch",
+   "summary": "Honor has officially revealed the Honor 700 series in China, confirming the Honor 700, Honor 700 Pro, and Honor 700S with a built-in rear display across the lineup. The company has opened multi-channel pre-orders, and China store deposit listings already show color and memory opt",
+   "link": "https://www.gizmochina.com/2026/11/06/honor-700-pro-700-700s-revealed-rear-display-ahead-of-launch/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-lineup-16x9-1-300x169.jpg?x96268",
+   "publishedAt": "2026-11-06T03:22:38.000Z",
+   "date": "2026-11-06",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Honor",
+   "region": "China",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/06/honor-700-pro-700-700s-revealed-rear-display-ahead-of-launch/"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "a47d533109ce",
+   "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+   "summary": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’ The Verge",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlR2cjVLemFmaW1PbFcyV2lGbzNMUWhQTUxLYXdsWVhLQXBqQmVqWVFGQWRpelhHM2hSV2plcUpkTUpVVFJQbXlrOEpqWm5HX1lMcEZzaG9yUGREM0g2T09FMldQbGVSeFFuSFlTNmV3cjRJRk5CRVp2TUptNW5SNEhWRUd3TjlFTGdqZkFTbw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T23:17:10.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Verge",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlR2cjVLemFmaW1PbFcyV2lGbzNMUWhQTUxLYXdsWVhLQXBqQmVqWVFGQWRpelhHM2hSV2plcUpkTUpVVFJQbXlrOEpqWm5HX1lMcEZzaG9yUGREM0g2T09FMldQbGVSeFFuSFlTNmV3cjRJRk5CRVp2TUptNW5SNEhWRUd3TjlFTGdqZkFTbw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "ee45b91bcc35",
+   "title": "Alibaba launches Qwen AI glasses and Bose-powered earbuds to rival Meta",
+   "summary": "Alibaba launches Qwen AI glasses and Bose-powered earbuds to rival Meta scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnRPbFNXbnVOQ3dBdFRfZWpqaHBJX3pSTl9CaFFGMThOZ1Y3R3NEUlh2QTdEUGtOSEd2WWdIbjhCTkljRmdJTzdFLTRlSk96TFl4c2Vkcm9uZWwtY1QwUHVqLU5PQ0lNcWhQTThPc3ZQRG1Vd2pRdnRFUGt0X1pSTEdBNFpkcHl0T2Z3UGE5VU5CcERRakpLZ3B6Y0RLWG1vMWkySVI2N2Zzd25KLTJWQjJFU0RqWE5kNzVwY1FyZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T22:47:09.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Bose",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnRPbFNXbnVOQ3dBdFRfZWpqaHBJX3pSTl9CaFFGMThOZ1Y3R3NEUlh2QTdEUGtOSEd2WWdIbjhCTkljRmdJTzdFLTRlSk96TFl4c2Vkcm9uZWwtY1QwUHVqLU5PQ0lNcWhQTThPc3ZQRG1Vd2pRdnRFUGt0X1pSTEdBNFpkcHl0T2Z3UGE5VU5CcERRakpLZ3B6Y0RLWG1vMWkySVI2N2Zzd25KLTJWQjJFU0RqWE5kNzVwY1FyZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
    "id": "e83e437385b4",
    "title": "Aina unveils a chunky AI ring with its own screen, joystick and microphone",
    "summary": "Aina unveils a chunky AI ring with its own screen, joystick and microphone Notebookcheck",
@@ -63,6 +261,10 @@
     {
      "name": "mobidevices.com",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wM25GSU92czV4d0l2OU8tWmpRei11U3VPNWtTSGM1THdDWk5pc1c4cTdKSF93c0p2Rzc4dnJFanVSV0VpcVI5WE9KcW9FTWE3NUROel9RWG9VcVZH?oc=5"
+    },
+    {
+     "name": "thedigitalbriefnews.com",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zNTFuUkREeGJ3RUItU25EQXo2SGJOeEhyOWNnOVBPMGM4M05JTkpzV0pwNDNva3hJNmUyN3FnUTRrS3h5YXZuMkttS1JjQ2Q0eVV6NHBSYlgyX05RZlRjM2FGSjA?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T23:32:00.883Z"
@@ -110,6 +312,50 @@
     }
    ],
    "firstSeen": "2026-11-05T23:32:00.883Z"
+  },
+  {
+   "id": "9d5d42879115",
+   "title": "Vector Unveils Warfighter’s Stack, an Integrated One-Way Attack Drone System",
+   "summary": "Vector Unveils Warfighter’s Stack, an Integrated One-Way Attack Drone System SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0ZuRFRVb3dpMzdUSDc0V3VqYy1UNUpWcDZFRldicW9PNHRLcUJHeTFRSjA4dlBNNFc3YklQUHhDcS1TLVpCUXNxTGdBRXp1YmxoY0xtMlBfRHB0SFlLMDk0dy1XVlliWUZvYW5PWEFfTmxwc0pYbHpBS21sdHloc25FeC04RGp6aTJ0bUdmSWs4MVdrS2xNNEtnYTVUZWlMVjlr?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T20:46:13.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "SSBCrack",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0ZuRFRVb3dpMzdUSDc0V3VqYy1UNUpWcDZFRldicW9PNHRLcUJHeTFRSjA4dlBNNFc3YklQUHhDcS1TLVpCUXNxTGdBRXp1YmxoY0xtMlBfRHB0SFlLMDk0dy1XVlliWUZvYW5PWEFfTmxwc0pYbHpBS21sdHloc25FeC04RGp6aTJ0bUdmSWs4MVdrS2xNNEtnYTVUZWlMVjlr?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
+   "id": "59f1b27cd91b",
+   "title": "Rotion introduces onsite smartphone tracking",
+   "summary": "Rotion introduces onsite smartphone tracking International Rental News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ01jeDNOcnVsOEJLNGlBSV92ZEYzRnJJa3NZU3NWUkdfb1VKTXRYNFBOSmFxLVVoc0dvWjMzdHVGQWhWNGluangxTFZqX1UyczRCdE1Jc1RqQVRlbzhvOER5eE1BTjJKRGx4VmxTamRZa1psR1NDQmJJbkswVjJDVHZ2Ri1aMld5TzVURWFQNlY3bWI4QXh1cnZkeGhHeDV6Ym55Vy1yYkh3Y3MtNm9NaENR?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T20:00:42.000Z",
+   "date": "2026-11-06",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "International Rental News",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ01jeDNOcnVsOEJLNGlBSV92ZEYzRnJJa3NZU3NWUkdfb1VKTXRYNFBOSmFxLVVoc0dvWjMzdHVGQWhWNGluangxTFZqX1UyczRCdE1Jc1RqQVRlbzhvOER5eE1BTjJKRGx4VmxTamRZa1psR1NDQmJJbkswVjJDVHZ2Ri1aMld5TzVURWFQNlY3bWI4QXh1cnZkeGhHeDV6Ym55Vy1yYkh3Y3MtNm9NaENR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
   },
   {
    "id": "b03cf9a226d6",

@@ -46,6 +46,28 @@
    "firstSeen": "2026-11-05T23:32:00.883Z"
   },
   {
+   "id": "6c89710edd9a",
+   "title": "Absolum launches on mobile bringing side-scrolling fantasy action to the palm of your hand",
+   "summary": "Absolum launches on mobile bringing side-scrolling fantasy action to the palm of your hand Pocket Gamer",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5Qy1iNjRlNVVzMWFOcmh2cjZ4X1ZuQVlCUGlubWpRV3AwazUwNDB1NVJJbDNqTlpwWkVzMDhyS0hlVnBXaU5WVDNiOE5yM09hdmZNX0hsbmFKdThhVnB6NEI5ZkRvdkQxN21BQ0Zn?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T17:26:00.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Pocket Gamer",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5Qy1iNjRlNVVzMWFOcmh2cjZ4X1ZuQVlCUGlubWpRV3AwazUwNDB1NVJJbDNqTlpwWkVzMDhyS0hlVnBXaU5WVDNiOE5yM09hdmZNX0hsbmFKdThhVnB6NEI5ZkRvdkQxN21BQ0Zn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
+  },
+  {
    "id": "0ab0d7d80676",
    "title": "Sony is launching $60 retro Walkman headphones with USB-C",
    "summary": "Sony is launching $60 retro Walkman headphones with USB-C Quartz",
@@ -135,18 +157,18 @@
   },
   {
    "id": "1535db4de900",
-   "title": "Sony Electronics Introduces MDR-3R USB-C®*¹ Wired Headphones, a Modern Take on the First Walkman® Headphones MDR-3",
-   "summary": "Sony Electronics Introduces MDR-3R USB-C®*¹ Wired Headphones, a Modern Take on the First Walkman® Headphones MDR-3 PR Newswire",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcTcyQ2psaUROekNZVjBmVl90cFFGd013Q2JVX25ZMHN3S1Y0Qm00QTBKVFVoclhQS3pqZmNZb3JtdmxqelNSWHZrTVdJREVfdkwtN3k1VF8yU0JaaVhTV1lGR0Fmc0c0OUVfSWp5UzNPOG51ZGk0UUliWHhYeVQ2ckMyYmtUMlRfdTFEU1NLVHlYeDF1T2ZneXY5WjZGOWFCRnVEVXdESVRmanAxOWxLX0ZySEgtRm1wU2pHd3BEb2tqbEtYSkRXWFE2dkV4WnBCcDJRUmR4djI3ODI2MW52Sk1tSk40cmI2VEFjMzdDWUxFazJxT2pyYQ?oc=5",
-   "image": "",
+   "title": "Sony unveils MDR-3R wired USB-C headphones inspired by the original 1979 Walkman",
+   "summary": "Sony has announced the MDR-3R, a pair of USB-C-compatible wired headphones modeled after the classic MDR-3 that originally debuted alongside the TPS-L2 Walkman in 1979. Alongside the standard release, Sony is introducing a co-branded special edition developed in collaboration wit",
+   "link": "https://www.fonearena.com/blog/496515/sony-mdr-3r-wired-usb-c-headphones-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/Sony-MDR-3R-USB-C-Wired-Headphones-1024x695.jpg",
    "publishedAt": "2026-11-05T16:00:00.000Z",
    "date": "2026-11-05",
    "status": "Launched",
    "category": "Audio",
    "brand": "Sony",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
    "sources": [
     {
      "name": "PR Newswire",
@@ -155,6 +177,22 @@
     {
      "name": "TechPowerUp",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQjF2VUkxaVBvSEEzcGVoY1k0MVhMR1pPQVZSS25SaVB1RXpubWlFZDFwN1dXYzF1c1FmT0tnSlRXZnd6c2NsZEZPb3FxdWNBNWo5cy1QZ2RZUkQ4VEk4R0pQWVk4Z1Fzc25Qc1gyOWhwX0tyN1hObnd3LVVmeTY1NEV0WmV0ZlI2bFBFVHBiQThLbHFnZ2w00gGcAUFVX3lxTE5KWDlDTGpETWdROEZyOEd0dkpjZVhEemVLTE1tOHRHY1F6b2drSlZSR05JX09LQ0ZoallRSlRxM1N4MmxSb3llcE1KeTJKOE5qWlA5c3NWUnZyN3k3RzRoeDE0X3BtaEl4NnNiOXRFRGZnb2kxRXRVdmVUNXBCNHkwMGpyZzZxalNtMURLbXphVHB3b2tKX213MUYwcA?oc=5"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496515/sony-mdr-3r-wired-usb-c-headphones-price-features.html"
+    },
+    {
+     "name": "NewsCord",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkpKU3Ntcm8zM0kxRWVJeEhybWR3SGR1SUdfTkR2Q2JyZ0tjOU9ORnhGYno0dXFJRW8zOHpUdFk3bWVNTl9rM2U5S0I0VjRMWUl5WWdoaFYwTm83bDR4ZU5mR3hNcW1CTDNJdWVmMnlCd0ZKWkdZeG5qY2JSYzR1M21rNmZoV2NWaW5tRW5uNWRBUHVJYWFHMGJnWXphbnVtRzhFSWVnMWFqTjFBTnY1SnlKLXljQ0dWUGNUTk5CSzFhVFdvLWxnRFFVZ05ZT1VqWFRCQkpNZXBjSkVyTnFrS09hWmctdThaX2c?oc=5"
+    },
+    {
+     "name": "Sony UK",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0VKdFQyQml2UGhrcUw3YWlld0ZmVGpiR1V2MlZvQXBNMFEtd3VCVHk0NHBic2ZDaGJ4ejdsenFCeFVKNDdlajlYcnByU3lsMXAtSk9iN00yVzVJQXdYSmpObmtrczFOQ25WME83ZW9SM1R4Z2xxUkRJajZpWHIwU2VfdU9maXFHaHRoaThRdjlFVkZMRVdBMmVwUkJneDV2TGczTU5NXzdtOHVmODlib2x5WmxqYVZ6SXZOVmw3c1pZV0cwZ01oWkJTTm95bDQ?oc=5"
+    },
+    {
+     "name": "FoneArena.com",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmRfNHVJUFg4TmVsTWZ2NXJHWHZtWlcxclBZVzQyS0dtMm1SSEkyOWN5MUtoM3ZmNjd4NG8zeC1fSTl4YjZ1TFdYZ2M0bUFUR1ZtdEJfNlVxTEY3bjNGYXk4ZnFDN0tHM3FoUjlRTmpDcU4xRldOaTBGVWUwWV9tdVNkVUZWQ19ONmlyYnZ2VGhLNGFua2840gGcAUFVX3lxTFBEcmE2djlOM2psaGlFcEt4SzYyYzFST2VoRjNlbFJSSnI2bTlQeXJ3TE5hMFQzS2d5VEY0ZmJidEdnbGthbDZkc0NGdTZVOEIweXVuaW5MN2Ezd3BsUXpxZGJEMkY3ZDhlOERpQ29aMDd2Qkxtbk1JUEpDOF9lQTZLMUFYS1dPeWZweE5CVUJLNmN0bXRoV1pyUlBZMQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -421,6 +459,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496499/motorola-signature-27-price-specifications.html"
+    },
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEJQNHd2LU9ELUhKRlJidlBYeTBLal93QmRkeWk3YzBRLUJUaERCQm1UNnNrTE95RjFlZG9RRzNyZ2lpMkxmNGhIVHFBMFgxMndWbnh2TmVQVU91SkJTU0lFTmtXbjFZaldYcEI4S2pwUzZ4MkRNMzkyYkFrQk9rZkdDRWtmYVRZRTZCN1JOQm9kdm_SAZgBQVVfeXFMUHpVVnlKeXY0ZXlva0VYSHZsODg3R2dmVGZJQVBrX0ZrbEVna1ZOOVlfZFQzY0lXY3BkMHhmRkpGMS0wU21WdzlGUk91VkItN0J3dTN1ajMyX2s0X3ZxdmFHNUhtd1NiMzR0QzRReno5R05NQm5Eb3ZXdW5vZndHSHk2ZEd4NUJ6M1YwV0pkT2JQQmRCcWtJZ2U?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -863,12 +905,16 @@
    "category": "PC & Components",
    "brand": "JBL",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496449/jbl-305p-mkiii-306p-mkiii-308p-mkiii-310s-mkiii-features.html"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/jbl-305p-mkiii-306p-308p-310s-mkiii-subwoofer-launch-specifications-features-12288550"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -891,6 +937,10 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/11/05/asus-zenbook-14-launched-india-intel-amd-snapdragon-rs-136990/"
+    },
+    {
+     "name": "Techgenyz",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VkdORnY2dWxwMjZCTm9QN1NqU1FoZHNUd3RzRGtPdVBXWTJ0SmpsSzJTbkhxZllkOXJ3YmgwM19VZlVLR0RGM2VKcjI0UVYzdXpxV180RkJXQXBGTGFBRQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -960,6 +1010,28 @@
     }
    ],
    "firstSeen": "2026-11-05T06:27:33.058Z"
+  },
+  {
+   "id": "cbad55380a0f",
+   "title": "Nora EV Launched in Pakistan: Official Prices, Specs & Variants",
+   "summary": "Nora EV Launched in Pakistan: Official Prices, Specs & Variants TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXNlSDFDNXlkOU1sLTNYb1lrM2VQNGpNTkU1RXZpRUNoZnB0OThWU1JZMnRFZDhGaEtKY1pmXzhvdlhvMHRYWEJYXy1xS1ZRT3EwMGVtRGV3dy1UblZ4elRfZ3VlRHNRckcxS1pBczV4cmExTW0wY3lqSHNJMGI0NXNqOGJGVVJRaFc4SlZB?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T04:27:20.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Mobility & EV",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXNlSDFDNXlkOU1sLTNYb1lrM2VQNGpNTkU1RXZpRUNoZnB0OThWU1JZMnRFZDhGaEtKY1pmXzhvdlhvMHRYWEJYXy1xS1ZRT3EwMGVtRGV3dy1UblZ4elRfZ3VlRHNRckcxS1pBczV4cmExTW0wY3lqSHNJMGI0NXNqOGJGVVJRaFc4SlZB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T06:21:30.633Z"
   },
   {
    "id": "e7999654d1a5",
