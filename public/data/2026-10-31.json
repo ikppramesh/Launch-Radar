@@ -503,18 +503,18 @@
   },
   {
    "id": "ad4c96fe1de1",
-   "title": "Samsung unveiled the Galaxy S26 and new Galaxy Buds 4 headphones",
-   "summary": "Samsung unveiled the Galaxy S26 and new Galaxy Buds 4 headphones Turkmenportal.com",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVEdmbm1Sa0ZPTDNMUXJzcmMyNjdNamFNSjhFWEFhUFVrMDB6bkxtRWJRSUt1NzJLaEZBcDJseVpBYldjaWc4OFBSWXRZN1ZQNTNlMGVYMGtpSWhNempOLXFIeFBZWEtFZmhsZW1VQlp0d3pCUzRMOTJva056S1BXb3cxVXdHQmkxZEFPTnQ3c2gtREFJM2RNdDhrQ1FJY2tMRmY5UUlwY1FLeWVyZTkxMjJoaGtDX0JrUGdmMFdLOG53enFxNGI2d25DRkZ5Uk4tYVJhYlktUVFabVpjTGRQeEtxMjNhNUt0U215dDV3ckY4clJx?oc=5",
-   "image": "",
+   "title": "Galaxy S26 Ultra at $949.99 is a good buy, $350 under its launch price",
+   "summary": "Amazon US has the Samsung Galaxy S26 Ultra at $949.99 right now, which is $350 below its $1,299.99 launch price and $450 off the current list price. If you want a big Android phone with an S Pen & long software support, this is the price to buy at. S25 Ultra owners can sit this [",
+   "link": "https://www.gizmochina.com/2026/11/06/galaxy-s26-ultra-at-949-99-is-a-good-buy-350-under-its-launch-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/galaxy-s26-ultra-features-kv-tb-300x169.jpg?x96268",
    "publishedAt": "2026-10-31T08:14:28.000Z",
    "date": "2026-10-31",
    "status": "Launched",
    "category": "Smartphone",
    "brand": "Samsung",
-   "region": "Global",
+   "region": "China",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "Turkmenportal.com",
@@ -527,6 +527,10 @@
     {
      "name": "www.daily-sun.com",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUGtoYnZvaUIwcGZTM1EyZExsWmlGZmJteHdKV04xWEQwZmpPNFVaV01CVG1mbzVZbS1KNmhUekpJRk51TFhiazJzTHczM0pYV2FoSW9NQkVYaGJxQUlHdw?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/06/galaxy-s26-ultra-at-949-99-is-a-good-buy-350-under-its-launch-price/"
     }
    ],
    "firstSeen": "2026-11-01T00:00:35.743Z"

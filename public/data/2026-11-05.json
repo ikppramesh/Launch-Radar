@@ -193,6 +193,22 @@
     {
      "name": "FoneArena.com",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmRfNHVJUFg4TmVsTWZ2NXJHWHZtWlcxclBZVzQyS0dtMm1SSEkyOWN5MUtoM3ZmNjd4NG8zeC1fSTl4YjZ1TFdYZ2M0bUFUR1ZtdEJfNlVxTEY3bjNGYXk4ZnFDN0tHM3FoUjlRTmpDcU4xRldOaTBGVWUwWV9tdVNkVUZWQ19ONmlyYnZ2VGhLNGFua2840gGcAUFVX3lxTFBEcmE2djlOM2psaGlFcEt4SzYyYzFST2VoRjNlbFJSSnI2bTlQeXJ3TE5hMFQzS2d5VEY0ZmJidEdnbGthbDZkc0NGdTZVOEIweXVuaW5MN2Ezd3BsUXpxZGJEMkY3ZDhlOERpQ29aMDd2Qkxtbk1JUEpDOF9lQTZLMUFYS1dPeWZweE5CVUJLNmN0bXRoV1pyUlBZMQ?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/sony-mdr-3r-headphones-price-launch-sale-features-specifications-12292445"
+    },
+    {
+     "name": "DJ Mag",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcnMyNHA4NG0tMld6dkcyd1VockhHeU9HbVJxZ1B5RjBGLWVmMHJKVzV2WU9yT1ppcGQzZHdTUTBtV2NDYzhSbWZQMUliNi01Vzg5Smp3ZzMwemZQckY4OUZWYWI4TUR4NC1KOUlmRXAyRFA5enRqQ3pjYWJLMXRfOXYwbzFqQ2cwUURKWWFhMWdwUWl3M25hMVhMTGRJemY2RFBqREx3?oc=5"
+    },
+    {
+     "name": "Gadget Bridge",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUGNPQVZCTlp2MUltdTFJbWNsWEJKbTBxSTY3MElzczZ6VkVRdk1fNHZTVF9JMWN1cF9zOHBwUWdYR3JPTnktcHk4b1NGTU5XUERkUjVhcEF6MnpKRnBfLS1VM3R2SmVoMG5VYW1zNDBxT09Rd2JhcGFGV2QzVWZJZ2JWZnB3QdIBiwFBVV95cUxNYnhlYXNzUDhCb1kzeVBWQUpqVkUyWlB5N1l2bW5abEM4SWtRUDhONExxSU1LM2MyT1hFY081WFZLcFdwcW5Qd2RaQ2dPNEtlMVoxeUhGRHR3cEVYVFp4T2tOYXlCS1FwMlRPalRPc21RT2gydlJBUzdxUVBSNGxPVjZMNndsZVpfNlF3?oc=5"
+    },
+    {
+     "name": "Technobaboy",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHNfN1hYUVlUc1pyYlhrRF81bEhkcDdyd0dEVDBNUGlfa0htenUyZ2V5cy1NQVI2TmhjVDJBSk05ZkNMWlMzemVqN25TVXZscVdqN0djT1hWdE1UdzYwWnJ4djd1QVk2ekVpQjZmbHJfTGZ6TzlWaVlWc1l1VTdMZkcwVTl2Y0pFU1oxNlZNRnRPdGZOSE52X0g3Zw?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -296,7 +312,7 @@
    "status": "Launched",
    "category": "Wearable",
    "brand": "Polar",
-   "region": "Global",
+   "region": "India",
    "confidence": 2,
    "aggregator": false,
    "sources": [
@@ -307,6 +323,10 @@
     {
      "name": "Android Authority",
      "link": "https://www.androidauthority.com/moto-watch-2-fit-and-moto-buds-2-ultra-3732293/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/moto-watch-2-fit-polar-fitness-buds-2-ultra-tws-sound-by-bose-launch-specifications-12291188"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -337,6 +357,10 @@
     {
      "name": "Daily Excelsior",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ2dYSVJ2TFF2TXJseUdjODBuVkRnOUxQblNRMFlMX3NGbVRfRjJVY0FBVFpubjhVdXpTXzlUUnpIM2hsTTY5OU5LeG9vbFBMN2kzdnJXbUdVdFB1cW9Wd0Q0QUlVbzFvQ0w4cVNSYnVuWTZJSXFVMXVhejRWMkx3ZDNvZ2NMalZCU2ZpckpRRFk0ZC1r0gGYAUFVX3lxTFB6bDZpLXVNbmRLM1UxQVZybUlxc1lFbG0wamliNEQxZkUzUHVCMld0X1NtYW9zRkJWTUpESDNyYUZTakl0U2xyTjlIWEVmOHIxYlJxVkFfb0YwYWN1NFYxUnhTZ0pqaF9VMUhXd09uSDJnSGw2Z2JBNE5DS2ZQLTZFTnJxTWVWRHZ6WHhmWWxYREZnWU8tNHh2?oc=5"
+    },
+    {
+     "name": "Kashmir Life",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRk1yWVllZzNMYzh2OXdJRGdieXpnaEhqWkRaS1JMZE5UbVVqUEJCSmJTZDc1R2swUlpMbFNobVBja0hpMWZiMUd4X2UwSllaOGgxTmd0UkN6cHVtNlFVOGJDTTB2OFluSTE1TDhuV1UtMTljaFRDMGFXVm1MMHN0UGFNQ2xtV1hpeW9kNW96Mmk4azU2Mlg1ZkRnbGpBT2NzdVJpMA?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -691,6 +715,10 @@
     {
      "name": "News18",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSVM4dTVvWURlMDZfck9UMjEyT3pIY0dEWl9LWlIxYXEzZjhkblRScU9TdnNrUmhUVmpjdW4wNkFHU0JLa3B2S2lKZ1R1RFdsQnlIMkdqM1ZaV2Y1SDhpZG92MzBqbGRYMmJyd3d3REdURUszQnJQUlpmRWRMd2ZKakVvQ29ZS3R5YndnNmlNR21EQ05FR1FBcGFnSFd5MjU1am5KM1BoMU0zUmJlWnZMQ0xBdk91ZHdUcUNUWUp6QUw0VHI4ZXhsV2VPRGp2VkdfNG1GdXpyY3dMaEVQNUZB0gHkAUFVX3lxTFBUUGlQUXc0ck5CODVfVnBOeVNWSlZRVXdtb1czV1drZ2k1eGZnWC14WllFTWtnVnFtaXFsQzVOT2RDdXg0blZ4Si1NQkNXVUVRMkJlbkltM1hoZ2lCNjdWSUNlcnpZTl8xTXpKT3lwcmJQV1Y1YXEwQmdVeXd4ZUZabWpvOTMzVGF3em9DbFhFYmMwYTZxNlZYRGdwQkEtb1hCd0J4V092TXlBT0lhUUNtSkxLYk1HMWg0cHlpV2NoZF9QZFJ4SUJKUmVPcmZzMWZJX1d2eVNiMFRILTRENG94bXlDQw?oc=5"
+    },
+    {
+     "name": "91Mobiles",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXhZZjQzRlhrWUs4clp0NkJxbzBReUloRnpsOVhRZVZZT01kLUNkaFNtZWdMSUpIamtuVDBvRTZDOVhndlVHZWVTTzZqckxrMnJVZ3dza051aldJckpEaFFzUXF5RklCTlFSLTNtZGVCdklmSXBZTG9qSTI4cThDWGlFOUdnZTI3YlHSAY8BQVVfeXFMT25wU0hKR0UtOWxPSWNNZnB4UE5DNmEwU0lLeUZUeVM2Q1dON01rN2Uwb0lsNmphYVJfZjRac3hNQ29Nb1RzYXB6VU9EMXF5cnJUbDBkcE9RaXJjMU9rWEpFRlB2Qlc0Q0ZiY2lQRlFFRGhDR21abDBCNzU5RjJUb2VUVTRWSmxDbm1PcmNlVGM?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -779,6 +807,14 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496465/asus-zenbook-14-price-india-features.html"
+    },
+    {
+     "name": "Fossbytes",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0dnYU5PUlJBckZCRkdVYTUycTg5UXJ3Y0dfRXNFdDlDZW4zRm9rTWJIeGsxekpqNDVrc0FJc1RsMmJSRkVJallmN2tPQzk1Z1JhLXBnTEVWRDRYdmYzWkVPZDhGM1o0c2NGalNzY2wxVXZjSXFOSGRYWjFYWlBCaXJ3VnhwUGZ2LWhCbG5FZ3ZkOTB6RnJyZWFaUHZGcVNLaVNV?oc=5"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDROalpTYk1COG9xazJJRXkzbnJGdWlZWlhSeHJ3RzR0Z0FuQ0lsR0dUMkhCOThxakNBLUdmal9vWXJvbG1pMEpzTG1lcHF4aldpcTVOdF9qNDgtcTBhdTFOcjF2aUxVZWU4cWJ4SDdoalJYOTZFQWxXbi1oSFdPRTVRMXdlcWdrOHhWSTNvM09Da0lOc1ZvSVYxSndlUUVVM2ZSS0p30gGrAUFVX3lxTFBYYkxNdWdpbVkxdk1LZ01yeTZRV1FRSlZYSll6ZTNsYUxCcEI3UjZocXFDT1dkSnFqZ21PSjBLLUZMaGQweEEyN2g4MU8yQnFtZzhSdDBFc2xFOFlybmhCekthOVpRUjRtQzR2TV9jR05WX0NGRWozcWlGcHdXSmhmc1NqNTl2RkkwV0FfOUlSejdjVGVLWHR2UmYzdmp6ODg2REVFcEpfNHl3dw?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"

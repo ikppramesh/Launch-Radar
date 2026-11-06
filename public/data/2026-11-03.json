@@ -104,7 +104,7 @@
    "status": "Launched",
    "category": "Gaming",
    "brand": "Razer",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
    "aggregator": false,
    "sources": [
@@ -127,6 +127,10 @@
     {
      "name": "Bleeding Cool News",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa3U5Rzk1bTVwaFdKQ0xSNFBhWlprY0tvVUl2Wmwyci10bW1uaS1YNTNnN1RnSEV4OG5tQkJqMlBIRmc5aHQxM3VYTjJPV1djMko0U1BVa0NRUW1DcU51MlRpVHk2TXlRaWI1RkFLYjFBX0gxSUdDWm5uMVJSa3FuTTF5MnNmeVUwanZYcmthV21nc2N1REVlN0NBWXdDN3c?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/razer-hammerhead-v3-chroma-earphones-price-launch-specifications-features-12293354"
     }
    ],
    "firstSeen": "2026-11-03T16:58:01.940Z"
