@@ -280,28 +280,6 @@
    "firstSeen": "2026-11-05T17:18:36.071Z"
   },
   {
-   "id": "ff0d9b3643dd",
-   "title": "Phase launches Proxy to enable smartphone-based AI connectivity",
-   "summary": "Phase launches Proxy to enable smartphone-based AI connectivity Cryptonews.net",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcVJfS2l6X25JbVRYYUljWE1fYm4ydExjd18wM3VsQXJEaUNZQ3BPSVdSOV8tb2Z2bW94NHo3NnhtSnoyV1h1VXd5UWs1RnZIU3lpeWVQeGxZUQ?oc=5",
-   "image": "",
-   "publishedAt": "2026-11-05T14:17:39.000Z",
-   "date": "2026-11-05",
-   "status": "Launched",
-   "category": "Smartphone",
-   "brand": "—",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Cryptonews.net",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcVJfS2l6X25JbVRYYUljWE1fYm4ydExjd18wM3VsQXJEaUNZQ3BPSVdSOV8tb2Z2bW94NHo3NnhtSnoyV1h1VXd5UWs1RnZIU3lpeWVQeGxZUQ?oc=5"
-    }
-   ],
-   "firstSeen": "2026-11-05T17:18:36.071Z"
-  },
-  {
    "id": "a4b5af86a722",
    "title": "Moto Watch 2 Fit and Moto Buds 2 Ultra launch with Polar and Bose on board",
    "summary": "Alongside its new flagship smartphone, the Signature 27, Motorola has also announced two new wearables today. The Moto Watch 2 Fit succeeds the original Watch Fit, and for the first time in the Fit line, it comes with fitness insights powered by Polar. The Moto Buds 2 Ultra, on t",
@@ -383,6 +361,32 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/11/05/ugreen-launches-dark-cherry-magflow-qi2-2-slim-power-bank-for-iphone-18-pro-with-10000mah-capacity/"
+    }
+   ],
+   "firstSeen": "2026-11-05T17:18:36.071Z"
+  },
+  {
+   "id": "ff0d9b3643dd",
+   "title": "Phase launches Proxy to enable smartphone-based AI connectivity",
+   "summary": "Phase launches Proxy to enable smartphone-based AI connectivity Cryptonews.net",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcVJfS2l6X25JbVRYYUljWE1fYm4ydExjd18wM3VsQXJEaUNZQ3BPSVdSOV8tb2Z2bW94NHo3NnhtSnoyV1h1VXd5UWs1RnZIU3lpeWVQeGxZUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T13:40:51.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Cryptonews.net",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcVJfS2l6X25JbVRYYUljWE1fYm4ydExjd18wM3VsQXJEaUNZQ3BPSVdSOV8tb2Z2bW94NHo3NnhtSnoyV1h1VXd5UWs1RnZIU3lpeWVQeGxZUQ?oc=5"
+    },
+    {
+     "name": "Crypto Briefing",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsdTIxQXBlN1hZNXY0UjY5R3JIVHlUOWZuVHBuMGVOVnBHTEd0c0hBQlFtUGJLZUhwbnA4QlY4eEdYUFhYc1dvdmpVSmkzOHN4Ymg1SkN5NVdGMWNvNUNjMnNWRnNhNmRCb3pyeUM4Z21JZlNFSHZlUkc4N04?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -930,6 +934,28 @@
    "firstSeen": "2026-11-05T17:18:36.071Z"
   },
   {
+   "id": "8ec931726f5f",
+   "title": "Nothing announces new flagship Headphone (1) Pro headphones with audiophile features *Updated*",
+   "summary": "Nothing announces new flagship Headphone (1) Pro headphones with audiophile features *Updated* HardwareZone Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVJhTTRWd0FqLW9uVVR2ZDJlR0ZGc1BZejVraDVXZG5ZZkhSYUdkMTBOeXRIWk1qY2RCRXBlTlVac2tCbFhlUTBwT2x0YVI1eFRtNWpUVXNJSzZ3bUYwZTBlbmV0ZXlUSW1kZTZDcDJWZHVZdEhyc1hPc0NxRVhpb1c1TE1aeGJ2OTZNMFhPN1RxcTZVWGdpT3A1WFVua05FNUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T08:00:00.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Nothing",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "HardwareZone Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVJhTTRWd0FqLW9uVVR2ZDJlR0ZGc1BZejVraDVXZG5ZZkhSYUdkMTBOeXRIWk1qY2RCRXBlTlVac2tCbFhlUTBwT2x0YVI1eFRtNWpUVXNJSzZ3bUYwZTBlbmV0ZXlUSW1kZTZDcDJWZHVZdEhyc1hPc0NxRVhpb1c1TE1aeGJ2OTZNMFhPN1RxcTZVWGdpT3A1WFVua05FNUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T22:59:10.981Z"
+  },
+  {
    "id": "3362ff118283",
    "title": "JBL 305P MkIII, 306P MkIII, 308P MkIII studio monitors and 310S MkIII subwoofer announced",
    "summary": "JBL Professional, part of HARMAN Professional Solutions, has introduced its new 3 Series MkIII family of powered studio monitors and subwoofers. The lineup consists of four models: the 305P MkIII, 306P MkIII, 308P MkIII and 310S MkIII. JBL 305P MkIII, 306P MkIII and 308P MkIII st",
@@ -1070,6 +1096,28 @@
    "firstSeen": "2026-11-06T06:21:30.633Z"
   },
   {
+   "id": "ca7c9b47316a",
+   "title": "Dr Reddy's launches Obeda oral semaglutide tablets in India",
+   "summary": "Dr Reddy's launches Obeda oral semaglutide tablets in India Multibagg AI",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWVQNldUZC1DWFBwcjhkM05xUFg2c050YmcxeWFkUFkwWk84VEQtX1lrZ2ZTX0ljLTh5V1dGNXVZQUdOallKempkV1hfdm1Ia3R4eFZvbjBCSTlWdFBpbzBnbHNlM1BLSUljaEJDX3JWb2w0QzRxTm9qV2I1aV9XQldxQUJCUnNrQ3RDZWZDSTVXbms2cXRuVk1yck91Z3BVb3Q4dVRhMEE0UWs?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T04:20:49.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Multibagg AI",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWVQNldUZC1DWFBwcjhkM05xUFg2c050YmcxeWFkUFkwWk84VEQtX1lrZ2ZTX0ljLTh5V1dGNXVZQUdOallKempkV1hfdm1Ia3R4eFZvbjBCSTlWdFBpbzBnbHNlM1BLSUljaEJDX3JWb2w0QzRxTm9qV2I1aV9XQldxQUJCUnNrQ3RDZWZDSTVXbms2cXRuVk1yck91Z3BVb3Q4dVRhMEE0UWs?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T22:59:10.981Z"
+  },
+  {
    "id": "e7999654d1a5",
    "title": "MSI's 18-inch 'Raider A18 HX A9W' Laptop Arrives, Packing AMD Ryzen 9 9955HX3D and RTX 5090!",
    "summary": "MSI's 18-inch 'Raider A18 HX A9W' Laptop Arrives, Packing AMD Ryzen 9 9955HX3D and RTX 5090! ASCII.jp",
@@ -1090,6 +1138,28 @@
     }
    ],
    "firstSeen": "2026-11-05T06:27:33.058Z"
+  },
+  {
+   "id": "6f1a58062602",
+   "title": "ROG XG Station 3: ASUS Launches Thunderbolt 5 eGPU Dock Without a Power Adapter",
+   "summary": "ROG XG Station 3: ASUS Launches Thunderbolt 5 eGPU Dock Without a Power Adapter Basic Tutorials",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFN4cWlYWFgzVjhzWDduX1JhZ3BEQ3pYdzNnYVBzMXZJOTFZWUNyNGJjR05jbnZteUlUYldCUDhCWVY1a1RkVmV0cko2WnJidjZKSTRTWTFOWmdkTXcwQTQxVHhObVZWcDlHaUQ5S3FKaVdXaFpJODlVZmw3bU11S2R5WDZaaDhKQ3JTMDNyZEVrWTlOdGVtdko0SW9GakNqclpGaFJlU25YTUlld2xIWjR3?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-05T03:08:45.000Z",
+   "date": "2026-11-05",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Asus",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Basic Tutorials",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFN4cWlYWFgzVjhzWDduX1JhZ3BEQ3pYdzNnYVBzMXZJOTFZWUNyNGJjR05jbnZteUlUYldCUDhCWVY1a1RkVmV0cko2WnJidjZKSTRTWTFOWmdkTXcwQTQxVHhObVZWcDlHaUQ5S3FKaVdXaFpJODlVZmw3bU11S2R5WDZaaDhKQ3JTMDNyZEVrWTlOdGVtdko0SW9GakNqclpGaFJlU25YTUlld2xIWjR3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-06T22:59:10.981Z"
   },
   {
    "id": "c1ac2ade6540",
