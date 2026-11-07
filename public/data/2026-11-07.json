@@ -2,6 +2,76 @@
  "date": "2026-11-07",
  "items": [
   {
+   "id": "2bdc37be60bf",
+   "title": "Huawei launches $56 earbuds with 80-hour battery life and LDAC support",
+   "summary": "Huawei launches $56 earbuds with 80-hour battery life and LDAC support Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWoxR0VSaGJmemNBWWY4clBQdUFweVJ1Vkh3WUpPa3ZIamhSYU1OTi1QdTY5LUlCYnhXOEEzTlNlcVFhT1RBOUNMTTZhaTFnWWNqTUpreFFFVjNxTC04NW4wS1U0Q01pcHpyQ0JSYmt4LVAzZ01Zdk5TcGY3cUlValhnUHk?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-07T14:59:00.000Z",
+   "date": "2026-11-07",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWoxR0VSaGJmemNBWWY4clBQdUFweVJ1Vkh3WUpPa3ZIamhSYU1OTi1QdTY5LUlCYnhXOEEzTlNlcVFhT1RBOUNMTTZhaTFnWWNqTUpreFFFVjNxTC04NW4wS1U0Q01pcHpyQ0JSYmt4LVAzZ01Zdk5TcGY3cUlValhnUHk?oc=5"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEJRQ1hnVjJkZ0JRdlZNdUxmSE5rYV9Od2FfcE1PS1JJd0QzNXFtT2VNUGdJNDQ3QVZURUwtNXhJWkJybkdxVllRdWl0WjhUcVBMQjgyTzFONkp6cVJtejl2eFZBRTJHaXFFSERFMWdkZGNNaHZnbzYtYzY4WWsyOWhUclF0TXZLT1pzUGdrUUNEam5BMWhVNlZ0MTB2Y0twRWlLcUo5dE96RHdzTGlZU1pVazU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-07T19:20:51.500Z"
+  },
+  {
+   "id": "a162bb67d965",
+   "title": "Azur Promilia locks in November PC and mobile launch",
+   "summary": "Azur Promilia locks in November PC and mobile launch Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVU4eC1CWFdPZlFRbWljOXdOaDcxTVZVVG1KWWhFZUh4cmxHd1FTMkVzdFhHekhFT1dMWlNlc0F4XzVaa2sxdy1SMkVMUFluNm9fbWZ5N0lLbnpjUndEaEpmLUppaXRhNnYtTXZNTnB3ZVFpc2dFRnR5X1kzd3lHNlR1SldqbzhqZXNqLW1VT1lSV1VvZFRpX0pNWl94dw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-07T14:42:00.000Z",
+   "date": "2026-11-07",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVU4eC1CWFdPZlFRbWljOXdOaDcxTVZVVG1KWWhFZUh4cmxHd1FTMkVzdFhHekhFT1dMWlNlc0F4XzVaa2sxdy1SMkVMUFluNm9fbWZ5N0lLbnpjUndEaEpmLUppaXRhNnYtTXZNTnB3ZVFpc2dFRnR5X1kzd3lHNlR1SldqbzhqZXNqLW1VT1lSV1VvZFRpX0pNWl94dw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-07T19:20:51.500Z"
+  },
+  {
+   "id": "2b8f10138e2f",
+   "title": "TP-Link Archer 8 Ultra: the future of Wi-Fi has just arrived, with TP-Link’s first Wi-Fi 8 router",
+   "summary": "Should early adopters get TP-Link's first Wi-Fi 8 router? Or would you be better off sticking with Wi-Fi 7?",
+   "link": "https://www.techradar.com/computing/wi-fi-broadband/tp-link-archer-8-ultra",
+   "image": "https://cdn.mos.cms.futurecdn.net/UJ2LTaH9x95Zn35MWDJ9WM-1920-80.jpg",
+   "publishedAt": "2026-11-07T13:00:00.000Z",
+   "date": "2026-11-07",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "TP-Link",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/computing/wi-fi-broadband/tp-link-archer-8-ultra"
+    }
+   ],
+   "firstSeen": "2026-11-07T19:20:51.500Z"
+  },
+  {
    "id": "dfec96275676",
    "title": "Panasonic launches headphones with 100-hour battery life",
    "summary": "Panasonic launches headphones with 100-hour battery life Notebookcheck",
@@ -112,6 +182,28 @@
    "firstSeen": "2026-11-07T12:50:58.576Z"
   },
   {
+   "id": "9deb0ed78cb8",
+   "title": "XElectron launches ARZOPA 17.3-inch portable monitor in India at Rs 17,390",
+   "summary": "XElectron launches ARZOPA 17.3-inch portable monitor in India at Rs 17,390 The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVFppNVhYdkdMNG1xa05sdHh0TUNxMFMzUjRwdXlhWGs1cnpzd3JETFBDOFNqSXJrU1VLSzF3MF9ZZTB6bUZHVTIzVUh4c1htc2pfa01ybDgzVWt2ei02cjM5ZjE2ZGc2NENBaDhpTEhkUmNjZnRIYUsweEZuc1RXWGxNeFRoX2pMUERLYjRCdFl6VzNIcEUwTC1lMGpDQ3BONDJxTDhqaklNWkpXd2pYajdSN2J1M0d2VERVSm11cnVHRG1MQ3pNWDQwdGVjc2VOeXZ3SmhTdnh2TER6azRHT3lGX0hSX0xOd1pyNkx30gHzAUFVX3lxTE1xNmw1VHRNRVZBb0tlQXQ0MVNaZHlGMTVUVnVGNTJ0V0F6T2wzNF9NcWhJOXlUTGlYMFNWelg3NUlqU1FISmhKbTN4WDdLS2tfcGxCTkV1MDQxVk9FQnVrMXA4ZjVDQXVMYVdQMFhCZWtaUnJIT1ZtOThpWXVzQzYxTVRDS0lDVjhYM3dMUXgwSHdSOTdaQzh3ejZOSF9hTjJvd3pLLW44OVZfRkgyQ3BDLVpnSC11Z1JpNEpGRHVraHFpVUcyLW1NQmhBbzBxVl9OOEY4YXRaMG9hSUJxaWM0aU1xdjR5LXFZbTd4bExhRzlzbw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-07T09:19:00.000Z",
+   "date": "2026-11-07",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVFppNVhYdkdMNG1xa05sdHh0TUNxMFMzUjRwdXlhWGs1cnpzd3JETFBDOFNqSXJrU1VLSzF3MF9ZZTB6bUZHVTIzVUh4c1htc2pfa01ybDgzVWt2ei02cjM5ZjE2ZGc2NENBaDhpTEhkUmNjZnRIYUsweEZuc1RXWGxNeFRoX2pMUERLYjRCdFl6VzNIcEUwTC1lMGpDQ3BONDJxTDhqaklNWkpXd2pYajdSN2J1M0d2VERVSm11cnVHRG1MQ3pNWDQwdGVjc2VOeXZ3SmhTdnh2TER6azRHT3lGX0hSX0xOd1pyNkx30gHzAUFVX3lxTE1xNmw1VHRNRVZBb0tlQXQ0MVNaZHlGMTVUVnVGNTJ0V0F6T2wzNF9NcWhJOXlUTGlYMFNWelg3NUlqU1FISmhKbTN4WDdLS2tfcGxCTkV1MDQxVk9FQnVrMXA4ZjVDQXVMYVdQMFhCZWtaUnJIT1ZtOThpWXVzQzYxTVRDS0lDVjhYM3dMUXgwSHdSOTdaQzh3ejZOSF9hTjJvd3pLLW44OVZfRkgyQ3BDLVpnSC11Z1JpNEpGRHVraHFpVUcyLW1NQmhBbzBxVl9OOEY4YXRaMG9hSUJxaWM0aU1xdjR5LXFZbTd4bExhRzlzbw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-07T19:20:51.500Z"
+  },
+  {
    "id": "d86455f977fa",
    "title": "Citizen launches a limited-edition Disney watch featuring Mickey Mouse floating over New York City",
    "summary": "Citizen has released a new limited-edition timepiece to mark the upcoming 100th anniversary of the Macy’s Thanksgiving Day Parade in 2026. The Sorcerer Mickey’s 100th Anniversary Macy’s Parade watch is available now for $395. It is a strictly capped release, with only 500 units b",
@@ -132,6 +224,28 @@
     }
    ],
    "firstSeen": "2026-11-07T12:50:58.576Z"
+  },
+  {
+   "id": "396eba2c1911",
+   "title": "TCL unveils 5 new tablets in PH, including NXTPAPER series w/ matte panels",
+   "summary": "TCL unveils 5 new tablets in PH, including NXTPAPER series w/ matte panels GIZGUIDE",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazBpUl85UDRwNzVBT3hRaTUwVE9kYW1xZGdBX21BT0hBdG0xUDdGcUZvR0k5dThObmREQkd4bVpGTjBqMDFOeEZKQVBxbmtFQnJyeUMxcndXOHZ3WnRDTENiYWktS0d6bFlQMVVLWmo2TFNvSWY3UjFDX1FqSjhBN19wb1ktZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-07T08:02:00.000Z",
+   "date": "2026-11-07",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "TCL",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "GIZGUIDE",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazBpUl85UDRwNzVBT3hRaTUwVE9kYW1xZGdBX21BT0hBdG0xUDdGcUZvR0k5dThObmREQkd4bVpGTjBqMDFOeEZKQVBxbmtFQnJyeUMxcndXOHZ3WnRDTENiYWktS0d6bFlQMVVLWmo2TFNvSWY3UjFDX1FqSjhBN19wb1ktZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-07T19:20:51.500Z"
   },
   {
    "id": "00790117c2f4",
@@ -242,6 +356,28 @@
     }
    ],
    "firstSeen": "2026-11-07T05:46:04.626Z"
+  },
+  {
+   "id": "bf8b07515609",
+   "title": "Apple's new Macs and OLED iPad mini arrive in Australia",
+   "summary": "Apple's new Macs and OLED iPad mini arrive in Australia ChannelLife Australia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM25PNHdqMHBqTERkOFE1ODF2MzgwX2FaUnVtaVBjRUc2M2RHNU5MOVlRQnIwZHBEWllTLW5BYkJOZU9ObUh0bXhybzRySlFLbzJWeTVTZmx3eUJXVjRscWNSZlk0M3M1alR0emtyUloxRFhINlhQajVPcld6bkdXczFmZVJjT0dHVHRiZTIxSElRdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-07T00:54:00.000Z",
+   "date": "2026-11-07",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ChannelLife Australia",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM25PNHdqMHBqTERkOFE1ODF2MzgwX2FaUnVtaVBjRUc2M2RHNU5MOVlRQnIwZHBEWllTLW5BYkJOZU9ObUh0bXhybzRySlFLbzJWeTVTZmx3eUJXVjRscWNSZlk0M3M1alR0emtyUloxRFhINlhQajVPcld6bkdXczFmZVJjT0dHVHRiZTIxSElRdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-07T19:20:51.500Z"
   },
   {
    "id": "4ae9cda1f861",
