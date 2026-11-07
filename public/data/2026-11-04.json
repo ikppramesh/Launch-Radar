@@ -846,7 +846,7 @@
    "status": "Launched",
    "category": "Smartphone",
    "brand": "TCL",
-   "region": "Global",
+   "region": "Southeast Asia",
    "confidence": 3,
    "aggregator": true,
    "sources": [
@@ -857,6 +857,10 @@
     {
      "name": "Craving Tech",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWFlUjRrWEtTWG5xQzVDeFFaRVdIaXlyWUxDay15YzhYYVVLMFFvelZSLVVZbVNGa240UWdQSS1SRWJyakh5UUtMbFVpdFFpOEdRbDhXRktTdDhUTVpIZjA1Ymp5ZFBnbVJnekhJSGhtcDBkVU9nUlAxWmNaVmFvYmpXUnRiWXVaNFVzRnVRTmJLbjJuNlhXaUNqVHRMRFhVb29DNUhLdFY3aGViRnp2YWpOUFk?oc=5"
+    },
+    {
+     "name": "Technobaboy",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY3lvbHNtclg5dHF6OHNVRTFSWWYweV9vT05vWHZtbkowUmwxRWhGREwyRDRhcUdsbEItOWVZWXhTdGJPM0gzLUZCZU5sdjJGQ012WnpYNWxMYWZPM0RiS0FfZGdqRG1GblJzbVI2aWdUYkg4aWVfbzhKZkxtVS1JMjZldlR0QTl1eUNLSk5yQ1lSUQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-03T23:12:30.335Z"
