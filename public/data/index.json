@@ -1,10 +1,10 @@
 {
- "lastRefresh": "2026-11-08T21:01:27.228Z",
+ "lastRefresh": "2026-11-08T21:56:40.279Z",
  "timezone": "Asia/Kolkata",
- "tookMs": 3150,
- "feedsOk": 52,
+ "tookMs": 2655,
+ "feedsOk": 51,
  "feedsTotal": 54,
- "added": 0,
+ "added": 1,
  "days": [
   {
    "date": "2026-11-08",
@@ -12,7 +12,7 @@
   },
   {
    "date": "2026-11-07",
-   "count": 37
+   "count": 38
   },
   {
    "date": "2026-11-06",
@@ -240,8 +240,9 @@
   },
   {
    "name": "Huawei Central",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 403"
   },
   {
    "name": "Gadgets 360",
@@ -271,17 +272,17 @@
   {
    "name": "Google News US",
    "ok": true,
+   "count": 29
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
    "count": 30
   },
   {
    "name": "Google News US",
    "ok": true,
-   "count": 31
-  },
-  {
-   "name": "Google News US",
-   "ok": true,
-   "count": 31
+   "count": 29
   },
   {
    "name": "Google News IN",
@@ -301,12 +302,12 @@
   {
    "name": "Google News IN",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Google News IN",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Google News GB",
@@ -326,12 +327,12 @@
   {
    "name": "Google News GB",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Google News GB",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Google News SG",
@@ -356,7 +357,7 @@
   {
    "name": "Google News SG",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Google News AU",
@@ -376,17 +377,17 @@
   {
    "name": "Google News AU",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Google News AU",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "Google News CA",
@@ -401,12 +402,12 @@
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 30
+   "count": 29
   }
  ]
 }
