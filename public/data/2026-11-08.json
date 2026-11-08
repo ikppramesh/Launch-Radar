@@ -2,6 +2,94 @@
  "date": "2026-11-08",
  "items": [
   {
+   "id": "743d17c4ba28",
+   "title": "Coolpad's wide-screen smartphone launches in China for the equivalent of $150",
+   "summary": "Coolpad's wide-screen smartphone launches in China for the equivalent of $150 Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPem5MX3hZVlhuRy04WERZRmJpMGpIbFFOQzZ2TDZHc2N5Mk4wV2NxT0xBTkdiaE8wUXN5WkVuTFF5TUhpME5mMEh4Y1FXYUhjenM4dEhadVVvZUFkclB2SExBQXlRTTQ0a19keC1GU1JBRzRmdGRfdU1BaTJrTEozT1dqVjdRZjNCQ0xxY1RGRG5CNlZrUVloOVVKaml4M09jY3hWQ0JKZl9HVW9ZM3NUUnduWGhkRnloRmhoTGNn?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-08T06:50:00.000Z",
+   "date": "2026-11-08",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPem5MX3hZVlhuRy04WERZRmJpMGpIbFFOQzZ2TDZHc2N5Mk4wV2NxT0xBTkdiaE8wUXN5WkVuTFF5TUhpME5mMEh4Y1FXYUhjenM4dEhadVVvZUFkclB2SExBQXlRTTQ0a19keC1GU1JBRzRmdGRfdU1BaTJrTEozT1dqVjdRZjNCQ0xxY1RGRG5CNlZrUVloOVVKaml4M09jY3hWQ0JKZl9HVW9ZM3NUUnduWGhkRnloRmhoTGNn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-08T10:08:41.013Z"
+  },
+  {
+   "id": "c0564f5bd83c",
+   "title": "Oppo’s new three-port 120W charger is launching soon with these specs",
+   "summary": "Oppo is preparing a new 120W charger with three charging ports, and the accessory has now cleared China’s 3C certification. The listing appeared on the country’s Ministry of Industry and Information Technology website. Oppo has yet to announce the charger, but the certification r",
+   "link": "https://www.gizmochina.com/2026/11/08/oppos-new-three-port-120w-charger-is-launching-soon-with-these-specs/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Oppo-GaN-charger-300x199.jpg?x96268",
+   "publishedAt": "2026-11-08T03:31:55.000Z",
+   "date": "2026-11-08",
+   "status": "Upcoming",
+   "category": "Accessories",
+   "brand": "Oppo",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/08/oppos-new-three-port-120w-charger-is-launching-soon-with-these-specs/"
+    }
+   ],
+   "firstSeen": "2026-11-08T10:08:41.013Z"
+  },
+  {
+   "id": "d8b196b97346",
+   "title": "'The next generation won’t replace this one so much as sit on top of it' — Industry analysts say Sony, Microsoft, and Nintendo's 'relentless push for higher-end performance will need to be moderated' to avoid $1000 launch consoles",
+   "summary": "Industry analysts have suggested console manufacturers will need to temper their ambitions for next-gen to avoid breaching the $1000 console launch mark.",
+   "link": "https://www.techradar.com/gaming/the-next-generation-wont-replace-this-one-so-much-as-sit-on-top-of-it-industry-analysts-say-sony-microsoft-and-nintendos-relentless-push-for-higher-end-performance-will-need-to-be-moderated-to-avoid-usd1000-launch-consoles",
+   "image": "https://cdn.mos.cms.futurecdn.net/U8FDQjAxYmygvFzXAoLXzK-1920-80.jpg",
+   "publishedAt": "2026-11-08T01:00:00.000Z",
+   "date": "2026-11-08",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/gaming/the-next-generation-wont-replace-this-one-so-much-as-sit-on-top-of-it-industry-analysts-say-sony-microsoft-and-nintendos-relentless-push-for-higher-end-performance-will-need-to-be-moderated-to-avoid-usd1000-launch-consoles"
+    }
+   ],
+   "firstSeen": "2026-11-08T10:08:41.013Z"
+  },
+  {
+   "id": "621d755634d8",
+   "title": "AOC launches new 16-inch OLED portable monitor with slim aluminium alloy body",
+   "summary": "AOC has released a new portable monitor in China called the 16T40D. It is priced at 1,549 yuan, which converts to roughly $232. AOC 16T40D Portable Monitor Specifications The display features an OLED panel with a 1920 x 1200-pixel resolution (WUXGA) and a 16:10 aspect ratio, prov",
+   "link": "https://www.gizmochina.com/2026/11/08/aoc-16t40d-portable-oled-monitor-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/aoc-portable-screen-monitor-16t40d-300x212.png?x96268",
+   "publishedAt": "2026-11-08T00:33:35.000Z",
+   "date": "2026-11-08",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/08/aoc-16t40d-portable-oled-monitor-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-08T10:08:41.013Z"
+  },
+  {
    "id": "d03be661f2d0",
    "title": "Huawei Launches Tri-Fold Mate XT 2, Taking On iPhone Duo With Waterproofing and ECG",
    "summary": "Huawei Launches Tri-Fold Mate XT 2, Taking On iPhone Duo With Waterproofing and ECG BigGo Finance",
@@ -48,6 +136,28 @@
     }
    ],
    "firstSeen": "2026-11-08T00:24:20.890Z"
+  },
+  {
+   "id": "9106e1ba4b8c",
+   "title": "MECHREVO Jiaolong 16 Pro 2026 Launches with Ryzen 9 8945HX and RTX 5070",
+   "summary": "MECHREVO Jiaolong 16 Pro 2026 Launches with Ryzen 9 8945HX and RTX 5070 Technetbook",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZWVQNzQzakpCeFZlaUJyaE5NZlp3WnBLSndKYXl4X2txLUxHYVJpcWtsRDJyRUU1UGExUnlrYmhJeDlkVHp6ZWRNN0VPMnpwN1YweUdQellhbGFOUkUwV1EzSTNLNDJjQlJPQ1k3UVMyY0xmdkxkcXd4VFc0Z3p3MDc0NmhCWFE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-07T23:21:00.000Z",
+   "date": "2026-11-08",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Technetbook",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZWVQNzQzakpCeFZlaUJyaE5NZlp3WnBLSndKYXl4X2txLUxHYVJpcWtsRDJyRUU1UGExUnlrYmhJeDlkVHp6ZWRNN0VPMnpwN1YweUdQellhbGFOUkUwV1EzSTNLNDJjQlJPQ1k3UVMyY0xmdkxkcXd4VFc0Z3p3MDc0NmhCWFE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-08T10:08:41.013Z"
   },
   {
    "id": "33f35870c988",
