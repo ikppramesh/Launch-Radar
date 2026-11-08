@@ -229,6 +229,10 @@
     {
      "name": "Menafn",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkVKQnpLRDMwcnFDOFBXLThnZF80SDV2MlZ0UXlSU2NTXzRWM2IyTkxuSWczOWMzM2FDRXFQeElxcUREVTA1TXdlSmtqQk1xN2c5d040cndsZFowOF9Hc21uZ2FxemdCdGdfMVN1OVJ4b0dGOFota2tQOURrNVZyWExlbFZSZzdtVDREa3N6dENPcnpJWC1HcjVXYUEzRGlOMTRSckJIR1NBQlRCY2FtZ3d5YjRaUjhRTFFSNVVnQmhJTkVOZURn?oc=5"
+    },
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemVZRmpHVDVNdWhmZjR6VzZiZGNjbW9yWVk5STNzWktXMTJydURNSjFmNzZsNEJkR0k4U0lYMGg5NHpqcmdOSHoyUmowRlcyRTB5VlZmUmxYZmdid3Z3SzJoUG4xdDc3SXhCWFlDWkJmQnRic1hGUHFocnRHY1Zma3dDN2RqSTNyWnRkcDBicm8?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"
@@ -815,12 +819,16 @@
    "category": "Smartphone",
    "brand": "Vivo",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-series-india-launch-teased-smartwatch-telephoto-converter-lens-availability-microsite-specifications-features-12286935"
+    },
+    {
+     "name": "ET Now",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMnJLck9idHNfNnNZb3NVU3JDMjdJdUVNRkV6cDJ0QnctaHpOblh2VDZoMDhwOTdsRzRtbUZaTEUtM3hrd2Q0TVVKQ2psdEowMXNZVF9HY3J4TDZ4WUpTME5mRVo4ZGFfUnlKQlcwNW1jeVUzcWJ2VjRvZjNqQXJicnZEcUxDVmItVEloYm9yRDJrZWRqMHpXWmVXM0VoUmpua1FyNGpTNV91OFZZRFJqcTQ0WkxhMnBSdnRmTGFXa2FVWDFTNkhmX3FucGJQUEZQMkJVUFpMX212by0wWGhnQWhaRWFyVjdsUlHSAe8BQVVfeXFMT3Vzazd4NUpxSkNvbGNPVUVqcVdTRnFNTDFSQnFzM3d2VW80cTkwXzlOUnhqV2MwS1gzRER1WDdUeFB5ZGI2Z1pkaFJDWlBFRkVCeUxjZHBQYVdiUGVNUlZUY2hyNWtQWlRwYW90M0ZsaGZEN2FqV2RFclN6NHpidVcyYmVHRmplRHlkXzdnWmFUSHRHWExiRTV3QkQzVmtVZ3otQUtZWDhzaWEwTnFvdUtuV0dhalpEekZmVXhoNHltSVJYQnljalE5VUJQUXdtTXNjZFN3WFBzbXhHZG53Y3FadFJWRjhqZURGbl9fems?oc=5"
     }
    ],
    "firstSeen": "2026-11-08T00:24:20.890Z"
