@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { allFeeds } from './sources.js';
 import { parseFeed } from './parse.js';
 import { classify } from './classify.js';
+import { writeFeeds } from './publish.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const DATA_DIR = path.join(ROOT, 'public', 'data');
@@ -155,6 +156,8 @@ export async function refresh({ log = console.log } = {}) {
     items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
     await writeFile(path.join(DATA_DIR, `${day}.json`), JSON.stringify({ date: day, items }, null, 1));
   }
+
+  await writeFeeds(DATA_DIR, pool_, now, TIMEZONE);
 
   // Rebuild the index from disk so days older than the merge window are kept.
   const allFiles = (await readdir(DATA_DIR)).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().reverse();

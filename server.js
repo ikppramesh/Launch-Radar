@@ -8,7 +8,7 @@ const PUBLIC = path.join(path.dirname(fileURLToPath(import.meta.url)), 'public')
 const PORT = Number(process.env.PORT) || 3000;
 const REFRESH_HOURS = Number(process.env.REFRESH_HOURS) || 3;
 
-const TYPES = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.svg': 'image/svg+xml', '.ico': 'image/x-icon' };
+const TYPES = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.xml': 'application/atom+xml; charset=utf-8', '.svg': 'image/svg+xml', '.ico': 'image/x-icon' };
 
 let running = null;
 function runRefresh() {

@@ -34,6 +34,8 @@ To force an update right now: **Actions → Update gadget launches → Run workf
 - Click a row to see the summary and every outlet's link. **Open ↗** goes to the article.
 - **Export CSV** downloads the current view. The URL keeps your filters, so you can share or bookmark it.
 
+- **Atom feed and weekly digest:** `feed.xml` has the 50 latest launches for any feed reader. `week.html` is an email-friendly digest of the last 7 days (inline styles, so you can paste or forward it as a newsletter). Both are rebuilt on every refresh; set `SITE_URL` to change the origin used in their links.
+
 ## Run locally (optional)
 
 Requires Node 18+. There are no dependencies to install.

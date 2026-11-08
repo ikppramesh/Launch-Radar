@@ -2,6 +2,28 @@
  "date": "2026-11-07",
  "items": [
   {
+   "id": "eb6731d0b824",
+   "title": "Xiaomi Unveils Redmi Note 15 Special Edition Featuring Larger Battery and Snapdragon Processor",
+   "summary": "Xiaomi Unveils Redmi Note 15 Special Edition Featuring Larger Battery and Snapdragon Processor TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3VoeW9wWloyRzZ0YlJYbWtWVDQybkNac2NmaFdxN1VHNm9nWkZ6XzFXb2w3MmhTNlNyRm1VWkU1R2M3cE1TOXNkVzlOOV9OUWdOWnU5NUlxN2t6aEZfMDhrWndkTjMwRjZIUzdvakk3WklDelBvWXlkdmxHVklrTV9Kb3RoTkUtQ1VPSVRlZ21zVFF5WE1Bem5QV3lLdkJmU2RoSk9EUUN1bGRzRDBybHZHdFRhTHFJXzdLOA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-07T17:18:57.000Z",
+   "date": "2026-11-07",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3VoeW9wWloyRzZ0YlJYbWtWVDQybkNac2NmaFdxN1VHNm9nWkZ6XzFXb2w3MmhTNlNyRm1VWkU1R2M3cE1TOXNkVzlOOV9OUWdOWnU5NUlxN2t6aEZfMDhrWndkTjMwRjZIUzdvakk3WklDelBvWXlkdmxHVklrTV9Kb3RoTkUtQ1VPSVRlZ21zVFF5WE1Bem5QV3lLdkJmU2RoSk9EUUN1bGRzRDBybHZHdFRhTHFJXzdLOA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-08T21:01:03.950Z"
+  },
+  {
    "id": "842649e3e8ea",
    "title": "Affordable Vivo Y6k Launched with 6,500mAh Battery, 120 Hz Display and Dimensity 6300",
    "summary": "Affordable Vivo Y6k Launched with 6,500mAh Battery, 120 Hz Display and Dimensity 6300 Beebom Gadgets",
@@ -22,6 +44,28 @@
     }
    ],
    "firstSeen": "2026-11-08T10:08:41.013Z"
+  },
+  {
+   "id": "e763b07b18d2",
+   "title": "Huawei FreeBuds SE 5 Max to launch in Philippines on November 10 with big discounts",
+   "summary": "Huawei FreeBuds SE 5 Max is now coming to the Philippines. The new earbuds will launch in the respective market on November 10 with a useful gift and a staggering discount. Users can visit the official stores to reserve the audio wearable in advance. FreeBuds SE 5 Max debuted in ",
+   "link": "https://www.huaweicentral.com/huawei-freebuds-se-5-max-to-launch-in-philippines-on-november-10/",
+   "image": "https://www.huaweicentral.com/wp-content/uploads/2026/11/FreeBudsSE5Max-imag.jpg",
+   "publishedAt": "2026-11-07T17:07:47.000Z",
+   "date": "2026-11-07",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Huawei",
+   "region": "Southeast Asia",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Huawei Central",
+     "link": "https://www.huaweicentral.com/huawei-freebuds-se-5-max-to-launch-in-philippines-on-november-10/"
+    }
+   ],
+   "firstSeen": "2026-11-08T21:01:03.950Z"
   },
   {
    "id": "2bdc37be60bf",
@@ -337,10 +381,10 @@
   },
   {
    "id": "93ea6f17484e",
-   "title": "Samsung Galaxy S27 Gets BIS Certification Ahead of Expected 2027 India Launch",
-   "summary": "Samsung Galaxy S27 Gets BIS Certification Ahead of Expected 2027 India Launch https://ascendants.in/",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjZQUWNMXzZIT3h1eVJGMEV5Q1FrSDExS0NhWG9kZlFWZTROSllzVHFCa2xHd1V2WEVjZGNZdjF2VHB4UkNOSDhrVEhrQldkRDRPVV9WZHdZUnZFUkIyVWp6MG9ReUUtek9YRWJ1S0xLa1kwUGpOb2FwRGNtREQ3M29Wd0EyTjlLamNSSE9XVHhTOHJEX3NiRHlPUFdNSTJFMmIwQXZ3?oc=5",
-   "image": "",
+   "title": "Galaxy S27 clears BIS ahead of early 2027 launch",
+   "summary": "BIS filings don’t usually spill a lot of hardware details, but this same model number has already shown up in other databases. The post Galaxy S27 clears BIS ahead of early 2027 launch appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/11/08/galaxy-s27-clears-bis-ahead-of-early-2027-launch/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-bis-2-300x169.jpg?x96268",
    "publishedAt": "2026-11-07T08:40:11.000Z",
    "date": "2026-11-07",
    "status": "Upcoming",
@@ -348,11 +392,15 @@
    "brand": "Samsung",
    "region": "India",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "https://ascendants.in/",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjZQUWNMXzZIT3h1eVJGMEV5Q1FrSDExS0NhWG9kZlFWZTROSllzVHFCa2xHd1V2WEVjZGNZdjF2VHB4UkNOSDhrVEhrQldkRDRPVV9WZHdZUnZFUkIyVWp6MG9ReUUtek9YRWJ1S0xLa1kwUGpOb2FwRGNtREQ3M29Wd0EyTjlLamNSSE9XVHhTOHJEX3NiRHlPUFdNSTJFMmIwQXZ3?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/08/galaxy-s27-clears-bis-ahead-of-early-2027-launch/"
     }
    ],
    "firstSeen": "2026-11-08T10:08:41.013Z"
@@ -694,6 +742,28 @@
     }
    ],
    "firstSeen": "2026-11-08T10:08:41.013Z"
+  },
+  {
+   "id": "b1709342762c",
+   "title": "Google Pixel 7 and 7 Pro make their debuts at Made By Google 2022",
+   "summary": "Google Pixel 7 and 7 Pro make their debuts at Made By Google 2022 Mashable",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RMGJVU2NCd2g5N2RmUlNLWktwUnlSUVdYOWlFb2RrVkdQT1NDRXJRaS14VTV6b3ByNlM3SGQweFhkOENvSi1saURfckUxdzU4a2pFMmVvRG9ZT3hmWFNQQW42cEVkU3VQajJKcnRnRWxkUXFZ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-06T23:00:00.000Z",
+   "date": "2026-11-07",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RMGJVU2NCd2g5N2RmUlNLWktwUnlSUVdYOWlFb2RrVkdQT1NDRXJRaS14VTV6b3ByNlM3SGQweFhkOENvSi1saURfckUxdzU4a2pFMmVvRG9ZT3hmWFNQQW42cEVkU3VQajJKcnRnRWxkUXFZ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-08T21:01:03.950Z"
   },
   {
    "id": "302a115167b7",
