@@ -1480,13 +1480,17 @@
    "status": "Upcoming",
    "category": "Smartphone",
    "brand": "Oppo",
-   "region": "Global",
-   "confidence": 2,
+   "region": "China",
+   "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "Moneycontrol.com",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDQzaUZydFNmLU92a0RYcjhsVnFxY3FjWlYwTjFKV3k4Xzk1cEgxeV9iaXlOR1dHQmJSb0FpWHZYbFljVWRKNlBIV3pZSEJNLWgxZzdrdVNlODhBLUg5VUt0VmFKR1NzRzZ6amRkVkJndF9xT2ppN0RFYnFiNTgtc29QMjI2R3RYTUJtT09Oc3dpZjRqZjZZMjh4YkYxRXp0MTRlTkhUbjJCTU1oTTlJTVNhRVNpMEd0WFZGTXBB0gHDAUFVX3lxTFA2b2VrNHczSHQ1Y2NXRmFRdjNlM3dMQzhfN1Y5dmU5eV9reW9jNGxOclRkcUhEVkdmOTR6eWZQUjBhVENYdG5XdXRsUmloZkpOdFFkSTF4X1pjMC1XdEk2cFZrbjh5UGNScWo1Um9YdWhLdDlKc3E4cDNCdmxYVndnQ05xUUF6MEtTb0xfSzJtREdaMFFfNjUzUzJjR3BWZDI3dGwwbXpZRGpIZjVZd0wyVWZobFowOTRBSF9wb181V1Jwdw?oc=5"
+    },
+    {
+     "name": "Smartprix",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDJFaEN2ZGlDQk1EckdvRjlNOG1QQ0M1YVJUT0tzdElpb3pJS25qM1BXTHBnLUg4eHRFVTIwdTZ3RHlDdjdtM3loVE15Y2lyUUFrRTdDWGItd1lfRXhHbmdXd2k0czZmX0ZNc1JpSk90MWNkb3NYX3c0dlNsVkRSbWRBOWtEaDQ2ekV4YlNvb0ttV2VCNUsydVVzZ2toSTJYTW92ZkR0Y0w?oc=5"
     }
    ],
    "firstSeen": "2026-11-02T21:39:44.720Z"
