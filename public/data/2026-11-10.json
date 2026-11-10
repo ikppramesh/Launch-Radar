@@ -2,6 +2,604 @@
  "date": "2026-11-10",
  "items": [
   {
+   "id": "e3ee651338f3",
+   "title": "Lenovo launches new 16-inch laptop globally with 120 Hz display and over 30 hours battery life",
+   "summary": "Lenovo launches new 16-inch laptop globally with 120 Hz display and over 30 hours battery life Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3ZsRjNOQmozNVJOOGhKQ2VqWU1HT2ZZZHBmb1hSb0hCeTA3NkZ4ODEyUHZCenpKTlU2TENyejgtMWppSjE1by1SNGduUzhmWW9ENVhxeGZxbTFYa1B6b3JjaktFV3JWZl9vZ21INC1ua05kU3NYMXFtemRiSlpralZZazBHLUFWcU8zWmM3cTljRDFFMW9rdjJpQlB5TlVFVGRINGNzQ3VRQ01FblctOFUwOHVSdzJmS0ZOelhCV1B5VEttNW43Y0dvSVU4MzJYYUZtNTNB?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T18:19:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Lenovo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3ZsRjNOQmozNVJOOGhKQ2VqWU1HT2ZZZHBmb1hSb0hCeTA3NkZ4ODEyUHZCenpKTlU2TENyejgtMWppSjE1by1SNGduUzhmWW9ENVhxeGZxbTFYa1B6b3JjaktFV3JWZl9vZ21INC1ua05kU3NYMXFtemRiSlpralZZazBHLUFWcU8zWmM3cTljRDFFMW9rdjJpQlB5TlVFVGRINGNzQ3VRQ01FblctOFUwOHVSdzJmS0ZOelhCV1B5VEttNW43Y0dvSVU4MzJYYUZtNTNB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "bd18b2faa909",
+   "title": "Apple announces Swift Student Challenge 2027 with new twist",
+   "summary": "Apple has announced details for 2027’s Swift Student Challenge, and there’s a new twist this year: students can submit an app for any Apple platform. more…",
+   "link": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/swift-student-challenge-2027.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-10T18:11:28.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "34bd81d12d98",
+   "title": "Amazon Unveils AI-Powered Home Surveillance Drone, Raising Privacy Concerns",
+   "summary": "Amazon Unveils AI-Powered Home Surveillance Drone, Raising Privacy Concerns Vision Times",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3Mxb2tjUG41ZnpzbF82SVcwVF9HakZDcks1eTZ5QnhiS0t1RGNtaFR3ZjRXMGppWG5mSTN0bnNRc0VWTVd4WEM5SkgyUER5SGYtaHJvVnJMUkRMc2xDUzlyUl9iME93THBxWlJLVzhidEYyQ1ZPWHdETjFFMHF4cWExVGtUUjQ2Rzh4cDBYSUZUR2EwRWJLQUUtTnN6UDRpNjQ5VmpfUm9HanFIMnBNNXptZkptWWhheVE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T18:01:12.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Vision Times",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3Mxb2tjUG41ZnpzbF82SVcwVF9HakZDcks1eTZ5QnhiS0t1RGNtaFR3ZjRXMGppWG5mSTN0bnNRc0VWTVd4WEM5SkgyUER5SGYtaHJvVnJMUkRMc2xDUzlyUl9iME93THBxWlJLVzhidEYyQ1ZPWHdETjFFMHF4cWExVGtUUjQ2Rzh4cDBYSUZUR2EwRWJLQUUtTnN6UDRpNjQ5VmpfUm9HanFIMnBNNXptZkptWWhheVE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "91959820d58f",
+   "title": "Amazon Debuts Ring Robotics With $249.99 Ring Drone Cam and $999.99 Rover Cam: Specs and Details",
+   "summary": "Amazon Debuts Ring Robotics With $249.99 Ring Drone Cam and $999.99 Rover Cam: Specs and Details PaidFreeDroid",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVG5ZcVQzbnBqU3VIal9odmJxU2Q1bFBlUFJVMzF0eTRMQjFsM0lfWGtBMjM3eVd1c1NYa2xaNnRvSU1fRnVLczAzM1pNaDZ1RkxTRUQtOTNMb2U3M0VPR05JU243NGJxODJEUU5rT2czVWkzZUVvQURpSTRVTkdZeVdzSV9MMWJNR2kxbmNaVW5rbGlaa2RReTR4ZmFuSVHSAaQBQVVfeXFMUE5WZ2pDMFEwM2xwR1N1bDY2ZXdJM01Dc1FTY2dLbG1ldU9sbGllREcwb0VQdGw4NjhRVTJsQ0JpV2l3SHR2eXJ5TlBIUVBpS3BIMGdNOV81S2hSa2tOczd5QU14VVVwM1Vsc1c0R1BIU2FPM28xQWlmUE5SdDNlejYxZ2oxU2ZrMFFKZGZVMlBEeUNEdm43MFhPWktxT3k3Njl3YVA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T17:46:50.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVG5ZcVQzbnBqU3VIal9odmJxU2Q1bFBlUFJVMzF0eTRMQjFsM0lfWGtBMjM3eVd1c1NYa2xaNnRvSU1fRnVLczAzM1pNaDZ1RkxTRUQtOTNMb2U3M0VPR05JU243NGJxODJEUU5rT2czVWkzZUVvQURpSTRVTkdZeVdzSV9MMWJNR2kxbmNaVW5rbGlaa2RReTR4ZmFuSVHSAaQBQVVfeXFMUE5WZ2pDMFEwM2xwR1N1bDY2ZXdJM01Dc1FTY2dLbG1ldU9sbGllREcwb0VQdGw4NjhRVTJsQ0JpV2l3SHR2eXJ5TlBIUVBpS3BIMGdNOV81S2hSa2tOczd5QU14VVVwM1Vsc1c0R1BIU2FPM28xQWlmUE5SdDNlejYxZ2oxU2ZrMFFKZGZVMlBEeUNEdm43MFhPWktxT3k3Njl3YVA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "bafd0ce96ccf",
+   "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
+   "summary": "It's rolling out first on Pixel phones before wider availability arrives in 2027.",
+   "link": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
+   "image": "https://www.engadget.com/img/gallery/google-fi-announces-super-network-automatic-carrier-switching-for-improved-speed-and-reception/l-intro-1794323524.jpg",
+   "publishedAt": "2026-11-10T17:30:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "d71d17c9ae39",
+   "title": "Apple Announces Swift Student Challenge Ahead of WWDC 2027",
+   "summary": "Apple today announced the Swift Student Challenge for 2027 , with submissions set to be accepted from February 8 to February 28, 2027. The Swift Student Challenge is an annual contest that gives young developers worldwide a chance to show off their creativity and app development ",
+   "link": "https://www.macrumors.com/2026/11/10/apple-2027-swift-student-challenge/",
+   "image": "https://images.macrumors.com/article-new/2026/11/apple-swift-student-challenge-2027.jpeg",
+   "publishedAt": "2026-11-10T17:28:19.000Z",
+   "date": "2026-11-10",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/11/10/apple-2027-swift-student-challenge/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "45354bdc71f2",
+   "title": "Wyze launches an easy-fit smart lock and a solar 2K camera for budget home security",
+   "summary": "You can fit the Wyze Lever Lock with just a screwdriver, and the Wyze Solar Cam runs all day on just an hour of sunlight.",
+   "link": "https://www.techradar.com/home/home-security/wyze-just-launched-a-smart-lock-that-you-can-install-in-moments-with-a-philips-screwdriver-plus-a-solar-security-camera-that-stays-charged-on-an-hour-of-sunlight-per-day-and-theyre-both-surprisingly-cheap",
+   "image": "https://cdn.mos.cms.futurecdn.net/XUoPSw476YQJKiEYqvrtnK-1920-80.jpg",
+   "publishedAt": "2026-11-10T17:23:59.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/home/home-security/wyze-just-launched-a-smart-lock-that-you-can-install-in-moments-with-a-philips-screwdriver-plus-a-solar-security-camera-that-stays-charged-on-an-hour-of-sunlight-per-day-and-theyre-both-surprisingly-cheap"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "5a35afe32922",
+   "title": "Lenovo launches new 14-inch laptop globally with 500-nit display and almost 20% longer battery life than older model",
+   "summary": "Lenovo launches new 14-inch laptop globally with 500-nit display and almost 20% longer battery life than older model Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcnNMRE5vUl9tOFB2ME9qcFRxY0dOZS1kYXF3ZUhVaXRmVkhXUDJlMFVESHJNbjFuRnNKbmRCWUs2QXktcUVudVhFTFhuQnl3bGZ2VW1QUkRYVzNCUWVZaUwxMk5DVkhDZ3cyek1GV2ZiMXFlbUNsbm9BV1prNVBmVFRPMDZQa1NZbGZLMHExTTJLZTdnZVVXTThoTEJNSVFYeUhtS3RCY3lnTXBYdGhjcUlWeUhmSl8tRGd2OUJ6RUxzUTUyWl94cXFuSzh6VUpZNEFmMmU2QmxqM055U2tfRkxjWG1ENzBKbVhuanZMdzNmdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T17:22:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Lenovo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcnNMRE5vUl9tOFB2ME9qcFRxY0dOZS1kYXF3ZUhVaXRmVkhXUDJlMFVESHJNbjFuRnNKbmRCWUs2QXktcUVudVhFTFhuQnl3bGZ2VW1QUkRYVzNCUWVZaUwxMk5DVkhDZ3cyek1GV2ZiMXFlbUNsbm9BV1prNVBmVFRPMDZQa1NZbGZLMHExTTJLZTdnZVVXTThoTEJNSVFYeUhtS3RCY3lnTXBYdGhjcUlWeUhmSl8tRGd2OUJ6RUxzUTUyWl94cXFuSzh6VUpZNEFmMmU2QmxqM055U2tfRkxjWG1ENzBKbVhuanZMdzNmdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "9ca5c813ed37",
+   "title": "Xiaomi launches new smartwatch globally with 14 days battery and 3,000-nit AMOLED display",
+   "summary": "Xiaomi launches new smartwatch globally with 14 days battery and 3,000-nit AMOLED display Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnFkT0Z0R1lueGxQTnQ2Sk1samJqUkhrdXhLRFdjbEd1OGtGWXFHc1F2V2pvS200cEl1ZVB3ZG0wOTl6bzVOWmw4dURRTFIzZW45dzhFclU4b1NidnFRUF91cklkcFl3S0x5dkluMnpza012c0QxUk1CTE1HOVZDRjl1WjJxU014YTFyNDVMREN0N1lqVHVDWThsY3doNkE4MmZlNE0xY2FyMWVlZElwS3VRVk9RcGxuQ3VhbkkzZTlwWWU4clljQkEzOWN4aDQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T17:13:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnFkT0Z0R1lueGxQTnQ2Sk1samJqUkhrdXhLRFdjbEd1OGtGWXFHc1F2V2pvS200cEl1ZVB3ZG0wOTl6bzVOWmw4dURRTFIzZW45dzhFclU4b1NidnFRUF91cklkcFl3S0x5dkluMnpza012c0QxUk1CTE1HOVZDRjl1WjJxU014YTFyNDVMREN0N1lqVHVDWThsY3doNkE4MmZlNE0xY2FyMWVlZElwS3VRVk9RcGxuQ3VhbkkzZTlwWWU4clljQkEzOWN4aDQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "0095476307db",
+   "title": "Ring is launching a flying security camera to patrol your home",
+   "summary": "Ring’s flying security camera is making a comeback.",
+   "link": "https://www.androidauthority.com/ring-drone-cam-launch-3733467/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Ring-Drone-Cam.jpg",
+   "publishedAt": "2026-11-10T17:03:49.000Z",
+   "date": "2026-11-10",
+   "status": "Upcoming",
+   "category": "Wearable",
+   "brand": "Ring",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/ring-drone-cam-launch-3733467/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "7073c093fd46",
+   "title": "Google announces Modern Web Guidance 1.0 for Chrome",
+   "summary": "The post Google announces Modern Web Guidance 1.0 for Chrome appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/google-announces-modern-web-guidance-1-0-for-chrome.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/05/Google-Chrome-logo-AH-3.jpg",
+   "publishedAt": "2026-11-10T17:02:20.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/google-announces-modern-web-guidance-1-0-for-chrome.html"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "e7461d878f80",
+   "title": "Google Pixel Tag launches: specs, price, and how it compares to Android rivals",
+   "summary": "The Google Pixel Tag is finally available to buy, and its specs and price are comparable to those of its rivals.",
+   "link": "https://www.techradar.com/phones/android/the-google-pixel-tag-has-finally-landed-heres-how-it-compares-to-the-moto-tag-2-and-galaxy-smarttag-2",
+   "image": "https://cdn.mos.cms.futurecdn.net/zpkR8UnX8C7hCE8TPENFLc-1920-80.jpg",
+   "publishedAt": "2026-11-10T17:00:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/phones/android/the-google-pixel-tag-has-finally-landed-heres-how-it-compares-to-the-moto-tag-2-and-galaxy-smarttag-2"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "13ef899c8a26",
+   "title": "New titanium smart ring launches with ECG, sleep and stress tracking",
+   "summary": "New titanium smart ring launches with ECG, sleep and stress tracking Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjBTbEVuVGNMdWVwWlZidDFuRzJHLTIzOWVacjJqQjlacElvZnRsZGZfQlhIMnV1dHRiZ3hDc1VhR2pYSjRYZjZKNXh0TjNoaFFMQVUyNGtuMmE2amVBcnJaWjU3Z1V4b0ZzTTVNZ1JabndxYlZyUVVxclZiT2xWak1xbmVsaTZBa0RXUVJ6WXRVS0wtdFVzYzNqamN0ck5KSVNTc1BMZ2NFeHl4REc2eG93?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T16:48:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjBTbEVuVGNMdWVwWlZidDFuRzJHLTIzOWVacjJqQjlacElvZnRsZGZfQlhIMnV1dHRiZ3hDc1VhR2pYSjRYZjZKNXh0TjNoaFFMQVUyNGtuMmE2amVBcnJaWjU3Z1V4b0ZzTTVNZ1JabndxYlZyUVVxclZiT2xWak1xbmVsaTZBa0RXUVJ6WXRVS0wtdFVzYzNqamN0ck5KSVNTc1BMZ2NFeHl4REc2eG93?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "d9f7c42e6d4f",
+   "title": "Warhammer Survivors launches on PC, consoles and mobile with 40+ characters",
+   "summary": "Warhammer Survivors launches on PC, consoles and mobile with 40+ characters Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzVLNktfVEF3Q3VlbGUzWi1KSW9CYnRLNUdiRUVmd2NJLUR6OTEzV1djTzJ3WkZMSV9jV3g0NllxNl9uSE5jT05yRDdQSW9ObUpjMkZndkl3aDVPek1YaGE1MXItNURhRzNPaEI0Rm9JaVJQWHhEdGRvbE5jSUw3eldnQ05YcmpCMHhyeUdOdjFYb1BzSEJmQUNJbS0tOEdxVE9tTUJEN1lndVd4ZURPYkgwTDd4bDhkOXc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T16:29:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzVLNktfVEF3Q3VlbGUzWi1KSW9CYnRLNUdiRUVmd2NJLUR6OTEzV1djTzJ3WkZMSV9jV3g0NllxNl9uSE5jT05yRDdQSW9ObUpjMkZndkl3aDVPek1YaGE1MXItNURhRzNPaEI0Rm9JaVJQWHhEdGRvbE5jSUw3eldnQ05YcmpCMHhyeUdOdjFYb1BzSEJmQUNJbS0tOEdxVE9tTUJEN1lndVd4ZURPYkgwTDd4bDhkOXc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "03659fb5cdb2",
+   "title": "Amazon unveils Ring drone that patrols rooms, hunts down intruders and records suspicious activity day or night",
+   "summary": "Amazon unveils Ring drone that patrols rooms, hunts down intruders and records suspicious activity day or night Daily Mail",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdDRXVmpUMVRPWGItekg4bmpHdEpacmNCVElMS19uVGkyYktGSXVUbkE1Yk1yZko2cHJWc3Y5eUZLTlJ1TXZjMWF4RUdqQ2duckhab0JYQ3ZtUlliaFhKTFJyUFYxSTlKLVFxMTRnWDV0ZjdDNXlFaVdmZ0hxSkVhX2E4ZmttVWQ1NVR6VmNpUjk3a1E3WVBIU01fdXpWRVB3MzF3?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T16:13:32.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Daily Mail",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdDRXVmpUMVRPWGItekg4bmpHdEpacmNCVElMS19uVGkyYktGSXVUbkE1Yk1yZko2cHJWc3Y5eUZLTlJ1TXZjMWF4RUdqQ2duckhab0JYQ3ZtUlliaFhKTFJyUFYxSTlKLVFxMTRnWDV0ZjdDNXlFaVdmZ0hxSkVhX2E4ZmttVWQ1NVR6VmNpUjk3a1E3WVBIU01fdXpWRVB3MzF3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "b315cfa2a736",
+   "title": "Apple TV launches new sign language accessibility feature",
+   "summary": "Apple today launched a neat new accessibility feature for the Apple TV streaming service. Users will now have the option to watch with a sign language interpretation for some of Apple’s original movies. The feature is launching this Friday with the debut of the new film Being Heu",
+   "link": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-sign-language.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-10T16:06:43.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility/"
+    },
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/11/10/apple-tv-sign-language-interpretation/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "fc14b67ea29e",
+   "title": "Secretlab launches ErgoArch Monitor Light Bar with three-point adjustment arm",
+   "summary": "Secretlab launches ErgoArch Monitor Light Bar with three-point adjustment arm Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbllaT213eDA1WG9XZlhwWEMtVjlaY2dVODBtaF9oVWZSSWI2TjUxbXJOYl95X1l1alRjM0tlN01xUTlfZThiU0llMjdXOXpFRExITUo1RmJIREplSDZGV3VxUzVFcHQ4dEZQZVN2QWtFN1I2WGFXbGh0cU5xZER5ai1XQ0kxX2lWQmJQd0ItYw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T15:10:46.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbllaT213eDA1WG9XZlhwWEMtVjlaY2dVODBtaF9oVWZSSWI2TjUxbXJOYl95X1l1alRjM0tlN01xUTlfZThiU0llMjdXOXpFRExITUo1RmJIREplSDZGV3VxUzVFcHQ4dEZQZVN2QWtFN1I2WGFXbGh0cU5xZER5ai1XQ0kxX2lWQmJQd0ItYw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "951ed217f385",
+   "title": "Switch 2’s Zelda remake runs on Android days after launch, but you’ll need a lot of RAM",
+   "summary": "Early tests show the game reaching 30fps on flagship phones, but keep your expectations grounded.",
+   "link": "https://www.androidauthority.com/the-legend-of-zelda-ocarina-of-time-remake-android-banananative-3733371/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/Nintendo-Switch-2-left-joy-con-scaled.jpeg",
+   "publishedAt": "2026-11-10T14:37:25.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Nintendo",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/the-legend-of-zelda-ocarina-of-time-remake-android-banananative-3733371/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "2e89fc0951de",
+   "title": "GTA VI pre-loading now available on PS5, Xbox",
+   "summary": "Get ready for Leonida The post GTA VI pre-loading now available on PS5, Xbox appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/gta-vi-pre-loading-now-available-on-ps5-xbox/",
+   "image": "",
+   "publishedAt": "2026-11-10T14:18:47.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Xbox",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/gta-vi-pre-loading-now-available-on-ps5-xbox/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "87ce29b7262c",
+   "title": "Meta Muse AI Assistant Arrives on Apple Watch With Watch Face Shortcut",
+   "summary": "Meta has added smartwatch support to its Muse AI assistant, with the Apple Watch app arriving through version 15.0 of its iPhone app. The update brings the assistant's animated character to the wearable and lets users add a shortcut to their watch face. Meta has also mentioned co",
+   "link": "https://www.gadgets360.com/ai/news/meta-muse-ai-assistant-arrives-on-apple-watch-with-watch-face-shortcut-12308418",
+   "image": "https://i.gadgets360cdn.com/large/apple_watch_muse_Ai_muse_1794315439163.jpg",
+   "publishedAt": "2026-11-10T14:15:56.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Meta",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/ai/news/meta-muse-ai-assistant-arrives-on-apple-watch-with-watch-face-shortcut-12308418"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "225d8f82ef45",
+   "title": "AI or SI? 'I mean, there’s different names for it,' says Ring's Jamie Siminoff, as the company launches an 'AI Pilot' for its home-surveillance drone",
+   "summary": "Ring launched its new Ring Drone Cam with its cloud-based AI Pilot, so we had questions for the CEO about which term Ring would be using going forward: 'AI' or 'SI'?",
+   "link": "https://www.techradar.com/ai-platforms-assistants/ai-or-si-rings-jamie-siminoff-says-i-mean-theres-different-names-for-it-as-his-company-launches-an-ai-pilot-for-its-home-surveillance-drone",
+   "image": "https://cdn.mos.cms.futurecdn.net/MNhzkeos6YsFV3RX4LUy9n-1920-80.jpg",
+   "publishedAt": "2026-11-10T14:00:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Ring",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/ai-platforms-assistants/ai-or-si-rings-jamie-siminoff-says-i-mean-theres-different-names-for-it-as-his-company-launches-an-ai-pilot-for-its-home-surveillance-drone"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "6f97682ec413",
+   "title": "Amazon unveils Ring Rover Cam for business patrols — The Verge",
+   "summary": "Amazon unveils Ring Rover Cam for business patrols — The Verge UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUi14RktmdFBkc2lyN2k4dGd6NjctZE1MMV9kWUJFX3BRVEI2NXRSWTVNMUlpaEZ4RmxwS3Qyc0xucGZEdUFwU3ZjYlE4dlVwXzlHSHdrYkI2Z19RMl9WYzlnVEx4SEppN1ZKRFRFZDVoWXRkYXhydTJzakJvNE1jZkJNZGZpamtMN2YzM2hBdU5CYUt0SF9pYUdsTGdVY0htSEEtYUJMRQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T13:37:47.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "UA.NEWS",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUi14RktmdFBkc2lyN2k4dGd6NjctZE1MMV9kWUJFX3BRVEI2NXRSWTVNMUlpaEZ4RmxwS3Qyc0xucGZEdUFwU3ZjYlE4dlVwXzlHSHdrYkI2Z19RMl9WYzlnVEx4SEppN1ZKRFRFZDVoWXRkYXhydTJzakJvNE1jZkJNZGZpamtMN2YzM2hBdU5CYUt0SF9pYUdsTGdVY0htSEEtYUJMRQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "e8acf56bb057",
+   "title": "Amazon’s Ring Unveils $250 Flying Security Camera After Delays",
+   "summary": "Amazon’s Ring Unveils $250 Flying Security Camera After Delays Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXRBdlZ1WTVUbVRnZ0R1c2dYaWJkRDY4MGFQWnI3T2ZpN3BjSUZ3MGpuWUpVeUV1WEJ0cHZfUDZOUUhFRlk4OGFmR25NNEdrcDhiTnU3XzVGc0h5NWVDT25zT0dETk5kLXk4d3hkZW9VbTRYX1NpTTh5SGttZExKQ2E2eENWYktzbjdxZmY1TDJndl80Nmo2R3cxSmdHeU9ucFlOMWZMQkl4YUNhcHoydm13?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T13:30:05.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXRBdlZ1WTVUbVRnZ0R1c2dYaWJkRDY4MGFQWnI3T2ZpN3BjSUZ3MGpuWUpVeUV1WEJ0cHZfUDZOUUhFRlk4OGFmR25NNEdrcDhiTnU3XzVGc0h5NWVDT25zT0dETk5kLXk4d3hkZW9VbTRYX1NpTTh5SGttZExKQ2E2eENWYktzbjdxZmY1TDJndl80Nmo2R3cxSmdHeU9ucFlOMWZMQkl4YUNhcHoydm13?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "3efc9680d29f",
+   "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+   "summary": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T13:30:01.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "CNBC",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0FNMW1oYXZhOVNlV2t2YWdWN3psSEk2SGw5dzg5dU0xa2JBRHNVVHN1dEhjeV9ubG8wQ3U3VFJTMUpCZ1lvNngyZktvMG9WaDRJMkx2ZnJ6eGJiZ0Q3R2NNeGJ2Zm1ZTXBzaHFqejVJek1QN1VjRkp0UmtIbi1td2U0WVVjb09PdzZaUGdIem8zcmNYNmNZYnJrbEVOd1NhaFdBeVpB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "06b81e4399e0",
+   "title": "Ring announces Ring Robotics, ushering in a new era of security",
+   "summary": "Ring announces Ring Robotics, ushering in a new era of security About Amazon",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T13:26:02.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Ring",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "About Amazon",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "0af80874dd36",
+   "title": "Compact Huawei MateBook Fold S launches soon with big secondary display",
+   "summary": "Compact Huawei MateBook Fold S launches soon with big secondary display Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjVhUUlrajYxUG9Sb0gtdlN1eXBRRVR1akJDaVZaNEJHRVY5VzltZ0w0NnVZVWhWd2pTbkc1dWFRYWp5NjY0V2g4NGxOUFVTU2REcTJ0SXVnYUFvSXozMjhrYW1KYldwMk1WdGJTUndlc2owQ1dXYTQ5ZVE0eUx2UTdxU0dCTmZCRldWZTE4WFBkUFBLQzhld0Nud3hmekd3YWtTa1FYb2ZKQzIwRXBOb2xfZ2llc2M?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T13:21:00.000Z",
+   "date": "2026-11-10",
+   "status": "Upcoming",
+   "category": "Laptop",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjVhUUlrajYxUG9Sb0gtdlN1eXBRRVR1akJDaVZaNEJHRVY5VzltZ0w0NnVZVWhWd2pTbkc1dWFRYWp5NjY0V2g4NGxOUFVTU2REcTJ0SXVnYUFvSXozMjhrYW1KYldwMk1WdGJTUndlc2owQ1dXYTQ5ZVE0eUx2UTdxU0dCTmZCRldWZTE4WFBkUFBLQzhld0Nud3hmekd3YWtTa1FYb2ZKQzIwRXBOb2xfZ2llc2M?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "b5f20042ad1b",
+   "title": "Anker MagStand Charging Station Is Now Available for $115.99",
+   "summary": "The post Anker MagStand Charging Station Is Now Available for $115.99 appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/anker-magstand-charging-station-launch.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/11/1504_lifestyle_3.jpg",
+   "publishedAt": "2026-11-10T12:49:23.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Anker",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/anker-magstand-charging-station-launch.html"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
    "id": "892178d69927",
    "title": "URBAN Expands Smart Wearables Portfolio with Two New Launches",
    "summary": "URBAN Expands Smart Wearables Portfolio with Two New Launches SMEStreet",
@@ -137,6 +735,14 @@
     {
      "name": "FoneArena.com",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPczgzX3A4ckZxZU1yTzR3V1JQUUZvY2ExeEJ3YkpZWjVHOHF3OWZlQm1va2VUbVVKa3VXMHlSZ3lCQ3ZHZXJtbzA4bE8tODBpTEs0VjhZakVxc2hyeTkxZENqQU1wUjJVTjlqa1FmdDVrN2NqSDNxamdIZWJ0eU52UnNB0gGHAUFVX3lxTE5DME85UVppNTZ0Nk1CY2xPSmRWbGJyMDU0ckFtaHZONjNCOC1iMFZTNzVUa1N3OHNVcElGajVULTBkLTFjZ0FZUmdwdjlSbWo3TEdUUFpDUGV3R3UwTTRtMFI4V2tzeFpIMlY3ajlvd2hMdllWOFNaRl9iWWxWQVZCa1RlZ0Y1OA?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/urban-arc-go-2-fitness-band-q9i-ai-anc-tws-earbuds-price-in-india-launch-sale-features-specifications-12308058"
+    },
+    {
+     "name": "Technuter",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaEt2aEZLdHBUVjlTeHEyWUxZVVAweDZLYXZUaGRQbkFTbmhGN3Q0OG9Bd2hDdlNLbXFQcXVCYnRuclJwUUtFSUVZZDZRaXRGVE5sSzhReDdKQ0JMN3ZvT1Z5OVpPSmRhWjZEeWt2YkV3TFZ0ZnMwUS1EalJGblR4RllXdGhFT2lkOGZEcVhnZ1hUTElteUNzenFGWkdoM1JnaGh3TV9GZG50S0JFTmFsUzJIVQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-10T10:59:12.646Z"
@@ -497,7 +1103,7 @@
    "summary": "Anker today launched the Eufy TrackLight Cam S1 , which it says is the world's first outdoor security camera with an auto-tracking light for actively deterring intruders. The TrackLight Cam S1 is compatible with Apple Home when using the Anker HomeBase, so it can be used alongsid",
    "link": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera/",
    "image": "https://images.macrumors.com/article-new/2025/09/eufycam.jpg",
-   "publishedAt": "2026-11-09T21:47:39.000Z",
+   "publishedAt": "2026-11-09T21:47:29.000Z",
    "date": "2026-11-10",
    "status": "Launched",
    "category": "Other gadget",

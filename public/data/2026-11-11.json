@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-11",
+ "items": [
+  {
+   "id": "833a6d58612b",
+   "title": "Pixel 11’s better Pixel Search is expanding to every Pixel launched since 2021",
+   "summary": "That includes phones as old as the Pixel 6, including even the A-series ones.",
+   "link": "https://www.androidauthority.com/pixel-11-search-natural-language-pixel-6-3733219/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/IMG_20250916_200047-scaled.jpg",
+   "publishedAt": "2026-11-10T19:00:48.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/pixel-11-search-natural-language-pixel-6-3733219/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "f6238ca3a19f",
+   "title": "Google rolls out Create My Widget to Pixel 10 and 11 series, but the Pixel 10a misses out",
+   "summary": "You can now use natural language commands to generate widgets, but not on the budget Pixel.",
+   "link": "https://www.androidauthority.com/google-create-my-widget-pixel-feature-drop-3733311/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg",
+   "publishedAt": "2026-11-10T19:00:41.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/google-create-my-widget-pixel-feature-drop-3733311/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "5048ca5c3a1b",
+   "title": "Amazon unveils Ring Drone Cam and Rover Cam security lineup",
+   "summary": "Amazon unveils Ring Drone Cam and Rover Cam security lineup NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE1WSTZFdjdDUTdzRkpPZFBXdjVCMmhQT3h0T0dBZDZTMXlzcUhXWEp4LUsyaTVTQjJfVTladnVnd1dDMzdjQ2xEcGVHa3FuaHNpMTRGalNrRmVwRG5ScHVCX2FOX21rdkZMLVdXcDc3c2RnTkhBclhSRkpGa2VJd2VHUjN5V1V6a3JBcDdjTTluTFlzN1pIUkwzZUlMVEpEVXJ2U0k1eFlHQQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T19:00:27.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Amazon",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "NewsBytes",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE1WSTZFdjdDUTdzRkpPZFBXdjVCMmhQT3h0T0dBZDZTMXlzcUhXWEp4LUsyaTVTQjJfVTladnVnd1dDMzdjQ2xEcGVHa3FuaHNpMTRGalNrRmVwRG5ScHVCX2FOX21rdkZMLVdXcDc3c2RnTkhBclhSRkpGa2VJd2VHUjN5V1V6a3JBcDdjTTluTFlzN1pIUkwzZUlMVEpEVXJ2U0k1eFlHQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "07ca41f87ca2",
+   "title": "Google’s Pixel Tag tracker is now available",
+   "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub la",
+   "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "publishedAt": "2026-11-10T19:00:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "The Verge",
+     "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "eb9018a1bb1f",
+   "title": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too",
+   "summary": "November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.",
+   "link": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
+   "image": "https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg",
+   "publishedAt": "2026-11-10T19:00:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Engadget",
+     "link": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/"
+    }
+   ],
+   "firstSeen": "2026-11-10T19:37:32.867Z"
+  }
+ ]
+}
