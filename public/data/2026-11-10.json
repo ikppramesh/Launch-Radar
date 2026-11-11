@@ -2,6 +2,28 @@
  "date": "2026-11-10",
  "items": [
   {
+   "id": "98aedd1f0790",
+   "title": "Ring Introduces Indoor Security Drone For Homes",
+   "summary": "Ring Introduces Indoor Security Drone For Homes 1290 WJNO",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDZWUGZFU2Ewd0Jha29sbnlDN25weElOazRjQ2Iyc0htN3QwdHJfcl9GdmFBU1pkOGNFaW9DamcyVDV3ekpfMGJ2VjljRDk3dW90Ym90VnA5YmV2OTFLLUFiRkJhZVU2U1ZWU1c1SjhCR2ctNzI5ZFFjVmx5dGc4UXlNN2ZUYThTVVNNRFAxRldxMjNWMWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T18:22:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Ring",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "1290 WJNO",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDZWUGZFU2Ewd0Jha29sbnlDN25weElOazRjQ2Iyc0htN3QwdHJfcl9GdmFBU1pkOGNFaW9DamcyVDV3ekpfMGJ2VjljRDk3dW90Ym90VnA5YmV2OTFLLUFiRkJhZVU2U1ZWU1c1SjhCR2ctNzI5ZFFjVmx5dGc4UXlNN2ZUYThTVVNNRFAxRldxMjNWMWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T01:11:24.180Z"
+  },
+  {
    "id": "e3ee651338f3",
    "title": "Lenovo launches new 16-inch laptop globally with 120 Hz display and over 30 hours battery life",
    "summary": "Lenovo launches new 16-inch laptop globally with 120 Hz display and over 30 hours battery life Notebookcheck",
@@ -576,6 +598,50 @@
     }
    ],
    "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "425a8c954011",
+   "title": "Opus IVS, asTech Launch ADAS MAP – Mobile IQ",
+   "summary": "Opus IVS, asTech Launch ADAS MAP – Mobile IQ Body Shop Business",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmVfNlJrMGZXS3RQaGRtTjVEN0RfOGNjOHRoRnFZVDBMdUNMT0JqQVlMZ0xTWnVfSHI4cHNTb3BUVkVLQVBLUlZYdEsxeG9fWGp6U0J4cWNiYWx1cVlZOHdSbjhueEdmNUtQZGM3b0Joa2hNaXZXX0pJN21RUF83VQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T13:00:00.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Body Shop Business",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmVfNlJrMGZXS3RQaGRtTjVEN0RfOGNjOHRoRnFZVDBMdUNMT0JqQVlMZ0xTWnVfSHI4cHNTb3BUVkVLQVBLUlZYdEsxeG9fWGp6U0J4cWNiYWx1cVlZOHdSbjhueEdmNUtQZGM3b0Joa2hNaXZXX0pJN21RUF83VQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T01:11:24.180Z"
+  },
+  {
+   "id": "18dad310d3e8",
+   "title": "Trescal launches mobile liquid flow calibration lab across ten countries",
+   "summary": "Trescal launches mobile liquid flow calibration lab across ten countries Aerospace Manufacturing magazine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0ZodXJRZVVLYmdnb0FTSFN0alVCRDNLU1hTMnhaYzN4VkpBQmNPZE1Yd0dpS1R5OVJPS3BCUWFQRmhnaUtjcWc0MlNqQm8tdmk2Y2tOaUgtMzZHbTZjemF0Yk40UU8yUWVSTkZrWlVHeHNkd2xMZ01rWW8yUVNyRjcxRDhMNEVIMGZJalltS19tdlI1YW1Xal9xcWg1QQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T12:53:17.000Z",
+   "date": "2026-11-10",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Aerospace Manufacturing magazine",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0ZodXJRZVVLYmdnb0FTSFN0alVCRDNLU1hTMnhaYzN4VkpBQmNPZE1Yd0dpS1R5OVJPS3BCUWFQRmhnaUtjcWc0MlNqQm8tdmk2Y2tOaUgtMzZHbTZjemF0Yk40UU8yUWVSTkZrWlVHeHNkd2xMZ01rWW8yUVNyRjcxRDhMNEVIMGZJalltS19tdlI1YW1Xal9xcWg1QQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T01:11:24.180Z"
   },
   {
    "id": "b5f20042ad1b",

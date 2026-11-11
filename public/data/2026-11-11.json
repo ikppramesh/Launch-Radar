@@ -2,6 +2,116 @@
  "date": "2026-11-11",
  "items": [
   {
+   "id": "87adac26dc7e",
+   "title": "Poco X8s is now available in Europe, here's how much it costs",
+   "summary": "Poco launched the Poco X8s back in late October, and today the compact handset is making its way to Europe, starting with Germany. It's also the first phone in the X series to have a telephoto camera - not even the X8 Pro and X8 Pro Max can boast that. [#InlinePriceWidget,15038,1",
+   "link": "https://www.gsmarena.com/poco_x8s_is_now_available_in_europe_heres_how_much_it_costs-news-75427.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/poco-x8s-available-in-europe/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-11-11T01:01:02.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Poco",
+   "region": "Europe",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/poco_x8s_is_now_available_in_europe_heres_how_much_it_costs-news-75427.php"
+    }
+   ],
+   "firstSeen": "2026-11-11T01:11:24.180Z"
+  },
+  {
+   "id": "3c59ca1e594c",
+   "title": "AOC launches new 27-inch gaming monitor with 4K 200Hz and 1080p 400Hz dual modes",
+   "summary": "AOC has released the Agon AG277UXA, a new 27-inch monitor in China that features a dual-mode display. The monitor is designed to run at either a 4K (3840 x 2160) resolution with a 200Hz refresh rate or a 1080p (1920 x 1080) resolution at 400Hz. AOC Agon AG277UXA Monitor Specifica",
+   "link": "https://www.gizmochina.com/2026/11/10/aoc-ag277uxa-gaming-monitor-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/aoc-launches-new-27-inch-gaming-monitor-with-4k-200hz-and-1080p-400hz-dual-2-300x246.png?x96268",
+   "publishedAt": "2026-11-10T23:07:16.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/10/aoc-ag277uxa-gaming-monitor-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-11T01:11:24.180Z"
+  },
+  {
+   "id": "38a92a74f2f8",
+   "title": "Affordable 14-inch laptop launches with Intel processors, a 180-degree hinge and 13-hour battery",
+   "summary": "Affordable 14-inch laptop launches with Intel processors, a 180-degree hinge and 13-hour battery Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZFlVbGVYZjVRRFlCUzVCazhEdWdPRlZsVl9MVFpadzdRLTQ1M3ZPVDlibGhFLWJFOFNDSTlxRW1ZeGVOYnlOXzFQdWdZU2JrQkkxbFBOSm8xZ19NeFVsaWNpUDZrS3NycEw1MzFRLWw0NUxNZjBHWTlKcEpCbUdLMXlYaUlRVFY4aDZPNThNY0tKOW5IQ3MwelZuZDhmNWdNMVBmdnlvUmdnX2VFQ3NBNEUxMTFiRnJFTm5oaXA2UlExc1U2Z3FTek5zYnltNnJYLUpHdTJMQQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T23:04:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Intel",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZFlVbGVYZjVRRFlCUzVCazhEdWdPRlZsVl9MVFpadzdRLTQ1M3ZPVDlibGhFLWJFOFNDSTlxRW1ZeGVOYnlOXzFQdWdZU2JrQkkxbFBOSm8xZ19NeFVsaWNpUDZrS3NycEw1MzFRLWw0NUxNZjBHWTlKcEpCbUdLMXlYaUlRVFY4aDZPNThNY0tKOW5IQ3MwelZuZDhmNWdNMVBmdnlvUmdnX2VFQ3NBNEUxMTFiRnJFTm5oaXA2UlExc1U2Z3FTek5zYnltNnJYLUpHdTJMQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T01:11:24.180Z"
+  },
+  {
+   "id": "7bd12dd5d8e5",
+   "title": "November Pixel Drop arrives with major changes",
+   "summary": "You can now download the November Pixel Drop for compatible Pixel phones",
+   "link": "https://www.androidpolice.com/november-pixel-drop-2026-brings-big-changes/",
+   "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/google-pixel-11-pro-in-hand.JPG",
+   "publishedAt": "2026-11-10T21:13:51.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Police",
+     "link": "https://www.androidpolice.com/november-pixel-drop-2026-brings-big-changes/"
+    }
+   ],
+   "firstSeen": "2026-11-11T01:11:24.180Z"
+  },
+  {
+   "id": "524f3f8d657d",
+   "title": "KORA Unveils Linux Desktop With On-Device AI for Snapdragon PCs",
+   "summary": "KORA Unveils Linux Desktop With On-Device AI for Snapdragon PCs Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjN1ZzdyODUyWWd3b1oxSGRpczhneS1RT2lYWmNSTUFqWlliN2RGaEtWZXRaNlVEMHZRa0VNZHB6MUV0UzJaN3ZLdFFDYnB6d0w4YV9wSHZDU2ZrV0xiQlY1S1NvZnJXQ29qaXlKdENpYWFVaUVRYnAwVVdMTlI4RnhmZUtQUHZLVWlCR1NB?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T21:03:03.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Unite.AI",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjN1ZzdyODUyWWd3b1oxSGRpczhneS1RT2lYWmNSTUFqWlliN2RGaEtWZXRaNlVEMHZRa0VNZHB6MUV0UzJaN3ZLdFFDYnB6d0w4YV9wSHZDU2ZrV0xiQlY1S1NvZnJXQ29qaXlKdENpYWFVaUVRYnAwVVdMTlI4RnhmZUtQUHZLVWlCR1NB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T01:11:24.180Z"
+  },
+  {
    "id": "833a6d58612b",
    "title": "Pixel 11’s better Pixel Search is expanding to every Pixel launched since 2021",
    "summary": "That includes phones as old as the Pixel 6, including even the A-series ones.",
