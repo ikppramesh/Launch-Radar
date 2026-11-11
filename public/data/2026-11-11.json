@@ -2,6 +2,340 @@
  "date": "2026-11-11",
  "items": [
   {
+   "id": "3545652ec515",
+   "title": "vivo introduces new headphones, clip-on earbuds in PHL",
+   "summary": "vivo introduces new headphones, clip-on earbuds in PHL BusinessMirror",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUY4bE1UVnhTdzBoQ0E4QlhwbTRlUmRTWHgyb0F3OHVaRmZMbWJta1M0dndnWEd2V0NkQ1lkTlBEMzdnM2ZUVVNXWnAzN2tqN0Z2OWxVWUpOdkZHUXZVeHFUTXFPaFB5NFdhUXRQYS1maTVRNU94dkNUcjlpNHZtODFwa0RvODV4LUNqcFM5SFVsQV9oMGc0RE96QQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T17:31:30.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Vivo",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "BusinessMirror",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUY4bE1UVnhTdzBoQ0E4QlhwbTRlUmRTWHgyb0F3OHVaRmZMbWJta1M0dndnWEd2V0NkQ1lkTlBEMzdnM2ZUVVNXWnAzN2tqN0Z2OWxVWUpOdkZHUXZVeHFUTXFPaFB5NFdhUXRQYS1maTVRNU94dkNUcjlpNHZtODFwa0RvODV4LUNqcFM5SFVsQV9oMGc0RE96QQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "ec94d1b7d390",
+   "title": "Garmin launches 5 US Armed Forces watch faces for veterans and military families",
+   "summary": "New designs honor five US military branches.",
+   "link": "https://www.androidauthority.com/garmin-us-armed-forces-watch-faces-3733988/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/Garmin-Fenix-8-AMOLED-voice-controls.jpg",
+   "publishedAt": "2026-11-11T17:02:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Garmin",
+   "region": "USA",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/garmin-us-armed-forces-watch-faces-3733988/"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "ab217b0fd736",
+   "title": "Edifier launches Hecate Sona Clip open-ear earbuds with Dolby Audio, LDAC & 44h battery",
+   "summary": "Edifier’s audio sub-brand Hecate has introduced the Sona Clip, a new pair of open-ear wireless earbuds set to go on sale in China on November 20. It is priced at 468 yuan ($70) and features a clip-on design that attaches to the outer ear, with a focus on high-resolution audio pla",
+   "link": "https://www.gizmochina.com/2026/11/11/edifier-hecate-sona-clip-earbuds-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/edifier-launches-hecate-sona-clip-open-ear-earbuds-with-dolby-audio-ldac-44h-2-300x232.png?x96268",
+   "publishedAt": "2026-11-11T16:20:23.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Edifier",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/11/edifier-hecate-sona-clip-earbuds-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "08e75d337b22",
+   "title": "Motorola MA2 Arrives to Solve Android Auto’s Biggest Bluetooth Frustration",
+   "summary": "The post Motorola MA2 Arrives to Solve Android Auto’s Biggest Bluetooth Frustration appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/motorola-ma2-wireless-android-auto-adapter-launch.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/11/Motorola-MA2-wireless-Android-Auto-adapter.jpg",
+   "publishedAt": "2026-11-11T15:50:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/motorola-ma2-wireless-android-auto-adapter-launch.html"
+    },
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "7c84f28286a5",
+   "title": "Google Launches ‘Pixel Tag’: AirTag Rival Hits Store Shelves with UWB, Find Hub Network, and Reverse Phone Finder",
+   "summary": "Google Launches ‘Pixel Tag’: AirTag Rival Hits Store Shelves with UWB, Find Hub Network, and Reverse Phone Finder Gadget Bridge",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMnc0QnhHOWpObURTQ2RfNVVJUjZ4dWczMUpKYnpYSloyUnlSb2JwR2Yxci1faGFfa1U1VTlRVkFzUW1nVnhvRmdoamNjN0RjaTBOVnFjaGRVV1dIWEtEVjE1ZlRqYUZmdkpyNlo2ZlpnTEV2NG9ZQ2RQemZDeDFGSTNpSG5qUTRxZnBmTjB4bmFCNmlBTGQ5SFdXTjE1VzR3UTFMaVJfaWpFbGl2UjlGS0JaOWtKY3BlVmJzbGFtcnRRNUVVV3Z3bnJkRXhIbGtjaEVSY9IB2gFBVV95cUxPek81MHFaVGk2cWdfdWh6Zk9EYTNfOElSb214VDVfcGxzR0tCUE5sVFFkbEhrQTlGUl9qM251QmNyUGtMZVhtS1h3ZVNVTzYxMTBZbmR5M3hJSTZPazNBdTVoVFdoWG54akJlTHl5YmtPS0tKb25yNGNOa0lUcHRGUGQ5OERZQkFpM1BEZkN1RVRwNlMtd2R4MFNaV2t3TWFLTUdXZ00weTZkV3RucG9GVEQyaXNaQ2lpYUs2ODhTbHBINmxoekhzLWYwamlCVGVubGZheTluOUpmdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T14:59:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gadget Bridge",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMnc0QnhHOWpObURTQ2RfNVVJUjZ4dWczMUpKYnpYSloyUnlSb2JwR2Yxci1faGFfa1U1VTlRVkFzUW1nVnhvRmdoamNjN0RjaTBOVnFjaGRVV1dIWEtEVjE1ZlRqYUZmdkpyNlo2ZlpnTEV2NG9ZQ2RQemZDeDFGSTNpSG5qUTRxZnBmTjB4bmFCNmlBTGQ5SFdXTjE1VzR3UTFMaVJfaWpFbGl2UjlGS0JaOWtKY3BlVmJzbGFtcnRRNUVVV3Z3bnJkRXhIbGtjaEVSY9IB2gFBVV95cUxPek81MHFaVGk2cWdfdWh6Zk9EYTNfOElSb214VDVfcGxzR0tCUE5sVFFkbEhrQTlGUl9qM251QmNyUGtMZVhtS1h3ZVNVTzYxMTBZbmR5M3hJSTZPazNBdTVoVFdoWG54akJlTHl5YmtPS0tKb25yNGNOa0lUcHRGUGQ5OERZQkFpM1BEZkN1RVRwNlMtd2R4MFNaV2t3TWFLTUdXZ00weTZkV3RucG9GVEQyaXNaQ2lpYUs2ODhTbHBINmxoekhzLWYwamlCVGVubGZheTluOUpmdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "ec374ef2f3d1",
+   "title": "Google Launches Mobile Network That Automatically Finds a Better Connection",
+   "summary": "Google Launches Mobile Network That Automatically Finds a Better Connection ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVm84SDRDTk1iRURqbF90LTMydXlxODhQNGI1a3BKckZBS0dPWTRqY0hPaTBaY3NHV2E4UVgwZENhSjcwVEM2dkNmdHhBMkFoV0hzS3hCZVZfd2QyX2NnajBQaFEwREVyS2l1Q3lNX1FjTGJLWHNMbWQ2QkFLR25KV0dRdTVXM3FubmpoUGFUVzRiMjNPNjVMWVdheHNsZ0YxRk9KU3NtMUNhaGcwNGhXS9IBtgFBVV95cUxNcV91dGNkZFl5aTdsNTB6T3FOWFpudWcyUDRCSU1KdzV1SG1lRnlueHQ5S0UtWlVWaFZGNVdtYWoyVVpJMU9wY3cwT2tLaVAxa3FlMWRaVXBFeUdaZXc3ejF5SXYtMGo0UjdiOEhIQ2ZQb0F3Wk51cVJRMWYxd3pDYnN5ZzIwM2FhX1RSQno3SUdBRnJlMTZLMC1OeEZsYkVHQkpCZkh3YXdKVzlYbzlpbHlRVDVyZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T14:03:30.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ProPakistani",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVm84SDRDTk1iRURqbF90LTMydXlxODhQNGI1a3BKckZBS0dPWTRqY0hPaTBaY3NHV2E4UVgwZENhSjcwVEM2dkNmdHhBMkFoV0hzS3hCZVZfd2QyX2NnajBQaFEwREVyS2l1Q3lNX1FjTGJLWHNMbWQ2QkFLR25KV0dRdTVXM3FubmpoUGFUVzRiMjNPNjVMWVdheHNsZ0YxRk9KU3NtMUNhaGcwNGhXS9IBtgFBVV95cUxNcV91dGNkZFl5aTdsNTB6T3FOWFpudWcyUDRCSU1KdzV1SG1lRnlueHQ5S0UtWlVWaFZGNVdtYWoyVVpJMU9wY3cwT2tLaVAxa3FlMWRaVXBFeUdaZXc3ejF5SXYtMGo0UjdiOEhIQ2ZQb0F3Wk51cVJRMWYxd3pDYnN5ZzIwM2FhX1RSQno3SUdBRnJlMTZLMC1OeEZsYkVHQkpCZkh3YXdKVzlYbzlpbHlRVDVyZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "a44e6a2ccd68",
+   "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
+   "summary": "Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born. more…",
+   "link": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Dbrand-Pulse-Fitbit-Air-band-1.jpg?quality=82&strip=all&w=1400",
+   "publishedAt": "2026-11-11T14:00:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Fitbit",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "41340a243784",
+   "title": "CenTrak Launches Mobile Capability to Extend Staff Safety Beyond Hospital Walls",
+   "summary": "CenTrak Launches Mobile Capability to Extend Staff Safety Beyond Hospital Walls The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV1c2b05kWEpDR3JsVFhhak43WDZhb1Q2ZlBQbURndXVuaUpaeC1pV29MMkd6dHRobG5mYTlyMlQ1aUtvdm1WZjdyZVBKb0p2VllEYS12Qjkza1ZhQXM4blRYck5panRtSEd4UUlUR3NkenV3UXJFbG5SWmZ3OUZqT0s3b1VxVDN5S2xCR0ttSEE1MFJDM0FqZHJDakdiNkx0RTZYTDBHcF9xMWdWUTlaX0lRdm9yLVBzLWpnYTQ2cHNCY2pTRnFhMTEwWWFXWDRNcTJPRFp2UkxMOV9UVDJxSG9EcWlSM05N0gHuAUFVX3lxTE5lTzNTTHhuQ1AwZS1sbXVnb2NkUkxSaGdQQmVxWXdEbW8xYV9oR05FNTAwLWNzSnFVZDFRd3RDSlFRWWdfcmttVWpJWTIybXJPSzBta3hJdFd6WDVHODY1QnhjQkJLbTQ0MWlidV9ReU1ZU1hmYmt0b2xrYTJJTE94dWNDUlJwVXVVU1dUTlNVLXp5TWFnYUJkUWhUUzZuSmpoTC04WjFpTm5zX1VfZGU0V1NPTUN4UkVhc3doZGJBZ00wSW82N3ZIc1k4U0FuaXJOSl9yYm4zdUdQazJNZmo2TlE5RmZPS0QwQ2xXUWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T13:45:53.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Manila Times",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV1c2b05kWEpDR3JsVFhhak43WDZhb1Q2ZlBQbURndXVuaUpaeC1pV29MMkd6dHRobG5mYTlyMlQ1aUtvdm1WZjdyZVBKb0p2VllEYS12Qjkza1ZhQXM4blRYck5panRtSEd4UUlUR3NkenV3UXJFbG5SWmZ3OUZqT0s3b1VxVDN5S2xCR0ttSEE1MFJDM0FqZHJDakdiNkx0RTZYTDBHcF9xMWdWUTlaX0lRdm9yLVBzLWpnYTQ2cHNCY2pTRnFhMTEwWWFXWDRNcTJPRFp2UkxMOV9UVDJxSG9EcWlSM05N0gHuAUFVX3lxTE5lTzNTTHhuQ1AwZS1sbXVnb2NkUkxSaGdQQmVxWXdEbW8xYV9oR05FNTAwLWNzSnFVZDFRd3RDSlFRWWdfcmttVWpJWTIybXJPSzBta3hJdFd6WDVHODY1QnhjQkJLbTQ0MWlidV9ReU1ZU1hmYmt0b2xrYTJJTE94dWNDUlJwVXVVU1dUTlNVLXp5TWFnYUJkUWhUUzZuSmpoTC04WjFpTm5zX1VfZGU0V1NPTUN4UkVhc3doZGJBZ00wSW82N3ZIc1k4U0FuaXJOSl9yYm4zdUdQazJNZmo2TlE5RmZPS0QwQ2xXUWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "3a6d525cd690",
+   "title": "BYD unveils futuristic EV charging station with robotic arms and solar",
+   "summary": "BYD takes its ultra-fast Flash Charging to the next level, with robotic charging cables, solar power and ultra-rapid battery top-ups",
+   "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-future-of-ev-charging-byd-reveals-worlds-first-station-that-combines-solar-robotic-charging-arms-and-5-minute-recharge-sessions",
+   "image": "https://cdn.mos.cms.futurecdn.net/8ZJvR8N2gPz5neTaJastWb-1920-80.jpg",
+   "publishedAt": "2026-11-11T12:45:30.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Mobility & EV",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-future-of-ev-charging-byd-reveals-worlds-first-station-that-combines-solar-robotic-charging-arms-and-5-minute-recharge-sessions"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "46500e67e641",
+   "title": "China’s Huawei to roll out new phone brand Osta, 6 years after giving up Honor",
+   "summary": "China’s Huawei to roll out new phone brand Osta, 6 years after giving up Honor South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOekJQSVVTSkp5ck1wNVJFRU15QXVLMHh3RUZnQ1hWUVlSc3AxajNiZDA5UGs3VHdORGxHd0thVHZWY21wajQ1QnNEdnZwcU5McHZZVVUzN2kzVU03NFVuWmhuR0tUX3pkVno3VENKbldEUm9GYUxtRGtRUjNSTl9HSk0zM2llb0dxTE1SanV5ZDJkM0k1YVk5ck5ZYUxtbU44T2x0LVB1bWhnRWpUMGlUZzZSQktZWkZDSW5pUDBmQVNHekYxTkxqMw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T12:30:13.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "South China Morning Post",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOekJQSVVTSkp5ck1wNVJFRU15QXVLMHh3RUZnQ1hWUVlSc3AxajNiZDA5UGs3VHdORGxHd0thVHZWY21wajQ1QnNEdnZwcU5McHZZVVUzN2kzVU03NFVuWmhuR0tUX3pkVno3VENKbldEUm9GYUxtRGtRUjNSTl9HSk0zM2llb0dxTE1SanV5ZDJkM0k1YVk5ck5ZYUxtbU44T2x0LVB1bWhnRWpUMGlUZzZSQktZWkZDSW5pUDBmQVNHekYxTkxqMw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "a16fe4ceb7f4",
+   "title": "Vivo Watch GT 2 Display, Battery Life and Colours Confirmed Ahead of India Launch",
+   "summary": "Vivo Watch GT 2 Display, Battery Life and Colours Confirmed Ahead of India Launch My Mobile India",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHQwQnR2LVJvN01EZXVEZzlJcVo2aDA2QzVHb1lvMTlxNmkxTk5CeVlKU3Z6ME1pT1hieXBYQ0V4S2Rka2xnNE9BTXA0WUZmTldqOFg5OGVqMXAxSEtvY29mWjFiVGVRaEJueUp6MnZNSjNuUXVZbDhiREZUSVp2VTZPZXl0Wlpla2tNanZfeVdoa0lQdkRTM1JudWkySm5kSjdKTkR6Y1FHSW56aXkwQg?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T12:28:53.000Z",
+   "date": "2026-11-11",
+   "status": "Upcoming",
+   "category": "Wearable",
+   "brand": "Vivo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHQwQnR2LVJvN01EZXVEZzlJcVo2aDA2QzVHb1lvMTlxNmkxTk5CeVlKU3Z6ME1pT1hieXBYQ0V4S2Rka2xnNE9BTXA0WUZmTldqOFg5OGVqMXAxSEtvY29mWjFiVGVRaEJueUp6MnZNSjNuUXVZbDhiREZUSVp2VTZPZXl0Wlpla2tNanZfeVdoa0lQdkRTM1JudWkySm5kSjdKTkR6Y1FHSW56aXkwQg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "80e7f7e9b890",
+   "title": "Dareu launches Ultra68 keyboard with a swappable LED matrix screen and 8K polling rate",
+   "summary": "If you’re into mechanical keyboards, you might want to check out the new Ultra68 from Dareu, which just launched in China. It’s built with a solid aluminum body, but the real standout is its modular design that lets you physically change the layout of the board. You can actually ",
+   "link": "https://www.gizmochina.com/2026/11/11/dareu-ultra68-modular-keyboard-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/dareu-ultra68-keyboard-2-300x193.png?x96268",
+   "publishedAt": "2026-11-11T12:09:15.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/11/dareu-ultra68-modular-keyboard-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "8bfe4a1c4232",
+   "title": "Amazon Unveils ₹23,500 AI Security Drone for Homes and ₹94,000 Rover for Businesses",
+   "summary": "Amazon Unveils ₹23,500 AI Security Drone for Homes and ₹94,000 Rover for Businesses The 420.in",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TTkVrbkxoYnFabmJQbzdvZnRHOWxOaFNUekNiS0x6NFUzS1puU0swb1BFSW5PckFIOVppZ1JXeUUyNndfOEFwVnUtb01iX2ZtRkozS2ZWZG5nV3Bfd3NlMkg1cXU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T11:06:15.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Amazon",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The 420.in",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TTkVrbkxoYnFabmJQbzdvZnRHOWxOaFNUekNiS0x6NFUzS1puU0swb1BFSW5PckFIOVppZ1JXeUUyNndfOEFwVnUtb01iX2ZtRkozS2ZWZG5nV3Bfd3NlMkg1cXU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "fce6718664f7",
+   "title": "In 1979, Sony launched the Walkman with these headphones. 47 years later, they’re back with USB-C",
+   "summary": "In 1979, Sony launched the Walkman with these headphones. 47 years later, they’re back with USB-C Make Tech Easier",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVHpkQUJ0TEVxQXhIQlBNR1pjUG9hNFRIQVc0SmQ2YUNEc1dfLUFjOUR5MWZFeHRabFFoaGJBelMxdHhYRWw5eXg4OENXNHFham5uVGh6Q2ZDTVpkdmZKMllPRTlvNmloMmxwVjdtVVFjb3FaT2l2bHcwRVFhV3ZyTC1WSDJjWkhvT29aSF9SaVhISFk0c0RYcVZrdTBLS0N3RlhlSlgydmRTR05pLTA0UWFhbl93TjlJc080QS1B?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T10:29:46.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Make Tech Easier",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVHpkQUJ0TEVxQXhIQlBNR1pjUG9hNFRIQVc0SmQ2YUNEc1dfLUFjOUR5MWZFeHRabFFoaGJBelMxdHhYRWw5eXg4OENXNHFham5uVGh6Q2ZDTVpkdmZKMllPRTlvNmloMmxwVjdtVVFjb3FaT2l2bHcwRVFhV3ZyTC1WSDJjWkhvT29aSF9SaVhISFk0c0RYcVZrdTBLS0N3RlhlSlgydmRTR05pLTA0UWFhbl93TjlJc080QS1B?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
+   "id": "a56431fe54b3",
+   "title": "Penn Medicine launches mobile eye disease screening van in Philadelphia",
+   "summary": "Penn Medicine launches mobile eye disease screening van in Philadelphia WHYY",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWOWZqOXBvWXl2T1BISmpQdGVwZ0JKUjhMQTZPaGE0ekJqRjNKQ3gyRmZqaHZ6U2xsWVYzUUhublpwNHFiMW16bnI0SkFrVjVDU0gyYzZPTW9SbEg5akNqT1N6ZFVHN2RJckZZ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T10:00:47.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "WHYY",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWOWZqOXBvWXl2T1BISmpQdGVwZ0JKUjhMQTZPaGE0ekJqRjNKQ3gyRmZqaHZ6U2xsWVYzUUhublpwNHFiMW16bnI0SkFrVjVDU0gyYzZPTW9SbEg5akNqT1N6ZFVHN2RJckZZ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
+  },
+  {
    "id": "d55d58b0940b",
    "title": "Infinix Xpad 30 Launched With 11-Inch Full-HD+ Display, 7,200mAh Battery: Price, Specifications",
    "summary": "Infinix Xpad 30 is the latest addition to the company's budget tablet lineup, the company has announced. It is currently available for purchase in the Philippines via Shopee and Lazada. The tablet is offered in three colour options, namely Cloudline Blue, Lunar Lilac, and Stellar",
@@ -22,6 +356,28 @@
     }
    ],
    "firstSeen": "2026-11-11T10:41:31.968Z"
+  },
+  {
+   "id": "e8446f1f405d",
+   "title": "KPMG launches mobile training platform for accounting professionals",
+   "summary": "KPMG launches mobile training platform for accounting professionals International Accounting Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT25rU2daZ2tkSVE1UHJlMUFrMXMtend1ZGozTUlNa0hRMFliN3A0QTY0NDJISTJDNExLX1dKQWFfNnloZzVlR2NKU1dTLTVOREtJbjFKZlo2T3ZvR050a1h6bnl2T0VQZWtpUEFEdi1Vdk55bE94S0ZWeVpGenNqZkZDbWdXQmNnRnNXZWFEX2hpSmVyNUVCT2NPWi02SExoSmRaeWgzYkNORDdkODNQUEFJWHp4OElRWkFxSjBR?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T08:12:37.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "International Accounting Bulletin",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT25rU2daZ2tkSVE1UHJlMUFrMXMtend1ZGozTUlNa0hRMFliN3A0QTY0NDJISTJDNExLX1dKQWFfNnloZzVlR2NKU1dTLTVOREtJbjFKZlo2T3ZvR050a1h6bnl2T0VQZWtpUEFEdi1Vdk55bE94S0ZWeVpGenNqZkZDbWdXQmNnRnNXZWFEX2hpSmVyNUVCT2NPWi02SExoSmRaeWgzYkNORDdkODNQUEFJWHp4OElRWkFxSjBR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
   },
   {
    "id": "0cdff536ad4c",
@@ -155,6 +511,10 @@
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-plus-india-launch-bis-certification-specifications-features-12311298"
+    },
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sZ0pZdjlzc2NUWjRCSGhnTTJOSXdsVUo4Q1E1QlRlOE1vNmtObi02NUpZYkJKdE50QmQtU21MMFpUbk1PT0dGaWxPY1c2S3FkSXdYamJYRXpUOUh0YXVxTmhhRTJyX1FkYzctWGhFVGdIRDlSUU9B?oc=5"
     }
    ],
    "firstSeen": "2026-11-11T10:41:31.968Z"
@@ -290,6 +650,28 @@
     }
    ],
    "firstSeen": "2026-11-11T10:41:31.968Z"
+  },
+  {
+   "id": "88186caa6230",
+   "title": "Breggz Launches Five-Driver Zohn 2 Wireless Earbuds with IMAX Enhanced Certification",
+   "summary": "Breggz Launches Five-Driver Zohn 2 Wireless Earbuds with IMAX Enhanced Certification audioXpress",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2NlTnZMV3pPdnVjZDZ5OGNBdUFzYjh3aTA1elZQV05lSnQ2cWtXcDVHT3hqcWZWUmlXT2VfSXJFNEFCVmpxdGNhT3pEaEdQVm5fSjZGaTJqRGl5Q3RFZkxoYlJpTXVqY0tVdVQzQ3BPRUJiZ0tBNFJaSnNYNC1RR3FZcUVUdXJRQ1lVRHNacEVINHNuMjh5c2NvaDdZVmlLYllBX05CQjludktqSjRFQ2dXVQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T01:10:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "audioXpress",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2NlTnZMV3pPdnVjZDZ5OGNBdUFzYjh3aTA1elZQV05lSnQ2cWtXcDVHT3hqcWZWUmlXT2VfSXJFNEFCVmpxdGNhT3pEaEdQVm5fSjZGaTJqRGl5Q3RFZkxoYlJpTXVqY0tVdVQzQ3BPRUJiZ0tBNFJaSnNYNC1RR3FZcUVUdXJRQ1lVRHNacEVINHNuMjh5c2NvaDdZVmlLYllBX05CQjludktqSjRFQ2dXVQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
   },
   {
    "id": "87adac26dc7e",
@@ -518,6 +900,28 @@
     }
    ],
    "firstSeen": "2026-11-10T19:37:32.867Z"
+  },
+  {
+   "id": "86e0fff74ad6",
+   "title": "Durabook Introduces the R12 Rugged Tablet Active Edge AI Platform",
+   "summary": "Durabook Introduces the R12 Rugged Tablet Active Edge AI Platform Military Embedded Systems",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQXzFMMmsyVzh4TktiaTRiRm8wVGVaMEk2a1BmeXdRekdHUXdudnVSVC1GT2YyUFpjZFNlUmxBWXNXMlNTUHByZi1XSDY0TVVmM1M4akRDOU80aEpYZDNkZnhJN0VPOXd4Q1FFeVdGV0w5QUhxQW02d2dBZlVRTzluaXNldEZ0UHBNbU0wbTltZHliVTQtY192SEU2azVYTmswc0lyUWVsVDF0UWVFRENKaVVmZTg?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-10T18:46:04.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Military Embedded Systems",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQXzFMMmsyVzh4TktiaTRiRm8wVGVaMEk2a1BmeXdRekdHUXdudnVSVC1GT2YyUFpjZFNlUmxBWXNXMlNTUHByZi1XSDY0TVVmM1M4akRDOU80aEpYZDNkZnhJN0VPOXd4Q1FFeVdGV0w5QUhxQW02d2dBZlVRTzluaXNldEZ0UHBNbU0wbTltZHliVTQtY192SEU2azVYTmswc0lyUWVsVDF0UWVFRENKaVVmZTg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-11T19:30:09.267Z"
   }
  ]
 }
