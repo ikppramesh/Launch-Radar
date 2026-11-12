@@ -2,6 +2,296 @@
  "date": "2026-11-12",
  "items": [
   {
+   "id": "179d8112e28a",
+   "title": "Edifier launches new open-ear clip-on earbuds with LDAC support, Bluetooth 6.1, and 44 hours of battery life",
+   "summary": "Edifier launches new open-ear clip-on earbuds with LDAC support, Bluetooth 6.1, and 44 hours of battery life Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUDJsNDhTa2lMNkljS01xYWRJNU5jV0lWU1QyS0Q0MGF3T0xhWEFRZ3ZyanByZHUyOU9Rd0dqTzlUNFJsZERwaDFMQWRpZG1BOExNMzhMcEVMb3VhS253cWh2NWlYWXJYVU16QjQ4MGlsSzFZdk02QnR5cFVGTThFcGtRYjFCV25GS1JINkMyQ3FnczQ3ZmtlTWJZSFAyeWV4MlYybzlWUkNIemc1Vl9NZGFjZFM3c1lEc0dqdVBMNDB5TWFuTDU1OHc2WWd5UVNSRUI3V1RFYjNNZ3BvMG1wMU9ON0dxdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T18:29:00.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Edifier",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUDJsNDhTa2lMNkljS01xYWRJNU5jV0lWU1QyS0Q0MGF3T0xhWEFRZ3ZyanByZHUyOU9Rd0dqTzlUNFJsZERwaDFMQWRpZG1BOExNMzhMcEVMb3VhS253cWh2NWlYWXJYVU16QjQ4MGlsSzFZdk02QnR5cFVGTThFcGtRYjFCV25GS1JINkMyQ3FnczQ3ZmtlTWJZSFAyeWV4MlYybzlWUkNIemc1Vl9NZGFjZFM3c1lEc0dqdVBMNDB5TWFuTDU1OHc2WWd5UVNSRUI3V1RFYjNNZ3BvMG1wMU9ON0dxdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "c4a5a482dab0",
+   "title": "Whoop launches Strava-like 'Humans' network for subscribers",
+   "summary": "Whoop is going social with the introduction of Whoop Humans — here's everything you need to know.",
+   "link": "https://www.techradar.com/health-fitness/fitness-apps/whoop-rolls-out-humans-upgrade-for-subscribers-strava-like-feature-promises-to-be-most-verifiably-human-social-network",
+   "image": "https://cdn.mos.cms.futurecdn.net/sdrowhQMetDi7cLHvYMpzn-1920-80.jpg",
+   "publishedAt": "2026-11-12T17:00:00.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Whoop",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/health-fitness/fitness-apps/whoop-rolls-out-humans-upgrade-for-subscribers-strava-like-feature-promises-to-be-most-verifiably-human-social-network"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "2b5f5327e8de",
+   "title": "KTC launches new 24-inch gaming monitor with an insane 600Hz refresh rate",
+   "summary": "KTC has launched the Master 25M1 Pro, a new 24.1-inch monitor designed for competitive gaming. It is currently available on JD.com in China for 4,999 yuan ($749), targeting FPS players who prioritize high refresh rates and low response times over higher resolutions and wider view",
+   "link": "https://www.gizmochina.com/2026/11/12/ktc-master-25m1-pro-esports-gaming-monitor-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/citizen-attesa-death-star-ii-watch-3-300x218.png?x22604",
+   "publishedAt": "2026-11-12T15:40:18.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/12/ktc-master-25m1-pro-esports-gaming-monitor-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "c3582301a1d8",
+   "title": "Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10",
+   "summary": "After years of development, Google is launching its second foray into smart glasses with Intelligent Eyewear that supports Android and iOS. Pre-orders start today at Gentle Monster and Warby Parker , with the audio glasses shipping on December 10. more…",
+   "link": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-9.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-12T14:00:00.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "fbf9a04084aa",
+   "title": "Google and Samsung’s AI glasses just launched starting at $395 with styles from Gentle Monster and Warby Parker: what you need to know",
+   "summary": "Google and Samsung's intelligent eyewear glasses just went up for pre-order, here's what you need to know.",
+   "link": "https://www.tomsguide.com/computing/smart-glasses/google-and-samsungs-ai-glasses-just-launched-starting-at-usd449-with-styles-from-gentle-monster-and-warby-parker-what-you-need-to-know",
+   "image": "https://cdn.mos.cms.futurecdn.net/koFf95UAEm43cQcg3kBfrB-1920-80.jpg",
+   "publishedAt": "2026-11-12T14:00:00.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Tom's Guide",
+     "link": "https://www.tomsguide.com/computing/smart-glasses/google-and-samsungs-ai-glasses-just-launched-starting-at-usd449-with-styles-from-gentle-monster-and-warby-parker-what-you-need-to-know"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "b0818ef241c5",
+   "title": "Casio launches metal-clad G-Shock GM-6900XG-8 collab watch featuring a translucent band",
+   "summary": "Casio has a new G-Shock watch coming out this November. The GM-6900XG-8 is a collaboration with the seven-member pop group XG. The watch is listed as coming soon on the Casio Japan website with a price tag of ¥39,600 ($248). It is also listed on Casio’s international website, ind",
+   "link": "https://www.gizmochina.com/2026/11/12/casio-g-shock-gm-6900xg-8-xg-pop-collab-watch-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/casio-gm-6900xg-8-300x169.png?x22604",
+   "publishedAt": "2026-11-12T13:57:29.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/12/casio-g-shock-gm-6900xg-8-xg-pop-collab-watch-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "b9072c2be064",
+   "title": "Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses’ release",
+   "summary": "All available 3D movies are included with your Disney+ subscription and come with extras you can only experience in VR. more…",
+   "link": "https://9to5google.com/2026/11/12/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses-release/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/monsters-inc-scare-floor-meta-quest-3d.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-12T13:50:57.000Z",
+   "date": "2026-11-12",
+   "status": "Upcoming",
+   "category": "Wearable",
+   "brand": "Meta",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/11/12/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses-release/"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "3c81d62e5285",
+   "title": "RED Driver Training launches smartphone vision screening for learner drivers",
+   "summary": "RED Driver Training launches smartphone vision screening for learner drivers Association of Optometrists (AOP)",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRnFRYmJ3TkI5V1FCd2haNmpsdWotZ1A0ZUJmOWJ2cWF6M01GVldjb1FPVVNKQnNNT1JsRkhxaU9LYmM4ck5zTk1iNkZ4TU16YTVfZjA5cEVMc1Q4aFFjNFpReDBici1DVzJ4eThJejdNR2ZURVowRFpJbFNEdExkTG1KaWJzUEZ5b25nT0UyNl9qRTd6cTdMUkxxOG9IOFJlM05lMHFNT05XOEx1bldaV3BmUTd3SXhoUUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T13:14:10.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Association of Optometrists (AOP)",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRnFRYmJ3TkI5V1FCd2haNmpsdWotZ1A0ZUJmOWJ2cWF6M01GVldjb1FPVVNKQnNNT1JsRkhxaU9LYmM4ck5zTk1iNkZ4TU16YTVfZjA5cEVMc1Q4aFFjNFpReDBici1DVzJ4eThJejdNR2ZURVowRFpJbFNEdExkTG1KaWJzUEZ5b25nT0UyNl9qRTd6cTdMUkxxOG9IOFJlM05lMHFNT05XOEx1bldaV3BmUTd3SXhoUUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "9b1ad12479b1",
+   "title": "Oppo Watch 5 launches soon with FatMax mode and 10-day battery life",
+   "summary": "Oppo Watch 5 launches soon with FatMax mode and 10-day battery life Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUM0emNtN3JLeGQ1U040a3dLeUEzd0J1MThLaENFRGMybTdyM25UYmctdHROTWVZQXRvY2xOeGVmY1FIdHozRkRDYUJNeFVZZGFpc0VwNzVpUUUyNlB1ZWg2LVdGd19lRExYM2J0YWhuWWtyaGg2Q1NwNk94anhNWnpoQzRYSUVaMWhWTnZORVkwdU5MV1U4NmstbkVvQkFBazA1cUdlZnlGQUZsZW0xYS1B?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T12:24:00.000Z",
+   "date": "2026-11-12",
+   "status": "Upcoming",
+   "category": "Wearable",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUM0emNtN3JLeGQ1U040a3dLeUEzd0J1MThLaENFRGMybTdyM25UYmctdHROTWVZQXRvY2xOeGVmY1FIdHozRkRDYUJNeFVZZGFpc0VwNzVpUUUyNlB1ZWg2LVdGd19lRExYM2J0YWhuWWtyaGg2Q1NwNk94anhNWnpoQzRYSUVaMWhWTnZORVkwdU5MV1U4NmstbkVvQkFBazA1cUdlZnlGQUZsZW0xYS1B?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "133195e83286",
+   "title": "The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come",
+   "summary": "Good morning. Today I’m finding open source alternatives to all of my apps , poring through Pitchfork’s list of the 100 best indie rock albums to find ones I haven’t listened to, and preparing my body for November 19th by pre-loading GTA VI (and replaying GTA IV in the meantime).",
+   "link": "https://9to5google.com/2026/11/12/the-iphone-duos-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/galaxy-z-fold-8-iphone-duo-4.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-12T12:00:00.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/11/12/the-iphone-duos-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come/"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "f7b53e345374",
+   "title": "Oppo Reno 17 Series Chipsets, Key Features Confirmed Ahead of November 16 Launch",
+   "summary": "Oppo has confirmed key specifications of the Reno 17 and Reno 17 Pro ahead of their China launch. The two phones will feature different Qualcomm and MediaTek chipsets, dedicated touch and communication chips, and support for 120fps gaming. They will also run ColorOS 17 based on A",
+   "link": "https://www.gadgets360.com/mobiles/news/oppo-reno-17-series-chipsets-confirm-features-expected-launch-12316978",
+   "image": "https://i.gadgets360cdn.com/large/oppo_reno_17_series_oppo_1794479340500.jpg",
+   "publishedAt": "2026-11-12T11:13:25.000Z",
+   "date": "2026-11-12",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/oppo-reno-17-series-chipsets-confirm-features-expected-launch-12316978"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "dad12f9da508",
+   "title": "Oppo A7 Pro officially lands in Europe",
+   "summary": "We recently saw a report for the Oppo A7 Pro’s European launch price and Oppo Belgium has now listed the device on its online store. Just as we reported, the А7 Pro is priced at €499 in its 256GB storage trim. Oppo Belgium is offering a special €70 discount, which brings the effe",
+   "link": "https://www.gsmarena.com/oppo_a7_pro_officially_lands_in_europe-news-75451.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-pro-lands-in-europe/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-11-12T11:03:03.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "Europe",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/oppo_a7_pro_officially_lands_in_europe-news-75451.php"
+    },
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY2Q4eE9Eel9lY01McUZWNmN1eDBfb0JwdzdhSlkzenNsTUU2UV9pOXhEVklQUFc3c3hrVnNFUVdvMVNORzhuYTY4M2g2czJWbWktUU9xVGNnMnhONmNsOE16d1RubW8yQjMxX3g2cUF3SGNSaUtIRVRNTWFYR2F6NlFYQk9JUUwxc0tkMngtaFFCN293QU5MLWdpdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
+   "id": "beb89cac37e0",
+   "title": "EINSTAR EZ GO Launches as a Wireless Laser and Infrared 3D Scanner for Phone, Tablet and PC",
+   "summary": "EINSTAR EZ GO Launches as a Wireless Laser and Infrared 3D Scanner for Phone, Tablet and PC https://3dprinting.com/",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tTHB0TUxZVTJIcW93Yy1zSTViV3JhVG1TdlNPR2VRRW5mS2dLM3pqY2RBOUM0OWV1dEQxY1QtUW4yd1RDWDM4VHZBNTNDREd4Z2xuemFIdU1pbHRlaTU1dHFDTWt1S1dUVWVMMjJPNWRnTWZs?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T11:01:34.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "https://3dprinting.com/",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tTHB0TUxZVTJIcW93Yy1zSTViV3JhVG1TdlNPR2VRRW5mS2dLM3pqY2RBOUM0OWV1dEQxY1QtUW4yd1RDWDM4VHZBNTNDREd4Z2xuemFIdU1pbHRlaTU1dHFDTWt1S1dUVWVMMjJPNWRnTWZs?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
+  },
+  {
    "id": "5a9a4cdbfdcc",
    "title": "HUAWEI to launch Osta smartphone sub-brand on November 20",
    "summary": "HUAWEI to launch Osta smartphone sub-brand on November 20 GIZGUIDE",
@@ -68,28 +358,6 @@
    "firstSeen": "2026-11-12T10:53:02.462Z"
   },
   {
-   "id": "0e6799cf3aef",
-   "title": "Helio launches helio 150 smartphone in Bangladesh with 7,000mAh battery",
-   "summary": "Helio launches helio 150 smartphone in Bangladesh with 7,000mAh battery The Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWm1TWnhpeDdvME90bFhhT3pRbUI2eE9aS2NVSUlHNWd5NWVmYW1ydEZJX25UdjFqNHRaM204R0JxOEpjenJicVkzQWNfN05jWV9hbF9sOUIxVDlQaGFiOVlyMXY2ZTNsWk1jUUYwNkxIbmNidVdDTWlvMG5MV2NKUHdKaDJOVnRFdjIwZUxjYmRxX25tNnRrYmt1dnhKeFoxVXhmMTFZVFVqVGtDc3BjS1VNcw?oc=5",
-   "image": "",
-   "publishedAt": "2026-11-12T09:46:58.000Z",
-   "date": "2026-11-12",
-   "status": "Launched",
-   "category": "Smartphone",
-   "brand": "—",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "The Business Standard",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWm1TWnhpeDdvME90bFhhT3pRbUI2eE9aS2NVSUlHNWd5NWVmYW1ydEZJX25UdjFqNHRaM204R0JxOEpjenJicVkzQWNfN05jWV9hbF9sOUIxVDlQaGFiOVlyMXY2ZTNsWk1jUUYwNkxIbmNidVdDTWlvMG5MV2NKUHdKaDJOVnRFdjIwZUxjYmRxX25tNnRrYmt1dnhKeFoxVXhmMTFZVFVqVGtDc3BjS1VNcw?oc=5"
-    }
-   ],
-   "firstSeen": "2026-11-12T10:53:02.462Z"
-  },
-  {
    "id": "c239b8d23311",
    "title": "Vu Masterpiece AEye TV Series Launched in India With RGB MiniLED Displays, Dolby Atmos Support: Price, Specifications",
    "summary": "Vu Masterpiece AEye TV series was launched in India on Thursday. The company claims its latest range features RGB MiniLED displays, AI-based picture processing, and an ambient light sensor for automatic brightness adjustments. The new TV lineup is available in six screen sizes, r",
@@ -112,6 +380,28 @@
    "firstSeen": "2026-11-12T10:53:02.462Z"
   },
   {
+   "id": "0e6799cf3aef",
+   "title": "Helio launches helio 150 smartphone in Bangladesh with 7,000mAh battery",
+   "summary": "Helio launches helio 150 smartphone in Bangladesh with 7,000mAh battery The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWm1TWnhpeDdvME90bFhhT3pRbUI2eE9aS2NVSUlHNWd5NWVmYW1ydEZJX25UdjFqNHRaM204R0JxOEpjenJicVkzQWNfN05jWV9hbF9sOUIxVDlQaGFiOVlyMXY2ZTNsWk1jUUYwNkxIbmNidVdDTWlvMG5MV2NKUHdKaDJOVnRFdjIwZUxjYmRxX25tNnRrYmt1dnhKeFoxVXhmMTFZVFVqVGtDc3BjS1VNcw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T09:25:00.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Business Standard",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWm1TWnhpeDdvME90bFhhT3pRbUI2eE9aS2NVSUlHNWd5NWVmYW1ydEZJX25UdjFqNHRaM204R0JxOEpjenJicVkzQWNfN05jWV9hbF9sOUIxVDlQaGFiOVlyMXY2ZTNsWk1jUUYwNkxIbmNidVdDTWlvMG5MV2NKUHdKaDJOVnRFdjIwZUxjYmRxX25tNnRrYmt1dnhKeFoxVXhmMTFZVFVqVGtDc3BjS1VNcw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T10:53:02.462Z"
+  },
+  {
    "id": "6a2a01245fff",
    "title": "HONOR Magic9 Pro Max global roll out continues with Malaysia launch on November 24",
    "summary": "HONOR introduced the Magic9 Pro Max, the company’s latest flagship smartphone in China last month. The smartphone was launched in Hong Kong earlier this month, and the company said that sales in the country have topped 500,000 units. The company already said that the regional rol",
@@ -122,13 +412,17 @@
    "status": "Upcoming",
    "category": "Smartphone",
    "brand": "Honor",
-   "region": "Global",
+   "region": "Southeast Asia",
    "confidence": 2,
    "aggregator": false,
    "sources": [
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/496926/honor-magic9-pro-max-malaysia-launch-date.html"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/honor_magic9_pro_max_malaysia_launch_date-news-75453.php"
     }
    ],
    "firstSeen": "2026-11-12T10:53:02.462Z"
@@ -139,7 +433,7 @@
    "summary": "O2 launches new mobile tariffs pledging contract savings of up to £540 AOL.co.uk",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanFmX21aQ293LUVhdEZOemNYdkk0enZSeTVsVEprU0d6Vm8yZ3JLZ0VGUmUtck1PamF1dUdWU01vT1o5cXg4d19pbmtHUFlqWDdXbUl5SmZZX3l1aWVIdWpFOG82anYxRjRfSlAwaHdrZDhOcTJwV21SNjZrcGtuMjdRbS1ZNGVP?oc=5",
    "image": "",
-   "publishedAt": "2026-11-12T09:04:37.000Z",
+   "publishedAt": "2026-11-12T09:03:00.000Z",
    "date": "2026-11-12",
    "status": "Launched",
    "category": "Smartphone",
@@ -151,9 +445,35 @@
     {
      "name": "AOL.co.uk",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanFmX21aQ293LUVhdEZOemNYdkk0enZSeTVsVEprU0d6Vm8yZ3JLZ0VGUmUtck1PamF1dUdWU01vT1o5cXg4d19pbmtHUFlqWDdXbUl5SmZZX3l1aWVIdWpFOG82anYxRjRfSlAwaHdrZDhOcTJwV21SNjZrcGtuMjdRbS1ZNGVP?oc=5"
+    },
+    {
+     "name": "Daily Express",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenR6VUluOTUtSGRUbFF6UlJ4d0lybi1Ub2dzdl8tOWJ2ejdTVl9JTDNOU192T0lTYkNRek90aXNMRkdUV2dUVkVEVG9qVVdEcmRsNEMyaTREeXFrdVJEaUlDMzAtY1RrS3hsSjBFamF4N0xyTU9za0s1dXhVWThOcW84UTQyUHNTRmp0b1V6eXFiNlJtMlFoWWZ1WdIBoAFBVV95cUxQTk9tNGFmU0VHeGJxY3VVQ3FsaWxkQW44VThRX3pZOWxnakY2Zjl6YS1IcF9hV18yVDRVOEdpRkNKX3pBNEdESzJsX1FibXJEZGx2czVDNU0yQ0ZVdXNucTVMQkNDWnpLLVJHUDE1NThPTHFhS0lmVHp4cjB3RkRFQWk2R24xTTNwMm5mckdEUlhpajBtMi0zbXdVNldiQU5v?oc=5"
     }
    ],
    "firstSeen": "2026-11-12T10:53:02.462Z"
+  },
+  {
+   "id": "48f5fb6db134",
+   "title": "IKEA x Xbox launches YXSTABY gaming furniture collection in Malaysia, priced from RM59",
+   "summary": "IKEA x Xbox launches YXSTABY gaming furniture collection in Malaysia, priced from RM59 SoyaCincau",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbmpvU3NoVUR3OTg3TU5mRWxuZk50ZFpLTGxaZVJNY015SnIwRWhuSXdDb1dKaDd4dVVuRWpBMHdpVlRuMGt6ek92TzZ4eWgwS092Qi1GcVNXZjJvX1ZLX2VTRlkzeEpST0lTSG55QzNkNkd4VWg3UmJKcGJQUEQtcDVCT0M2RExna0ZLdS10YlRMYTB0TTBmbg?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T08:22:21.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Xbox",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "SoyaCincau",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbmpvU3NoVUR3OTg3TU5mRWxuZk50ZFpLTGxaZVJNY015SnIwRWhuSXdDb1dKaDd4dVVuRWpBMHdpVlRuMGt6ek92TzZ4eWgwS092Qi1GcVNXZjJvX1ZLX2VTRlkzeEpST0lTSG55QzNkNkd4VWg3UmJKcGJQUEQtcDVCT0M2RExna0ZLdS10YlRMYTB0TTBmbg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T19:48:46.150Z"
   },
   {
    "id": "3d3dced9f229",
@@ -243,6 +563,10 @@
     {
      "name": "bdnews24.com",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZ1RYVTdHU0Q0dkc3U00wcUl1cm9ZeFg1Y1NlWUxRZUJBWkpnTGpfdFNLbHp1VHUwV1VYMm9sS1FWN3dZclUxcW5qcGR1MV9lZ25Pbw?oc=5"
+    },
+    {
+     "name": "MobileDokan",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT09jR2N2dDZrZnpsRVpuWEJxOVJWdHJxUHMwTE1uYVB1RVhITUNjU2E2djZiMjRVSDdKQk9lalM4amRocnF0Y0NMcVAxcTQ3azZIclpJNG5qZ2F4UUh0OUlzOWhUVWVIaW5CQ0RwWXd4RWozcVE4UHVQYm41UDlJOTZnRE5uTXpiTVJLRXk1OUlZRG9DeFhCUTQ3aFFFZ0o3emtpZmwxcEpPOVhEUTVKTGlVMmFwZjZoak01OS1sZHBfWXQzX252WU5acTFOTkdLaFZ1NkgtZkw?oc=5"
     }
    ],
    "firstSeen": "2026-11-12T10:53:02.462Z"
