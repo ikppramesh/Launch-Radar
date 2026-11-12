@@ -357,7 +357,7 @@
    "category": "Wearable",
    "brand": "Polar",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -371,6 +371,10 @@
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/wearables/news/moto-watch-2-fit-polar-fitness-buds-2-ultra-tws-sound-by-bose-launch-specifications-12291188"
+    },
+    {
+     "name": "UdaipurTimes.com",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmlNYTlkd2xfeWdfRzV6NkxDZnVMR1FhaThkeVVMN1RQVGxVdFl0SXUtampzdGpPaDlBOTBqSDlwR055SFhpUS1QSTJzbzNrVnZMek1JVHB2Y1VFYnZ2cWMzZ1EyZVFqcVNmV3ZIVVkwMVRYMkgzYXQwOU9vOHpLSHdxVUxLNjdUWVhoazlWbHhuLS0tN1g1Zm5FU0Fhb2gwTHhlOTFDdTY?oc=5"
     }
    ],
    "firstSeen": "2026-11-05T17:18:36.071Z"

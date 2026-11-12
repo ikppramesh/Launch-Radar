@@ -517,7 +517,7 @@
    "category": "Smartphone",
    "brand": "Vivo",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
@@ -559,6 +559,14 @@
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/mobiles/news/vivo-x500-leaked-in-exclusive-red-colour-specifications-price-launch-12311402"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496915/vivo-x500-series-india-launch-date.html"
+    },
+    {
+     "name": "Flickonclick",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTRwVUNpWVRGZVU4UHJubmNkQktYLVZZbG9lWGk1bERCSDV0YVFObzBXRXBITGd0NG1GSVVIRDJIOW93d3dVdV9kUFZOcUl6anFJNi0wZm8wRlk3eV9KeUdBZndPLWFRSzZDVzdMUWFGQzZES1pQM0pOSExBWG55ZU9B?oc=5"
     }
    ],
    "firstSeen": "2026-11-01T00:00:35.743Z"

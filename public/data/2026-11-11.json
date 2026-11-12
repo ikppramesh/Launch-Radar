@@ -41,6 +41,10 @@
     {
      "name": "Android Authority",
      "link": "https://www.androidauthority.com/garmin-us-armed-forces-watch-faces-3733988/"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemx6b0VJQjJiTDZKOUdwWkVORE5ZTTJzQnR0T1ZiTVpWd3Jpc1ZGZnRKaUstYm1yakk3a3ZlUjZmSU5TWmNYaWpLOGVuTUhZRDlMd3ZNYmpzU1hsUVpSR1Y2MHhhQy1MbzFnNHQwNllsZGx6NWg0VzNiSG1VVENZU3Bxalk0YXdNa0dFampXSEpocVJ1bFh2VXp4ODZfeVhmR002SnpxUmhFekxzSlRndXg2cUtDc1FqQnE5d2pZeW1lZw?oc=5"
     }
    ],
    "firstSeen": "2026-11-11T19:30:09.267Z"
@@ -68,6 +72,28 @@
    "firstSeen": "2026-11-11T19:30:09.267Z"
   },
   {
+   "id": "79b8ba5105ae",
+   "title": "Huawei unveils the foldable MateBook Fold S laptop ᐉ News from Fakti.bg - Technozone",
+   "summary": "Huawei unveils the foldable MateBook Fold S laptop ᐉ News from Fakti.bg - Technozone Fakti.bg",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPajN6aU1ERk56YjZtSUpFdnRXU01ZRTczMmR0MmRnUXRKTVNaRkJhUV94VzlPbnBFbEdWSnlVRncwX2ltLXRkOXpPdjgyYm1aRG5iWG54X2lxVzJNN1N0enFRb1lnU1J6RlczazUtbUVBTXEwcXFaaVhfSm9LSEU0STA2TkExQ2xISmFiRGRtMklmQmM?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T15:58:00.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Fakti.bg",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPajN6aU1ERk56YjZtSUpFdnRXU01ZRTczMmR0MmRnUXRKTVNaRkJhUV94VzlPbnBFbEdWSnlVRncwX2ltLXRkOXpPdjgyYm1aRG5iWG54X2lxVzJNN1N0enFRb1lnU1J6RlczazUtbUVBTXEwcXFaaVhfSm9LSEU0STA2TkExQ2xISmFiRGRtMklmQmM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T10:53:02.462Z"
+  },
+  {
    "id": "08e75d337b22",
    "title": "Motorola MA2 Arrives to Solve Android Auto’s Biggest Bluetooth Frustration",
    "summary": "The post Motorola MA2 Arrives to Solve Android Auto’s Biggest Bluetooth Frustration appeared first on Android Headlines .",
@@ -78,7 +104,7 @@
    "status": "Launched",
    "category": "Other gadget",
    "brand": "Motorola",
-   "region": "Global",
+   "region": "China",
    "confidence": 2,
    "aggregator": false,
    "sources": [
@@ -89,6 +115,10 @@
     {
      "name": "9to5Google",
      "link": "https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/12/motorola-ma2-wireless-android-auto-adapter-launches-for-30-more-than-promised/"
     }
    ],
    "firstSeen": "2026-11-11T19:30:09.267Z"
@@ -246,6 +276,28 @@
     }
    ],
    "firstSeen": "2026-11-12T02:12:24.556Z"
+  },
+  {
+   "id": "0128273fba61",
+   "title": "Ring unveils an AI drone for home security - AERONAUT.media",
+   "summary": "Ring unveils an AI drone for home security - AERONAUT.media Root-Nation.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOblIzY3lkQUdKZzdIU3hmOUhJU1kwMUFobHhmLTVMZWMzMkZlWlYzRmh4RVJrNUlnNEJ3c0pXaHBCQ3JiTFFuTElDdWlhRmhRTHVxUlVFYzQwY3h3X1B0aW5Xdm51RV9OaV8wblQzU3BRcUdNX01DLXNfVEJoUktCNEdSSl9hUFdzaDAtajBBLXd0RVRKa0xSRTJSaEt4MF9SRzVjblY5N0l6OUgtODZRLWxGLWFLRnUzTGZ6eWRnSUZ5Zk8xbTI3aXVxTGxMWkV5akxZ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T12:54:22.000Z",
+   "date": "2026-11-11",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Ring",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Root-Nation.com",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOblIzY3lkQUdKZzdIU3hmOUhJU1kwMUFobHhmLTVMZWMzMkZlWlYzRmh4RVJrNUlnNEJ3c0pXaHBCQ3JiTFFuTElDdWlhRmhRTHVxUlVFYzQwY3h3X1B0aW5Xdm51RV9OaV8wblQzU3BRcUdNX01DLXNfVEJoUktCNEdSSl9hUFdzaDAtajBBLXd0RVRKa0xSRTJSaEt4MF9SRzVjblY5N0l6OUgtODZRLWxGLWFLRnUzTGZ6eWRnSUZ5Zk8xbTI3aXVxTGxMWkV5akxZ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-12T10:53:02.462Z"
   },
   {
    "id": "b6702ad47dd1",
