@@ -551,10 +551,10 @@
   },
   {
    "id": "8059a75a24af",
-   "title": "Samsung Galaxy A08 and A18 Launching Soon in Pakistan: Specs, Features and Expected Price",
-   "summary": "Samsung Galaxy A08 and A18 Launching Soon in Pakistan: Specs, Features and Expected Price PhoneWorld",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFJ6ck5KdURfQTBtUmhLV2ZzaWJuak5KaF9ENFJDRllNcW9MSkxuTDJOaW9kNElvNEJwOWhsZm5tT3B4YTZkblBDaWh1UEd6Q21Eb1pmRW1Ga3FEdFY5YnVpU1VpX2hyV0NYZDRkMDBUQ3hLVzNzRE9HTUI0dmkxT3hpU3dxTWd0?oc=5",
-   "image": "",
+   "title": "Galaxy A18 5G is getting closer to launch",
+   "summary": "Samsung launched the Galaxy A18 4G a couple of months ago, and it now seems closer to launch the phone's 5G variant. Besides upgraded wireless connectivity and a different chipset, the 5G version of the phone might not be very different from the 4G version. Galaxy A18 5G will lau",
+   "link": "https://www.sammobile.com/news/galaxy-a18-5g-launch-close-bluetooth/",
+   "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Samsung-Galaxy-A18-5G-Bluetooth-SIG-Certification.jpg",
    "publishedAt": "2026-11-09T09:38:47.000Z",
    "date": "2026-11-09",
    "status": "Upcoming",
@@ -562,11 +562,15 @@
    "brand": "Samsung",
    "region": "Global",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "PhoneWorld",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFJ6ck5KdURfQTBtUmhLV2ZzaWJuak5KaF9ENFJDRllNcW9MSkxuTDJOaW9kNElvNEJwOWhsZm5tT3B4YTZkblBDaWh1UEd6Q21Eb1pmRW1Ga3FEdFY5YnVpU1VpX2hyV0NYZDRkMDBUQ3hLVzNzRE9HTUI0dmkxT3hpU3dxTWd0?oc=5"
+    },
+    {
+     "name": "SamMobile",
+     "link": "https://www.sammobile.com/news/galaxy-a18-5g-launch-close-bluetooth/"
     }
    ],
    "firstSeen": "2026-11-09T15:59:11.152Z"

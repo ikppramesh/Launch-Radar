@@ -2,6 +2,358 @@
  "date": "2026-11-13",
  "items": [
   {
+   "id": "27c71993e31c",
+   "title": "Apple Launches Two Products Today",
+   "summary": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have been available to pre-order since mid-October. Apple HomeView : Apple's new smart home display, powered by Apple Intelligence with ",
+   "link": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
+   "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+   "publishedAt": "2026-11-13T10:37:25.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "7539deb9ba38",
+   "title": "Pubg Mobile Flash Launches Worldwide, Bringing The Original Pubg Mobile Experience To More Players",
+   "summary": "Pubg Mobile Flash Launches Worldwide, Bringing The Original Pubg Mobile Experience To More Players Brandsynario",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdG85Yi1BZHotdkdxcWJHRjdxaWowS3V3ZXNXUUFMWDBBSWl3aWpVNmtZQ1NyNDNfbGJCNHl1MzZoX1YxZ3ByaVNXOWNTelVyN0xRRXM3cWtpVnRwang3R3hTUm1JTmw1aDRLTkZWN3Z3cU9PMW5WQ3M0UHNFd1JGSV8xSElnUHpRRTdKbWw0aDFWbThkLW1CRGNsLWszTzRXcmtWYjZtZXpUUTJaa3I4MnR6SGtQdk44a1pzM3hpbFl4VHN0NDNJdjRhMzNDaGFEV0tVWmR1TVg?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T10:02:36.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Brandsynario",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdG85Yi1BZHotdkdxcWJHRjdxaWowS3V3ZXNXUUFMWDBBSWl3aWpVNmtZQ1NyNDNfbGJCNHl1MzZoX1YxZ3ByaVNXOWNTelVyN0xRRXM3cWtpVnRwang3R3hTUm1JTmw1aDRLTkZWN3Z3cU9PMW5WQ3M0UHNFd1JGSV8xSElnUHpRRTdKbWw0aDFWbThkLW1CRGNsLWszTzRXcmtWYjZtZXpUUTJaa3I4MnR6SGtQdk44a1pzM3hpbFl4VHN0NDNJdjRhMzNDaGFEV0tVWmR1TVg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "afff374292e6",
+   "title": "Portronics Luxcell 100R 100W 20000mAh power bank with retractable Type-C cable, PD 3.0 and PPS launched",
+   "summary": "Portronics has launched the Luxcell 100R, a new 20,000mAh power bank in India. It delivers up to 100W output through its Type-C port to charge compatible laptops, tablets and smartphones. The built-in 70cm retractable Type-C cable extends when needed and retracts into the body wh",
+   "link": "https://www.fonearena.com/blog/496960/portronics-luxcell-100r-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/Portronics-Luxcell-100R-1024x542.jpg",
+   "publishedAt": "2026-11-13T09:14:03.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496960/portronics-luxcell-100r-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "abee276c37fc",
+   "title": "Oppo's pocket gimbal camera said to debut this year, wide-foldable also coming soon",
+   "summary": "Tipster Digital Chat Station has shared details of several flagship products Oppo is reportedly planning to launch soon. The products will include a pocket gimbal camera, a wide-screen foldable, and a wide candybar flagship with a 16:9 display. According to the leak, Oppo's pocke",
+   "link": "https://www.gsmarena.com/oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-gimbal-camera-launch-wide-foldable-details/-184x111/gsmarena_00.jpg",
+   "publishedAt": "2026-11-13T08:37:03.000Z",
+   "date": "2026-11-13",
+   "status": "Upcoming",
+   "category": "Camera & Drone",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466.php"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "d66b16be9125",
+   "title": "Honor 700 series launch event officially set for November 23",
+   "summary": "Honor has officially confirmed that the Honor 700 series will launch in China on November 23. We previously reported that the Honor 700, Honor 700 Pro, and Honor 700S were launching today, but the brand has now set the event for 2:30 PM China time in Wuhan. Reservations for all t",
+   "link": "https://www.gizmochina.com/2026/11/13/honor-700-series-launch-event-officially-set-november-23/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-9-300x169.jpg?x64146",
+   "publishedAt": "2026-11-13T07:49:04.000Z",
+   "date": "2026-11-13",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Honor",
+   "region": "China",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/13/honor-700-series-launch-event-officially-set-november-23/"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "1754ddc943c1",
+   "title": "Huawei Mate X8 appears in Richard Yu’s hand as a late-November launch nears",
+   "summary": "A light purple foldable has been spotted in Richard Yu’s hand, and it appears to be the Huawei Mate X8. The Consumer Business Group chairman was photographed walking with the unreleased phone, and the circular camera module is back. The sighting comes as a late-November launch fo",
+   "link": "https://www.gizmochina.com/2026/11/13/huawei-mate-x8-richard-yu-late-november-launch-nears/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-8-300x169.jpg?x64146",
+   "publishedAt": "2026-11-13T07:07:47.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/13/huawei-mate-x8-richard-yu-late-november-launch-nears/"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "58ceb4329ab8",
+   "title": "Samsung may be the reason behind iPhone 18’s launch delay",
+   "summary": "Samsung may be the reason Apple delayed the iPhone 18 launch. Learn how a camera sensor deal and a dual-supplier strategy shifted the release date. The post Samsung may be the reason behind iPhone 18’s launch delay appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/11/13/samsung-may-be-the-reason-behind-iphone-18-launch-delay/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/iphone-17-300x169.jpg?x64146",
+   "publishedAt": "2026-11-13T06:46:28.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/13/samsung-may-be-the-reason-behind-iphone-18-launch-delay/"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "84300c9386c3",
+   "title": "Samsung intelligent eyewear set for December 10 launch, pre-orders now open",
+   "summary": "Samsung has confirmed that its intelligent eyewear will go on sale in the United States and South Korea on December 10, with pre-orders open. The collection was developed with Google and has Gemini built in, and it comes in 30 designs from Gentle Monster and Warby Parker. Samsung",
+   "link": "https://www.gizmochina.com/2026/11/13/samsung-intelligent-eyewear-december-10-launch-pre-orders/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-7-300x169.jpg?x64146",
+   "publishedAt": "2026-11-13T06:30:59.000Z",
+   "date": "2026-11-13",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Samsung",
+   "region": "China",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/13/samsung-intelligent-eyewear-december-10-launch-pre-orders/"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "0d75dda73ee9",
+   "title": "Samsung Launches Gentle Monster, Warby Parker Intelligent Eyewear in 30 Unique Designs: Price, Features",
+   "summary": "Samsung has launched Gentle Monster and Warby Parker Intelligent Eyewear in select global markets. Samsung’s smart glasses are currently available for pre-order in the US. Customers can purchase the Intelligent Eyewear models via the Gentle Monster and Warby Parker online and off",
+   "link": "https://www.gadgets360.com/wearables/news/samsung-intelligent-eyewear-gentle-monster-warby-parker-price-launch-availability-specifications-features-12320862",
+   "image": "https://i.gadgets360cdn.com/large/samsung_intelligent_eyewear_main_1794549987079.png",
+   "publishedAt": "2026-11-13T06:19:45.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Samsung",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/samsung-intelligent-eyewear-gentle-monster-warby-parker-price-launch-availability-specifications-features-12320862"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "37e0a87fb55a",
+   "title": "Belkin Launches iPhone 18 Pro/Pro Max Cases with 360-Degree Rotating Stand, MagSafe and Qi2 Support",
+   "summary": "Belkin Launches iPhone 18 Pro/Pro Max Cases with 360-Degree Rotating Stand, MagSafe and Qi2 Support ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HbnIyWVhhekQ0cXZFRFhFM3lIU251bnpqVkNuQUNxdURuQ1pzamxUaV9LaF8ycHhBUDg4MVVCTHRQMzV4R3MwRk1QMlVVdURwZEhWekJOQTE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T05:00:00.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Belkin",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HbnIyWVhhekQ0cXZFRFhFM3lIU251bnpqVkNuQUNxdURuQ1pzamxUaV9LaF8ycHhBUDg4MVVCTHRQMzV4R3MwRk1QMlVVdURwZEhWekJOQTE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "cc9a16048558",
+   "title": "WHOOP Humans peer-to-peer social feature introduced",
+   "summary": "WHOOP has announced the rollout of WHOOP Humans, a new social connectivity feature integrated directly into the WHOOP mobile app. The update enables users to connect with friends and family, share selected biometric metrics, post visual updates, and interact via comments and reac",
+   "link": "https://www.fonearena.com/blog/496951/whoop-humans-feature.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/WHOOP-Humans-948x1024.jpg",
+   "publishedAt": "2026-11-13T04:45:12.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Whoop",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496951/whoop-humans-feature.html"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "2c1a41c7fec6",
+   "title": "OPPO Pad Air 6 Launch Set for November 16; Pad 6 and Pad 6F India Launch Plans Surface",
+   "summary": "OPPO Pad Air 6 Launch Set for November 16; Pad 6 and Pad 6F India Launch Plans Surface My Mobile India",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0FIUUNIYXMtQXFwSThqOWItU2NScEJacHlMTkYtTW5ZajBGZTFQNlNHa2l2NmJYUmdHczVOWTdZVnhScjFkazBtUkduVjhqcVFFRi04TmhVQUFCNDBncTRuMHVTQUJTM1VQOWhmLTZ6VC1Tb3JnNHQ2LWZnLVVHUDg1SnFkbDhlR09ZZjlwNVlwMXp5dE1qMFctUlhPRWJDWlhFNXdaQWNUTURzaWZ6eXlRMGl6ZTA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T04:35:55.000Z",
+   "date": "2026-11-13",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "My Mobile India",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0FIUUNIYXMtQXFwSThqOWItU2NScEJacHlMTkYtTW5ZajBGZTFQNlNHa2l2NmJYUmdHczVOWTdZVnhScjFkazBtUkduVjhqcVFFRi04TmhVQUFCNDBncTRuMHVTQUJTM1VQOWhmLTZ6VC1Tb3JnNHQ2LWZnLVVHUDg1SnFkbDhlR09ZZjlwNVlwMXp5dE1qMFctUlhPRWJDWlhFNXdaQWNUTURzaWZ6eXlRMGl6ZTA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "09dc08a81d00",
+   "title": "Amazon rolls out Alexa for Shopping with personalised AI assistance in India",
+   "summary": "Amazon has started rolling out Alexa for Shopping on select storefronts of the Amazon Shopping app and website in India. The new AI shopping assistant combines the product expertise of Rufus with the personalised knowledge and context of Alexa+ to help customers research products",
+   "link": "https://www.fonearena.com/blog/496950/amazon-alexa-shopping-india.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/Alexa-for-Shopping-1024x512.jpg",
+   "publishedAt": "2026-11-13T04:35:51.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Amazon",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496950/amazon-alexa-shopping-india.html"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "a2b49aeb60df",
+   "title": "Xiaomi 18 Pro Series Launch November 17 - New Gadgets Revealed",
+   "summary": "Xiaomi 18 Pro Series Launch November 17 - New Gadgets Revealed RS Web Solutions",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZmxZSUVtRjNJbEdGRFFWbElPZWszM19ZcGUySVdWdURLT04zUUV3dFVHZ1puZnlkTkhYZVdQNldkT0F6R01HYk55UkNKMFhGdE5KUEJuR2toUFlNbXVrbHpJOHVfY1NFTjBmT3VYMXZIQzhjQ1RFMXNxUTh4bW14QThaUzJFdHFZQk5sN19feHhvY2VsWWhsMFBrSkQxdV9KUkpkcFo2NU9zbmVzV3BBcGttbEFEbTJITVdmbGJ0ZnU5YTFpekRaV1g3bTh0eXdYUno4VmIxYUNZblY5TEJNMDNXd25qZGlXR29ibXF1UHJoUlVKNXIw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T03:00:00.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "RS Web Solutions",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZmxZSUVtRjNJbEdGRFFWbElPZWszM19ZcGUySVdWdURLT04zUUV3dFVHZ1puZnlkTkhYZVdQNldkT0F6R01HYk55UkNKMFhGdE5KUEJuR2toUFlNbXVrbHpJOHVfY1NFTjBmT3VYMXZIQzhjQ1RFMXNxUTh4bW14QThaUzJFdHFZQk5sN19feHhvY2VsWWhsMFBrSkQxdV9KUkpkcFo2NU9zbmVzV3BBcGttbEFEbTJITVdmbGJ0ZnU5YTFpekRaV1g3bTh0eXdYUno4VmIxYUNZblY5TEJNMDNXd25qZGlXR29ibXF1UHJoUlVKNXIw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "25968d6d1b98",
+   "title": "Belkin Launches Kids' Headphones with ANC, 85dB Volume Limit, and Three Focus Support Modes",
+   "summary": "Belkin Launches Kids' Headphones with ANC, 85dB Volume Limit, and Three Focus Support Modes ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1POUNaWXk5bDJJaUk2MWs4NXkwUFByWU5WUmtYVTZiUHlYdHdsczFlSkxLRDNveFNyYzVzZlZFTWEtSWFoYkw0SmdjRFVlZjJ4dGhYcGhhRjU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T02:15:00.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Belkin",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ASCII.jp",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1POUNaWXk5bDJJaUk2MWs4NXkwUFByWU5WUmtYVTZiUHlYdHdsczFlSkxLRDNveFNyYzVzZlZFTWEtSWFoYkw0SmdjRFVlZjJ4dGhYcGhhRjU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "311caaca2b91",
+   "title": "Apple TV just debuted three new originals, including a heist thriller series",
+   "summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season. Watch the trailers below. more…",
+   "link": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-13T02:02:34.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
    "id": "57afd02b2148",
    "title": "Samsung and Google start pre-orders for intelligent glasses lineup ahead of December US release",
    "summary": "Pre-orders have opened for a new collaborative lineup of smart glasses developed by Samsung Electronics and Google, featuring frame designs from eyewear brands Gentle Monster and Warby Parker. The devices, powered by Google’s Gemini AI, are scheduled for general release on Decemb",
@@ -154,6 +506,28 @@
     }
    ],
    "firstSeen": "2026-11-13T01:45:45.035Z"
+  },
+  {
+   "id": "cc6703bb07bf",
+   "title": "Ex-Samsung researcher unveils Perisphere smart headphones to launch in May",
+   "summary": "Ex-Samsung researcher unveils Perisphere smart headphones to launch in May Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnpYV3d4UTRqQlYyRnBFQ29SSVl4TnBfYlRPMG5JbjBKdW1SbVdnNXE0Y2Y4MmUtbFJUb3lhZWRsSzlwMUJSa2szampkMC1odU9XanNiWkIzel8xeUE0VE9US2Y3ZkgxbUl4b2ozQUlZMTZMZm1vcUprd2NhV0dzM0J30gGWAUFVX3lxTE5aclJtSDV4WVVJNTF1d1BITFVrMkROM2hBZ3RxRUtJM2ltVE5CcmF4OXBFX0RLWWZGQllKb2FMTHRpdEphdGo0aEwwa3VLdUE5MGRZQjctWHlRZ2YyMzZ0UVMwTTh6T1JrNDFyN3dzdk1LVTA5VHdySTBWbmFFSVc4VEdqNTNDemJlLWJ4U3UtRFNBak1hQQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T21:00:00.000Z",
+   "date": "2026-11-13",
+   "status": "Upcoming",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnpYV3d4UTRqQlYyRnBFQ29SSVl4TnBfYlRPMG5JbjBKdW1SbVdnNXE0Y2Y4MmUtbFJUb3lhZWRsSzlwMUJSa2szampkMC1odU9XanNiWkIzel8xeUE0VE9US2Y3ZkgxbUl4b2ozQUlZMTZMZm1vcUprd2NhV0dzM0J30gGWAUFVX3lxTE5aclJtSDV4WVVJNTF1d1BITFVrMkROM2hBZ3RxRUtJM2ltVE5CcmF4OXBFX0RLWWZGQllKb2FMTHRpdEphdGo0aEwwa3VLdUE5MGRZQjctWHlRZ2YyMzZ0UVMwTTh6T1JrNDFyN3dzdk1LVTA5VHdySTBWbmFFSVc4VEdqNTNDemJlLWJ4U3UtRFNBak1hQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T10:49:04.794Z"
   },
   {
    "id": "05e8a63e4845",
