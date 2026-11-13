@@ -2,12 +2,298 @@
  "date": "2026-11-13",
  "items": [
   {
+   "id": "73e48f86269c",
+   "title": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available",
+   "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely ",
+   "link": "https://9to5mac.com/2026/11/13/daily-november-13-2026/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-13T18:04:08.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/13/daily-november-13-2026/"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "f403f322e9ea",
+   "title": "Google Rolls Out Fix for Missing Vitals and Fitness Data in Health Platform",
+   "summary": "The post Google Rolls Out Fix for Missing Vitals and Fitness Data in Health Platform appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/google-health-fix-missing-vitals-fitness-data.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/06/Google-Health-Coach-AH-2.jpg",
+   "publishedAt": "2026-11-13T17:21:21.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/google-health-fix-missing-vitals-fitness-data.html"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "ea594b259a8d",
+   "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+   "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. Apple announced the col",
+   "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applehome.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "publishedAt": "2026-11-13T15:22:14.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "The Verge",
+     "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "d4ade6c197c0",
+   "title": "Davido Joins Forces with PUBG MOBILE as PUBG MOBILE FLASH Launches Worldwide",
+   "summary": "Davido Joins Forces with PUBG MOBILE as PUBG MOBILE FLASH Launches Worldwide Punch Newspapers",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSW1tWXlPOWV1ekRrSHI3RlQwczdxVHItTXBiVF84d0JpOVdLNFRSZHhvVFNQTkgtUmRrZWdEak5ySFhaaU1XblRjZi1vRF9vdnJ5S1RpdzBQX1RZOEF1RWg3M3oxODY3UEpMUzNoaU5VUWJ3SHJ2dko0M2x2eWJCdEoxODFia092WjA3TmZiaTljZ2ltLXB3cS1xVkVEZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T15:22:04.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Punch Newspapers",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSW1tWXlPOWV1ekRrSHI3RlQwczdxVHItTXBiVF84d0JpOVdLNFRSZHhvVFNQTkgtUmRrZWdEak5ySFhaaU1XblRjZi1vRF9vdnJ5S1RpdzBQX1RZOEF1RWg3M3oxODY3UEpMUzNoaU5VUWJ3SHJ2dko0M2x2eWJCdEoxODFia092WjA3TmZiaTljZ2ltLXB3cS1xVkVEZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "3776fb1a8daf",
+   "title": "Apple Home’s new video doorbell, smart cameras now available to order",
+   "summary": "Today Apple has launched two Home products: HomeView and a new Apple TV 4K . Additionally, the first three accessories in the Apple Home Collection are now available to order: a video doorbell and two smart home security cameras. more…",
+   "link": "https://9to5mac.com/2026/11/13/apple-homes-new-video-doorbell-smart-cameras-now-available-to-order/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/lg-indoor-camera-apple-home-collection.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-13T15:14:32.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/13/apple-homes-new-video-doorbell-smart-cameras-now-available-to-order/"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "aed2a41074d7",
+   "title": "Xiaomi 18 Pro gets one step closer to launching in India",
+   "summary": "Xiaomi launched the 18 Pro and 18 Pro Max in China back in late September, and the duo is going global on November 17. Now the Xiaomi 18 Pro has taken an important step in its journey towards launching in India as well. The handset's Indian variant, with the model number 2609BPN6",
+   "link": "https://www.gsmarena.com/xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-bis-certified/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-11-13T14:51:02.000Z",
+   "date": "2026-11-13",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472.php"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "265cf008e04e",
+   "title": "New Apple TV 4K and HomeView now available: Here’s everything you need to know",
+   "summary": "The new Apple TV 4K and HomeView smart display are officially available. The first pre-orders have arrived for eager shoppers, and you can now also head to your local Apple Store to buy select configurations. Buy HomeView on Amazon Buy Apple TV 4K (4th generation) on Amazon : Lau",
+   "link": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-08.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-13T13:57:26.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "TV & Entertainment",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "eb6bfaf6f46e",
+   "title": "Select 'Apple Home Collection' Accessories Now Available to Order",
+   "summary": "The first three HomeView -compatible smart home accessories in the Apple Home Collection are available to order starting today, including the LG Indoor Cam ($199.95), LG Outdoor Cam ($299.95), and LG Video Doorbell ($249.95). The remaining accessories from LG and Schneider Home a",
+   "link": "https://www.macrumors.com/2026/11/13/apple-home-collection-orders-begin/",
+   "image": "https://images.macrumors.com/article-new/2026/10/apple-home-collection-feature2.jpg",
+   "publishedAt": "2026-11-13T13:53:31.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "MacRumors",
+     "link": "https://www.macrumors.com/2026/11/13/apple-home-collection-orders-begin/"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "92834bdc2028",
+   "title": "Honor 700 series launch date is official just as a carrier listing reveals most specs",
+   "summary": "Honor already revealed the design of the Honor 700 series last week, and now the company has finally given it a launch date too. The Honor 700, Honor 700 Pro, and Honor 700S will be unveiled in China on November 23 at 2:30 PM local time, and singer and actress Ju Jingyi has been ",
+   "link": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-series-launch-date-specs/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-11-13T13:17:02.000Z",
+   "date": "2026-11-13",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Honor",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "f0512ea03e11",
+   "title": "Samsung's Galaxy AI subscription is dead before it's even arrived",
+   "summary": "Can an AI service survive if nobody actually cares about it?",
+   "link": "https://www.androidpolice.com/galaxy-ai-doesnt-contain-anything-worth-paying-for/",
+   "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/galaxy-ai-on-the-hook.jpg",
+   "publishedAt": "2026-11-13T13:00:10.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Police",
+     "link": "https://www.androidpolice.com/galaxy-ai-doesnt-contain-anything-worth-paying-for/"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "2fa2585913e4",
+   "title": "Ulefone Just Launched Two 'Atom' Mini PCs Starting at $389.99",
+   "summary": "The post Ulefone Just Launched Two 'Atom' Mini PCs Starting at $389.99 appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/ulefone-just-launched-two-atom-mini-pcs-starting-at-389-99.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/11/Ulefone-Atom-3-1.jpg",
+   "publishedAt": "2026-11-13T13:00:02.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Ulefone",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/ulefone-just-launched-two-atom-mini-pcs-starting-at-389-99.html"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "c4a0082c1074",
+   "title": "Samsung Launches Buds On Earbuds and SmartTag3 Tracker",
+   "summary": "Samsung Launches Buds On Earbuds and SmartTag3 Tracker Small Business Trends",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjNScFJ3blVnaTNBSFE0Z3BwUEI2bl80TzBLYVRVc2xOdWpnYW1Lekh1YlFjcmpyb3NvTi1LNWgxMXhGZ0hBbjBPWWg2VTNkYWYyX05CbmRrbjUzenE5dFlvVWgxY1FsR1oxX1RMZGNkNWRVQzJ3ZUNXU05rSklhTmI5X21JUlRIUWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T12:41:00.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Small Business Trends",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjNScFJ3blVnaTNBSFE0Z3BwUEI2bl80TzBLYVRVc2xOdWpnYW1Lekh1YlFjcmpyb3NvTi1LNWgxMXhGZ0hBbjBPWWg2VTNkYWYyX05CbmRrbjUzenE5dFlvVWgxY1FsR1oxX1RMZGNkNWRVQzJ3ZUNXU05rSklhTmI5X21JUlRIUWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "384a70834c4c",
+   "title": "HONOR 700 series rear display, 9000mAh battery to be introduced on November 23",
+   "summary": "HONOR has officially revealed details regarding its upcoming HONOR 700 series smartphone lineup, after teasers. Through announcements made on Weibo by CEO Li Jian and Global Chief Marketing Officer Guan Haitao, the company confirmed that the new products will be launched at a ded",
+   "link": "https://www.fonearena.com/blog/496975/honor-700-series-launch-date.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/HONOR-700-series-launch-date-1024x457.jpg",
+   "publishedAt": "2026-11-13T11:21:49.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Honor",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496975/honor-700-series-launch-date.html"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
    "id": "27c71993e31c",
    "title": "Apple Launches Two Products Today",
    "summary": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have been available to pre-order since mid-October. Apple HomeView : Apple's new smart home display, powered by Apple Intelligence with ",
    "link": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
    "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
-   "publishedAt": "2026-11-13T10:37:25.000Z",
+   "publishedAt": "2026-11-13T10:37:14.000Z",
    "date": "2026-11-13",
    "status": "Launched",
    "category": "Other gadget",
@@ -22,6 +308,28 @@
     }
    ],
    "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "79eec68e73f7",
+   "title": "TCL CSOT Unveils 16-Inch Inkjet OLED Laptop Panel With 2mm Bezels; 8.6-Gen Mass Production Set for Q4 2027",
+   "summary": "TCL CSOT Unveils 16-Inch Inkjet OLED Laptop Panel With 2mm Bezels; 8.6-Gen Mass Production Set for Q4 2027 BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMHd2WmxhTjdOSTlaYjBWUlJLU2N1c3pmV00zdkRfb1U0dDl1NUZtSjZlMFJjUXpib0J2VkhQNHNsQVM0TlByMENjX1hJR21raVpGVERaS2lzOVpuTlBnSDVUMnpsLUJEelZ2TE9NTk9ibm5MTUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T10:25:00.000Z",
+   "date": "2026-11-13",
+   "status": "Upcoming",
+   "category": "TV & Entertainment",
+   "brand": "TCL",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMHd2WmxhTjdOSTlaYjBWUlJLU2N1c3pmV00zdkRfb1U0dDl1NUZtSjZlMFJjUXpib0J2VkhQNHNsQVM0TlByMENjX1hJR21raVpGVERaS2lzOVpuTlBnSDVUMnpsLUJEelZ2TE9NTk9ibm5MTUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
   },
   {
    "id": "7539deb9ba38",
@@ -46,6 +354,28 @@
    "firstSeen": "2026-11-13T10:49:04.794Z"
   },
   {
+   "id": "e8289e9ec619",
+   "title": "North Korea Unveils Foldable Phone Echoing Samsung, Huawei Designs",
+   "summary": "North Korea Unveils Foldable Phone Echoing Samsung, Huawei Designs Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVJGQWRhOXh5aEdEQVVvZDczOERLTjBtNmV3bEVtcVZEZnJzVlg0cGEyM2tqWlhuQWdxUV9heWNTX2MwMGpTdmRGNTJvcnJSNnJseWc5Zi1aNWo1R0YwZFc0aHptMkdmMGEtZDFRd2lZdm5YYk5rV1QtaklRSm1LbHhSdTVoZWJQVFNGYjRXQXRobU5VYXk3azlFYkRoZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T09:39:47.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "South Korea",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Seoul Economic Daily",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVJGQWRhOXh5aEdEQVVvZDczOERLTjBtNmV3bEVtcVZEZnJzVlg0cGEyM2tqWlhuQWdxUV9heWNTX2MwMGpTdmRGNTJvcnJSNnJseWc5Zi1aNWo1R0YwZFc0aHptMkdmMGEtZDFRd2lZdm5YYk5rV1QtaklRSm1LbHhSdTVoZWJQVFNGYjRXQXRobU5VYXk3azlFYkRoZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
    "id": "afff374292e6",
    "title": "Portronics Luxcell 100R 100W 20000mAh power bank with retractable Type-C cable, PD 3.0 and PPS launched",
    "summary": "Portronics has launched the Luxcell 100R, a new 20,000mAh power bank in India. It delivers up to 100W output through its Type-C port to charge compatible laptops, tablets and smartphones. The built-in 70cm retractable Type-C cable extends when needed and retracts into the body wh",
@@ -66,6 +396,28 @@
     }
    ],
    "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "e0847e7c4f01",
+   "title": "Lenovo unveils custom edition of its flagship compact gaming tablet",
+   "summary": "Lenovo unveils custom edition of its flagship compact gaming tablet Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0RnaTNQSkRUV2NjVmt2MTBVUTVQT3BnclNlTU54M203UU44c2FoYTRrR192enVoMFVYZDlwZlVjMTVCRGRlWkVWQ2czRDljX2g3UE9OWlpxS3ZnQWJiMnlma2FmOElwaVJKdklZY0kwcmZmeXMxN2FsRnczSXVGeWJfbWxxUkdWT0ZUaGc3S1J6bWJRdktRczJGaFZmUGdxZ290SnVkdThzRXc4SnFqeFJR?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T08:42:00.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "Lenovo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0RnaTNQSkRUV2NjVmt2MTBVUTVQT3BnclNlTU54M203UU44c2FoYTRrR192enVoMFVYZDlwZlVjMTVCRGRlWkVWQ2czRDljX2g3UE9OWlpxS3ZnQWJiMnlma2FmOElwaVJKdklZY0kwcmZmeXMxN2FsRnczSXVGeWJfbWxxUkdWT0ZUaGc3S1J6bWJRdktRczJGaFZmUGdxZ290SnVkdThzRXc4SnFqeFJR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
   },
   {
    "id": "abee276c37fc",
@@ -110,6 +462,36 @@
     }
    ],
    "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "6a7d4b53e8cd",
+   "title": "Huawei announces Sense G1 as company’s first continuous glucose monitor",
+   "summary": "Huawei has officially unveiled the Huawei Sense G1, its first continuous glucose monitoring (CGM) device. It is an arm-worn sensor that tracks glucose levels throughout the day and night. It can alert users when readings fall outside normal ranges, and you can check your numbers ",
+   "link": "https://www.gizmochina.com/2026/11/13/huawei-announces-sense-g1-as-companys-first-continuous-glucose-monitor/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Huawei-Sense-G1-Launch-Specs-Price-300x200.jpg?x64146",
+   "publishedAt": "2026-11-13T07:15:57.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/13/huawei-announces-sense-g1-as-companys-first-continuous-glucose-monitor/"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVC1CejBEUmlYdnRtbjdjQTFmNmR1ZFpXVHRQU2pialRHUVc2LUJUOURpTnNiY2NLbllFZkhxSkRVMFRycXkyTVR1OTdhWC1FUE5CckpTTG4wWW8xaGV5bXB1RnFSaHNvclNlY1lDWnBYTE9VMzYtS1N6RzZJYl8ybGp0ajRhNm1QRGw3NXJRbm1NbmxjS1ZoSTItNTVTMC1OYTQ2UWhsaHYyQjcyRGtLTHh5SUo1aDY5eVE?oc=5"
+    },
+    {
+     "name": "Pandaily",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb24xd281N080cjE5dG8yYUlNckJXVjRwTk14VzdHRkdmVGd5QzVCMktCdkNpNjBJNnhTUUQzV3dOcGRGTkx0ekhpb055RzFTUHRZbVRMYmFaeWhtc2dnVVhzSmlMZE9Rd0dWTHZGNFl2T3czaDZ4V0JQOXEwRmVndGdLQzFWd0l0?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
   },
   {
    "id": "1754ddc943c1",
@@ -222,6 +604,28 @@
    "firstSeen": "2026-11-13T10:49:04.794Z"
   },
   {
+   "id": "a8090b966024",
+   "title": "CanCham Launches Mobile Summit Navigator to Help Visitors Navigate Summit Week",
+   "summary": "CanCham Launches Mobile Summit Navigator to Help Visitors Navigate Summit Week Cambodia Investment Review",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkI4Q2lDbjVFcXItd2U5cTV5OFR5TDNKTTl4U2kyWFVjdnZha19RbjJ2U3V6VjVSSkhhdlRYeVpHdjRrS0I3Qk5jT1JkZEs1bUhOQ0d2SXNEMFBEb05DM1JleElxZzBFYTA2VGlfYXdNdkZTNzY4WUZZLWx0dEJVZWxWdzcyRTlicWxyelNGNE9xWDNCdFl3MGZFTkRZYmxERGQ2aFlzODcwVHE4U0hibHNvdXg5R0ROcmpiX0MwWTlTY0hGckE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T04:50:29.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Cambodia Investment Review",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkI4Q2lDbjVFcXItd2U5cTV5OFR5TDNKTTl4U2kyWFVjdnZha19RbjJ2U3V6VjVSSkhhdlRYeVpHdjRrS0I3Qk5jT1JkZEs1bUhOQ0d2SXNEMFBEb05DM1JleElxZzBFYTA2VGlfYXdNdkZTNzY4WUZZLWx0dEJVZWxWdzcyRTlicWxyelNGNE9xWDNCdFl3MGZFTkRZYmxERGQ2aFlzODcwVHE4U0hibHNvdXg5R0ROcmpiX0MwWTlTY0hGckE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
    "id": "cc9a16048558",
    "title": "WHOOP Humans peer-to-peer social feature introduced",
    "summary": "WHOOP has announced the rollout of WHOOP Humans, a new social connectivity feature integrated directly into the WHOOP mobile app. The update enables users to connect with friends and family, share selected biometric metrics, post visual updates, and interact via comments and reac",
@@ -286,6 +690,28 @@
     }
    ],
    "firstSeen": "2026-11-13T10:49:04.794Z"
+  },
+  {
+   "id": "00e9cb400849",
+   "title": "Apple HomeView Launches at $299: A18 Chip, 7-Inch Liquid Retina Display, and Specs",
+   "summary": "Apple HomeView Launches at $299: A18 Chip, 7-Inch Liquid Retina Display, and Specs PaidFreeDroid",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWRvUWtjQnh6X24tVlg2eXdXVmo5OFptVEQ2Q3FLQmZqYWZfTmdiSWxWWU96YkxWZkFoUVQ0X2FOX3RHZlR6UmN2WjhNZW0taS13RjdTRFZ2R3NJUmJjQ2ZSUVBKOW9RNWpDd0g1LXJuQlNPRDMyWmEwVUlVbUlQbjRhbWhNSXBx0gGOAUFVX3lxTE9PUDlpNm9teTI3UXdvbWJGUjZMRE5DU0FfdW94RXRaQzNsQ2d2VTRpZ2xOLWNCWWg4dU1nS1RqTU5OaVRXSmt5VEFVNC1tWnNCUTl6NVZQZHREV3RZeVplbVhDTjhHUUFzdmhRbFhSbkljanB1cVo2eUlPMGktUFdBRzNwX2ZBNTdmVjQtdUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-13T04:24:48.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWRvUWtjQnh6X24tVlg2eXdXVmo5OFptVEQ2Q3FLQmZqYWZfTmdiSWxWWU96YkxWZkFoUVQ0X2FOX3RHZlR6UmN2WjhNZW0taS13RjdTRFZ2R3NJUmJjQ2ZSUVBKOW9RNWpDd0g1LXJuQlNPRDMyWmEwVUlVbUlQbjRhbWhNSXBx0gGOAUFVX3lxTE9PUDlpNm9teTI3UXdvbWJGUjZMRE5DU0FfdW94RXRaQzNsQ2d2VTRpZ2xOLWNCWWg4dU1nS1RqTU5OaVRXSmt5VEFVNC1tWnNCUTl6NVZQZHREV3RZeVplbVhDTjhHUUFzdmhRbFhSbkljanB1cVo2eUlPMGktUFdBRzNwX2ZBNTdmVjQtdUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
   },
   {
    "id": "a2b49aeb60df",
@@ -418,6 +844,50 @@
     }
    ],
    "firstSeen": "2026-11-13T01:45:45.035Z"
+  },
+  {
+   "id": "4366a96c0498",
+   "title": "MSP Airport launches mobile heart-lung life support unit for cardiac emergencies",
+   "summary": "MSP Airport launches mobile heart-lung life support unit for cardiac emergencies FOX 9 Minneapolis-St. Paul",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTRTaDVITkgzWEFpSVJWeE05Q2tyXzFlSUhma216eTlsTFZPOXYwOU1qMTYyT3YzN19JY25Tdi1XRW9TYWw3bkdvWjVGeU9CWnh5UE9nLUFhSmE4amlkN0RFb3RHVXJ1U3BOdmRBLUlUUW1lNUlOa0ZKY0phUVk2Vm5TRmdnbExTeHg0VllGVjU3MkdaX3N6cHZXYWszVk1BdkR6Y1hxTQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T23:10:04.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "FOX 9 Minneapolis-St. Paul",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTRTaDVITkgzWEFpSVJWeE05Q2tyXzFlSUhma216eTlsTFZPOXYwOU1qMTYyT3YzN19JY25Tdi1XRW9TYWw3bkdvWjVGeU9CWnh5UE9nLUFhSmE4amlkN0RFb3RHVXJ1U3BOdmRBLUlUUW1lNUlOa0ZKY0phUVk2Vm5TRmdnbExTeHg0VllGVjU3MkdaX3N6cHZXYWszVk1BdkR6Y1hxTQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
+  },
+  {
+   "id": "cc87b30fc68e",
+   "title": "Minister launches mobile one-stop shops, hands over 10 vehicles to states",
+   "summary": "Minister launches mobile one-stop shops, hands over 10 vehicles to states Nigerian NewsDirect",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3k4Ymt6NHVsTnJtcGFCbEpMcTIxUC14YU1ib3pfLVZ3MWdWVjh4NWNJWXJiQVVmNGduSGlKY3cwcUxJZXc0X2s1NHN5Sll6bkZzeTRYVm1lQk8ydWF5Yl9PNE1Ra0dTb3QwcXNDS2dvVXNyYVo4cEhfUDIzb28tS1FMWDVMekE2ZzczQTU1TEM2eVJrM2dvdjU4R25BNGtxbXo5NDJ6Zw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T22:54:00.000Z",
+   "date": "2026-11-13",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Nigerian NewsDirect",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3k4Ymt6NHVsTnJtcGFCbEpMcTIxUC14YU1ib3pfLVZ3MWdWVjh4NWNJWXJiQVVmNGduSGlKY3cwcUxJZXc0X2s1NHN5Sll6bkZzeTRYVm1lQk8ydWF5Yl9PNE1Ra0dTb3QwcXNDS2dvVXNyYVo4cEhfUDIzb28tS1FMWDVMekE2ZzczQTU1TEM2eVJrM2dvdjU4R25BNGtxbXo5NDJ6Zw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T19:31:37.974Z"
   },
   {
    "id": "d8e0a7821142",

@@ -371,10 +371,10 @@
   },
   {
    "id": "a16fe4ceb7f4",
-   "title": "Vivo Watch GT 2 Display, Battery Life and Colours Confirmed Ahead of India Launch",
-   "summary": "Vivo Watch GT 2 Display, Battery Life and Colours Confirmed Ahead of India Launch My Mobile India",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHQwQnR2LVJvN01EZXVEZzlJcVo2aDA2QzVHb1lvMTlxNmkxTk5CeVlKU3Z6ME1pT1hieXBYQ0V4S2Rka2xnNE9BTXA0WUZmTldqOFg5OGVqMXAxSEtvY29mWjFiVGVRaEJueUp6MnZNSjNuUXVZbDhiREZUSVp2VTZPZXl0Wlpla2tNanZfeVdoa0lQdkRTM1JudWkySm5kSjdKTkR6Y1FHSW56aXkwQg?oc=5",
-   "image": "",
+   "title": "Vivo Watch GT 2 Features Officially Revealed Ahead of India Launch",
+   "summary": "Ahead of its official launch in India, Vivo has revealed the features of its first smartwatch, called the Watch GT 2. The Watch GT2 was recently launched in China alongside the Vivo X500 series and is now making its way to India. Its key highlights include a large display, plenty",
+   "link": "https://www.gadgets360.com/wearables/news/vivo-watch-gt-2-features-officially-revealed-ahead-of-india-launch-12322356",
+   "image": "https://i.gadgets360cdn.com/large/vivo_watch_gt2_main_big_gadgets_360_1794569695096.jpg",
    "publishedAt": "2026-11-11T12:28:53.000Z",
    "date": "2026-11-11",
    "status": "Upcoming",
@@ -382,11 +382,15 @@
    "brand": "Vivo",
    "region": "India",
    "confidence": 2,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "My Mobile India",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHQwQnR2LVJvN01EZXVEZzlJcVo2aDA2QzVHb1lvMTlxNmkxTk5CeVlKU3Z6ME1pT1hieXBYQ0V4S2Rka2xnNE9BTXA0WUZmTldqOFg5OGVqMXAxSEtvY29mWjFiVGVRaEJueUp6MnZNSjNuUXVZbDhiREZUSVp2VTZPZXl0Wlpla2tNanZfeVdoa0lQdkRTM1JudWkySm5kSjdKTkR6Y1FHSW56aXkwQg?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/vivo-watch-gt-2-features-officially-revealed-ahead-of-india-launch-12322356"
     }
    ],
    "firstSeen": "2026-11-11T19:30:09.267Z"
