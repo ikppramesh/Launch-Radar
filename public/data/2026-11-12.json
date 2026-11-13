@@ -24,6 +24,28 @@
    "firstSeen": "2026-11-12T19:48:46.150Z"
   },
   {
+   "id": "1a7f57bb2cbe",
+   "title": "Helio launches new smartphone",
+   "summary": "Helio launches new smartphone The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmRXNDI3d3BaZFJKc2NZV0ZEWU1YMFdfWlFGeTdoQWFYZHlORHFtMFk1bF9oRG9kR1oyRzZlelNNY2FxWDBKQnl4S2JIOTFUM2xDWXFPRkIyLWx4X19SQk5WV3Z4ejdKQVFldm94b0phSm93VHdHUVludS12em55S0xoQXVUdUJyaWp4SWl0VWt4WlhWV1BQc3dpM1NVVVYyM3hQLWhB0gGmAUFVX3lxTE1iZFc0Mjd3cFpkUkpzY1lXRkRZTVgwV19aUUZ5N2hBYVhkeU5EcW0wWTVsX2hEb2RHWjJHNmV6U01jYXFYMEpCeXhLYkg5MVQzbENZcU9GQjItbHhfX1JCTlZXdnh6N0pBUWV2b3hvSmFKb3dUd0dRWW51LXZ6bnlLTGhBdVR1QnJpanhJaXRVa3haWFZXUFBzd2kzU1VVVjIzeFAtaEE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-12T18:00:00.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Financial Express",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmRXNDI3d3BaZFJKc2NZV0ZEWU1YMFdfWlFGeTdoQWFYZHlORHFtMFk1bF9oRG9kR1oyRzZlelNNY2FxWDBKQnl4S2JIOTFUM2xDWXFPRkIyLWx4X19SQk5WV3Z4ejdKQVFldm94b0phSm93VHdHUVludS12em55S0xoQXVUdUJyaWp4SWl0VWt4WlhWV1BQc3dpM1NVVVYyM3hQLWhB0gGmAUFVX3lxTE1iZFc0Mjd3cFpkUkpzY1lXRkRZTVgwV19aUUZ5N2hBYVhkeU5EcW0wWTVsX2hEb2RHWjJHNmV6U01jYXFYMEpCeXhLYkg5MVQzbENZcU9GQjItbHhfX1JCTlZXdnh6N0pBUWV2b3hvSmFKb3dUd0dRWW51LXZ6bnlLTGhBdVR1QnJpanhJaXRVa3haWFZXUFBzd2kzU1VVVjIzeFAtaEE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T01:45:45.035Z"
+  },
+  {
    "id": "c4a5a482dab0",
    "title": "Whoop launches Strava-like 'Humans' network for subscribers",
    "summary": "Whoop is going social with the introduction of Whoop Humans — here's everything you need to know.",
@@ -449,6 +471,10 @@
     {
      "name": "Daily Express",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenR6VUluOTUtSGRUbFF6UlJ4d0lybi1Ub2dzdl8tOWJ2ejdTVl9JTDNOU192T0lTYkNRek90aXNMRkdUV2dUVkVEVG9qVVdEcmRsNEMyaTREeXFrdVJEaUlDMzAtY1RrS3hsSjBFamF4N0xyTU9za0s1dXhVWThOcW84UTQyUHNTRmp0b1V6eXFiNlJtMlFoWWZ1WdIBoAFBVV95cUxQTk9tNGFmU0VHeGJxY3VVQ3FsaWxkQW44VThRX3pZOWxnakY2Zjl6YS1IcF9hV18yVDRVOEdpRkNKX3pBNEdESzJsX1FibXJEZGx2czVDNU0yQ0ZVdXNucTVMQkNDWnpLLVJHUDE1NThPTHFhS0lmVHp4cjB3RkRFQWk2R24xTTNwMm5mckdEUlhpajBtMi0zbXdVNldiQU5v?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnBIYWxkOWxSZ1puNXV4QXNlWlFNQm9TdTZJcTR1S19BT29xVThNMHJFeXdvZzBwU1M5UURfSkx1aVZ6NS1TZEtzVGJnSTRkODhXYTFVSHlhLXYyUDFsa2huOHhZRmxBR0pONjZROHd1R0hBcUwzOFI4Z1lCemxReFZjMWxmUQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-12T10:53:02.462Z"
@@ -1076,6 +1102,28 @@
     }
    ],
    "firstSeen": "2026-11-12T02:12:24.556Z"
+  },
+  {
+   "id": "f0c6e9b39214",
+   "title": "Mouse X2 entry-level Ryzen 5 laptop goes on sale in Japan",
+   "summary": "Mouse X2 entry-level Ryzen 5 laptop goes on sale in Japan news.lavx.hu",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQVNHRnRwYm55enpIWDljMS1NNFpER1IzaURfa1VZRWc0c1ZPNl9zUHJySklndzFvVVh4aVFWU0lxSDR5YUFXWGt3b0VoQ0V5U0tuQUJFa3FiOHB4U1VUbkROMEVZd2Mzb3kwQmZWcXd2VnpGaC0tSGM5S0Rkczl3aWx3djZwWC1ZOTdYRVpDRQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-11T20:10:41.000Z",
+   "date": "2026-11-12",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQVNHRnRwYm55enpIWDljMS1NNFpER1IzaURfa1VZRWc0c1ZPNl9zUHJySklndzFvVVh4aVFWU0lxSDR5YUFXWGt3b0VoQ0V5U0tuQUJFa3FiOHB4U1VUbkROMEVZd2Mzb3kwQmZWcXd2VnpGaC0tSGM5S0Rkczl3aWx3djZwWC1ZOTdYRVpDRQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-13T01:45:45.035Z"
   },
   {
    "id": "4e3ce9e663cd",
