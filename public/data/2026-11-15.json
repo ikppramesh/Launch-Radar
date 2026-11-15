@@ -2,6 +2,50 @@
  "date": "2026-11-15",
  "items": [
   {
+   "id": "31cb4160b412",
+   "title": "Sony launches new flagship XM6 headphones: Order them now",
+   "summary": "Sony launches new flagship XM6 headphones: Order them now Mashable",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtRFY0bl9pVlkxNFpvVmlnNE9zTC01VVVhdy12N0Jscnlfd09vaTgxS2R5Vzh5Qzh1OENBb0hDdWJsd1ZzNFZFREJTNV9EeUsxSURVcW9rT28tdklIa3BYZnJBZmd1OHY4a2RnY0JB?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-15T17:26:13.000Z",
+   "date": "2026-11-15",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtRFY0bl9pVlkxNFpvVmlnNE9zTC01VVVhdy12N0Jscnlfd09vaTgxS2R5Vzh5Qzh1OENBb0hDdWJsd1ZzNFZFREJTNV9EeUsxSURVcW9rT28tdklIa3BYZnJBZmd1OHY4a2RnY0JB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-15T22:43:23.848Z"
+  },
+  {
+   "id": "c1afdb321dd2",
+   "title": "Shokz Launches OpenDots 2 and OpenDots Air Earbuds for Music Fans",
+   "summary": "Shokz Launches OpenDots 2 and OpenDots Air Earbuds for Music Fans RS Web Solutions",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTFOeXZ0YW41aFRjWHZMR3BVY0hDckNCd3dlS0toZkhoOXN1NG12QkZLWFBKRzh0czV4TWlSQWo4cjllOTg5Um5IRHZXdnY0eU1sMUpWaVR4d1BjcmFSOXAwXzhoMkJ6NEt6aERMcmNMMlRyWml3eU5zMzNnYXhWSjZHd19CbmM4azNCeVVmekFOQzRKaEFMZ0ZmbFV6Sm9yQWVaam01cUQ0WjlyQVRxREYzUHpyUFNqN2ZLbA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-15T17:00:00.000Z",
+   "date": "2026-11-15",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Shokz",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "RS Web Solutions",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTFOeXZ0YW41aFRjWHZMR3BVY0hDckNCd3dlS0toZkhoOXN1NG12QkZLWFBKRzh0czV4TWlSQWo4cjllOTg5Um5IRHZXdnY0eU1sMUpWaVR4d1BjcmFSOXAwXzhoMkJ6NEt6aERMcmNMMlRyWml3eU5zMzNnYXhWSjZHd19CbmM4azNCeVVmekFOQzRKaEFMZ0ZmbFV6Sm9yQWVaam01cUQ0WjlyQVRxREYzUHpyUFNqN2ZLbA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-15T22:43:23.848Z"
+  },
+  {
    "id": "0719fc0bd494",
    "title": "Citizen launches new Promaster Land GMT watch featuring Eco-Drive and sapphire crystal",
    "summary": "Citizen has just released a new version of its Promaster Land GMT in the US and the UK. It’s a straightforward, solar-powered travel watch that avoids the bulk usually associated with the company’s outdoor-focused Promaster line. You can pick it up now directly from Citizen’s web",
@@ -57,7 +101,7 @@
    "category": "Smartphone",
    "brand": "Apple",
    "region": "Global",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": true,
    "sources": [
     {
@@ -117,7 +161,7 @@
    "summary": "KB Kookmin Bank launches mobile service for inheritance deposits up to 10 million won : Finance : JKN 재경일보",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lUEo4OW1CZU83ZklNajItQmJBRExDS19xTGpqRWtXOWFzTXJvRXktc3lzaXI1WFFLckVibG92TGU4ajV6RUJibFVNQkkwUnFmUlZ2OG5POUJZd195RXFZZzlR?oc=5",
    "image": "",
-   "publishedAt": "2026-11-15T12:50:03.000Z",
+   "publishedAt": "2026-11-15T12:44:20.000Z",
    "date": "2026-11-15",
    "status": "Launched",
    "category": "Smartphone",
@@ -129,6 +173,10 @@
     {
      "name": "재경일보",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lUEo4OW1CZU83ZklNajItQmJBRExDS19xTGpqRWtXOWFzTXJvRXktc3lzaXI1WFFLckVibG92TGU4ajV6RUJibFVNQkkwUnFmUlZ2OG5POUJZd195RXFZZzlR?oc=5"
+    },
+    {
+     "name": "디지털투데이",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMERWVDZ4WWdycnJJaFViOGJudWl2OUlTRVdRS0VXNnBzYjNkRXdlTExHSDc4bXFkS0dRSHFSREUwUFF6Z3FZLXFBV1ZXaVJIaDI1N3hwQlp2UEhCejBMSG9ZTC1CVWpBaEtSZUFKblhrUHE5UkpnLWoyZ1dTVjJfSnUtTldHZmFjNzc4MjJVa2VXZU9UOXhDMVlTQ01mRkNpR0xaTXpObHByLXhaWDNSOFRlQTRnUGdza3ZndUJ5RUNjUWJzRTd1cWI2TllaOFZQRU9rZ0hVN3kwUTA?oc=5"
     }
    ],
    "firstSeen": "2026-11-15T16:15:16.961Z"
@@ -176,6 +224,28 @@
     }
    ],
    "firstSeen": "2026-11-15T16:15:16.961Z"
+  },
+  {
+   "id": "8c2e30b6bffd",
+   "title": "New Samsung Galaxy A27: Official Introduction | Launch Date + Price, Specs, Features! Phones 2026! Joe Gelhardt (46C8xfPmG3)",
+   "summary": "New Samsung Galaxy A27: Official Introduction | Launch Date + Price, Specs, Features! Phones 2026! Joe Gelhardt (46C8xfPmG3) Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTFETkhxY2hVRVNNTkZHVU16eXFMYUNFWTkyamFpdXFQXzFKMTVHTklQVVhCT2Y1WnprZS1ua0hSRURVWG1wXzZ2OVEtQlo4S20yU1BQNklOaFhYZkNiVUtlbHBFWS1RWGxTcjJRdUVKYTdCTUZ6RWRWQzZYd25hdVJ3?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-15T10:29:38.000Z",
+   "date": "2026-11-15",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Samsung",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Unisba Media",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTFETkhxY2hVRVNNTkZHVU16eXFMYUNFWTkyamFpdXFQXzFKMTVHTklQVVhCT2Y1WnprZS1ua0hSRURVWG1wXzZ2OVEtQlo4S20yU1BQNklOaFhYZkNiVUtlbHBFWS1RWGxTcjJRdUVKYTdCTUZ6RWRWQzZYd25hdVJ3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-15T22:43:23.848Z"
   },
   {
    "id": "81e9f317d2ec",
@@ -233,12 +303,16 @@
    "category": "Smartphone",
    "brand": "Apple",
    "region": "Global",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "Udaipur Kiran",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xkUkhWcWRVeVIwY3Z2TVZwMHJhZnpZYVBrRENGeHoyT1NCcy1nZC1FakQzYUFkVTlJOWx4djh1RTUyQXVZRTBIY0IzbHp0M0E4ZmIxelNoN1JQSEU3NERfZHNibU4xR0dObU16UVh1aHlHeWV4Y29yRlFYSzFtOA?oc=5"
+    },
+    {
+     "name": "RS Web Solutions",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVVqRkRoTkFiaFhVNXFmWU1DdFBscUFiTW5KSEJKOUNQRUM2RHdVR1E1YVF3cnVsU2JtTlhRWFUxTEh5MXBNZHltYW95dWhNS3NzeXhJaHhzQmhFcTM3TjhjOHJoU2F0a3YwdWVPQVFoeTVQNzFmeFlrSzM3Mko5QVl5VmxlZEVoZnBrcWFKZEU5M0JRT3JUVUZsRUU?oc=5"
     }
    ],
    "firstSeen": "2026-11-15T16:15:16.961Z"
