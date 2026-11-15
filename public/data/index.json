@@ -1,18 +1,18 @@
 {
- "lastRefresh": "2026-11-14T22:59:33.833Z",
+ "lastRefresh": "2026-11-15T06:10:15.197Z",
  "timezone": "Asia/Kolkata",
- "tookMs": 2493,
+ "tookMs": 2442,
  "feedsOk": 51,
  "feedsTotal": 54,
- "added": 1,
+ "added": 9,
  "days": [
   {
    "date": "2026-11-15",
-   "count": 1
+   "count": 6
   },
   {
    "date": "2026-11-14",
-   "count": 26
+   "count": 29
   },
   {
    "date": "2026-11-13",
@@ -20,7 +20,7 @@
   },
   {
    "date": "2026-11-12",
-   "count": 59
+   "count": 60
   },
   {
    "date": "2026-11-11",
@@ -295,17 +295,17 @@
   {
    "name": "Google News US",
    "ok": true,
+   "count": 24
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
+   "count": 29
+  },
+  {
+   "name": "Google News US",
+   "ok": true,
    "count": 27
-  },
-  {
-   "name": "Google News US",
-   "ok": true,
-   "count": 30
-  },
-  {
-   "name": "Google News US",
-   "ok": true,
-   "count": 26
   },
   {
    "name": "Google News US",
@@ -320,117 +320,117 @@
   {
    "name": "Google News IN",
    "ok": true,
-   "count": 27
+   "count": 24
   },
   {
    "name": "Google News IN",
-   "ok": true,
-   "count": 30
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 26
-  },
-  {
-   "name": "Google News IN",
-   "ok": true,
-   "count": 25
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 29
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 27
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 30
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 25
-  },
-  {
-   "name": "Google News GB",
-   "ok": true,
-   "count": 26
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 29
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 26
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 29
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 27
-  },
-  {
-   "name": "Google News SG",
-   "ok": true,
-   "count": 27
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 29
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 27
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 31
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 27
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 26
-  },
-  {
-   "name": "Google News CA",
    "ok": true,
    "count": 28
   },
   {
-   "name": "Google News CA",
+   "name": "Google News IN",
+   "ok": true,
+   "count": 26
+  },
+  {
+   "name": "Google News IN",
+   "ok": true,
+   "count": 24
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 29
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 24
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 29
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 27
+  },
+  {
+   "name": "Google News GB",
+   "ok": true,
+   "count": 26
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 29
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 24
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 28
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 27
+  },
+  {
+   "name": "Google News SG",
+   "ok": true,
+   "count": 26
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 29
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 23
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 29
+  },
+  {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 27
+  },
+  {
+   "name": "Google News AU",
    "ok": true,
    "count": 27
   },
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Google News CA",
    "ok": true,
-   "count": 26
+   "count": 23
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 29
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 27
   },
   {
    "name": "Google News CA",

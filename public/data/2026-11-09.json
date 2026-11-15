@@ -678,13 +678,17 @@
    "status": "Upcoming",
    "category": "Smartphone",
    "brand": "Vivo",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
    "aggregator": true,
    "sources": [
     {
      "name": "Kalinga TV",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2txWmVEazdBRWp6bDdBWFZHM3V1SmFydkZ6aWM4OV9DSWpiSjFjbU00LWk2WlJHdnp0RkljR0JtMDA0OG5pUFFzQ3BXVkZkUXkxcVBwRUhXUlNUcmhWMEJ6SjM5eGJvM2ZweWtULWllTS1vMHAtTTVtUW9WbExDME1oVk5uNkxHeWNxMjRmc281cWlTMGxDaUNrVFFWdWlwTHlUMXFR?oc=5"
+    },
+    {
+     "name": "illustrated Daily News",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVNxdHhpeUlnalV5alhZYjFZa2ZhVjBiYWZXQlpEdkJhZWU0QkJubjZXODJmX1hlRTJ3SHh1QktzRzhsOGI4TlFpSzFJTFdLaGkyZW5lNXd5Y0s0SUplekJkQm1uVjNGeFNsREdubk5xbHpQMWE4aWRaZlMxZEV6RXJreG9TNTBPMHluNmhRdGpxRXU4SXA2WFM0c2YxQ2tReHNiMExlb0tIU3UwRU5UVFdicnc1cXVXLXc00gHAAUFVX3lxTE9zWm9jYW45VWhsbVpBWUF4ckR2M0hXT29QZkhRYXlBOGZBVlByNEhCNmxGWjEwcjdtSGtNcG4wcEtMcE1hRmFuX3RjR3FKeXdrclUtRk93Qkd5dDFVdl84Nms2d3ZrMkZCVGExT0RjOEZOMV9sWnNoSV9KM0o1d2dNV3N5Z0ZyWWxRd1FKelJ1a29NLXZJbTRFQWdIZzh2YzMxNzY3Ty1fLWU0ZTVlbGlsTV82T19pN01pYXlRWDAwUg?oc=5"
     }
    ],
    "firstSeen": "2026-11-09T15:59:11.152Z"
