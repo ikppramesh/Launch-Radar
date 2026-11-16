@@ -2,6 +2,872 @@
  "date": "2026-11-16",
  "items": [
   {
+   "id": "e5b9c82c022c",
+   "title": "Apple․com now available in Spanish for US users",
+   "summary": "Apple is making a notable change to Apple․com. Starting today, users in the United States can now browse the Apple website in Spanish. more…",
+   "link": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CleanShot-2026-11-16-at-1.08.06-PM@2x.png?w=1600",
+   "publishedAt": "2026-11-16T18:21:12.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "USA",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Mac",
+     "link": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "d2929c0a8c59",
+   "title": "PUBG Mobile Flash Launches Worldwide as a Lightweight Version of PUBG Mobile",
+   "summary": "PUBG Mobile Flash Launches Worldwide as a Lightweight Version of PUBG Mobile Pokde.Net",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1menJ4ckpwMGNkendPemRBSU5DakpxWDN5WVVhcGFmb2dkVEhwNkpnNlVGUFBCU1BqWDBTMnNlWndhYTBMV203eWRrQlJ1TGtBVWl1bXduUDFLMnY2S0owOV9TMlhmejhLQ3JRZVVwQVk0dnZWNDBqZTB3?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T18:04:18.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Pokde.Net",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1menJ4ckpwMGNkendPemRBSU5DakpxWDN5WVVhcGFmb2dkVEhwNkpnNlVGUFBCU1BqWDBTMnNlWndhYTBMV203eWRrQlJ1TGtBVWl1bXduUDFLMnY2S0owOV9TMlhmejhLQ3JRZVVwQVk0dnZWNDBqZTB3?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "ba4d40573f02",
+   "title": "Linux smartphone with 8-core RISC-V chip and 8 GB RAM goes official with hefty price tag",
+   "summary": "Linux smartphone with 8-core RISC-V chip and 8 GB RAM goes official with hefty price tag Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVTFGZC1KNTZkWVU3ZnFmcmcyTkROdWd2dlZieHpVaWFlbmttdmZweGl3aTVIWXM1WG5IS3dDaUtNYVh4azhlZk53SzJLSXdfclh4ckNQeHhGNmRqNnFIZGNTQ09qdGt3TDduWVpYamJZaWJMZmU1bmdXNGlGUUpRSmp2bHZFbnc1c3hTZVFQcG5oTWVCRUNUdzV0TDJKdXJuWjhWem5QbHd5SEg1YTVuYjFHd1FDWEN0b2RqZEdRWC13RWRCRmZQLUxsSWpHUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T17:57:00.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVTFGZC1KNTZkWVU3ZnFmcmcyTkROdWd2dlZieHpVaWFlbmttdmZweGl3aTVIWXM1WG5IS3dDaUtNYVh4azhlZk53SzJLSXdfclh4ckNQeHhGNmRqNnFIZGNTQ09qdGt3TDduWVpYamJZaWJMZmU1bmdXNGlGUUpRSmp2bHZFbnc1c3hTZVFQcG5oTWVCRUNUdzV0TDJKdXJuWjhWem5QbHd5SEg1YTVuYjFHd1FDWEN0b2RqZEdRWC13RWRCRmZQLUxsSWpHUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "7330eb9090cc",
+   "title": "New Lenovo tablet launching soon with 13-inch OLED display and unusual layout",
+   "summary": "New Lenovo tablet launching soon with 13-inch OLED display and unusual layout Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaXBJajhxdHkySGRwSGNJeXRfRE4zQWF2X3U3TUp1M0x1Z3Rjandwci1RTThDZWZxdHhSMFJrQng1NlMxems2YUxwOUZBNmkzdno2RV9EOHdmLUZ0bWJET21Fd2haaEtGdm5CQXJCSkVkdjFyanZDYnNhUFc3eHRGOXAzZ2tzNUxFYjh1RHpUYU9oVE0xVXNHNnJaSmtlRFpvTVFvU2E3bHVnMU0waUtaeFN0eXoxMjZtdFRUNjlOTQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T17:51:00.000Z",
+   "date": "2026-11-16",
+   "status": "Upcoming",
+   "category": "Tablet",
+   "brand": "Lenovo",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaXBJajhxdHkySGRwSGNJeXRfRE4zQWF2X3U3TUp1M0x1Z3Rjandwci1RTThDZWZxdHhSMFJrQng1NlMxems2YUxwOUZBNmkzdno2RV9EOHdmLUZ0bWJET21Fd2haaEtGdm5CQXJCSkVkdjFyanZDYnNhUFc3eHRGOXAzZ2tzNUxFYjh1RHpUYU9oVE0xVXNHNnJaSmtlRFpvTVFvU2E3bHVnMU0waUtaeFN0eXoxMjZtdFRUNjlOTQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "4cd8c1f81c29",
+   "title": "Unofficial PS5-to-PC ports hit a major milestone as Astro Bot hits 128fps ahead of GTA 6's launch",
+   "summary": "With 4x Multi Frame Generation on, the platformer hits an impressive 128fps.",
+   "link": "https://www.xda-developers.com/unofficia-ps5-to-pc-ports-hit-major-milestone-astro-bot-reaching-128fps-ahead-of-gta-6/",
+   "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/astro-bot-screenshot.jpg",
+   "publishedAt": "2026-11-16T17:47:18.000Z",
+   "date": "2026-11-16",
+   "status": "Upcoming",
+   "category": "Gaming",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "XDA",
+     "link": "https://www.xda-developers.com/unofficia-ps5-to-pc-ports-hit-major-milestone-astro-bot-reaching-128fps-ahead-of-gta-6/"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "bde4d20a07d6",
+   "title": "Watch the Xiaomi 18 Pro and Xiaomi 18 Pro Max global launch event here",
+   "summary": "The time has come for Xiaomi to bring its latest flagship smartphones to the global market. After having launched the Xiaomi 18 Pro and Xiaomi 18 Pro Max in China in September, the company is now unleashing them across the world with a special unveiling event taking place tomorro",
+   "link": "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-event-live/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-11-16T17:26:02.000Z",
+   "date": "2026-11-16",
+   "status": "Upcoming",
+   "category": "Wearable",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "1ac09c9c61fa",
+   "title": "Noom Unveils Screenless Wearable for Data-Led Metabolic Health",
+   "summary": "Noom Unveils Screenless Wearable for Data-Led Metabolic Health Fitt Insider",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1taGpBSWlCR0JuOWtuaFN1b2RrMW5YQTBBVXQ0MERsZDl2RTh0YlRhNDlzWXhMM2lpMFdncnJZTzBndjFwVEhOYlo0aDBOQjBGSEZoUVNYeGZUcTh2UmZqV2UxcTcySndUcHVzMHRYZTdDUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T16:42:58.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Fitt Insider",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1taGpBSWlCR0JuOWtuaFN1b2RrMW5YQTBBVXQ0MERsZDl2RTh0YlRhNDlzWXhMM2lpMFdncnJZTzBndjFwVEhOYlo0aDBOQjBGSEZoUVNYeGZUcTh2UmZqV2UxcTcySndUcHVzMHRYZTdDUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "b4d2b019e86e",
+   "title": "Audio-Technica launches new flagship closed-back headphones, ATH-AWX7000",
+   "summary": "Audio-Technica launches new flagship closed-back headphones, ATH-AWX7000 DJ Mag",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDB1eWZSNzlvTThQeFJXXzBoYXZ3dDNQZUNPTm1xblJoYmN4VGRXelNpY0dOVU1EbEtfdGtuU2JQSzJJclZZZERzQmhuYTRFSnk2Z3Fzb2JqZ2VPRnh5N2JlaG4yVExhdEZRd0ZNNlFOR18xQjEwdkxncWxzcEktVW1pTXJRMENycTRjcS02cGRFRDRvWEVtRU5R?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T16:23:00.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Audio-Technica",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "DJ Mag",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDB1eWZSNzlvTThQeFJXXzBoYXZ3dDNQZUNPTm1xblJoYmN4VGRXelNpY0dOVU1EbEtfdGtuU2JQSzJJclZZZERzQmhuYTRFSnk2Z3Fzb2JqZ2VPRnh5N2JlaG4yVExhdEZRd0ZNNlFOR18xQjEwdkxncWxzcEktVW1pTXJRMENycTRjcS02cGRFRDRvWEVtRU5R?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "e2ee24564901",
+   "title": "Pixel Journal update rolls out Recorder integration, file export [U]",
+   "summary": "Following the last update in August , Google is rolling out a sizable update to Pixel Journal that adds Recorder audio entries and file exports. more…",
+   "link": "https://9to5google.com/2026/11/16/pixel-journal-recorder-export/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-journal-1.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-16T16:05:00.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/11/16/pixel-journal-recorder-export/"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "8a506d932a15",
+   "title": "OPPO Pad Air6 with 12.1″ 2.8K 120Hz display, quad speakers, 10050mAh battery announced",
+   "summary": "OPPO has officially introduced its latest tablet, the OPPO Pad Air6, positioning the device primarily for learning environments and multimedia consumption alongside the Reno17 series. Display and Ergonomics The Pad Air6 maintains a slim profile, measuring approximately 6.89 mm in",
+   "link": "https://www.fonearena.com/blog/497071/oppo-pad-air-6-price-specifications.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/OPPO-Pad-Air6-1024x571.jpg",
+   "publishedAt": "2026-11-16T15:12:54.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/497071/oppo-pad-air-6-price-specifications.html"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUThUaGlrenplNXJGYjliWkQyV2NEb05XUFl5c3dsQ2ZNbldlbjlCVW84M19VMy1TakxJdDVnZW1oWnVJNzdsanVqYnlPY3VIRmxZQ0FLQk5ZNC0ydkhVMmRZOE05Mm1IQ1FxLTdmcS1aVE03dTFqRno1bTNvWTVaWEN2OTREVnBJQTQwb0FMRXpENEJubnJoODRVNmbSAaIBQVVfeXFMTlFFbTFoVnp5c1VBTHpDeDBEZDVlVTVoMDNOYklLQ01oWGdXMU5NczlybWJtaG9HcXpXbzJ5b1pxSEtJUEViS01KMEtEdGZQUml4MXExVnMzcTFNU2ktcmN0bmMtc0JNZFpLa3NUOEFmZzRvdnBrSkdoV3BOWXVTR0hDeFJtLTBnV3ZmNFExYUJFYkJrZS1XSXFTQ2V1dktWOTZR?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "4e701e439d0c",
+   "title": "OPPO Watch 5 with 1.85″ AMOLED display, FatMax mode, 5ATM + IP69K water resistance announced",
+   "summary": "OPPO has launched the OPPO Watch 5 alongside the Reno17 Series smartphones in China today. The OPPO Watch 5 features a square watch case with an aerospace-grade aluminium alloy frame and GG5 glass protection. It measures 9.2mm in thickness, weighs 25g without the strap, and featu",
+   "link": "https://www.fonearena.com/blog/497066/oppo-watch-5-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/OPPO-Watch-5-1024x459.jpg",
+   "publishedAt": "2026-11-16T15:09:02.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/497066/oppo-watch-5-price-features.html"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3hQNFFERTIwVVVTM05HQkY4blRZMko2RzhVVHE5MTRieWF5RFo0TW5HS3BoVlppMHlWX2ZWVUZOSXVKdm0tMF83TWRJNDlibk5rb2ZsTDhuVDFJMUxRZ2kwRnhMUWVsWGUwM192QXZIQk1GazZrZUxGV0dFS29zY0dQbjM2dTRFbkJST1JYeC1QU3ZtNWtZQy1R0gGfAUFVX3lxTFA0RXNPcnlwTkdGZkpqaVVSUUZEOHRiQWstR0JBVlFMOEt3Xzd5VFlXQko1OHNPR2ZCZHc3Y1lwUnR0cVZjVGl6R05EYXV3UzUzRFVBcldyVGlNNl9WTWlMTVQydUxaRnh5V2tPU3JacHJ6S0R1NThwenNrWWhLbTJ2eFllUHo4bURIODBKaE5sMkdEYzlBTnl5WFFyVkFySQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "5bfd444d3bf7",
+   "title": "Soundpeats launches Air6 Pro wireless earbuds to rival Apple's AirPods Pro 3 at half the price",
+   "summary": "Soundpeats launches Air6 Pro wireless earbuds to rival Apple's AirPods Pro 3 at half the price Tech Edition",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHRiQ0plQXBNcm5wZW9MU1dYT1QtMkRmczk4U1JTR1NwS0xsLS1Geng5NmFVb1RIa01NbHU3WnJwYjRFa29pazhOMGxVMlBLU0prZkI5YjNOajU2LV9tQ2FGRVU0aEtxeXdLNWF2bEtKRV8yMUNWeW10UGotR0ZhVURFVDduWTJMS2Q2T1ZqSFl5Ymc5SGRRZnRETXAwV2w4c0l0REsyeURBOWJmMmV1NUsyeTFHVlNk?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T15:00:54.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Tech Edition",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHRiQ0plQXBNcm5wZW9MU1dYT1QtMkRmczk4U1JTR1NwS0xsLS1Geng5NmFVb1RIa01NbHU3WnJwYjRFa29pazhOMGxVMlBLU0prZkI5YjNOajU2LV9tQ2FGRVU0aEtxeXdLNWF2bEtKRV8yMUNWeW10UGotR0ZhVURFVDduWTJMS2Q2T1ZqSFl5Ymc5SGRRZnRETXAwV2w4c0l0REsyeURBOWJmMmV1NUsyeTFHVlNk?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "afbdf7e8212e",
+   "title": "Apple Unveils Secure Exclaves to Protect Camera and Microphone Data From Kernel-Level Attacks",
+   "summary": "Apple Unveils Secure Exclaves to Protect Camera and Microphone Data From Kernel-Level Attacks GBHackers News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVVdSV2JSc2xTMXVSV0tIUUJVRmRxcEtOalBUUWI0R3cwWGVwal9XTFlvbzJ0azZfd2N2YklkUkRQX1ZoclN4R0F2U29UdEsxSUFMWF9FT1QyYmpvWVg2cE94ejFxZkNCNGpCTWx0UGZsdmNZWE9IYUln0gF_QVVfeXFMUHJZcFZYZWFrWUVycElMQTZzUkFuR1RrTHdxcHEzTGdiUHFfYWgxdnhDOXF4MW9Dak5qUmUzQ1RzOUl0NkV2NVdqb185bUIycjBrb3U4eVZKQTZNUmg4WDlyTmYzM0RkWmt1N2puM3pQaHl3N1FiMXZfTVJfXzBrTQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T14:20:33.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "GBHackers News",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVVdSV2JSc2xTMXVSV0tIUUJVRmRxcEtOalBUUWI0R3cwWGVwal9XTFlvbzJ0azZfd2N2YklkUkRQX1ZoclN4R0F2U29UdEsxSUFMWF9FT1QyYmpvWVg2cE94ejFxZkNCNGpCTWx0UGZsdmNZWE9IYUln0gF_QVVfeXFMUHJZcFZYZWFrWUVycElMQTZzUkFuR1RrTHdxcHEzTGdiUHFfYWgxdnhDOXF4MW9Dak5qUmUzQ1RzOUl0NkV2NVdqb185bUIycjBrb3U4eVZKQTZNUmg4WDlyTmYzM0RkWmt1N2puM3pQaHl3N1FiMXZfTVJfXzBrTQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "9f1ed618a4ce",
+   "title": "Oppo Reno 17 Pro and Reno 17: Expected India price, launch timeline and specs",
+   "summary": "Oppo Reno 17 Pro and Reno 17: Expected India price, launch timeline and specs Digit",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3g3eTI5b2cwUi1XbXdMMi02TEZDcHJwZ2NrT2xvbWVNdmdqMlRQNDlLZXhqMndDQzFyRzBnUmh2WDh1Ml9qbkJsZVR0Y21iTXJPbjNxVllXVG1WWmw4T0ZmcUxLdV8zZ0JpUmFRUkZnQ2lZbXdZdWRJTjVmaUEtZ1YtX2huRFRTUnBWU2FHSS1rdW1TSzQwWmt0b0JhWU42YWlHLXBzU0JJMkpZdlZGQ0oxV0I1VFRoemZhM9IBwwFBVV95cUxQeXFwZFpSVXpTcm93a0gzeWNQamNtWlJDbGoyMWhZSEJ4WkllWWVZSTJjLXpUVmpKbDFUQmVKaVJ5RmxDRFpzWHRDTktXXzNqcDBCcFE5ODIwTkdXNjdBa0Rzend6ekt4MVJDSHJaM3NCY2QxR0owNV9Zek5jRTdwdHJqRVVPSm5JRkoyaHdmZTVDQ3lHOGZEYjhFLS1QRjE1Qk13dDhCaFUxdWNYM1pVZmc3YTZXTFdKWTFTQmtYV3c2RVk?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T14:19:17.000Z",
+   "date": "2026-11-16",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Digit",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3g3eTI5b2cwUi1XbXdMMi02TEZDcHJwZ2NrT2xvbWVNdmdqMlRQNDlLZXhqMndDQzFyRzBnUmh2WDh1Ml9qbkJsZVR0Y21iTXJPbjNxVllXVG1WWmw4T0ZmcUxLdV8zZ0JpUmFRUkZnQ2lZbXdZdWRJTjVmaUEtZ1YtX2huRFRTUnBWU2FHSS1rdW1TSzQwWmt0b0JhWU42YWlHLXBzU0JJMkpZdlZGQ0oxV0I1VFRoemZhM9IBwwFBVV95cUxQeXFwZFpSVXpTcm93a0gzeWNQamNtWlJDbGoyMWhZSEJ4WkllWWVZSTJjLXpUVmpKbDFUQmVKaVJ5RmxDRFpzWHRDTktXXzNqcDBCcFE5ODIwTkdXNjdBa0Rzend6ekt4MVJDSHJaM3NCY2QxR0owNV9Zek5jRTdwdHJqRVVPSm5JRkoyaHdmZTVDQ3lHOGZEYjhFLS1QRjE1Qk13dDhCaFUxdWNYM1pVZmc3YTZXTFdKWTFTQmtYV3c2RVk?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "b0458962a07c",
+   "title": "Oppo Watch 5 Launched With 3,000 Nits Brightness, Up to 10 Days of Battery Life: Price, Features",
+   "summary": "The Oppo Watch 5 comes with a 351mAh battery that is claimed to deliver up to 10 days of use in its long battery life mode. It also offers NFC payments, Bluetooth 5.2 connectivity and support for Android and iOS devices. The smartwatch features a lightweight aluminium alloy body,",
+   "link": "https://www.gadgets360.com/wearables/news/oppo-watch-5-price-launch-availability-specifications-features-12334307",
+   "image": "https://i.gadgets360cdn.com/large/oppo_watch_5_oppo_1794834130927.jpg",
+   "publishedAt": "2026-11-16T14:07:26.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/oppo-watch-5-price-launch-availability-specifications-features-12334307"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "0fd91015fa03",
+   "title": "Level Infinite launches PUBG MOBILE FLASH for Android and iOS",
+   "summary": "Level Infinite launches PUBG MOBILE FLASH for Android and iOS KeenGamer",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0ZqODdFeHVVeXlia2lmcW93QUxReEQ3ZmNLV0wyeEkzTWV5dWpOMDdGZTR5cUFudUZBLWV1Mjk4TkNicmNRWnJCenU5R2tfNHkxcWxhM29rUTNYY0RzQWdnV0dwaDZVWE1EUUZLWVR3Tlg1UmI0bzMtbXJkS2lSNTBKNGptdTZIU0ZXSnV4UUh4TlBvZllMSjJoRm13TEEwV2VjNg?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T14:05:59.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "KeenGamer",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0ZqODdFeHVVeXlia2lmcW93QUxReEQ3ZmNLV0wyeEkzTWV5dWpOMDdGZTR5cUFudUZBLWV1Mjk4TkNicmNRWnJCenU5R2tfNHkxcWxhM29rUTNYY0RzQWdnV0dwaDZVWE1EUUZLWVR3Tlg1UmI0bzMtbXJkS2lSNTBKNGptdTZIU0ZXSnV4UUh4TlBvZllMSjJoRm13TEEwV2VjNg?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "816806dd6ee3",
+   "title": "Oppo Watch 5 launches with a slim square design, IP69 rating, and five color options",
+   "summary": "Oppo earlier confirmed a November 16 China event for the Reno 17 series, the Pad Air 6, and the Watch 5, and real-life photos later revealed the square-faced watch’s slim design. The brand has now officially announced the Oppo Watch 5 at that event, alongside the Reno 17 series a",
+   "link": "https://www.gizmochina.com/2026/11/16/oppo-watch-5-launches-slim-square-design-ip69-five-colors/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-15-300x169.jpg?x47967",
+   "publishedAt": "2026-11-16T13:49:12.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Oppo",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/16/oppo-watch-5-launches-slim-square-design-ip69-five-colors/"
+    },
+    {
+     "name": "Techgenyz",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjdW1rdVlJTU40OEEySlk0ZzNWdXJ1b2JfanRTM3RvU0VCRGtLcUxVTGt5STZ2X2FPa0M0RkhCNUo1ZEJ2bFhTaG13cE9sb1NZOVRtWDlLWXlIWHNB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "15414da7ba6e",
+   "title": "Oppo Watch 5 launches with 3,000-nit display and FatMax mode for the equivalent of $149",
+   "summary": "Oppo Watch 5 launches with 3,000-nit display and FatMax mode for the equivalent of $149 Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUktJWGtUTUd4aG9uWktzUXZ0cDJGUnUtbUpwMWozdlI5STlBd203NnJUamVMRTBmdnUxZy0yZDBnLTBvTTl4czFLTVY5Z3h0Y1ZQd3ZRcDFCU0t4eWx1ZVJLQkJ1dDlNS0duODI0djV6UXQ1TnB2alIyUWVlRmo4cWZKV1pwMXBod0JOdXhrSUpKT2YxeW4xT2tnalo3Z3JvdlFBbDQ5M184T2xoRmFCbnplZ3RSdG92RXFwclJRUGZDa1FOeGNKNTlzTQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T13:29:00.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUktJWGtUTUd4aG9uWktzUXZ0cDJGUnUtbUpwMWozdlI5STlBd203NnJUamVMRTBmdnUxZy0yZDBnLTBvTTl4czFLTVY5Z3h0Y1ZQd3ZRcDFCU0t4eWx1ZVJLQkJ1dDlNS0duODI0djV6UXQ1TnB2alIyUWVlRmo4cWZKV1pwMXBod0JOdXhrSUpKT2YxeW4xT2tnalo3Z3JvdlFBbDQ5M184T2xoRmFCbnplZ3RSdG92RXFwclJRUGZDa1FOeGNKNTlzTQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "cec92aac5870",
+   "title": "Oppo launches Reno 17 and Reno 17 Pro with 200MP camera and rather large 8000mAh battery",
+   "summary": "Oppo has launched the Oppo Reno 17 and Oppo Reno 17 Pro in China. The Oppo Reno 17 has an 8,000mAh battery. The Oppo Reno 17 Pro has a 200MP main camera. Both phones go on sale on November 20. The series arrives about six months after the Oppo Reno 16 series launched in China […]",
+   "link": "https://www.gizmochina.com/2026/11/16/oppo-launches-reno-17-and-reno-17-pro-with-200mp-camera-and-rather-large-8000mah-battery/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Oppo-Reno-17-and-Reno-17-Pro-Launch-Specs-Price-300x200.jpg?x47967",
+   "publishedAt": "2026-11-16T13:01:18.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/16/oppo-launches-reno-17-and-reno-17-pro-with-200mp-camera-and-rather-large-8000mah-battery/"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "e870c56ae806",
+   "title": "Oppo Reno17 and Reno17 Pro are now official and they're quite familiar",
+   "summary": "Oppo has just made the Reno17 and Reno17 Pro official in China, following plenty of leaks and teasers. They succeed the Chinese Reno16 and Reno16 Pro, but with a twist - last year, the vanilla model was the compact one, with a 6.32-inch screen, while the Pro had a 6.78-inch displ",
+   "link": "https://www.gsmarena.com/oppo_reno17_and_reno17_pro_are_now_official_and_theyre_quite_familiar-news-75492.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-reno17-pro-official/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-11-16T12:58:42.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/oppo_reno17_and_reno17_pro_are_now_official_and_theyre_quite_familiar-news-75492.php"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/497020/oppo-reno-17-pro-price-specifications-reno-17.html"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "c37d69687619",
+   "title": "Lenovo launches new 14-inch laptop globally with 1,100-nit OLED display and over 24 hours battery life",
+   "summary": "Lenovo launches new 14-inch laptop globally with 1,100-nit OLED display and over 24 hours battery life Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeUtwNVBGX2dtOEc0SVpvOWMwbTdFTTU4bDlJZTNtZGtCWTc4S3l2Ynk5OXFxX0EyQmJyejZORkh6M2JFZE9RQTB6b2ZVS0lObHFzcmRORi1oalVxeDFOaG1wOFBZWk9DS3lvY01XeDRLS0JHS2FQZ250ZTlLZURiczFCdVp1ck96ZHRvNnh6SVI0bktCNnRJQ2k5M3N5aDJYVVZpNW5Sc0pUVTQzeF9XVTdRX1hxeS1kNnlWbkNlR1VtWUdYbFdYS3RRYVFFTDBWZHdaSmVwRjlxaFprX2ppdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T12:42:00.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Lenovo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeUtwNVBGX2dtOEc0SVpvOWMwbTdFTTU4bDlJZTNtZGtCWTc4S3l2Ynk5OXFxX0EyQmJyejZORkh6M2JFZE9RQTB6b2ZVS0lObHFzcmRORi1oalVxeDFOaG1wOFBZWk9DS3lvY01XeDRLS0JHS2FQZ250ZTlLZURiczFCdVp1ck96ZHRvNnh6SVI0bktCNnRJQ2k5M3N5aDJYVVZpNW5Sc0pUVTQzeF9XVTdRX1hxeS1kNnlWbkNlR1VtWUdYbFdYS3RRYVFFTDBWZHdaSmVwRjlxaFprX2ppdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "4b81f17072bf",
+   "title": "Oppo Watch 5 debuts with 1.85\" AMOLED, 7-day battery life",
+   "summary": "The Oppo Watch 5 was announced in China today, and it slots in as the latest fitness-oriented watch from the brand. It’s also the first Oppo smartwatch in a long while to feature a rectangular screen. You get a 1.85\" AMOLED with 390×450 px resolution and a 60Hz refresh rate. The ",
+   "link": "https://www.gsmarena.com/oppo_watch_5_debuts_with_185_amoled_7day_battery_life-news-75489.php",
+   "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-watch-5-ofic/-184x111/gsmarena_000.jpg",
+   "publishedAt": "2026-11-16T12:39:03.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/oppo_watch_5_debuts_with_185_amoled_7day_battery_life-news-75489.php"
+    },
+    {
+     "name": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaFRpNmF1X1VIMG12aEJZcWZ2cWh0am5oOFJScWg5QW5mZHhCazJ4Z3FaVlc2UzhId2k4NnVVYnczNERWUEgxejRYQ01ublBPY2I0RDlhdlB1Q0o5V2FMQmZKZXpTcG5ZQVZxTTNfWV9xZ0VHenFDYkMxV0o4bTdQY1VLc1hRNGVKUTg0SHpVSlkzcGczU0VKZVJ2TnlzWTFKM21odHBlZElGY2FRSnRYUTZDclo0Q0ZT?oc=5"
+    },
+    {
+     "name": "Beebom Gadgets",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblhpLTZ5dXI1YkhTcmFNVFlXRlNjNVNhR0pwem53NjhmeWEyV1ZOR01nNlU5UXpYdG82ZU8xVklDS2UwcG1FN1pVZjJIUld5Z1YyU1IwYW1VSlFwR290WmstQS1lOU5DMGRNYlhHSEt0eGVaVHA2clE5TV9DLVJrRFBKbF9fMlBkTTg0?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "936b6f013b35",
+   "title": "Oppo Reno 17 Pro With Dimensity 8550 Super Chip Launched Alongside Reno 17: Price, Specifications",
+   "summary": "The Oppo Reno 17 series was launched in China on Monday. The latest lineup comprises two models — Oppo Reno 17 and Reno 17 Pro. Both models feature dedicated chips for touch response and network connectivity, along with support for 120fps gaming. The vanilla model is powered by t",
+   "link": "https://www.gadgets360.com/mobiles/news/oppo-reno-17-pro-price-launch-sale-features-specifications-12333939",
+   "image": "https://i.gadgets360cdn.com/large/oppo_reno_17_series_1794831566827.jpg",
+   "publishedAt": "2026-11-16T12:21:28.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/oppo-reno-17-pro-price-launch-sale-features-specifications-12333939"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "84b31e4aa7b6",
+   "title": "Oppo Pad Air 6 launches with 10,050mAh battery and new Oppo Notes feature",
+   "summary": "Oppo has launched the Pad Air 6 in China, with a 12.1-inch display, a 10,050mAh battery, and a set of study tools built around its new Oppo Notes app. The tablet starts at 2,599 yuan or about $382, and here’s what you get for it. The Pad Air 6 has a 12.1-inch LCD screen and […] T",
+   "link": "https://www.gizmochina.com/2026/11/16/oppo-pad-air-6-launches-with-10050mah-battery-and-new-oppo-notes-feature/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Oppo-Pad-Air-6-Launch-Specs-Price-300x200.jpg?x47967",
+   "publishedAt": "2026-11-16T12:12:43.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Oppo",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/16/oppo-pad-air-6-launches-with-10050mah-battery-and-new-oppo-notes-feature/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/tablets/news/oppo-pad-air-6-price-launch-sale-date-specifications-features-12333886"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "8b199c46108d",
+   "title": "GPD unveils WIN Mini Ultra handheld console powered by Intel Arc G3 Extreme",
+   "summary": "GPD unveils WIN Mini Ultra handheld console powered by Intel Arc G3 Extreme mobidevices.com",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4Q1d0NThmVVpZODBjRlc0aklLX2s2Zy1KVkhoX3habDBFRHVoaDNlY250ZzFHMW9KVTR6TkxlS2dYdkU2ZUctRE9WVk9WSENIdlM0NlF5Vjc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T12:00:45.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Gaming",
+   "brand": "Intel",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "mobidevices.com",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4Q1d0NThmVVpZODBjRlc0aklLX2s2Zy1KVkhoX3habDBFRHVoaDNlY250ZzFHMW9KVTR6TkxlS2dYdkU2ZUctRE9WVk9WSENIdlM0NlF5Vjc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "d861fd45cf90",
+   "title": "Motorola Edge 70 Neo India Launch Imminent? Flipkart Teases New Smartphone",
+   "summary": "Motorola Edge 70 Neo India Launch Imminent? Flipkart Teases New Smartphone Mashable India",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcW9yRWhJWWxad19DVUZUdXFKM09KX2ZKTnZZV0g1eXc3OFJyVXNpdmdBNjVuSVc0eGhlTXJtTEVOQW1HOFZTMEdCa29OLTBGV3ZvVGhoYVk3N1p2Vl9VbVRqcEVNc1pidWtlVWZ6cDlsOWEwblpEd1RCOHpkUVA0azMtYW43T2pTQVNKS1F4X0lKQWpFS1lQc0pmbUlhWE9kbnYwdndYd2ZfWE42TEE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T11:04:43.000Z",
+   "date": "2026-11-16",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Motorola",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable India",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcW9yRWhJWWxad19DVUZUdXFKM09KX2ZKTnZZV0g1eXc3OFJyVXNpdmdBNjVuSVc0eGhlTXJtTEVOQW1HOFZTMEdCa29OLTBGV3ZvVGhoYVk3N1p2Vl9VbVRqcEVNc1pidWtlVWZ6cDlsOWEwblpEd1RCOHpkUVA0azMtYW43T2pTQVNKS1F4X0lKQWpFS1lQc0pmbUlhWE9kbnYwdndYd2ZfWE42TEE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "e27bffcdb93d",
+   "title": "Bmax launches B12 Power Mini PC with Intel Core Ultra 9 185H, 24GB LPDDR5 RAM & triple 4K display support",
+   "summary": "Bmax has introduced the B12 Power, its latest mini PC powered by Intel’s high-end Core Ultra 9 185H processor. The new desktop packs powerful hardware into a compact chassis that weighs just 390 grams. Bmax B12 Power Specifications The Core Ultra 9 185H is a 16-core, 22-thread pr",
+   "link": "https://www.gizmochina.com/2026/11/16/bmax-b12-power-mini-pc-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/bmax-b12-power-mini-pc-300x169.jpg?x47967",
+   "publishedAt": "2026-11-16T10:44:26.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Intel",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/16/bmax-b12-power-mini-pc-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "32649a64a85f",
+   "title": "Oppo Reno 17 And Reno 17 Pro Launch Today Alongside New Tablet And Smartwatch",
+   "summary": "Oppo Reno 17 And Reno 17 Pro Launch Today Alongside New Tablet And Smartwatch Mashable India",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTNzdGFlNllvdldVdzFOVl9VTlQ2TWgwei1WbEdieVNGUmNfbGNFQ28wRzA0cDlFWUFTUzJwV2ZFNnVXanhSTlEyOURwckZEdGpzekdsZzdIUHpYTE1MVDBubGtRdFlfSWkxMEMybl9tVFYyRXpMUXd6Zjg0bGVZVnp2TmwyOFBzdWpXdFJjbHozYm1qbXpKbkN2dDN4aklzTlJQb2haZHhPcjRZMG5xSXdrTQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T10:21:46.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Oppo",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mashable India",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTNzdGFlNllvdldVdzFOVl9VTlQ2TWgwei1WbEdieVNGUmNfbGNFQ28wRzA0cDlFWUFTUzJwV2ZFNnVXanhSTlEyOURwckZEdGpzekdsZzdIUHpYTE1MVDBubGtRdFlfSWkxMEMybl9tVFYyRXpMUXd6Zjg0bGVZVnp2TmwyOFBzdWpXdFJjbHozYm1qbXpKbkN2dDN4aklzTlJQb2haZHhPcjRZMG5xSXdrTQ?oc=5"
+    },
+    {
+     "name": "NewsBricks",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXVSaVE3UHFFSzRFNWViVEFfZlZ4ZWlJcFV6Z2lrYTB1RUM5Qm91MDR3Nnh2cl9mTnRLNHNNNnVuZ3ZHd3J0ZkNBUXVvME5sRm45anhrb3Y0cUtCM1RUTEh3dDhnMUM4dXZ3dUcwS3hBSkFIZFZXWERDQUZjbE41RTNYV2lzWnFYdzdZMUtn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "559f11a5fc9d",
+   "title": "LAVA Probuds Xplore 13° TWS earbuds launched in India at ₹969",
+   "summary": "LAVA Probuds Xplore 13° TWS earbuds launched in India at ₹969 MobiGyaan",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBINVZGTE5CQTJsOXYwaTVZUnUzV1FxRE5Wdm1ueUZIMEJHOUNPLWFIcDk4ejM3YS1DUmFCYVNrQTZvakhfWnhZV0JsVVo5WTJ4cWk5Q01nczVlMVNPMmNIa0RhSUE5VWJrOEE2Z1Rnd2lreGxC?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T10:15:14.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "MobiGyaan",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBINVZGTE5CQTJsOXYwaTVZUnUzV1FxRE5Wdm1ueUZIMEJHOUNPLWFIcDk4ejM3YS1DUmFCYVNrQTZvakhfWnhZV0JsVVo5WTJ4cWk5Q01nczVlMVNPMmNIa0RhSUE5VWJrOEE2Z1Rnd2lreGxC?oc=5"
+    },
+    {
+     "name": "Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM1VsOEhVX0t0T0xVLWhxbXQtc1ZiT1AtQi11dUFueWdrZzdlX0JtU1lIQW5vWGprUjhMeW1xMy1BZzRRZHJ4Tm5Tdmx6RUQtNWJvZXl0RVU2UkVzMDlDTnRZeUNSUFBGMWxDVEZRWjM0SnVyc1d0aUFqX3M4M3RBNGc0QzQ0azAyMDRMQWpvaVVxNXV1cGlwQWVZeGpaNVhsTUVzRnJYNXdKekJXR0FfYkVXS3BydUFrajZ4V2hTYWcwUXd2RktNY0RZNmxJREZ1TDdGbmdRQUNOUdIB3wFBVV95cUxNN0dsdGlqRkZyVE9xWVNZcDJGT0FnQk1xQkg1QjFLM19sOWxUbEV4cTJJcWVXeThCZ0NubU01QnUwdUE1aFlocGNoR3RnTXdUQktKeGFnRHRJa19GUE1TLTM3U1FidUZTal9vRlpldTg3NS1keXJNRGxvNldaUm4wc1M5T0oyN2xhcF9WWHdVaGlpVTZFRjluQzNNMHkwZ3YzcV9rMWNBUXVJWGQ1MlVBdFdMQlJ6ZnE2MzRiYU1Eak5IdFFRM0dOb1RxbFBJWmhfZmRId2psbXpwVjVhNWtJ?oc=5"
+    },
+    {
+     "name": "Beebom Gadgets",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0RYNU5DWVRLRVM0MS1LZjhxR18tMTctYlNQNHhqOTk3cnBSX3JSS1FLME91eXlNR1N1RWtLaEVSMEtyQzVINmFkSVN0dkJMZVRmUWR1a2lTQlVLcGFGZHBUQ3R4ZWptVm1yY2w5TUhKbEpJbGFmWkE5N2huOTBzRkQ4Zk5ZbUc2TVhzcGxIcnNScnpfcXc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "ee264bfcbeb1",
+   "title": "Apple launches Health AI Usage Study in the US with OpenEvidence",
+   "summary": "Apple has announced the Apple Health AI Usage Study in the United States, a virtual research study and associated app examining how people interact with conversational AI tools for health-related questions. Conducted in collaboration with OpenEvidence, the study will examine what",
+   "link": "https://www.fonearena.com/blog/497013/apple-health-ai-usage-study.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study-1024x615.jpg",
+   "publishedAt": "2026-11-16T10:05:25.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Apple",
+   "region": "USA",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/497013/apple-health-ai-usage-study.html"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "841168801c30",
+   "title": "Lenovo Googlebook Duet 13 Will Launch Early Next Year With a Detachable Touchscreen and Stylus Support, Tipster Claims",
+   "summary": "Lenovo Googlebook Duet 13 will be launched in select global markets in January 2027, according to a tipster. Further, the Lenovo Googlebook Duet 13 is shown to feature a flat rear panel, with a single rear camera system placed in the top-left corner. Under the camera sensor, the ",
+   "link": "https://www.gadgets360.com/laptops/news/lenovo-googlebook-duet-13-launch-timeline-tipped-design-specifications-features-12332852",
+   "image": "https://i.gadgets360cdn.com/large/lenovo_googlebook_15_main_1794818152015.png",
+   "publishedAt": "2026-11-16T09:58:54.000Z",
+   "date": "2026-11-16",
+   "status": "Upcoming",
+   "category": "Accessories",
+   "brand": "Lenovo",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/laptops/news/lenovo-googlebook-duet-13-launch-timeline-tipped-design-specifications-features-12332852"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "1aa7de6af7e2",
+   "title": "Japan's Kyodo unveils MyoFree tablet with new eye strain-reducing technology",
+   "summary": "Japan's Kyodo unveils MyoFree tablet with new eye strain-reducing technology GIZGUIDE",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nckJ2cG9uQmRqWlVuWDJhQzg1MmxyejJYeHQ3RmZrLTJ3Zm5McS10YVRweGRVNjE3X2ozMndTa3ZxZmRfQVMyc1NXQjA0M2wwMG1Zdnk5MFhYeHUtRUl6STI0dDgwRVZGOUE5TGpqVHk5c1dGQVRjdGQxNzJpUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T09:58:00.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "GIZGUIDE",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nckJ2cG9uQmRqWlVuWDJhQzg1MmxyejJYeHQ3RmZrLTJ3Zm5McS10YVRweGRVNjE3X2ozMndTa3ZxZmRfQVMyc1NXQjA0M2wwMG1Zdnk5MFhYeHUtRUl6STI0dDgwRVZGOUE5TGpqVHk5c1dGQVRjdGQxNzJpUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "19256d243c92",
+   "title": "Porsche launches mobile maintenance service in Puerto Rico",
+   "summary": "Porsche launches mobile maintenance service in Puerto Rico News is My Business",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXdCN1dlRWtfWE5RN2NBcHhpRG1PYU1fcWthNnZZRGRCS3BOZ09Gd1RHUXI3b25pbUZHR3p4RGhkdkR2dU5xbUJOUENCU1BfQ1ZjTTNpZWZIMF9uMGQzQzBRb3FVdkN3eUJzcVpvcnV3NE5IUVp1Zmh3SlhOdjVjcVQ5Z1JiS0VpMjZiYTRuVENPdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T09:03:26.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "News is My Business",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXdCN1dlRWtfWE5RN2NBcHhpRG1PYU1fcWthNnZZRGRCS3BOZ09Gd1RHUXI3b25pbUZHR3p4RGhkdkR2dU5xbUJOUENCU1BfQ1ZjTTNpZWZIMF9uMGQzQzBRb3FVdkN3eUJzcVpvcnV3NE5IUVp1Zmh3SlhOdjVjcVQ5Z1JiS0VpMjZiYTRuVENPdw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "408febf0406a",
+   "title": "Xiaomi Clip Earbuds Listed Globally With 38-Hour Battery Life, Apple Find My Support Ahead of Launch",
+   "summary": "Xiaomi is preparing to introduce its Clip open-ear wireless earbuds to global markets on November 17. The product listing details its audio hardware, connectivity options and battery specifications, including 11mm dynamic drivers, LHDC 5.0 support and up to 38 hours of playback w",
+   "link": "https://www.gadgets360.com/audio/news/xiaomi-clip-earbuds-global-variant-revealed-ahead-of-november-17-launch-12332749",
+   "image": "https://i.gadgets360cdn.com/large/xiaomi_clip_xiaomi_1794816545255.jpg",
+   "publishedAt": "2026-11-16T08:29:02.000Z",
+   "date": "2026-11-16",
+   "status": "Upcoming",
+   "category": "Audio",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/xiaomi-clip-earbuds-global-variant-revealed-ahead-of-november-17-launch-12332749"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "37884de8d881",
+   "title": "Globe Telecom launches mobile, fibre broadband bundle offers for Globe At Home subscribers",
+   "summary": "Globe Telecom launches mobile, fibre broadband bundle offers for Globe At Home subscribers Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3U1NTUzT2R4Y25vWnBOQkt0V2ZsVndLN2h0MWxGVEJVZTVuenBnZm9hUHZ5SzJiU0NzaVlnNGkwYW5kTjNhUGlhSFpGblQ3N0tMRzVXbVZORlVEMlZkUERPdUd2cTdtR2pOZFdWb2ZuU2ZPMEdKck50Sk0xMVJpQXFMV0RSLWxnTW12WHpVSVFsMDExZjVFckxzR191dHVTZ2lPUzd0LWk4V3RtdWhaNHNrQkRlTTF6anpzZ1pWdzRpbmNXb0pKZURkWDU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-16T07:15:57.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Telecompaper",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3U1NTUzT2R4Y25vWnBOQkt0V2ZsVndLN2h0MWxGVEJVZTVuenBnZm9hUHZ5SzJiU0NzaVlnNGkwYW5kTjNhUGlhSFpGblQ3N0tMRzVXbVZORlVEMlZkUERPdUd2cTdtR2pOZFdWb2ZuU2ZPMEdKck50Sk0xMVJpQXFMV0RSLWxnTW12WHpVSVFsMDExZjVFckxzR191dHVTZ2lPUzd0LWk4V3RtdWhaNHNrQkRlTTF6anpzZ1pWdzRpbmNXb0pKZURkWDU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "c4d95912e745",
+   "title": "Motorola Edge 70 Neo India Launch Teased Along With Design as Microsite Goes Live",
+   "summary": "Motorola Edge 70 Neo will be launched in India soon, the company has confirmed. The handset will be available for purchase via Flipkart. In terms of design, the Motorola Edge 70 Neo is shown to debut with a familiar design. It will sport a curved rear panel with rounded corners. ",
+   "link": "https://www.gadgets360.com/mobiles/news/motorola-edge-70-neo-india-launch-teased-design-availability-specifications-features-12332363",
+   "image": "https://i.gadgets360cdn.com/large/motorola_edge_70_neo_x_main_1794811556780.png",
+   "publishedAt": "2026-11-16T07:09:13.000Z",
+   "date": "2026-11-16",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/motorola-edge-70-neo-india-launch-teased-design-availability-specifications-features-12332363"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
+   "id": "8321e4442b41",
+   "title": "Lava Probuds Xplore 13 Launched in India With 13mm Drivers, 30 Hours Battery Life: Price, Specifications",
+   "summary": "Lava Probuds Xplore 13 were launched in India on Monday. The latest true wireless stereo (TWS) earphones from the homegrown brand come with 13mm drivers. They offer Bluetooth 5.4 connectivity and Intelligent Noise Cancellation (INC). Lava says the TWS earbuds have an IPX5 rating ",
+   "link": "https://www.gadgets360.com/audio/news/lava-probuds-xplore-13-price-in-india-launch-sale-features-specifications-12332627",
+   "image": "https://i.gadgets360cdn.com/large/lava_probuds_1794815175583.jpg",
+   "publishedAt": "2026-11-16T06:20:32.000Z",
+   "date": "2026-11-16",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Lava",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/lava-probuds-xplore-13-price-in-india-launch-sale-features-specifications-12332627"
+    },
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/496997/lava-probuds-xplore-13-price-features.html"
+    },
+    {
+     "name": "FoneArena.com",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDhrcm82VU1pWHcwbjdPMU5MMi1OcHBxMW9LV3ZncjIzTVpRTFEzcVpub1RmaGE3VzRQY1Z3eVlveXljOE9IWDBvcHI4ZXEyUDQ0YzhmSmc2N1BSSlI2VGoyUDk4V0M2N1JDQ1JKdzhLWEtYbkVxNEpzbkYxNHp0alRzcVNRWEXSAYwBQVVfeXFMT0N3UzV3cl9mRDFXdjZVZl9EeWgyQTFCYlB2VEdUemdncUpIT0puU2tPOHo5OUI3OHc2WlJwcTh0RS15b1VDZTRwZUN2SWwzNFlOaDV0cU1jc09fSWFWU1ZGRG4xT3R5OWI3TGZ4TURpeFVnQjRwcTJkb21OZ3ZZRE8tS2NjRzlGaFdNNTQ?oc=5"
+    },
+    {
+     "name": "Gadget Bridge",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmh3dUJlMlpPRkdheTEzbHB0Z3hQSTd3aGZzVzNkVUNtYWNDempxTldCSzdiQi1OYzIwbXJtYTltRGcyaUQwMElFM2YzdTk4bTRkU1paN0tXSFpWVS1aUnFIMWU2eV9OZmw1LW5wUlpITnpOSVJKeUFXQU51UFAtMDZHSHkwRjhjTUZOUW5JU1JvS3REeXfSAZsBQVVfeXFMTlVyNkpBM29pVGgzOHI0MnJkWGk2RkJEYkkzMzdfMDQ5Vlk4ajk1MzloMHZzQ19UQTVCeHRmY1pzQlp4eWJwdW5NV0VIYVBnZFozaHNGdUJhNXptZmhVRlFQUFN5bE4yWFZGSVVRS1JJU1ZURXJsTnpJR0tJcHI0WlNwYkdBVktISWg0THctTGJ0U3J0QW51anFpUG8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-16T19:29:41.910Z"
+  },
+  {
    "id": "ca1eb5ab5c53",
    "title": "Xbox Unveils Project Helix: A New Era for Gaming Consoles",
    "summary": "Xbox Unveils Project Helix: A New Era for Gaming Consoles Udaipur Kiran",
@@ -128,6 +994,10 @@
    "sources": [
     {
      "name": "www.smarthouse.com.au",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWs1VE9reVFfSjFNNFNvMzZYQVRQaEpBNm1ib0cteVh4OWlsSjg2VFFCUFRZel84S2Npb0tMNkk4ZHl2dnVSYmxuTHJmRlotcW5qMnBrVldqTDhaVm9QSVhlYkxBLUI1cXhKdjlsM0VYdWthdU55ZlllYU9BRHVNTVRkNlVWaFBMU3RCcHQ3MTZEcHViQ1dqU000c0EtLU15Z1pSMTFvTGtGdzNmalNxNzZTdVFGenNiV3RNQg?oc=5"
+    },
+    {
+     "name": "SmartHouse",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWs1VE9reVFfSjFNNFNvMzZYQVRQaEpBNm1ib0cteVh4OWlsSjg2VFFCUFRZel84S2Npb0tMNkk4ZHl2dnVSYmxuTHJmRlotcW5qMnBrVldqTDhaVm9QSVhlYkxBLUI1cXhKdjlsM0VYdWthdU55ZlllYU9BRHVNTVRkNlVWaFBMU3RCcHQ3MTZEcHViQ1dqU000c0EtLU15Z1pSMTFvTGtGdzNmalNxNzZTdVFGenNiV3RNQg?oc=5"
     }
    ],
