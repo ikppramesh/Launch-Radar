@@ -675,12 +675,16 @@
    "category": "Other gadget",
    "brand": "Huawei",
    "region": "China",
-   "confidence": 1,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/11/13/huawei-mate-x8-richard-yu-late-november-launch-nears/"
+    },
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTRyRkNWTTRNQ1V3d3pIeTByMHpBcDJhX3UtLXV0bW9JbTZvUXozYXdKSVpsUnhyQktWbWxONk5sWGZ4UXFSbmNrTXhpODgzNEVyR2oxU043ZUVyeFU5Z2pLTVpYbTZBcW5KQWpBTGVsQktlTEFSMlI2aHhEWWphRHB6Y2hyRmNxYkt5aThlQTNQQ2xqTTA2UzFhblR4ZjY5eHcyUlFncnhwRURhMkI4UkRR?oc=5"
     }
    ],
    "firstSeen": "2026-11-13T10:49:04.794Z"
