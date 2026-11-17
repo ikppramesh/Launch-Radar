@@ -601,12 +601,16 @@
    "category": "Smartphone",
    "brand": "Samsung",
    "region": "India",
-   "confidence": 2,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-india-launch-imminent-bis-certification-database-specifications-features-12291086"
+    },
+    {
+     "name": "Inkorr",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnhOQjd0MkFrLWpsVEM0bDd6NUxtdUVtMlRQejIya1pWS0p4Rjh0ZE9vQVBqUXd0V0czNENDb2FDNF9nUDh3UE9nblhCbVMtSmN2LXVLU054YWptX25QREFHMTlaZUg0bUZBR2NHYjRia3BQdWR3YjRhTXJXZEhsbEM1U1ZYSnc4NHZLTWFKbzFBb2ctLWU4WVc3Y3VkU1JjdHptZlRNMnlMRHVyTmM4VHhEWUhITU5yS2RMSXdxb2JRdVdfNVkzTnVCdmtqd9IBzgFBVV95cUxNUnhOQjd0MkFrLWpsVEM0bDd6NUxtdUVtMlRQejIya1pWS0p4Rjh0ZE9vQVBqUXd0V0czNENDb2FDNF9nUDh3UE9nblhCbVMtSmN2LXVLU054YWptX25QREFHMTlaZUg0bUZBR2NHYjRia3BQdWR3YjRhTXJXZEhsbEM1U1ZYSnc4NHZLTWFKbzFBb2ctLWU4WVc3Y3VkU1JjdHptZlRNMnlMRHVyTmM4VHhEWUhITU5yS2RMSXdxb2JRdVdfNVkzTnVCdmtqdw?oc=5"
     }
    ],
    "firstSeen": "2026-11-06T16:41:54.614Z"

@@ -2,12 +2,534 @@
  "date": "2026-11-17",
  "items": [
   {
+   "id": "73e6855179c5",
+   "title": "Edifier launches Halo PixelBar AI desktop soundbar with a pixel display & dual 52mm drivers",
+   "summary": "Edifier has recently launched a new desktop speaker in China called the Huazai Halo PixelBar AI. It costs 699 yuan ($104) and is currently available on JD.com. Rather than just being a standard audio device, it is designed to sit under a computer monitor and combine a few differe",
+   "link": "https://www.gizmochina.com/2026/11/17/edifier-huazai-halo-pixelbar-ai-desktop-speaker-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/edifier-huazai-halo-pixelbar-ai-desktop-speaker-5-300x198.jpg?x47967",
+   "publishedAt": "2026-11-17T15:44:44.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "Edifier",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/17/edifier-huazai-halo-pixelbar-ai-desktop-speaker-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "43516e33390e",
+   "title": "The Xiaomi 18 Pro debuts globally with sub-mm bezels, privacy display, 4000-nit back display, and dual 200MP Leica cameras",
+   "summary": "Xiaomi is pushing the limits of modern smartphone specs with a killer design, flush camera lenses, and a next-gen Snapdragon SoC. more…",
+   "link": "https://9to5google.com/2026/11/17/the-xiaomi-18-pro-debuts-globally-with-sub-mm-bezels-privacy-display-4000-nit-back-display-and-dual-200mp-leica-cameras/",
+   "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-series.jpg?quality=82&strip=all&w=1600",
+   "publishedAt": "2026-11-17T15:35:00.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "9to5Google",
+     "link": "https://9to5google.com/2026/11/17/the-xiaomi-18-pro-debuts-globally-with-sub-mm-bezels-privacy-display-4000-nit-back-display-and-dual-200mp-leica-cameras/"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "aa122b1593d5",
+   "title": "Xiaomi launches 1st clip-on earbuds, Watch S5, Smart Band 11",
+   "summary": "Xiaomi launches 1st clip-on earbuds, Watch S5, Smart Band 11 NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa25iVWFtRE5NaWdqT2tDUFVIWGZqQ3luWkw2VG5nZlVra3lhdlZ1elktQkdjWnFvVTNnRi1sMDMyTmZwZExKVXBEQ3dBOGtrOU9zQmhoQXRRcWhxeU9mREtlcE5YekZNSGtqZ1ZRV2RYaTlFeVRjR0s1emFUdVhtVGowQnFXNmRrVUtMUUxVSWI5Sm5lSVYxejhCNlR0dDhJZEFBZkdZTjE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T14:51:51.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "NewsBytes",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa25iVWFtRE5NaWdqT2tDUFVIWGZqQ3luWkw2VG5nZlVra3lhdlZ1elktQkdjWnFvVTNnRi1sMDMyTmZwZExKVXBEQ3dBOGtrOU9zQmhoQXRRcWhxeU9mREtlcE5YekZNSGtqZ1ZRV2RYaTlFeVRjR0s1emFUdVhtVGowQnFXNmRrVUtMUUxVSWI5Sm5lSVYxejhCNlR0dDhJZEFBZkdZTjE?oc=5"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2lyd3RKNEVwSHhFeFRKNzdxMTFtOEJVUEM4SkFVbnRfRFJITFpFdGRjU2t2a3JrTlFiVnJWZlNqVEtzcnU4S0Z1emx3UkpTcHB4b1dXM0NCeVZHcFRPTlRZbWRYZlNUSkZCc3U4WXA0V09iazVlM25xMHZ0YmtRQ3JNR2YwamlBWjFZTTFuWkQ0RzhISXFuckx3T21OOHZD?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "73ebdb75c656",
+   "title": "The Xiaomi Clip earbuds have been unveiled, offering a small form factor, long battery life and extra useful features",
+   "summary": "Xiaomi's sophomore open earbuds are here, and after some weeks with them, I can't get over their sound quality, small form factor and useful extra features.",
+   "link": "https://www.techradar.com/audio/earbuds-airpods/these-new-open-earbuds-might-be-the-best-clip-on-buds-ive-tested-yet-but-one-big-question-remains-before-i-can-recommend-them",
+   "image": "https://cdn.mos.cms.futurecdn.net/3NetEXEcLyCf2zRXJj9wMS-1920-80.jpg",
+   "publishedAt": "2026-11-17T14:30:00.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "TechRadar",
+     "link": "https://www.techradar.com/audio/earbuds-airpods/these-new-open-earbuds-might-be-the-best-clip-on-buds-ive-tested-yet-but-one-big-question-remains-before-i-can-recommend-them"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "06a419489ac9",
+   "title": "ViewTech Borescopes Introduces New 11-Inch Screen Replicator Tablet for Enhanced Industrial Inspections",
+   "summary": "ViewTech Borescopes Introduces New 11-Inch Screen Replicator Tablet for Enhanced Industrial Inspections WINK News",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQY0tHcWo2U1JpMmNEelFWNkJxeW5wSk15SFVHR0dva19aYWlpQ2JOc3diRkhNMmQyazE5cTZ4cGpMbEtXclV2ZFc0REo0MEJsUTIwc1FLbjZKSTVRdk1jdHJUaFFxU01CNTlnZzdoQXlaMFdjdUYwRjlfaGVobnp2WUlfRWh2dFA5d2dzUE1FMDBoT0NpVk9qNGg4d21SR2RUWUVDRF9wN0NCMV9YYWVwcDM1MGlzcjQtaHhhQlVGa2RwNkRzZ1haWXZQZVAxaVNGaXQ2bGJaMi1yV1U3dHNTa3hEM29BZmVDRmRXV1NaSVhCWlZySGduaG4zaDk4RUV3SUxkcE1sdzZYZmR6S3hfUXVJa0ozTVpwZ3hTTXUyVFpNdm8?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T12:48:37.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "WINK News",
+     "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQY0tHcWo2U1JpMmNEelFWNkJxeW5wSk15SFVHR0dva19aYWlpQ2JOc3diRkhNMmQyazE5cTZ4cGpMbEtXclV2ZFc0REo0MEJsUTIwc1FLbjZKSTVRdk1jdHJUaFFxU01CNTlnZzdoQXlaMFdjdUYwRjlfaGVobnp2WUlfRWh2dFA5d2dzUE1FMDBoT0NpVk9qNGg4d21SR2RUWUVDRF9wN0NCMV9YYWVwcDM1MGlzcjQtaHhhQlVGa2RwNkRzZ1haWXZQZVAxaVNGaXQ2bGJaMi1yV1U3dHNTa3hEM29BZmVDRmRXV1NaSVhCWlZySGduaG4zaDk4RUV3SUxkcE1sdzZYZmR6S3hfUXVJa0ozTVpwZ3hTTXUyVFpNdm8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "c3b6a082165a",
+   "title": "Apple’s buggy HomeView launch is making Google Home look good",
+   "summary": "Some HomeView buyers are already returning their units over buggy Siri AI.",
+   "link": "https://www.androidauthority.com/apple-homeview-siri-ai-issues-3736006/",
+   "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/HomeView-Touch-1-scaled.jpg",
+   "publishedAt": "2026-11-17T12:45:52.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Authority",
+     "link": "https://www.androidauthority.com/apple-homeview-siri-ai-issues-3736006/"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "96675a6ed00e",
+   "title": "Dell Pro 7 / Pro 5 / Pro 3 wireless ANC and Pro 5 wired ANC / Pro 3 wired headsets launched in India",
+   "summary": "Dell has announced five new Dell Pro Headsets for business users, comprising three wireless and two wired models. The lineup includes the Dell Pro 7 Wireless ANC Headset (WL727), Pro 5 Wireless ANC Headset (WL527), Pro 3 Wireless ANC Headset (WL327), Pro 5 Wired ANC Headset (WH52",
+   "link": "https://www.fonearena.com/blog/497141/dell-pro-7-pro-5-pro-3-price-india-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/Dell-Pro-Headsets-India-1024x576.jpg",
+   "publishedAt": "2026-11-17T11:27:03.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Dell",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/497141/dell-pro-7-pro-5-pro-3-price-india-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "03f0e66aa600",
+   "title": "Xiaomi To Launch A New Wide-Screen Smartphone? Reports Suggest Ultra-Thin Bezels And 6.4-Inch Screen",
+   "summary": "Xiaomi To Launch A New Wide-Screen Smartphone? Reports Suggest Ultra-Thin Bezels And 6.4-Inch Screen The Daily Jagran",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN0tCNzRVd3l2elBuNmdPbllvbXpNV25YVjNtNWZQT1JCbUk4ME9LVzdKV2YzZGEwMFY3Skx2cDJkNFg3Mk9CZWtaZ3dDZ1VoaGttNDRUbEFoZW1pektidFp3cTA4R01mVWNGQzBzc3JnMjYzZU1KOTFFaDhrbXZMUnloeGlmNXBIQUVlNjNIV284enZMNmZVcTJoV2hoQ0h5WEJWb3RON1FqVDdHY19Hei1McXJsX0VDS1h0b19MY3lFZ3ZjUjdrZHgyWFF1QmJjZ3NoZUpEeUoyVThmWFN3eTZmNlFWNzE1LVFsbW1STzRwVmfSAfoBQVVfeXFMUFNXclF5ZHdjcmw2T0dVdnY2YTZhX3JEVEVlNk5nSlRUb3hmbWI3YU4xMnNKbGVaYTlEX0VwWWdBX1lfMTVBLTV5VDdURlpPTjJnMzlQQ2RSQVhoci1faXdmSWYySlZhcmppbWIzSmlJaVNCeExTXzAxT3BpTmdmVkZXc04wR3Vsa1RFdGpTcktzYVczMmNLekszMUhJVXdoWUlLcEFxbnAyU0xJRWFoNzFFRWdkbll1bWRCVkxNN3UtVGZWNVhPTlE4dFpzTS11S2hfM251RHU2RXhDLV85NXhLWkIzR05oY2I2LXd1M3hDUXVHVWdMbk1GZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T10:54:00.000Z",
+   "date": "2026-11-17",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Daily Jagran",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN0tCNzRVd3l2elBuNmdPbllvbXpNV25YVjNtNWZQT1JCbUk4ME9LVzdKV2YzZGEwMFY3Skx2cDJkNFg3Mk9CZWtaZ3dDZ1VoaGttNDRUbEFoZW1pektidFp3cTA4R01mVWNGQzBzc3JnMjYzZU1KOTFFaDhrbXZMUnloeGlmNXBIQUVlNjNIV284enZMNmZVcTJoV2hoQ0h5WEJWb3RON1FqVDdHY19Hei1McXJsX0VDS1h0b19MY3lFZ3ZjUjdrZHgyWFF1QmJjZ3NoZUpEeUoyVThmWFN3eTZmNlFWNzE1LVFsbW1STzRwVmfSAfoBQVVfeXFMUFNXclF5ZHdjcmw2T0dVdnY2YTZhX3JEVEVlNk5nSlRUb3hmbWI3YU4xMnNKbGVaYTlEX0VwWWdBX1lfMTVBLTV5VDdURlpPTjJnMzlQQ2RSQVhoci1faXdmSWYySlZhcmppbWIzSmlJaVNCeExTXzAxT3BpTmdmVkZXc04wR3Vsa1RFdGpTcktzYVczMmNLekszMUhJVXdoWUlLcEFxbnAyU0xJRWFoNzFFRWdkbll1bWRCVkxNN3UtVGZWNVhPTlE4dFpzTS11S2hfM251RHU2RXhDLV85NXhLWkIzR05oY2I2LXd1M3hDUXVHVWdMbk1GZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "5569e6ee2eec",
+   "title": "Dell launches Pro 3 and Pro 5 headsets with AI mics and up to 95-hour battery life",
+   "summary": "Dell has kept its India lineup moving this month, launching the lightweight Dell 14S laptop just two weeks ago after a new 32-inch UltraSharp monitor last month. The company is now turning to business audio, adding a fresh family of Pro headsets for desk, hybrid, and on-the-go wo",
+   "link": "https://www.gizmochina.com/2026/11/17/dell-pro-3-pro-5-headsets-launch-india-ai-mics-battery-life/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-lifestyle-300x169.jpg?x47967",
+   "publishedAt": "2026-11-17T10:46:03.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Dell",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/17/dell-pro-3-pro-5-headsets-launch-india-ai-mics-battery-life/"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "d7acb0516fef",
+   "title": "Motorola Edge 70 Neo India launch soon, official page hints launch date",
+   "summary": "Motorola already has several Edge 70 models in India, including the Edge 70, Edge 70 Fusion, Edge 70 Pro, Edge 70 Pro+, and Edge 70 Max. Recently, the brand unveiled the Signature 27 flagship globally, and that phone is also expected to launch in India soon, probably in December.",
+   "link": "https://www.gizmochina.com/2026/11/17/motorola-edge-70-neo-india-launch-soon-official-page-hints-date/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-22-300x169.jpg?x47967",
+   "publishedAt": "2026-11-17T10:29:18.000Z",
+   "date": "2026-11-17",
+   "status": "Upcoming",
+   "category": "Other gadget",
+   "brand": "Motorola",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/17/motorola-edge-70-neo-india-launch-soon-official-page-hints-date/"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "e7b6cfa5aeec",
+   "title": "Xiaomi Smart Band 11 Launched With 1.72-Inch AMOLED Display, Over 150 Sports Modes: Price, Features",
+   "summary": "Xiaomi Smart Band 11 launched in select global markets. It features a 1.72-inch AMOLED display and is advertised to deliver up to 21 days of battery life on a single charge. It has a 233mAh Li-Po battery. It offers heart rate monitoring and blood oxygen (SpO2) tracking. It suppor",
+   "link": "https://www.gadgets360.com/wearables/news/xiaomi-smart-band-11-price-launch-specifications-features-12337823",
+   "image": "https://i.gadgets360cdn.com/large/xiaomi_smart_band_11_1794902678417.jpg",
+   "publishedAt": "2026-11-17T10:01:14.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Xiaomi",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/xiaomi-smart-band-11-price-launch-specifications-features-12337823"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "8aa9b77d51b6",
+   "title": "Xiaomi 18 Pro Global Launch: Expected Price, Features, Camera, Battery And Other Details",
+   "summary": "Xiaomi 18 Pro Global Launch: Expected Price, Features, Camera, Battery And Other Details NDTV Profit",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGhNTWdLYlN1TmktWDNoejB2UllyQTBpR180UWwwUzZyWi1WNV9mNkJnTmNFamJhMV9QeWdwcGlVUUUzM0NMOV9EeXVQanFiMXRWbVMxNDZaVUdkU0dmWVdLLVM5Sndib1pmQ2tnVTRZd080VDR2ZkM4UHRJelFoWEJuMkV6SF9sRDVuRDFJUXRUa3czcmV3bjhUcThhVGY1XzJHczkzc2F6MGV3MHdmU2VaVEEzc0Q0bW1jcUV3VUx0VncybWF4Ymctc9IB0wFBVV95cUxQa21ScGZvTUw1VHRLUWNRdEhOVHFNRFJZVjFCTjE4QVpFZGROLUlDZ1c5SDgxbm4wQlJaTGFnVDh3LTQ1SFVYVG9EVFNWSzhWYVYwUFExSk9FeHE1QlJPeHE1Sm5JeHVhQ2thY1h3LU9FUi1jTE9LRnZwVDJJcXBoRThfa2NmbW9JR09XRlVDaWpBQkdzWi1MMjJMRFZxQWVVS3hXaEdqQktITktfM2t6UnF4QU9oU3BpMTlSUkN5SkJTOUlQV3RRbUJaLWw3bFFLZkpz?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T09:53:57.000Z",
+   "date": "2026-11-17",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "NDTV Profit",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGhNTWdLYlN1TmktWDNoejB2UllyQTBpR180UWwwUzZyWi1WNV9mNkJnTmNFamJhMV9QeWdwcGlVUUUzM0NMOV9EeXVQanFiMXRWbVMxNDZaVUdkU0dmWVdLLVM5Sndib1pmQ2tnVTRZd080VDR2ZkM4UHRJelFoWEJuMkV6SF9sRDVuRDFJUXRUa3czcmV3bjhUcThhVGY1XzJHczkzc2F6MGV3MHdmU2VaVEEzc0Q0bW1jcUV3VUx0VncybWF4Ymctc9IB0wFBVV95cUxQa21ScGZvTUw1VHRLUWNRdEhOVHFNRFJZVjFCTjE4QVpFZGROLUlDZ1c5SDgxbm4wQlJaTGFnVDh3LTQ1SFVYVG9EVFNWSzhWYVYwUFExSk9FeHE1QlJPeHE1Sm5JeHVhQ2thY1h3LU9FUi1jTE9LRnZwVDJJcXBoRThfa2NmbW9JR09XRlVDaWpBQkdzWi1MMjJMRFZxQWVVS3hXaEdqQktITktfM2t6UnF4QU9oU3BpMTlSUkN5SkJTOUlQV3RRbUJaLWw3bFFLZkpz?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "60e352dcaa41",
+   "title": "SoSIM launches contract-free \"One Number Watch\" data package",
+   "summary": "SoSIM launches contract-free \"One Number Watch\" data package SME & Entrepreneurship Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajJ2bUxCZTZtRzlqekJKaFJXV2xBcnJrYm9XamEybVJGVXJyZ1p0a1Vpa1B2OHlGVExHQ0tzd2x5VTNZOE9kNnlVeDZxTjRwR1FVbkE0WndhTmNjYzJuYVdvSXZYTncxeEdsRlBqVGhiOHMwRUVrTm1tcDVIVnBIa1VB?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T08:30:00.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "SME & Entrepreneurship Magazine",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajJ2bUxCZTZtRzlqekJKaFJXV2xBcnJrYm9XamEybVJGVXJyZ1p0a1Vpa1B2OHlGVExHQ0tzd2x5VTNZOE9kNnlVeDZxTjRwR1FVbkE0WndhTmNjYzJuYVdvSXZYTncxeEdsRlBqVGhiOHMwRUVrTm1tcDVIVnBIa1VB?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "b2c2d6043c32",
+   "title": "DailyObjects The Artist Collection MagSafe-compatible iPhone 16, 17 and 18 cases launched",
+   "summary": "DailyObjects has introduced The Artist Collection, a range of MagSafe-compatible iPhone cases featuring original artwork by five Indian and international artists. Based on the theme ‘The Art. The Artist. The Object.’, the collection features Amrit Pal Singh, Kafeel Ahmed Ansari, ",
+   "link": "https://www.fonearena.com/blog/497125/dailyobjects-the-artist-collection-iphone.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/DailyObjects-iPhone-Case-The-Artist-Collection-1024x490.jpg",
+   "publishedAt": "2026-11-17T07:54:43.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Apple",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/497125/dailyobjects-the-artist-collection-iphone.html"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "cca1a77b7de4",
+   "title": "Xiaomi May Launch a Wide-Screen Phone With 6.4-Inch Display and Ultra-Thin Bezels",
+   "summary": "With the launch of the Xiaomi 18 Pro series underway, Xiaomi is now said to be testing its next flagship device. Details about a regular device with a wide-screen display have emerged in the rumour mill. It will have a 6.3-6.4-inch display with a wide aspect ratio. It is suspecte",
+   "link": "https://www.gadgets360.com/mobiles/news/xiaomi-wide-screen-phone-design-display-details-leaked-12336971",
+   "image": "https://i.gadgets360cdn.com/large/pura_x_view_huawei_1788844765599.jpg",
+   "publishedAt": "2026-11-17T06:15:30.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/xiaomi-wide-screen-phone-design-display-details-leaked-12336971"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "5f1073c12af1",
+   "title": "iQOO Z12 Lite 5G’s image, key specs emerge, launching soon",
+   "summary": "Earlier this month, iQOO cleared a key India certification for the upcoming 16R, even as the more powerful iQOO 16, already launched in China, is still being lined up for a local debut. The brand has also been preparing a new Lite model in its Z-series, and the iQOO Z12 Lite has ",
+   "link": "https://www.gizmochina.com/2026/11/17/iqoo-z12-lite-5g-google-play-console-listing/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iQOO-Z12-Lite-5G-Google-Play-Console-listing-300x169.png?x47967",
+   "publishedAt": "2026-11-17T06:14:26.000Z",
+   "date": "2026-11-17",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "iQOO",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/17/iqoo-z12-lite-5g-google-play-console-listing/"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "a3cbc4766e57",
+   "title": "WeFixMoney Launches Redesigned Website with Mobile-First Experience",
+   "summary": "WeFixMoney Launches Redesigned Website with Mobile-First Experience Akron Beacon Journal",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2hnNVpKN2JJQkN2cDBudVdPOEJEQnJPcHBFNkJXSEJPMFI3LUlCbTBka0M5cGhicVNPRnA3UXFBZk5jOF9ia3dpSUdTU0hOa0dCOGRIWlN0YUZybnZqR0g5VkYxQkkwWDNscl9NNno3ZkdRM2NLeFU3US1qZTJZdm9EZXoyckVES0hqTVJkd0Y4NWVPSWNWUjNjQmhfblJNbTVWdnBlTUdnNjZEc2hsYWs1bnQzS2JPdUNpZk5TYnNqblU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T05:44:01.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Akron Beacon Journal",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2hnNVpKN2JJQkN2cDBudVdPOEJEQnJPcHBFNkJXSEJPMFI3LUlCbTBka0M5cGhicVNPRnA3UXFBZk5jOF9ia3dpSUdTU0hOa0dCOGRIWlN0YUZybnZqR0g5VkYxQkkwWDNscl9NNno3ZkdRM2NLeFU3US1qZTJZdm9EZXoyckVES0hqTVJkd0Y4NWVPSWNWUjNjQmhfblJNbTVWdnBlTUdnNjZEc2hsYWs1bnQzS2JPdUNpZk5TYnNqblU?oc=5"
+    },
+    {
+     "name": "Bergen Record",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMHVDWE4zZ2tiS2NfYVhoVm1ZWXpseXBZWk93YjJLQjVBRVZtM2dfa0RFdFh5d1lUUTZ4N1lWdUpDVHZLMUpROXJaMmNWSXhaQlNMZmhGWUVRdFVHYmdFY3VPU2s0SEZSNVluZzl4X3JyWEp1UlBXVXlkXzlfYlNkOXpTZFlfcXg3Q3VGNnpFcEJHMzFISzNiRTE5b0ZPMzAzdTh3cGx5MTRvOUdRX1J4ZUlCZ2tUanFRY2ZNb1dvS1U?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "9464a974bdbf",
+   "title": "HAMMER Beatbox 2 20W portable soundbar with up to 6h playback launched",
+   "summary": "HAMMER has launched the Beatbox 2, a portable 20W Bluetooth soundbar with multiple audio playback options. The HAMMER Beatbox 2 delivers 20W RMS output through dual 52mm full-range dynamic drivers. It features a dual-tone design, a front metal mesh and an ABS enclosure. It uses t",
+   "link": "https://www.fonearena.com/blog/497102/hammer-beatbox-2-price-features.html",
+   "image": "https://images.fonearena.com/blog/wp-content/uploads/2026/11/HAMMER-Beatbox-2-1024x348.jpg",
+   "publishedAt": "2026-11-17T05:18:42.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "FoneArena",
+     "link": "https://www.fonearena.com/blog/497102/hammer-beatbox-2-price-features.html"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "51ae97a7d04a",
+   "title": "Google Introduces New Youth Digital Wellbeing Playlist in India, Expands Teen Mental Health Shelves",
+   "summary": "Google launched new features and tools for kids and teenagers across YouTube, Google Search, and Android in India. The new measures offer parents more control over their children's online activity. It also aims to encourage healthier screen habits among teenagers. The expansion i",
+   "link": "https://www.gadgets360.com/mobiles/news/google-india-youth-digital-wellbeing-playlist-teen-mental-health-shelves-youtube-search-android-rollout-12336754",
+   "image": "https://i.gadgets360cdn.com/large/google_youth_digital_wellbeing_playlist_1794890930523.jpg",
+   "publishedAt": "2026-11-17T04:52:38.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Google",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/google-india-youth-digital-wellbeing-playlist-teen-mental-health-shelves-youtube-search-android-rollout-12336754"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "7e41a1220b73",
+   "title": "Vivo launches flagship V80 smartphone in Bangladesh",
+   "summary": "Vivo launches flagship V80 smartphone in Bangladesh The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkpfNDVqT1hjOHpPblpDMjNabTBLcllqX2JQOUdacklXUnQzS04wMVo5UHhBUExvbHN5emVudmtwNWUtVVdBY1QzUHdXVXFRcndpdXZpbWhBLVQ2R1dXLW91NVpGa3ljSS05cW1yV3VrakFVV25hbG1qeWU1allKOGRtYUhZRnFrcWFXM3RTZzdsU2RHeWhWZzFLaUhDQXJf?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T04:21:35.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Vivo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Business Standard",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkpfNDVqT1hjOHpPblpDMjNabTBLcllqX2JQOUdacklXUnQzS04wMVo5UHhBUExvbHN5emVudmtwNWUtVVdBY1QzUHdXVXFRcndpdXZpbWhBLVQ2R1dXLW91NVpGa3ljSS05cW1yV3VrakFVV25hbG1qeWU1allKOGRtYUhZRnFrcWFXM3RTZzdsU2RHeWhWZzFLaUhDQXJf?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "0b195e3b102a",
+   "title": "Huawei OSTA O1 Pro pre-orders begin, wide-screen design, color options, memory configs revealed",
+   "summary": "Yesterday, Huawei confirmed that November 24 will see the arrival of the Mate X8 foldable phone in China. Now the brand has taken the covers off the OSTA O1 Pro, which is available for pre-order through the company’s online store, Vmall. For those unaware, OSTA is Huawei’s new su",
+   "link": "https://www.gizmochina.com/2026/11/17/huawei-osta-o1-pro-pre-order-vmall-three-colors/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-19-300x169.jpg?x47967",
+   "publishedAt": "2026-11-17T04:17:31.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Other gadget",
+   "brand": "Huawei",
+   "region": "China",
+   "confidence": 1,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/17/huawei-osta-o1-pro-pre-order-vmall-three-colors/"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "421bdf9b65c0",
+   "title": "furMe Launches Washing Machine Cleaner MAX, a Triple-Enzyme Tablet Formulated for Pet Households With Heavy Laundry Loads",
+   "summary": "furMe Launches Washing Machine Cleaner MAX, a Triple-Enzyme Tablet Formulated for Pet Households With Heavy Laundry Loads Newport Daily Express",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNaTFENXAyYk1yS2hlck85MXYxcTdyLTJZQ3c5dXhjQ0JLZ1ByOEJmSXFpX0hHb0MtY1NzaGNZY255RkFGZnhRM3BXTGNKcWwzUjN6MVoyRFYwbW9KYVpZV1JFekp3YXVuUjNsSXJTRjg5SXB0LU1OLXF2T0RXN09vazVzbDN6VGZLVkZZUHRSLU5hVlpVam5KUUNtWHhueFJDQXZZZTl3UVBJMEtSN0NxZHhYQ3ZPaS0tVWU5WUF3R0hmTHFLRzJVdXhCM2ZUdXR1MGpPVG11TUl1RExTT1E1cXJ5Y0FQOXpQQU14NWY0YjYyVE1Xa0VYMXJVRUZwd3lPNHAyZ1BfUGJSY29aS3o5RDJ2LW9HVm80YW5hTlZZNEM5cXpMaXExRGxyNW5Kb0VXbXhHX3FMcmF3ME9jeVRSUzcwSjRUdUU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T04:15:02.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Newport Daily Express",
+     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNaTFENXAyYk1yS2hlck85MXYxcTdyLTJZQ3c5dXhjQ0JLZ1ByOEJmSXFpX0hHb0MtY1NzaGNZY255RkFGZnhRM3BXTGNKcWwzUjN6MVoyRFYwbW9KYVpZV1JFekp3YXVuUjNsSXJTRjg5SXB0LU1OLXF2T0RXN09vazVzbDN6VGZLVkZZUHRSLU5hVlpVam5KUUNtWHhueFJDQXZZZTl3UVBJMEtSN0NxZHhYQ3ZPaS0tVWU5WUF3R0hmTHFLRzJVdXhCM2ZUdXR1MGpPVG11TUl1RExTT1E1cXJ5Y0FQOXpQQU14NWY0YjYyVE1Xa0VYMXJVRUZwd3lPNHAyZ1BfUGJSY29aS3o5RDJ2LW9HVm80YW5hTlZZNEM5cXpMaXExRGxyNW5Kb0VXbXhHX3FMcmF3ME9jeVRSUzcwSjRUdUU?oc=5"
+    },
+    {
+     "name": "The Evening Leader",
+     "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPMFdMRjdWbVlYdkk3bmtmOVV5REhYdWpBc0pTVm42aElOeDlTQk5RajhfVGktMW15cndyQ29UN0NpV0hGYWFXWkNZVnlBbTM2SnIxblBrV3EwNHJ3bHFGdmRORkVNa01rQlNlUkUzbmxFZjhkR19qa2pXemJTNlh3YzBjZV9qck1CYXkwNGVNelEyZG5KdUFfSHFkX2FKbHJuOWtDbmZ5MHhFTEtoMTNDRktHdEh0ZGZiS2FlVTdkLXh6MThvdWNsdnFubUdLODlNZUMxdjlhWU11TGp2X1ZtMGZNVndQY2YxMUpWbDBES0wySXpoQUVPQkhLckRuMC1Ed3lhNlVqdE1LM0tHQkozelNvdkpVcVpDWFpNUnQ3YVB3N0JSeFlGNzdfeGRMdmNWTG5zTnU1Q28zZw?oc=5"
+    },
+    {
+     "name": "Porterville Recorder",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQaDF3eVlZX1lkV1hiNWR5QTNaQU5mT2d1cHZNVTVLWXJOM1FmUDhBNHNVNTEyN3ItRjhWVF9Ga015YjVtaFBWdzRvdEk5Z1RjUy1nUzJVbFZhNXk5dFhiZ2JoYkZRNmhTQVdoUExKNUFma1QzRWF0bmQySXlGVHFLWFIxVC1OeVZ1LWFGMFlYZG5qcWEzb3Jxa2ZjdXhTYW92d3g5dWd3ZExsTW5IOHNfdFhndFViS2hlWUlxaHhGSy16ZGFuRmNwLW12bEZaeV9hRzZnd2xDUWMzbVAxb2s5ck9wOWgwSENLd1E2WkNndlZ6Q01ZRkJkYjJYZjFURXk5eFVxOXUyQkRSQWdjbGlaYklmQ3VUU1NaLWozQW5jaThqM2lhOXgxZXBXOFJ3YjN6c2JMME1ybw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
+   "id": "b3dff0c29422",
+   "title": "SKT Launches BOOX Palma 3 Smartphone-Style E-Paper Device in Japan at ¥54,800, Running Android 16",
+   "summary": "SKT Launches BOOX Palma 3 Smartphone-Style E-Paper Device in Japan at ¥54,800, Running Android 16 BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QdDhMTW0yb09LeDFFX2h1V2FIVGdBSDNScVFtaGtfUE5CaWV2ZnMwNVI3WW45YTkzQ0lEMGUtU2NuNjBfTVhRQ2xCMXBaTjVWeFJqUVJGN25TSW5wNkp4cnphOF9XU3Q5cThEbEVxcGRxRjFJWUE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T03:55:00.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QdDhMTW0yb09LeDFFX2h1V2FIVGdBSDNScVFtaGtfUE5CaWV2ZnMwNVI3WW45YTkzQ0lEMGUtU2NuNjBfTVhRQ2xCMXBaTjVWeFJqUVJGN25TSW5wNkp4cnphOF9XU3Q5cThEbEVxcGRxRjFJWUE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-17T15:52:16.117Z"
+  },
+  {
    "id": "8642561c0f34",
    "title": "SD Gundam G Generation ETERNAL Launches 'New Mobile Report Gundam Wing Dual Story: G-UNIT' Event",
    "summary": "SD Gundam G Generation ETERNAL Launches 'New Mobile Report Gundam Wing Dual Story: G-UNIT' Event Inven Global",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRC1XcXhPY1ZUWXhwUHVRZTMtR28zVjRxa1Y3TWcwbVhJMHQ3SDdGeFJyQlhRZ3BnZUpteERhd1czeXd4YWVmNmc1NjBpcDVIQXhvZExaMzdKb2RYd0wxclV6cWd6RG5RREd1djFkbVhQTEwxZzY5TnFIQ2otQmxkN1gzdVRoQlpLUVRpMXBHTmF1eFpFSVM4b2RVUDFCTEFEM0tWem5ranJ4TW9OZDE5eGxxQWFWRU5sMUNoOE9aUUlURmdFQmNRcTY0S2VTbjBmQXc?oc=5",
    "image": "",
-   "publishedAt": "2026-11-17T03:40:11.000Z",
+   "publishedAt": "2026-11-17T03:39:13.000Z",
    "date": "2026-11-17",
    "status": "Upcoming",
    "category": "Smartphone",
