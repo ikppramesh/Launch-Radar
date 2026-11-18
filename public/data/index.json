@@ -1,10 +1,10 @@
 {
- "lastRefresh": "2026-11-18T20:22:49.761Z",
+ "lastRefresh": "2026-11-18T21:04:12.119Z",
  "timezone": "Asia/Kolkata",
- "tookMs": 2858,
- "feedsOk": 51,
+ "tookMs": 4326,
+ "feedsOk": 52,
  "feedsTotal": 54,
- "added": 22,
+ "added": 0,
  "days": [
   {
    "date": "2026-11-19",
@@ -197,9 +197,8 @@
   },
   {
    "name": "Gizmodo",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 403"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Android Authority",
@@ -311,7 +310,7 @@
   {
    "name": "Google News US",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "name": "Google News US",
@@ -321,12 +320,12 @@
   {
    "name": "Google News US",
    "ok": true,
-   "count": 54
+   "count": 28
   },
   {
    "name": "Google News US",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "name": "Google News IN",
@@ -346,7 +345,7 @@
   {
    "name": "Google News IN",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "name": "Google News IN",
@@ -366,7 +365,7 @@
   {
    "name": "Google News GB",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "name": "Google News GB",
@@ -376,7 +375,7 @@
   {
    "name": "Google News GB",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "name": "Google News SG",
@@ -396,62 +395,62 @@
   {
    "name": "Google News SG",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "name": "Google News SG",
    "ok": true,
-   "count": 24
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 33
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 15
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 17
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
-   "count": 30
-  },
-  {
-   "name": "Google News AU",
-   "ok": true,
    "count": 25
   },
   {
-   "name": "Google News CA",
+   "name": "Google News AU",
    "ok": true,
    "count": 33
   },
   {
-   "name": "Google News CA",
+   "name": "Google News AU",
    "ok": true,
    "count": 15
   },
   {
-   "name": "Google News CA",
+   "name": "Google News AU",
    "ok": true,
    "count": 17
   },
   {
-   "name": "Google News CA",
+   "name": "Google News AU",
    "ok": true,
    "count": 29
   },
   {
+   "name": "Google News AU",
+   "ok": true,
+   "count": 24
+  },
+  {
    "name": "Google News CA",
    "ok": true,
-   "count": 25
+   "count": 33
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 15
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 17
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 28
+  },
+  {
+   "name": "Google News CA",
+   "ok": true,
+   "count": 24
   }
  ]
 }
