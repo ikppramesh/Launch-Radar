@@ -201,10 +201,10 @@
   },
   {
    "id": "9ca5c813ed37",
-   "title": "Xiaomi launches new smartwatch globally with 14 days battery and 3,000-nit AMOLED display",
-   "summary": "Xiaomi launches new smartwatch globally with 14 days battery and 3,000-nit AMOLED display Notebookcheck",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnFkT0Z0R1lueGxQTnQ2Sk1samJqUkhrdXhLRFdjbEd1OGtGWXFHc1F2V2pvS200cEl1ZVB3ZG0wOTl6bzVOWmw4dURRTFIzZW45dzhFclU4b1NidnFRUF91cklkcFl3S0x5dkluMnpza012c0QxUk1CTE1HOVZDRjl1WjJxU014YTFyNDVMREN0N1lqVHVDWThsY3doNkE4MmZlNE0xY2FyMWVlZElwS3VRVk9RcGxuQ3VhbkkzZTlwWWU4clljQkEzOWN4aDQ?oc=5",
-   "image": "",
+   "title": "Xiaomi launches Watch S5 41mm globally with 3,000-nit AMOLED display and 14-day battery life",
+   "summary": "Xiaomi is rolling out the 41mm version of its Watch S5 to international markets following its initial launch in China this past September. The smartwatch is now available in Europe for €229.90 and in the UK for £169.99, offering a standard set of fitness tracking features and a b",
+   "link": "https://www.gizmochina.com/2026/11/18/xiaomi-watch-s5-41mm-launched-globally-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/xiaomi-watch-s5-41mm-launched-globally-2-300x188.png?x47967",
    "publishedAt": "2026-11-10T17:13:00.000Z",
    "date": "2026-11-10",
    "status": "Launched",
@@ -212,11 +212,15 @@
    "brand": "Xiaomi",
    "region": "Global",
    "confidence": 3,
-   "aggregator": true,
+   "aggregator": false,
    "sources": [
     {
      "name": "Notebookcheck",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnFkT0Z0R1lueGxQTnQ2Sk1samJqUkhrdXhLRFdjbEd1OGtGWXFHc1F2V2pvS200cEl1ZVB3ZG0wOTl6bzVOWmw4dURRTFIzZW45dzhFclU4b1NidnFRUF91cklkcFl3S0x5dkluMnpza012c0QxUk1CTE1HOVZDRjl1WjJxU014YTFyNDVMREN0N1lqVHVDWThsY3doNkE4MmZlNE0xY2FyMWVlZElwS3VRVk9RcGxuQ3VhbkkzZTlwWWU4clljQkEzOWN4aDQ?oc=5"
+    },
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/18/xiaomi-watch-s5-41mm-launched-globally-specs-price/"
     }
    ],
    "firstSeen": "2026-11-10T19:37:32.867Z"
@@ -765,6 +769,10 @@
     {
      "name": "Aerospace Manufacturing magazine",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0ZodXJRZVVLYmdnb0FTSFN0alVCRDNLU1hTMnhaYzN4VkpBQmNPZE1Yd0dpS1R5OVJPS3BCUWFQRmhnaUtjcWc0MlNqQm8tdmk2Y2tOaUgtMzZHbTZjemF0Yk40UU8yUWVSTkZrWlVHeHNkd2xMZ01rWW8yUVNyRjcxRDhMNEVIMGZJalltS19tdlI1YW1Xal9xcWg1QQ?oc=5"
+    },
+    {
+     "name": "Cleanroom Technology",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjJYWkNxNnVhM19ST3EzcERtV2t5TmFvdnU4b04xaGt4ei1ULUczaExWUks0YjgwTXp6SGFOdG1UbHprTy1KNHV3YUZDRXI0LThxVDhidVVRNlVyX3Y4WFBQeXFFZ2dKTGdWTEhKWFdubURULWhRd0dVR3dUbW1oTUR2STJST3VqSXlnQWRlMjZDTHU3V1o1UWpKekk?oc=5"
     }
    ],
    "firstSeen": "2026-11-11T01:11:24.180Z"
