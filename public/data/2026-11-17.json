@@ -79,12 +79,16 @@
    "category": "Audio",
    "brand": "—",
    "region": "Global",
-   "confidence": 1,
+   "confidence": 2,
    "aggregator": true,
    "sources": [
     {
      "name": "DJ Mag",
      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXBrSFVIYVlaWTNSUC1PZ2hsTkFoWXRNVWhNZ1lRZEpkUzk1R2xqZmx1YzF5bHhYN3AwUm1vTU53SzI4bHE1aExhekZXUWNGbWhBN3M1NXBjemh6S1ZGWFhtT3AyWmQ3eVJFZUFLSWx1OWw0NEdZRHEybXFFQzJDSzNXMA?oc=5"
+    },
+    {
+     "name": "Tech Times",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc1pSUkdJTEJ1SExXN0FENmpwNlpMczNTM3RNV3c4Z3F6UnRlT3lhZXhwQ0hyZU9VNUpXNTgwREVrM0hjbjhmd2FGaHBJM3lNLVlqbTVDdTlYTEJNdFNfaWxhY1RVd0ZJQ3ZpTVk5eEVOeGlvY0VBbVd3R0ZQRkJpTHpEYTVKMzdLeWxyNV9QR0ZYR0FTU281Nkk3TWJ1anhhTlU3M2c4eEVBX3BuNmRvRU0xazJFRzFTT0FXMDFVZHZ3eDQySmd0Wl8tVHJCRU1WQlBJ?oc=5"
     }
    ],
    "firstSeen": "2026-11-18T00:53:21.357Z"
@@ -129,6 +133,10 @@
     {
      "name": "EIN Presswire",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOG0wNEF6MXlDb1pZUVY5WFVOT1ItRlJmSjZCUkVvem1XRVNMc1FjLWlWdDg2R2czdGsyaWtMMVFJSzBBRklqcGxOMzdQbVVWb1p6M0RoOHlwbzFRMGFqTVkxcUxmQ1hsbVZ5Y01nOWp5XzRPLWNGRkZiNTlQNkpKVUMzb0ZFdVdhdzRGUEw1ZnJtQXNud2tjTFBuWHQ1S2ZFUzBMZzZPdHNSbHYyTHYzUWpVOURubWNmaUFPc3ZueTBVMUwySTFhZVN1Wi1HSTJlYnZQWEE1UV9uZw?oc=5"
+    },
+    {
+     "name": "EIN News",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXdfSXFsN1pudVNlek83VjhGU3FrcW5sVWY0dDRkWXJqR3NKczZtY2FIdkJZQnZpbUoweExLVzFfMlRqeDlVdG9TTEdMMVFyV1ZBUlc5a1BGZ0lWb1dVMWhmMHBkREZQZ3o2ZHp3cVM2SGo4aE41UGEwdnJCSldkdjg4TVhnZ2l2ZGJhT0NXOFVKZlFQNC13RlF3QWN6Y3JnTHVzVHkxdHplUThsUTh5QmRfdlY3cE9IbWJPNkpDTlI3WElqQkd4WmNTbVZVMzhLLVU0?oc=5"
     }
    ],
    "firstSeen": "2026-11-18T00:53:21.357Z"
@@ -453,6 +461,10 @@
     {
      "name": "FoneArena",
      "link": "https://www.fonearena.com/blog/497141/dell-pro-7-pro-5-pro-3-price-india-features.html"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/audio/news/dell-pro-3-5-7-wired-wireless-headsets-price-in-india-launch-availability-features-12342520"
     }
    ],
    "firstSeen": "2026-11-17T15:52:16.117Z"
@@ -691,7 +703,7 @@
    "summary": "WeFixMoney Launches Redesigned Website with Mobile-First Experience Akron Beacon Journal",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2hnNVpKN2JJQkN2cDBudVdPOEJEQnJPcHBFNkJXSEJPMFI3LUlCbTBka0M5cGhicVNPRnA3UXFBZk5jOF9ia3dpSUdTU0hOa0dCOGRIWlN0YUZybnZqR0g5VkYxQkkwWDNscl9NNno3ZkdRM2NLeFU3US1qZTJZdm9EZXoyckVES0hqTVJkd0Y4NWVPSWNWUjNjQmhfblJNbTVWdnBlTUdnNjZEc2hsYWs1bnQzS2JPdUNpZk5TYnNqblU?oc=5",
    "image": "",
-   "publishedAt": "2026-11-17T05:44:01.000Z",
+   "publishedAt": "2026-11-17T05:42:02.000Z",
    "date": "2026-11-17",
    "status": "Launched",
    "category": "Smartphone",
@@ -707,6 +719,14 @@
     {
      "name": "Bergen Record",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMHVDWE4zZ2tiS2NfYVhoVm1ZWXpseXBZWk93YjJLQjVBRVZtM2dfa0RFdFh5d1lUUTZ4N1lWdUpDVHZLMUpROXJaMmNWSXhaQlNMZmhGWUVRdFVHYmdFY3VPU2s0SEZSNVluZzl4X3JyWEp1UlBXVXlkXzlfYlNkOXpTZFlfcXg3Q3VGNnpFcEJHMzFISzNiRTE5b0ZPMzAzdTh3cGx5MTRvOUdRX1J4ZUlCZ2tUanFRY2ZNb1dvS1U?oc=5"
+    },
+    {
+     "name": "The Journal News | lohud.com",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHF3bFdYcU5udjZ6ajVVUmVITEtaMnBrS2N5dkV1SHRycVR6R3l0NDE1WmJYMGJibmxEODhHWkhzUy1iRGp2dDZFMWh6MlNBYVRpa2lzRklycG0wT29QTDVPaTBvbThnZkN4em9OLWV4b3VLYkRsM1JzdFRQN3NYWEhIQjAwOFk2NU9pWENwZGhGbWVmWWhIVlVlME02Qi10SmxuN2QzYnRXdXpsd2dfZC1tMFdwTks4?oc=5"
+    },
+    {
+     "name": "The Detroit News",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTQ2ZV9weHN1Tm5mVWJlcGZacEt5ckhVeFItcHVTdzJVNXI0bFJ2eHZyR0k0SlA4Z0xucmtMY3FEMmFFaFk5TERJNW9McnhDXzdDUlo2b0pIbFNHekRXVFlCSXN6NG01c2IzRjVzX2VUYU02aE1ha29UUTJONWlHd3NDWFUtRlNBUGpkVXRnbldmbDV3ZE54TEFGVDFXS05BMTFreUQzNHV4Z29oaERzNTdtZVBVNTVfOVgxV1FlaUQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-17T15:52:16.117Z"
@@ -795,6 +815,10 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/11/17/huawei-osta-o1-pro-pre-order-vmall-three-colors/"
+    },
+    {
+     "name": "GSMArena",
+     "link": "https://www.gsmarena.com/huawei_osta_o1_pro_design_and_color_options_officially_revealed-news-75512.php"
     }
    ],
    "firstSeen": "2026-11-17T15:52:16.117Z"

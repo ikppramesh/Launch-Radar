@@ -210,7 +210,7 @@
    "status": "Launched",
    "category": "Wearable",
    "brand": "Xiaomi",
-   "region": "Global",
+   "region": "India",
    "confidence": 3,
    "aggregator": false,
    "sources": [
@@ -221,6 +221,30 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/11/18/xiaomi-watch-s5-41mm-launched-globally-specs-price/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/xiaomi-watch-s5-41mm-smart-band-11-nfc-launch-price-specifications-features-12341968"
+    },
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/xiaomi-launches-watch-s5-smart-band-11-clip-earbuds/"
+    },
+    {
+     "name": "The Tech Outlook",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUTc4NzRpMkc4YmRpYlBIa1pDWHhEWnJ4aFVWN0daQU85S2trWi1Mejh4amxEU0o1aDN5VEVweVNwb3B3eHVNemtNbjdQUkRjbkhJSHNXS0VrWVJTNUNhc1VqanlLd0x3bEpaZXlHZ1JqT3BSWnpscEhPUl9FZ1ZEVUhRYnpyTUJKVW56N1VfYWwtbTh4N09DcERza25uRExvQ1FCYkhJTTgzeGFFY1BGM1haMkstd0d5LTZ2V3NFVnk2T1FtUWJKX01yVkpIQW1WSEZZNWpiZXlTOGFzaFBiOWRaNUt6bEtrYm51ZVdRam5LNmpldFV6QXd3cVlqdFA0TEhRSGdFRUQ?oc=5"
+    },
+    {
+     "name": "NewsBytes",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa25iVWFtRE5NaWdqT2tDUFVIWGZqQ3luWkw2VG5nZlVra3lhdlZ1elktQkdjWnFvVTNnRi1sMDMyTmZwZExKVXBEQ3dBOGtrOU9zQmhoQXRRcWhxeU9mREtlcE5YekZNSGtqZ1ZRV2RYaTlFeVRjR0s1emFUdVhtVGowQnFXNmRrVUtMUUxVSWI5Sm5lSVYxejhCNlR0dDhJZEFBZkdZTjE?oc=5"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2lyd3RKNEVwSHhFeFRKNzdxMTFtOEJVUEM4SkFVbnRfRFJITFpFdGRjU2t2a3JrTlFiVnJWZlNqVEtzcnU4S0Z1emx3UkpTcHB4b1dXM0NCeVZHcFRPTlRZbWRYZlNUSkZCc3U4WXA0V09iazVlM25xMHZ0YmtRQ3JNR2YwamlBWjFZTTFuWkQ0RzhISXFuckx3T21OOHZD?oc=5"
+    },
+    {
+     "name": "thedigitalbriefnews.com",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0MEdGUnFJNlFtMFIxOUk2dW9Qc2wxbmN3MGo3SHlzbzEzbDNEUnJyNG15NlJ4bGdZQ3BzWUdZbzBhNnlZOUFfSnAyVmJ5VDNZZjJEN2hRLXB5dXlYTDdGOTRQYS16UGc1bG45UHFVbUVya2JlWVE?oc=5"
     }
    ],
    "firstSeen": "2026-11-10T19:37:32.867Z"
