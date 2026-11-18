@@ -121,6 +121,14 @@ tr.detail td { background: color-mix(in srgb, var(--bg) 60%, var(--panel)); padd
 .empty { padding: 48px 16px; text-align: center; color: var(--muted); }
 .day-sep td { background: var(--bg); font: 600 12px Inter, sans-serif; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); padding: 8px 14px; }
 
+/* Day page (day/YYYY-MM-DD.html) */
+.share-card { display: block; width: 100%; height: auto; margin-top: 14px; border-radius: var(--radius); border: 1px solid var(--line); }
+.day-list { list-style: none; margin: 14px 0 0; padding: 0; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+.day-list li { padding: 12px 16px; border-bottom: 1px solid var(--line); }
+.day-list li:last-child { border-bottom: 0; }
+.day-list a { font-weight: 600; line-height: 1.35; }
+.day-list .muted { font-size: 13px; margin-top: 2px; }
+
 .foot { margin: 28px 0 48px; font-size: 13px; color: var(--muted); }
 .health { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 4px 16px; margin-top: 10px; font: 12px 'JetBrains Mono', monospace; }
 .health .bad { color: var(--accent); }

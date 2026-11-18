@@ -34,6 +34,7 @@ To force an update right now: **Actions → Update gadget launches → Run workf
 - Click a row to see the summary and every outlet's link. **Open ↗** goes to the article.
 - **Export CSV** downloads the current view. The URL keeps your filters, so you can share or bookmark it.
 
+- **Share pages:** each day has a static page at `day/YYYY-MM-DD.html` with its launch list, schema.org markup and a 1200×630 share image in `og/YYYY-MM-DD.png`, so link previews show that day's launches.
 - **Atom feed and weekly digest:** `feed.xml` has the 50 latest launches for any feed reader. `week.html` is an email-friendly digest of the last 7 days (inline styles, so you can paste or forward it as a newsletter). Both are rebuilt on every refresh; set `SITE_URL` to change the origin used in their links.
 
 ## Run locally (optional)

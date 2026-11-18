@@ -1,7 +1,8 @@
-import { writeFile } from 'node:fs/promises';
+import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { renderShareCard } from './og.js';
 
-// Public origin used for absolute links in the feed and the email page.
+// Public origin used for absolute links in the feed, the email page and the day pages.
 const SITE_URL = (process.env.SITE_URL || 'https://gadgets-ir.vercel.app').replace(/\/+$/, '');
 const FEED_ITEMS = 50;
 const WEEK_DAYS = 7;
@@ -88,9 +89,124 @@ ${section('Upcoming', upcoming)}
 `;
 }
 
+const dayLabel = (day) => new Intl.DateTimeFormat('en-GB', { timeZone: 'UTC', day: 'numeric', month: 'short', year: 'numeric' }).format(new Date(`${day}T00:00:00Z`));
+const newsArticle = (it) => ({
+  '@type': 'NewsArticle',
+  headline: it.title,
+  url: safeUrl(it.link),
+  datePublished: it.publishedAt,
+  description: it.summary,
+  publisher: { '@type': 'Organization', name: it.sources[0]?.name || 'Launch Radar' },
+  about: { '@type': 'Product', ...(it.brand !== '—' ? { brand: { '@type': 'Brand', name: it.brand } } : {}), category: it.category },
+});
+// Escaping "<" keeps a headline from closing the script tag early.
+const jsonLd = (obj) => JSON.stringify(obj, null, 1).replace(/</g, '\\u003c');
+
+// Static, crawlable page for one day: a list of its launches, schema.org markup and a share image.
+export function buildDayPage(day, items) {
+  const url = `${SITE_URL}/day/${day}.html`;
+  const label = dayLabel(day);
+  const launched = items.filter((it) => it.status === 'Launched').length;
+  const upcoming = items.length - launched;
+  const counts = [`${launched} launched`, upcoming ? `${upcoming} upcoming` : ''].filter(Boolean).join(', ');
+  const title = `Gadget launches on ${label} · Launch Radar`;
+  const description = `Gadgets logged on ${label}: ${counts}. Links to the original coverage.`;
+  const graph = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'CollectionPage',
+        '@id': url,
+        url,
+        name: title,
+        description,
+        isPartOf: { '@type': 'WebSite', name: 'Launch Radar', url: `${SITE_URL}/` },
+      },
+      {
+        '@type': 'ItemList',
+        numberOfItems: items.length,
+        itemListElement: items.map((it, i) => ({ '@type': 'ListItem', position: i + 1, item: newsArticle(it) })),
+      },
+    ],
+  };
+  const list = items.map((it) => {
+    const { meta, outlets } = describe(it);
+    return `      <li>
+        <span class="badge ${esc(it.status)}">${esc(it.status)}</span>
+        <a href="${esc(safeUrl(it.link))}">${esc(it.title)}</a>
+        <div class="muted">${esc(meta)} · ${esc(outlets)}</div>
+      </li>`;
+  });
+  return `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>${esc(title)}</title>
+  <meta name="description" content="${esc(description)}">
+  <link rel="canonical" href="${esc(url)}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Launch Radar">
+  <meta property="og:title" content="${esc(title)}">
+  <meta property="og:description" content="${esc(description)}">
+  <meta property="og:url" content="${esc(url)}">
+  <meta property="og:image" content="${SITE_URL}/og/${day}.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="alternate" type="application/atom+xml" title="Launch Radar" href="../feed.xml">
+  <link rel="stylesheet" href="../styles.css">
+  <script type="application/ld+json">
+${jsonLd(graph)}
+  </script>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="logo">
+        <span class="radar" aria-hidden="true"><span></span></span>
+        <div>
+          <h1>Launch Radar</h1>
+          <p class="tag">${esc(label)}</p>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="days">
+      <div class="days-head">
+        <h2>${esc(label)}</h2>
+      </div>
+      <p class="muted">${esc(counts)}.</p>
+      <img class="share-card" src="../og/${day}.png" width="1200" height="630" alt="Radar showing ${items.length} gadget ${items.length === 1 ? 'launch' : 'launches'} on ${esc(label)}">
+      <ol class="day-list">
+${list.join('\n')}
+      </ol>
+    </section>
+    <footer class="foot">
+      <p><a href="../#range=date&amp;date=${day}">Open ${esc(label)} in Launch Radar</a> · <a href="../feed.xml">Atom feed</a> · <a href="../week.html">This week's launches</a></p>
+    </footer>
+  </main>
+</body>
+</html>
+`;
+}
+
+// One page and one share image per day that has launches.
+export async function writeDayPages(root, items) {
+  await mkdir(path.join(root, 'day'), { recursive: true });
+  await mkdir(path.join(root, 'og'), { recursive: true });
+  for (const day of [...new Set(items.map((it) => it.date))]) {
+    const dayItems = items.filter((it) => it.date === day);
+    await writeFile(path.join(root, 'day', `${day}.html`), buildDayPage(day, dayItems));
+    await writeFile(path.join(root, 'og', `${day}.png`), renderShareCard(dayItems));
+  }
+}
+
 export async function writeFeeds(dataDir, items, now, tz) {
   const sorted = [...items].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
   const out = path.join(dataDir, '..');
   await writeFile(path.join(out, 'feed.xml'), buildAtom(sorted, now));
   await writeFile(path.join(out, 'week.html'), buildWeekPage(sorted, now, tz));
+  await writeDayPages(out, sorted);
 }
