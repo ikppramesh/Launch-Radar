@@ -2,6 +2,226 @@
  "date": "2026-11-19",
  "items": [
   {
+   "id": "fc7fab245c65",
+   "title": "Obsbot launches Tail Air 2 with 1-inch CMOS sensor, AI Tracking 2.0 & rotating lens for vertical video",
+   "summary": "Obsbot just announced the Tail Air 2, the next version of its automated tracking camera. It’s mainly aimed at solo creators and streamers who need a camera that can follow them around while they work. The two main updates this time around are a larger 1-inch sensor and a new roll",
+   "link": "https://www.gizmochina.com/2026/11/19/obsbot-tail-air-2-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/obsbot-launches-tail-air-2-with-1-inch-cmos-sensor-ai-tracking-2-0-rotating-300x188.png?x47967",
+   "publishedAt": "2026-11-19T15:54:21.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "—",
+   "region": "China",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/19/obsbot-tail-air-2-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "03b4373306b1",
+   "title": "ASUS launches TUF Gaming 16 (2026) gaming laptop with GeForce RTX 5070",
+   "summary": "ASUS launches TUF Gaming 16 (2026) gaming laptop with GeForce RTX 5070 mobidevices.com",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGRkZGVXFJY3ktY01OYmFBS3pPWjlKNmVmUzUtdmFzY3R6eUVtSXlyNUl0enpNY1daNGtfc19TeXB2NWhMUmQydmhCM1RJeU00bHdSd3ZfWGpyaVVUc2Rn?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T15:13:56.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Asus",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "mobidevices.com",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGRkZGVXFJY3ktY01OYmFBS3pPWjlKNmVmUzUtdmFzY3R6eUVtSXlyNUl0enpNY1daNGtfc19TeXB2NWhMUmQydmhCM1RJeU00bHdSd3ZfWGpyaVVUc2Rn?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "75d4832efc14",
+   "title": "Xiaomi Launches New Wearables, Bringing Everyday Convenience and Style",
+   "summary": "Xiaomi Launches New Wearables, Bringing Everyday Convenience and Style Village Pipol",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcG9uMkJPdHh0R3BaaUU0TlAyREl3cXNEQzZDNGNrNzNQM3N5di1YYmpmbjdac1JjSnJqQlJhZE5FalAwbzJCYmR4QVd2amg5S0RCZ0J0dXBqNjhQQUFydy0wa3JjRGo4Mk5Qb3VUTHhZNmc2UW42eG5xWHdqSEEtaVhoY3NSaElQUUZjZkY2TWpxZlBtSzJfd09uaw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T15:10:43.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Xiaomi",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Village Pipol",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcG9uMkJPdHh0R3BaaUU0TlAyREl3cXNEQzZDNGNrNzNQM3N5di1YYmpmbjdac1JjSnJqQlJhZE5FalAwbzJCYmR4QVd2amg5S0RCZ0J0dXBqNjhQQUFydy0wa3JjRGo4Mk5Qb3VUTHhZNmc2UW42eG5xWHdqSEEtaVhoY3NSaElQUUZjZkY2TWpxZlBtSzJfd09uaw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "abe64f0504bf",
+   "title": "Oppo Watch 5 launches with GPS, NFC and a 3,000-nit display for €159 in Europe",
+   "summary": "Oppo Watch 5 launches with GPS, NFC and a 3,000-nit display for €159 in Europe Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdUxuOXJwU2RLWUh0UVRFQ0MtVFBzMHlrWUlfOXUyeGM1U25aNFBFZUNxTXVncnBVTi0xbTktdHVoU2hzYW8yVGtTZGphekFiZ3lkRDZSaDlRdjJjNHJEVTdDLXN6SnBTUGdPNjAzdWFOR1hObzFGc2tiNkFrdGVpWWpzS1NwbEpqeGZMOUtTdTFlc2VscjFpUl9HOUlsOGlWbFY0WTdtTzJmUXBCQ25tVHBkUXRhU21WZmR3WGkxVUtIUQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T14:40:00.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Oppo",
+   "region": "Europe",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdUxuOXJwU2RLWUh0UVRFQ0MtVFBzMHlrWUlfOXUyeGM1U25aNFBFZUNxTXVncnBVTi0xbTktdHVoU2hzYW8yVGtTZGphekFiZ3lkRDZSaDlRdjJjNHJEVTdDLXN6SnBTUGdPNjAzdWFOR1hObzFGc2tiNkFrdGVpWWpzS1NwbEpqeGZMOUtTdTFlc2VscjFpUl9HOUlsOGlWbFY0WTdtTzJmUXBCQ25tVHBkUXRhU21WZmR3WGkxVUtIUQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "2900486ccb8a",
+   "title": "Pineland TelCo launches mobile service with six months free New Pineland Mobile service pairs nationwide coverage with local support for Pineland Broadband customers",
+   "summary": "Pineland TelCo launches mobile service with six months free New Pineland Mobile service pairs nationwide coverage with local support for Pineland Broadband customers Emanuel County Live",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0tNbDkzMkZ1TnF0MmlvYndVRW1QYjN1azhsWHE3UllVajNkUFBoeUhna2RUSU94andoZlgyYTZXSzlwT05GR3dHTGtqaTVSOGJncWlMWFNYYkt4N196eTFUdU5jNFptSWxYN2t3VFdQdGQ1V0hnRWVGWVBVOEFOazNHTkhncEQ4MjZHU0NjRThuTXFwbGZuZE80NkJHNTlqTjJPaVRtdHA1SUUzLVFNOE1LUUI0bkFpeFlQM2hnc1RBa09aWS1vczE5elRnVjkzdGQ0?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T14:15:21.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Emanuel County Live",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0tNbDkzMkZ1TnF0MmlvYndVRW1QYjN1azhsWHE3UllVajNkUFBoeUhna2RUSU94andoZlgyYTZXSzlwT05GR3dHTGtqaTVSOGJncWlMWFNYYkt4N196eTFUdU5jNFptSWxYN2t3VFdQdGQ1V0hnRWVGWVBVOEFOazNHTkhncEQ4MjZHU0NjRThuTXFwbGZuZE80NkJHNTlqTjJPaVRtdHA1SUUzLVFNOE1LUUI0bkFpeFlQM2hnc1RBa09aWS1vczE5elRnVjkzdGQ0?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "ba2c24966118",
+   "title": "Caviar Unveils Most Wanted Collection: Luxury Smartphones and Smart Glasses Inspired by GTA VI",
+   "summary": "Caviar Unveils Most Wanted Collection: Luxury Smartphones and Smart Glasses Inspired by GTA VI Inkorr",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcVl3Y3N4aS1fZTB6VzhWMV9rQXZpQllXN180c1hnMEtHWEU2LU5OcktlbG5kdUpGX2t2ellucFVDeXJHOWVkekgtZ3pXMnM1WFVZQnVUSkVXcy1EdXdwMTZ6S2NPSXBnWGJnb1JWaGttbUtfZUpuUEdjSkRTckoxOXpaX2NVVFhLZ2lGQnhhdXJWZkZWdnR1dm1TZ0V2cld0Y1JuSlJyVXhtdzh3UXppOTl0em80SWNubExzV0N1NG03T3JuMHlhcHFEMnNEaUxpUHfSAdcBQVVfeXFMUE10ZG5yd2xEazFKSkEwTFhEUDZSaWlLUkxvbnVoTkI5Q1ZOY0NPd3RLdkJyWFdfWkpjLWRzWnFzaF9RUWxQU2xPbHJhRFFfSWtHYmtiZ2RvY1FpbThyMTEwUVhpOHYyRUZicmFmRHZrUXhsckphYkpibzBwWHV5MTRHbEdVRC1PMnRWa3ptNjlWa3dndW9MeWk2Wlc5N0I1UFdLT1lDUG1aNVpoLV9wOEF4Ukd3QlJ2cDhHRjdOa04ySGh1MlU3aF9KeGR4VGd0ekdxZGNZM3c?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T14:05:05.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Inkorr",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcVl3Y3N4aS1fZTB6VzhWMV9rQXZpQllXN180c1hnMEtHWEU2LU5OcktlbG5kdUpGX2t2ellucFVDeXJHOWVkekgtZ3pXMnM1WFVZQnVUSkVXcy1EdXdwMTZ6S2NPSXBnWGJnb1JWaGttbUtfZUpuUEdjSkRTckoxOXpaX2NVVFhLZ2lGQnhhdXJWZkZWdnR1dm1TZ0V2cld0Y1JuSlJyVXhtdzh3UXppOTl0em80SWNubExzV0N1NG03T3JuMHlhcHFEMnNEaUxpUHfSAdcBQVVfeXFMUE10ZG5yd2xEazFKSkEwTFhEUDZSaWlLUkxvbnVoTkI5Q1ZOY0NPd3RLdkJyWFdfWkpjLWRzWnFzaF9RUWxQU2xPbHJhRFFfSWtHYmtiZ2RvY1FpbThyMTEwUVhpOHYyRUZicmFmRHZrUXhsckphYkpibzBwWHV5MTRHbEdVRC1PMnRWa3ptNjlWa3dndW9MeWk2Wlc5N0I1UFdLT1lDUG1aNVpoLV9wOEF4Ukd3QlJ2cDhHRjdOa04ySGh1MlU3aF9KeGR4VGd0ekdxZGNZM3c?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "afe5bfd448bd",
+   "title": "SwitchBot Unveils the Hub 4, a Matter Bridge and Smart Home Dashboard with Emotive User Interface",
+   "summary": "SwitchBot Unveils the Hub 4, a Matter Bridge and Smart Home Dashboard with Emotive User Interface Hackster.io",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVNKNEN2OHkyeERGeTZrQUY0eWxhLVZQWnpmSTN2SlhWaGQtOWhFT1VjOXhHZXlHUjFHNnNtRWRDbm9seklRZVcwazVCQkxlWWNSU291eWZEZ1hvQVFOWmhZVlR3R1N2M21Bd2kyUUhBSm1UMG1fR3FYblFfWWF5YnVGUEVWOVhTSU00TUg3eVFHaWZXVHJWYkxoUjZ3ckJfU19ZdFdlR2pIQ20yeHk0bEhBNmNtNHVfTFJXZHhBUG1IUm1MbEhXNDdLV3JWUkVWXzhpZw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T13:22:23.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Hackster.io",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVNKNEN2OHkyeERGeTZrQUY0eWxhLVZQWnpmSTN2SlhWaGQtOWhFT1VjOXhHZXlHUjFHNnNtRWRDbm9seklRZVcwazVCQkxlWWNSU291eWZEZ1hvQVFOWmhZVlR3R1N2M21Bd2kyUUhBSm1UMG1fR3FYblFfWWF5YnVGUEVWOVhTSU00TUg3eVFHaWZXVHJWYkxoUjZ3ckJfU19ZdFdlR2pIQ20yeHk0bEhBNmNtNHVfTFJXZHhBUG1IUm1MbEhXNDdLV3JWUkVWXzhpZw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "d035e272d035",
+   "title": "Admatec launches Admaflex Discovery desktop ceramic 3D printer at Formnext: Technical Specifications and Pricing",
+   "summary": "Admatec launches Admaflex Discovery desktop ceramic 3D printer at Formnext: Technical Specifications and Pricing 3D Printing Industry",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc04ySEx4OGVoaGNSRTdqclhQMEpWUERZU01KME9taUlaZGpLVHNmV2xuVVV5S3dvUEtHQk9MWFJ0cWQyOUlka1dXUkx3ZnhmaktNZ0lVMmZBbk5lWkZhdnBFWFkwbXhhUkFIM0dJdUZMRDJlMkY3MkJ2UWMxTDNYY3VGQ3hicVdReU8zRDk0ZjloUWt3SWFrTnUxZHNhb2puMmNSeEJLWXBJWWpuWHNqa3lMSXVPVW1oNERqTmJiN2c4SnhueGU0dnlhUW1KWTFiN0FpS3hOYXY4R0JZQzJ2VmltNDVsZllDX3Jv?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T13:15:00.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "PC & Components",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "3D Printing Industry",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc04ySEx4OGVoaGNSRTdqclhQMEpWUERZU01KME9taUlaZGpLVHNmV2xuVVV5S3dvUEtHQk9MWFJ0cWQyOUlka1dXUkx3ZnhmaktNZ0lVMmZBbk5lWkZhdnBFWFkwbXhhUkFIM0dJdUZMRDJlMkY3MkJ2UWMxTDNYY3VGQ3hicVdReU8zRDk0ZjloUWt3SWFrTnUxZHNhb2puMmNSeEJLWXBJWWpuWHNqa3lMSXVPVW1oNERqTmJiN2c4SnhueGU0dnlhUW1KWTFiN0FpS3hOYXY4R0JZQzJ2VmltNDVsZllDX3Jv?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "2c70c5cce0cb",
+   "title": "Sony launches two wireless headphones with Gadget & Gear",
+   "summary": "Sony launches two wireless headphones with Gadget & Gear Daily Times Of Bangladesh",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sZ0t6bS1uWjhOeG5YZkNzRGk0VktJV1pDQ3E0aGxqbWxETXdZTFl3emNKbWJ5VXZoa2g5OHE2X2lBQ1M3am9zc2NIMGg1andPdzlnTFdlVi1GNWpyU1p3MW5ueXBabTM0cU1BZWdsRFFyNjJOcHM3TUZwbFE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T11:47:48.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Audio",
+   "brand": "Sony",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Daily Times Of Bangladesh",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sZ0t6bS1uWjhOeG5YZkNzRGk0VktJV1pDQ3E0aGxqbWxETXdZTFl3emNKbWJ5VXZoa2g5OHE2X2lBQ1M3am9zc2NIMGg1andPdzlnTFdlVi1GNWpyU1p3MW5ueXBabTM0cU1BZWdsRFFyNjJOcHM3TUZwbFE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "f7813383e1c3",
+   "title": "Xiaomi launched a washing machine with three separate drums so you never have to mix socks with bedding again",
+   "summary": "The main lower drum holds 10 kg. According to Xiaomi, it's enough for 44 T-shirts, 16 pairs of jeans or four sets of bed linen. The post Xiaomi launched a washing machine with three separate drums so you never have to mix socks with bedding again appeared first on Gizmochina .",
+   "link": "https://www.gizmochina.com/2026/11/19/xiaomi-launched-a-washing-machine-with-three-separate-drums-so-you-never-have-to-mix-socks-with-bedding-again/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/xiaomi-launched-a-washing-machine-with-three-separate-drums-so-you-never-have-2-300x169.jpg?x47967",
+   "publishedAt": "2026-11-19T11:47:17.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smart Home",
+   "brand": "Xiaomi",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/19/xiaomi-launched-a-washing-machine-with-three-separate-drums-so-you-never-have-to-mix-socks-with-bedding-again/"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
    "id": "45af239a306d",
    "title": "Approov 2027 Launches to Defeat Rented Device Farms and AI-Driven Mobile Fraud",
    "summary": "Approov 2027 Launches to Defeat Rented Device Farms and AI-Driven Mobile Fraud FF News",
@@ -46,23 +266,53 @@
    "firstSeen": "2026-11-19T11:26:47.504Z"
   },
   {
+   "id": "8aed90610273",
+   "title": "itel Launches New Dark Ruby and Mist Beige Colours for City 300 5G",
+   "summary": "itel Launches New Dark Ruby and Mist Beige Colours for City 300 5G digital terminal",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWVJdVF4TnlZcVJFZC1vdkp6T09xOVVRTUZZS1ZVcnc1eUR1Vm9GM1pJWFVzWWt2SzdYOEwzZ2hQQ2tUaVk0bUR2QU5vRGtISXBOeDZhVlZ3YXBvSHlyYVQ5MTlTd1UtUnpLUkdWd21Cc3JnZ092S0psSHNzME00T3E2bXQ2SFd2Vk1oN09zQ1NzWFJjN3dpTkIzMVJ1Q1RpV3h1TS01bUTSAbYBQVVfeXFMUEpsd1pTeHVJVmhTa29oMG5VNm4yYVZXcUlHc25LRnRkS1I3ZU1kS1Z5SmJld1RmQm1QN1VNWXVLeDZBQS1mM3pWLUdzX2gtUTZsdTRzZThSUVp3Y3YyN1JscVVzS2FyTkEwOUI1aTJGUVNXb0VfcmpaVkFhMVY3Nk8yUGRmYUVCcVRTb3ltWk1rc2ZHUklVMXliQnhqRWtOc3oyQ2g1LWI5WDE3anVxdko4bTVaUFE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T10:57:35.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Itel",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "digital terminal",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWVJdVF4TnlZcVJFZC1vdkp6T09xOVVRTUZZS1ZVcnc1eUR1Vm9GM1pJWFVzWWt2SzdYOEwzZ2hQQ2tUaVk0bUR2QU5vRGtISXBOeDZhVlZ3YXBvSHlyYVQ5MTlTd1UtUnpLUkdWd21Cc3JnZ092S0psSHNzME00T3E2bXQ2SFd2Vk1oN09zQ1NzWFJjN3dpTkIzMVJ1Q1RpV3h1TS01bUTSAbYBQVVfeXFMUEpsd1pTeHVJVmhTa29oMG5VNm4yYVZXcUlHc25LRnRkS1I3ZU1kS1Z5SmJld1RmQm1QN1VNWXVLeDZBQS1mM3pWLUdzX2gtUTZsdTRzZThSUVp3Y3YyN1JscVVzS2FyTkEwOUI1aTJGUVNXb0VfcmpaVkFhMVY3Nk8yUGRmYUVCcVRTb3ltWk1rc2ZHUklVMXliQnhqRWtOc3oyQ2g1LWI5WDE3anVxdko4bTVaUFE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
    "id": "a557feb648f3",
    "title": "Honor Watch 6 Pro launches globally with 5,500-nit display and 18-day battery",
    "summary": "Honor launched the Watch 6 in global markets in June, after the Watch 6 Plus first arrived in China. The Watch 6 Pro then debuted in China in late September as a more premium follow-up to last year’s Watch 5 Pro. Honor has now taken the Watch 6 Pro global, with pre-orders opening",
    "link": "https://www.gizmochina.com/2026/11/19/honor-watch-6-pro-global-launch-europe-uk-price/",
    "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-4-300x169.jpg?x47967",
-   "publishedAt": "2026-11-19T10:59:19.000Z",
+   "publishedAt": "2026-11-19T10:00:31.000Z",
    "date": "2026-11-19",
    "status": "Launched",
    "category": "Wearable",
    "brand": "Honor",
-   "region": "Global",
+   "region": "UK",
    "confidence": 3,
    "aggregator": false,
    "sources": [
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/11/19/honor-watch-6-pro-global-launch-europe-uk-price/"
+    },
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/honor-watch-6-pro-launches-globally/"
+    },
+    {
+     "name": "Verge Magazine",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNajF2SEp6ZDBPcDBJZWxhS0c0U2l6Y0t4bnNvbGVQaS1DWWwyUlpJVVY2bjFfTEctNUplVy05UkE5NlBCa2hGMmktQV8ycTExWWdtYkZleGFkRXFjNDhpMVExY2FnRWtZUklxU3NWdDRxWVdHa0xNWWlydlFkdmQ4Z29KTUJRNnV5WmhUcUF5RFJXdHNWaU9EQk1rQkVETXpBUFU5MjFGTkdZektESXg0MU9rTlFNTlE0SVhGQzMxUVRudXRzVkNmTFBsaENTVUtremxtcUZHc3pPQ3c?oc=5"
     }
    ],
    "firstSeen": "2026-11-19T11:26:47.504Z"
@@ -94,6 +344,58 @@
    "firstSeen": "2026-11-19T11:26:47.504Z"
   },
   {
+   "id": "fb3cf4ab4f78",
+   "title": "Logic Neo X1 Pro Tablet Launched in India With Android 17, 8,000mAh Battery",
+   "summary": "The Logic Neo X1 Pro comes with 8GB of RAM and 128GB of internal storage, which can be expanded up to 1TB. Its camera setup includes a 13-megapixel rear sensor and an 8-megapixel front camera. The tablet supports dual-band Wi-Fi 6, Bluetooth 5.3, GPS, and 4G LTE connectivity. The",
+   "link": "https://www.gadgets360.com/tablets/news/logic-neo-x1-pro-tablet-india-launch-availability-specifications-features-12349669",
+   "image": "https://i.gadgets360cdn.com/large/logic_neo_x1_pro_logic_1795090376053.jpg",
+   "publishedAt": "2026-11-19T09:24:57.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "India",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/tablets/news/logic-neo-x1-pro-tablet-india-launch-availability-specifications-features-12349669"
+    },
+    {
+     "name": "IT Voice Media",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0VrRlZkZFFfbDRLTU1udVAzVEY1QTR0MWhoOE5lbnJDNEdlZXE2R2o1OF9oUzNRX09ka0I2UGU2am9aWUt4TThERlhsdTdjQ0JBRTZWalAzM1dWbWZZZmhGRnNnVWRCaEVTMU5QNVoydE5DUERPOTlBVzZPOGFFWVgzcjg0c2hIUWtVM0RVdE5peGhDRTVmZlltSHRiYkZoMHpv?oc=5"
+    },
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrbVJHdE9aT0p1Z3NlN3lMMEEycVhWcVVUVG0wTl9QSU9XUDBYNjUzUnhXUFgxQlhsLUJ3QndqXzBRWEhVdnpESUZ2NHZXRi1LQ3EwRzRaUGRoSU1Ta0w5NE9nd2tRSkpvaVZXNzN4NDlveEZBN2c?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "437525f0f975",
+   "title": "Punjab govt announces smartphone winners under Kisan Card phase IV",
+   "summary": "Punjab govt announces smartphone winners under Kisan Card phase IV ARYnews.tv",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRVRTSTNmQVFVM1ZVOU9qZ1lYTXVoTlBPQXA1UndncUthT2IzY2NvUmlFRFhxUHhQTEQ5OVBnUzE0ZWlBaTN2QkZfWG1tV0J3dGNZb2ZYTjhyZDlTNkEwT1hlLU1vTG42OHpQQTl3VnY0d0p2TmhrS2RDM3piVHJ6aFR0UVhKWVE?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T09:03:47.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ARYnews.tv",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRVRTSTNmQVFVM1ZVOU9qZ1lYTXVoTlBPQXA1UndncUthT2IzY2NvUmlFRFhxUHhQTEQ5OVBnUzE0ZWlBaTN2QkZfWG1tV0J3dGNZb2ZYTjhyZDlTNkEwT1hlLU1vTG42OHpQQTl3VnY0d0p2TmhrS2RDM3piVHJ6aFR0UVhKWVE?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
    "id": "5dfabed101b3",
    "title": "The Honor Watch 6 Pro launches in Europe with an early bird price, free strap and clip-on buds",
    "summary": "The Honor Watch 5 Pro never got the wide release that it deserved – oh well, all eyes are on its successor now. Initially announced at the end of September for China, this watch is launching in Europe now. The Honor Watch 6 Pro is going on pre-sale today – Honor is offering it at",
@@ -115,6 +417,10 @@
     {
      "name": "GadgetMatch",
      "link": "https://www.gadgetmatch.com/honor-watch-6-pro-launches-globally/"
+    },
+    {
+     "name": "Talk Android",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oUE9vamJfT0ZjMW1XS2EtQVYxaGM5dllIZTNPdGJ5T1hDWjVES2ZWZFhXUnRfMmt1MGxMMjFfLWRHVDhQb3k2LWdkbmpxVW5QLU9yeW9Mb2lXZkhHZnJUdGtYOHhrNi1QUDF4MHktWEYxeHRyamxEbVk2VDJMZw?oc=5"
     }
    ],
    "firstSeen": "2026-11-19T11:26:47.504Z"
@@ -223,9 +529,43 @@
     {
      "name": "IT Voice Media",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTRva2xWQXFmY1hXbEd6c1hNQkk3WVB4ODBGTFkyQjBFTlljeVB1ak1uVVNsVVlDeXRpejl5WGRuRS14ekM3RUJuU3FKU2MxZ0pmeFVaSTViVzBjcDRubmc1MVJjaGphUVZ3TzdhVEtKNzk1d1VhblFPRm9GckdFLW83MWJLNGx0d1ZVdXM3NExXWUduUmp6aU4xV05OYkVYRDZmSGptOFlQMHltR0lyZEVBX0lGMmJzYXVhcS1WSVduakFvRFE?oc=5"
+    },
+    {
+     "name": "digital terminal",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlZCelhfZEtfQWVqSnlFRm90R1c1WkJYUlZXeXBWNUZQcHlfUEdaaFM1cS1FSlhuNl9rR1Vqa1FjZ2xyYlhjRktPcHJsX05ZU3V0QVJ3ZUtMRDZxemxxeTZuVy1JSG1LNUJuaDFOZ3h2SXN0dnduS2RkYWphN2tmTnM3NGJDMmJjaWxzWVN1dXJBVmVkb1lXU2VoNjDSAaoBQVVfeXFMTTQwNW1XNENFbUtuOTVRMlJMc3hhZ2ppMzVPUGtJd2lhSk9oazh0Q3hwMzRJNHBBSkI3RzFuZ1BlbW1xZ3lPZVozQmZyZkVTZFpqLVlUSmNlakRRV2twRUtQbUpKQUdBa3luNnQxNUR3akhqWTJIRVhpSFB2WWtfMkZNVEc3c29HSXh6Z3hyVmw0ZGlGT25SNzk0MXRUREhBa1pqN3Y4TUQ4dFE?oc=5"
+    },
+    {
+     "name": "Gadget Bridge",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNamluX19KRE80Y3RaUGt4cUxMOVpnSzZyZGRiMFlkeWl4akF4eVRKZGdTdXFQT01IYWhiV2pGNUtLb1AyS1h3RFBRamp6dEJMYkl2TmFveWxhb0RtQm1VWDVnZi1KYi1fYktpNGhrQzdmYktTTzl6S1Vpbl95cDlBVDMwX3pnbkJ0NXRBZmhTcTlUU3NjWEp4T3kxeG9mUzd2cnptN0NuaHNhZ0hoUzFUMDhuWGQwZ0pwT3JCUkIteFJiR2MwNk5WdW1wVmJSNjdpRlkyTmlJTGxQbkRm0gHiAUFVX3lxTFAycFR6VEU4X1NiZzI4M0x3bU11YU53M0xRbEVrel9mWFJsbW5tRlhNbDljcHFtWFdnUm9WcGpMc0dRRk9XM2pQMThfWWdyQ2hZbjVBZ0hmTjV3SXZsOFdFRU82UXEzb3pqblR6M2xqSVVaQVZVbzkwVTV1WTl2WFlUZjJ5dENZOV9Fb1lYT2tIWnpkUlBBdXVuR3RERmMtcDVDLVRTaENWaWxGUWJXYTRUR09VVGtVRExRSzRBOUlLdGpib3haMkJWb2c0T0h2bjlid3pXSGcyVENyX3VxX3JfQWc?oc=5"
+    },
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80QUFzZlNtbGNLbGR4UFBPSDU5a0F5TF9ack9jeUFVdGFiU2hDUlV3a2x0UWhEcWt3Vnl4VENKczA4RENrYUYwcTVfVU9XZXN6Z2xKV2FiQmEzUWpWOHFaRTY4cVh4RmQ3Z1JiNWVCaE9iR1k2WXB2R2NVaVM?oc=5"
     }
    ],
    "firstSeen": "2026-11-19T11:26:47.504Z"
+  },
+  {
+   "id": "13d771ece6e5",
+   "title": "Tablet advent calendar launched as Scottish maker flags ‘enormous ambitions’",
+   "summary": "Tablet advent calendar launched as Scottish maker flags ‘enormous ambitions’ The Herald",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRHNPOFZsaDdkbjM2RXVHZHc0a3JfekYzcEw4Wm5KM3dnbUxfa0g4S0lOTjNiUVYyanRCNFRhNjUxUzhWdmljbndCeFFnSkNqazVlMjRmQ2xaX0doNFRfajU1bnJaSmN3ZFFmM3FLMWM4T0dtbzZXRlZaZmZhRU43VEt3bjNlZ2xiZzIzV3VqWGJCWkpBQUNleVVlVkppRjBOSHhRamxsdWU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T06:12:48.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Tablet",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "The Herald",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRHNPOFZsaDdkbjM2RXVHZHc0a3JfekYzcEw4Wm5KM3dnbUxfa0g4S0lOTjNiUVYyanRCNFRhNjUxUzhWdmljbndCeFFnSkNqazVlMjRmQ2xaX0doNFRfajU1bnJaSmN3ZFFmM3FLMWM4T0dtbzZXRlZaZmZhRU43VEt3bjNlZ2xiZzIzV3VqWGJCWkpBQUNleVVlVkppRjBOSHhRamxsdWU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
    "id": "0c8fb7f9132a",
@@ -424,6 +764,50 @@
     }
    ],
    "firstSeen": "2026-11-19T02:29:03.022Z"
+  },
+  {
+   "id": "009b801b3405",
+   "title": "Huawei shows off wide smartphone from brand-new series just ahead of launch",
+   "summary": "Huawei shows off wide smartphone from brand-new series just ahead of launch Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSldXOEVfZjYzME9mWHR1R29taXpMc1VycWxsaEhYS1JVdjJrWDVxbmlVcmFsRkNLSExwVlpKV1F2cDhIN045eWF1VzNhbC1qWVJsOE5ubGJXbGh0N2xRS0FBWGFWTjQ3ZjdYYjd5dXVobHpFZVVmbGQxYmh6ZkhFUDIzQzhMQVFBNUhITmJQcTBtdVN5d1VtWDlOSTJEeUItOWlBWmZjcXFCRGZrTlN4c3BwWkRyRmViS0tYUw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T21:11:00.000Z",
+   "date": "2026-11-19",
+   "status": "Upcoming",
+   "category": "Smartphone",
+   "brand": "Huawei",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSldXOEVfZjYzME9mWHR1R29taXpMc1VycWxsaEhYS1JVdjJrWDVxbmlVcmFsRkNLSExwVlpKV1F2cDhIN045eWF1VzNhbC1qWVJsOE5ubGJXbGh0N2xRS0FBWGFWTjQ3ZjdYYjd5dXVobHpFZVVmbGQxYmh6ZkhFUDIzQzhMQVFBNUhITmJQcTBtdVN5d1VtWDlOSTJEeUItOWlBWmZjcXFCRGZrTlN4c3BwWkRyRmViS0tYUw?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "f04da7166890",
+   "title": "Xiaomi 18 Pro Series Launches In Malaysia With Back Display, Leica Dual-200MP Cameras & New Snapdragon Chipset",
+   "summary": "Xiaomi 18 Pro Series Launches In Malaysia With Back Display, Leica Dual-200MP Cameras & New Snapdragon Chipset Pokde.Net",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tQnYtaHZzWUMza3E4VzNIR1lLOFdwMlBjRFVZamMxMFBjb0g3THo2N2hMQ1V5U3ZHRGk1U2dVZVpiY2xrRUUyYXRhdmUtdnpFNERFXzk4UjdPbDhSa0Z2Ym4zcFhQWmpfbjVjRkV4aURoTmhPeV9Day1nS3g?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T20:35:48.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Xiaomi",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Pokde.Net",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tQnYtaHZzWUMza3E4VzNIR1lLOFdwMlBjRFVZamMxMFBjb0g3THo2N2hMQ1V5U3ZHRGk1U2dVZVpiY2xrRUUyYXRhdmUtdnpFNERFXzk4UjdPbDhSa0Z2Ym4zcFhQWmpfbjVjRkV4aURoTmhPeV9Day1nS3g?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
    "id": "236b844c6bbc",

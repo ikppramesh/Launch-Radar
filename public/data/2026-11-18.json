@@ -46,6 +46,28 @@
    "firstSeen": "2026-11-18T20:22:49.761Z"
   },
   {
+   "id": "ce07d245b950",
+   "title": "MTN Ghana Launches Mobile Money Based IPO",
+   "summary": "MTN Ghana Launches Mobile Money Based IPO Proshare",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVVSdEExbE5wT294NEg3NW9GWDVRRVZfNG1vUjRlQXRoQWU4QlkxOXFiRE9YX1BzWlNBQVl0UzhkTWZqUUpYT2NqSjlfMUtYTmFtMWxKbUU5b0I4Sy1RYkhFQk1GODQtU3hnaVQweEdsbm81R3pjYVZ5QlBBY3dyMS1LNG5zLUc4SkhmT2xmS2lzOFFESWV4dkRIRXlGSkZ0YW5YQm9LaXltQ0hmVjNuYVJyRjY3Z1JZNDRYMGdkRERXWWJ3b0NUNEJ2ZW9XLXpWejNZNkVsWXZ0Yk0?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T16:25:50.000Z",
+   "date": "2026-11-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Proshare",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVVSdEExbE5wT294NEg3NW9GWDVRRVZfNG1vUjRlQXRoQWU4QlkxOXFiRE9YX1BzWlNBQVl0UzhkTWZqUUpYT2NqSjlfMUtYTmFtMWxKbUU5b0I4Sy1RYkhFQk1GODQtU3hnaVQweEdsbm81R3pjYVZ5QlBBY3dyMS1LNG5zLUc4SkhmT2xmS2lzOFFESWV4dkRIRXlGSkZ0YW5YQm9LaXltQ0hmVjNuYVJyRjY3Z1JZNDRYMGdkRERXWWJ3b0NUNEJ2ZW9XLXpWejNZNkVsWXZ0Yk0?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
    "id": "182dc8914b55",
    "title": "Google Wallet finally arrives on iOS but there's a key feature missing",
    "summary": "You can now use Google Wallet on your iPhone, but tap-to-pay isn't supported.",
@@ -158,6 +180,28 @@
     }
    ],
    "firstSeen": "2026-11-18T20:22:49.761Z"
+  },
+  {
+   "id": "5b14a5fe2ee5",
+   "title": "Nokia Launches Four Affordable Feature Phones With AI Assistant",
+   "summary": "Nokia Launches Four Affordable Feature Phones With AI Assistant TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjgwcnEwZW0wd1l1VV9JcU5JaURub1ZETzhoRk9WUldxQVRmQk9PUVdDalhUUTVfSEdVR2daanlSNjBUbnF3Q19saXQzbDhONVBYZjBXbnZlam55WThwZmVYZHp3aGI1dzVjM0J6VGs2dldnSkJJQl9yZE9CaVRfMGZlSkNMX05DNm5GZDZXM1Y5TVU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T14:37:28.000Z",
+   "date": "2026-11-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Nokia",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "TechJuice",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjgwcnEwZW0wd1l1VV9JcU5JaURub1ZETzhoRk9WUldxQVRmQk9PUVdDalhUUTVfSEdVR2daanlSNjBUbnF3Q19saXQzbDhONVBYZjBXbnZlam55WThwZmVYZHp3aGI1dzVjM0J6VGs2dldnSkJJQl9yZE9CaVRfMGZlSkNMX05DNm5GZDZXM1Y5TVU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
    "id": "3bfd4422cbb7",
@@ -467,6 +511,10 @@
     {
      "name": "RS Web Solutions",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTdpOU9DVHZya3RKMjJYYmJKTVdkTnlwYXlYbXVzZjJWOVFiRjFENGp4Q3I3SldtUDN6SVc3M1lGV0dKRlpLMzd4WDE3d21lZG1GVFVqVnRtMFZwUjFwNld4NEdkVHk3UkNMcGpESEhORm5neHJQZlVEaTluc0lQTTdNbE1wRTMzRFRMYWxqQTFLTXZ6ajc0WFY5M1VleEpXNzY4WXJxdUhPZ3E4?oc=5"
+    },
+    {
+     "name": "rswebsols",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTdpOU9DVHZya3RKMjJYYmJKTVdkTnlwYXlYbXVzZjJWOVFiRjFENGp4Q3I3SldtUDN6SVc3M1lGV0dKRlpLMzd4WDE3d21lZG1GVFVqVnRtMFZwUjFwNld4NEdkVHk3UkNMcGpESEhORm5neHJQZlVEaTluc0lQTTdNbE1wRTMzRFRMYWxqQTFLTXZ6ajc0WFY5M1VleEpXNzY4WXJxdUhPZ3E4?oc=5"
     }
    ],
    "firstSeen": "2026-11-18T20:22:49.761Z"
@@ -536,6 +584,28 @@
     }
    ],
    "firstSeen": "2026-11-18T11:28:31.826Z"
+  },
+  {
+   "id": "c559bdfb303b",
+   "title": "Connecticut mobile ID launches, but keep your physical card",
+   "summary": "Connecticut mobile ID launches, but keep your physical card Norwich Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOejZkSHpuV0JHang1cmhVNDZjNlpETnAwMHMzdVpRdnpIQUFWSkg5MXY5WTluV2xsNVdSNHREMlk5VmJvSmRDVzR4eU9GUTNocmJJVUxCOFJ6REc4QkFuYXJWamFaQTdHYVVWWjl2eF9VemNyN016RXVUWU5xc19OOWQ0amdkTXFIWjRKRXdPb1BRZ05zQnY3ZUd2UVktamZ5cUhIVXpBRzYwcFNxbENsaE56eUlzXzV3R0szNFlKWkZES3V6ZzVoLUZNWTM?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T09:51:00.000Z",
+   "date": "2026-11-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Norwich Bulletin",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOejZkSHpuV0JHang1cmhVNDZjNlpETnAwMHMzdVpRdnpIQUFWSkg5MXY5WTluV2xsNVdSNHREMlk5VmJvSmRDVzR4eU9GUTNocmJJVUxCOFJ6REc4QkFuYXJWamFaQTdHYVVWWjl2eF9VemNyN016RXVUWU5xc19OOWQ0amdkTXFIWjRKRXdPb1BRZ05zQnY3ZUd2UVktamZ5cUhIVXpBRzYwcFNxbENsaE56eUlzXzV3R0szNFlKWkZES3V6ZzVoLUZNWTM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
    "id": "6bdf19ddc7d9",
@@ -624,6 +694,28 @@
     }
    ],
    "firstSeen": "2026-11-18T11:28:31.826Z"
+  },
+  {
+   "id": "80e356920856",
+   "title": "VinFast Electric Scooters For India – Range, Specs, Battery & Launch Details",
+   "summary": "VinFast Electric Scooters For India – Range, Specs, Battery & Launch Details Autopunditz",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2FQb2ZtdElIUWp3Z05JVnJKSkNlUksxVzlVSUxtak1tZXJsSFBhT2s5T1hiYWZfdXVYTlBUMFVYM1RhQXg4a0haMXRXNlBvcGl5QTFkLXJkdDNCQ29oZGhRT3lBcDRZQy1USW5wd2tuSUJ6MlRVYjBqLUlyWWxXY1YxajhuN05hc3k5QTV0NUhrTlk?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T07:17:40.000Z",
+   "date": "2026-11-18",
+   "status": "Launched",
+   "category": "Mobility & EV",
+   "brand": "—",
+   "region": "India",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Autopunditz",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2FQb2ZtdElIUWp3Z05JVnJKSkNlUksxVzlVSUxtak1tZXJsSFBhT2s5T1hiYWZfdXVYTlBUMFVYM1RhQXg4a0haMXRXNlBvcGl5QTFkLXJkdDNCQ29oZGhRT3lBcDRZQy1USW5wd2tuSUJ6MlRVYjBqLUlyWWxXY1YxajhuN05hc3k5QTV0NUhrTlk?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
    "id": "8140a7893766",
@@ -732,6 +824,28 @@
     }
    ],
    "firstSeen": "2026-11-18T11:28:31.826Z"
+  },
+  {
+   "id": "c2b723994c53",
+   "title": "itel launches VistaTab 12 in the Philippines with 7,000mAh battery and keyboard case",
+   "summary": "itel launches VistaTab 12 in the Philippines with 7,000mAh battery and keyboard case Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3lXVTBKaHNlRjJObVlkZExvMHZ5QUlRT0hfVUpUSjlxNnhRYmwxTC1nV1pRUFJMbjJUSTNTZmMwcFBuemRJd0Y3eTV1b3FpdEE0aHk0cFl5dmxtX3FRNVBLWmZodnE1Ni1LRS1PUU5qOTRzYlhMaWNtdG94WmpSQnotMktaa0oy?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T05:17:46.000Z",
+   "date": "2026-11-18",
+   "status": "Launched",
+   "category": "Accessories",
+   "brand": "Itel",
+   "region": "Southeast Asia",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3lXVTBKaHNlRjJObVlkZExvMHZ5QUlRT0hfVUpUSjlxNnhRYmwxTC1nV1pRUFJMbjJUSTNTZmMwcFBuemRJd0Y3eTV1b3FpdEE0aHk0cFl5dmxtX3FRNVBLWmZodnE1Ni1LRS1PUU5qOTRzYlhMaWNtdG94WmpSQnotMktaa0oy?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
    "id": "071ace7aea85",
@@ -1120,6 +1234,28 @@
     }
    ],
    "firstSeen": "2026-11-18T00:53:21.357Z"
+  },
+  {
+   "id": "2496834fa2e3",
+   "title": "CT DMV launches mobile ID",
+   "summary": "CT DMV launches mobile ID WSHU",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BaENuOFZuZEppRWJfZFZGRVFpeHlCb1RPTHFCT1d6dnlmenF1THgwczlldUFITkNKd1psVFJ1U3p6MURGc0NKRkxQWW9HZWJPWHpGSXNGMDZOYVBfOVBBeTZxcWZwV0VfdFkwZ2FaMG13SkJvRktLS1NQdGVFcVU?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T21:03:00.000Z",
+   "date": "2026-11-18",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "WSHU",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BaENuOFZuZEppRWJfZFZGRVFpeHlCb1RPTHFCT1d6dnlmenF1THgwczlldUFITkNKd1psVFJ1U3p6MURGc0NKRkxQWW9HZWJPWHpGSXNGMDZOYVBfOVBBeTZxcWZwV0VfdFkwZ2FaMG13SkJvRktLS1NQdGVFcVU?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
    "id": "a68e8bcdf92b",
