@@ -85,6 +85,10 @@
     {
      "name": "Gizmochina",
      "link": "https://www.gizmochina.com/2026/11/18/caviar-most-wanted-gta-vi-collection-iphone-galaxy-fold-meta-glasses-launched/"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/mobiles/news/caviar-launches-gta-6-inspired-iphone-samsung-galaxy-z-fold-8-ultra-meta-ray-ban-smart-glasses-12347394"
     }
    ],
    "firstSeen": "2026-11-18T20:22:49.761Z"
@@ -655,6 +659,10 @@
     {
      "name": "My Mobile India",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekJwNmFzNGx1RzdSWTlwQldRQWl3WkdHSExKLWdiUnNqbmRlWWtULUx3d2ItQjdvOTllTFVlQTRIdzJIaUZLSVZvcnhmSk9TU2NCTmV6eXJ3a1dOMXNqLUFwY0p3ZF9sT0NhcHZ1VDZ5a1ZldHBCMklmU2thUDc1SElwYm1aUnZIUlJ0NVVqamZJMWRUWEI2X1FDdkFvSE94bVJWS0Q4RzJ0SWFKd3dYUXhicHNDQU5KUkJDTHlSOG9UVTA?oc=5"
+    },
+    {
+     "name": "MobiGyaan",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0NXc1VZSUtURlNzeklQdGxvcm4ycExwRkl2Ui1ZNklFeGJVNDY4bVJ2cHpuN19nSkllWVVzaW9CVU9lX08yNVIwZjBCNVVGZlkxNUlmRUJTYUdBbS1uVm5ETE43MlQ3TU5KVlk5aXM4TUNxdC16NFZnbGwzZHpYLWpR?oc=5"
     }
    ],
    "firstSeen": "2026-11-18T11:28:31.826Z"
@@ -946,6 +954,28 @@
    "firstSeen": "2026-11-18T11:28:31.826Z"
   },
   {
+   "id": "b866ae7a6ed6",
+   "title": "Vaio unveils 16-inch laptops with 2.5K display, 32GB RAM and Intel Core 7 processors",
+   "summary": "Vaio unveils 16-inch laptops with 2.5K display, 32GB RAM and Intel Core 7 processors Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3J6YVZLZGNCOHNyMF9YUUZ5T2lzUjNnYUdIeVlueUtSeW5uMF8zNXVxOVBkeTRsZF83Z3c2NTJaQ2NtRVdmYU11eTVoN3JwZDZic1FZaXVNR0tQeEE0aUoyanhCWFdvbUE3TW9fTFcwemFWZEd0eEVlTlJUS1NRN1ZMSGZiRkdacFdZbjBXaTYwanB3N1NhMEhLTkFqLVNXTF9CcldHcXpELTdtOEFKdmNBZVdPTHE0OGtXcDRIQXVjNlNCbTdJ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T23:59:00.000Z",
+   "date": "2026-11-18",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Intel",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3J6YVZLZGNCOHNyMF9YUUZ5T2lzUjNnYUdIeVlueUtSeW5uMF8zNXVxOVBkeTRsZF83Z3c2NTJaQ2NtRVdmYU11eTVoN3JwZDZic1FZaXVNR0tQeEE0aUoyanhCWFdvbUE3TW9fTFcwemFWZEd0eEVlTlJUS1NRN1ZMSGZiRkdacFdZbjBXaTYwanB3N1NhMEhLTkFqLVNXTF9CcldHcXpELTdtOEFKdmNBZVdPTHE0OGtXcDRIQXVjNlNCbTdJ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T11:26:47.504Z"
+  },
+  {
    "id": "8e0bbe18ac86",
    "title": "Grado Launches GW200 Wireless Headphones With Upgraded Sound And 60-Hour Battery",
    "summary": "Grado Launches GW200 Wireless Headphones With Upgraded Sound And 60-Hour Battery ChannelNews.com.au",
@@ -1112,6 +1142,28 @@
     }
    ],
    "firstSeen": "2026-11-18T00:53:21.357Z"
+  },
+  {
+   "id": "71746695e05a",
+   "title": "Vaio unveils ultralight laptops with Core 7 CPUs, up to 32GB RAM and eSIM support",
+   "summary": "Vaio unveils ultralight laptops with Core 7 CPUs, up to 32GB RAM and eSIM support Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEstVWlpZVNPMW9fWnBzV1VNN1RYaldPWVEzcGJpVXVkMzhKS29EWF9DZVFORzBDcVplYmpvYWlEbktHXzNONmJ4cUlXRGtGUWtySlY4VnBIVDRJWkcxM3ZXdWkxR2dvTjlHOGdKN01JQjc1OEs3Zjl0QVhzc3dFcGVHZkJ3Y1h2cFNrYjVWQWxsbHVHaTVvbVBieW16aXZoT2Yza1R3LUlLTEc1WEplZE9CcjVKOWpHUkRqZ3ZhLUx4T1k?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T20:15:00.000Z",
+   "date": "2026-11-18",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEstVWlpZVNPMW9fWnBzV1VNN1RYaldPWVEzcGJpVXVkMzhKS29EWF9DZVFORzBDcVplYmpvYWlEbktHXzNONmJ4cUlXRGtGUWtySlY4VnBIVDRJWkcxM3ZXdWkxR2dvTjlHOGdKN01JQjc1OEs3Zjl0QVhzc3dFcGVHZkJ3Y1h2cFNrYjVWQWxsbHVHaTVvbVBieW16aXZoT2Yza1R3LUlLTEc1WEplZE9CcjVKOWpHUkRqZ3ZhLUx4T1k?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T11:26:47.504Z"
   },
   {
    "id": "3ffe4c13074d",

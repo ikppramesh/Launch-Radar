@@ -12,7 +12,7 @@
    "status": "Upcoming",
    "category": "Smartphone",
    "brand": "Apple",
-   "region": "Global",
+   "region": "India",
    "confidence": 2,
    "aggregator": true,
    "sources": [
@@ -27,6 +27,10 @@
     {
      "name": "UdaipurTimes.com",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2hIbzNZRFNDWU55QTlNbURGdmVSUGhhWHJoZmQ2UlZWUjY4b0ZDVEFtSFg5bkdGcmtjbVFnVWx3QzNkOUhwd3ZGY21BeVNnMmx1ZVo1NU1Cb0lwU2o2YVQxaGZqWFZfUThTSlhzZmt6cXVoV0VaalRFakNQa2YzOFhRZXRQa1J0WHk3TXhUd2IwWVpaa1NWNDlIY3Fvc1FYUHIyR1FKRQ?oc=5"
+    },
+    {
+     "name": "PCQuest",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkZzcDdHdDhKeGlNd0tva2EyLURDZnVOUHNIX2tkMGRJS0xxM01yZVgtRU55TmNmQTYyT1F4cGNzRkdCcjR6ekJCeFYyRWt3djNKd0pPbUNoVkRMTnRDSUxyWDBxekV6ZmFTcmZ3RUJTb0JwaWxhOFU0U3JiS0QwempPNWJPVHNQRjRhZnFfUE1QXzIzUjJJMHBTc0tlX2poaGpaaDJn0gGrAUFVX3lxTE5xSzdzZWFpTWE0YmwzY1EtdkcyQ0tlcGlRREUwSHRKdjE4YXZ4aW9DbjRWWUN3T3FZS25DVm9ad3BkeC1nRGRfdVloQWpsU3AtYVZOd1dKLTJZeW5qYlVUTDB4dVVNNXR0aFJ2dDU1c01Xb2VLQU16Mm1oREl3TnN4WGZwYmpJaFdiZzJVMTl3dERsTFhJRjczLWlpeWcydFJWazF5VmRpMEZuWQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-14T22:15:18.596Z"

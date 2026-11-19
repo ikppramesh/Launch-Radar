@@ -163,6 +163,10 @@
     {
      "name": "The Arizona Republic",
      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWGxPWFNWQ2hJV2MxTkw1WTR2dFpfRnBJS1JLd2Via29HVldwSjZYTUFZYzlIb2JLV3c1ZzBiSHp1Z1J4Y1dEMS02cmdzTUpPVWE2WEJtekJ2WHNxRWZELW9SOWctU0g4bTROeUtHYzZZVnVZeHRialhXSVY1eTFvMkdMdGtNbS1JdUN6S1Z6R0tWYTduQkF5QzQ0ak1iTTd6VkktaTNJamdJMlNDYmNCTkQ2V09Lb2NhSnY0M2NCM251WldXWUNKTkMwUHNWWkl5Z0VHNGVsWHdmVXM1STNpY3U5MA?oc=5"
+    },
+    {
+     "name": "The Destin Log",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT21rU205cHJDNUFmeU04SGFMeVFXOTFxc2JrbG5FVjF5Rm9oSTBSb0hjb19jeS1RWlNuUWxlNHlTM3JDZ0hWQnNmUXZ1WnBfaTdqR3RPUkRmRjYzVUlWWVVYV1V5NGVzY2Nja09aUXJoUG5mMzVTQjR4N3ZpN0ppOTRJRWxHUkVycVdvZ25OV2RKNVU4Q3BNV2RUX0s4Q0g1OWl0NG1FcFRIaDZnbzRNX21NY1d0NkdJbWVnOF9lVDdrVm42M0c5ckNaX1plS3lPZ3lldDJ4blhWallQdFVsT2VMeTRSNXc?oc=5"
     }
    ],
    "firstSeen": "2026-11-18T00:53:21.357Z"
@@ -210,6 +214,28 @@
     }
    ],
    "firstSeen": "2026-11-18T00:53:21.357Z"
+  },
+  {
+   "id": "d0079fc2ea20",
+   "title": "OPPO Watch 5 Launches with 25g Square Case and Built In GPS",
+   "summary": "OPPO Watch 5 Launches with 25g Square Case and Built In GPS Technetbook",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQem5QYm1ITXdWUWZsd1lGQk5FSnFfUDN6eVFxRUlXd3pTSEVzOWZSUTM5UzZZNEl2RGNfdkpjdFJqaG85Ym9PVmhIRTc3Qk1vTktIcVhKbFM4bkdfY3BxU2l2RXJ6YndnQ3l3MWFtVTJFZFlRc1FsR19nS3JVdVoyZlJMM082UQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T16:55:00.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Oppo",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Technetbook",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQem5QYm1ITXdWUWZsd1lGQk5FSnFfUDN6eVFxRUlXd3pTSEVzOWZSUTM5UzZZNEl2RGNfdkpjdFJqaG85Ym9PVmhIRTc3Qk1vTktIcVhKbFM4bkdfY3BxU2l2RXJ6YndnQ3l3MWFtVTJFZFlRc1FsR19nS3JVdVoyZlJMM082UQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T11:26:47.504Z"
   },
   {
    "id": "ae914b39b5ac",
@@ -408,6 +434,28 @@
    "firstSeen": "2026-11-18T00:53:21.357Z"
   },
   {
+   "id": "0fc054521ffd",
+   "title": "Uber Eats launches Zipline drone deliveries in Houston area",
+   "summary": "Uber Eats launches Zipline drone deliveries in Houston area Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDlkUzdoSlNIV3pSUm9hMi1GaW5lYmY1bE1YNmJmSzNvUzJUbUtYZTRZRWtzejZ0Y3NMeTBOd2JwRl9pSnI1YlZYNy0teFhEbmtQMlc0azhLR2VTYlpwNVBOeFphZ1BkLWIxSlRLSjhHQ1JzaFhZVjdFYWFiQkU4eTJFMA?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-17T13:09:36.000Z",
+   "date": "2026-11-17",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDlkUzdoSlNIV3pSUm9hMi1GaW5lYmY1bE1YNmJmSzNvUzJUbUtYZTRZRWtzejZ0Y3NMeTBOd2JwRl9pSnI1YlZYNy0teFhEbmtQMlc0azhLR2VTYlpwNVBOeFphZ1BkLWIxSlRLSjhHQ1JzaFhZVjdFYWFiQkU4eTJFMA?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T11:26:47.504Z"
+  },
+  {
    "id": "06a419489ac9",
    "title": "ViewTech Borescopes Introduces New 11-Inch Screen Replicator Tablet for Enhanced Industrial Inspections",
    "summary": "ViewTech Borescopes Introduces New 11-Inch Screen Replicator Tablet for Enhanced Industrial Inspections WINK News",
@@ -437,6 +485,10 @@
     {
      "name": "Your Valley",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmtBbW5qaXNaeFZVWkxfSkZFRHRaR1liTkt3cW9maFZ0dVFhWjlyUGo5SkZlWS14OUk4dnRwWjFyQlFTQVdSWGtUWHMwcW95UE15ZC12Ri1zUnVEck1LVFQzWnFzZ21tU3NoaG9qSnR4aVMtam5fc2x6M0U1X3luakpzUndIT1oxNEVVOVZnWGhOb3dmOHFmVW5oLUtSbW9UczNvaDdNT1dCaHBORFhSc0RUZzB2TDFjdDkxZm1kMHdYYjliQnZWU0paS1YzZw?oc=5"
+    },
+    {
+     "name": "couriernews.com",
+     "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORHJ6d3BWUFlvM1Z5djR1c0pETGsxbTNpdG5DVnFrWmJMZUFPamxQVWdQUWxoWm1CeDBGbHk4SHZBaFhOaE5xbTNCcHdyXzJZai1BR0pOeFViWlNvTjhza3BQWUFWUktqTG14b2daZkdQd3ZxbHctOGR3S1ZvSG5ZMVRUamZyNTZCNFM4eFVNYlVXa2laczYtXzVETzBjR2RCY1FMQ0QwQjhmMVRSanVRMmtrRFdRYmQ5aXdVMHZRemdvTUFQNDRZdzQ3aDBOcTlqVDhxNklNbkFIQm5pZHZ2aHRkUVE5WFJkZFBCdnFxSUlSX25kdEtfOWxYQ3gwSF9CR2pJWjg0d1ZxdlkxQjQ5RmFUZVFHNWIzQ09zM21jTFg?oc=5"
     }
    ],
    "firstSeen": "2026-11-17T15:52:16.117Z"
@@ -713,6 +765,10 @@
     {
      "name": "DagangNews",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXh3aVk5aDRVdjh5R2pEY1ZzRUQ5aXlhcWE1U2dCb3ZfSVJxY0lQeDZrRE9iMVQzdm5hQlVheHhYTkE4UHVlT3oxSjBPNnNNVnhSUE1jZDdWQjdkY05ZSlN1MlgzRXJNRXVTcFFYOEpVNXBrb1pkdzVUNHl4VTRfbUJIZ1pXME9NS2ZuNE5mamVfQkIxV1NERHhLR1cxRjYxWU93RjJLOVVjeE0?oc=5"
+    },
+    {
+     "name": "Asia News Network",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHc3TXpFbl96S2VoQ0htUW9hdXdVSHpPcEp2R09pb293RmlhcmRsMzQtN2E4Umk5eFNJaHhqWjhWTGxRTUdJbzNFTkFGdUs0R1JUTFZzbUhSYm9mRll0eVNPa3QwV0NaR2xVYVd1bzBhRmZsSjlfMVpRVW9HSThUMG5VR1hQT3JaQ0lIRA?oc=5"
     }
    ],
    "firstSeen": "2026-11-17T15:52:16.117Z"
@@ -965,6 +1021,10 @@
     {
      "name": "The Davis Enterprise",
      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZ0tFRWJXVlFXUlc5NG1VbzFHVzhmN3NsWXJNU2QtUnBjSDdLWGlaNWxwaVNFUVdvM1dNRlhpb3B1eWZFc0E1VWFnbTBtWHpDdGRLQ3V0S0YzX09ZYTZPODBaem40OVg2c1MzTHEtREVVZVpkNUpxeUVDRVRvZWVHT1M2a192cm9pMGhpWUdFQklxc1dKU2ZjekJ1aXFOakwwQVR3bFZudUFySUdwMEJldHZrd2VqSzk0XzFnd2dDS3NBOG1tOHp6V2xJQ1RrVTdWRFZfQ2dVeVA0YmJuSDgxdS1QcEJHc0dJVWk4VlV4VUo3YUs3WXhyb09JZXFSU0tGOHp3S3RZZkRqbnJpVXNrVGM3bkNRdy1hRjRQZFgxbU54ZnFuSF9CTi1VMF9zaHZKVFNyblpqWEo?oc=5"
+    },
+    {
+     "name": "WyomingNews.com",
+     "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPYjJYR3Y2Wkg3QXpMUmlnTkE1TG5ET3dNdzFCU2JOWVRUMzBrT3FHZkEwa3hzT0JOWU9TeTh3Vi1aV09aa2JENU0xd3hXVENfSGJfeFdDOFVqenB2cHU3U1JTTG5uSWN3YmNEeGNPa25fOEFtRm9paWZIckZZdUlVdGRMREx2U2JqdV9NcE5QZEE4c0gwZnhQbU8xRGRUbGJvSm9VRTV5OFJEV0hoSTJseV9vNEJxVndvbTRzVm8zaHdWZW9mMFhzS3U0NURWVFBtZWVmTjdERjJCblZfMTMwRkJlZy1nMXNNYnM1R3hFaFlWX3dhYUk2TjE1bFJWQXdzT19RQkNaSU5UWkdBZXp1WHcxSmNPTE4tMjBJRXU4clZCSlRDeFI4RXRxdGFBQ0twdXdR?oc=5"
     }
    ],
    "firstSeen": "2026-11-17T15:52:16.117Z"
