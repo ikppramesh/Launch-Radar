@@ -2,6 +2,116 @@
  "date": "2026-11-19",
  "items": [
   {
+   "id": "795170f74dec",
+   "title": "Japan-made 14-inch lightweight laptop announced with Intel processor, 16GB RAM and 12-hour battery",
+   "summary": "Japan-made 14-inch lightweight laptop announced with Intel processor, 16GB RAM and 12-hour battery Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSU5FY1YwcmpoRmZwV20wQTNOMHA2R1Rkdml2WG83T1lEZ2sxZWIxdDNrenBlbzNTVVpJczRDejhnVDRvb3lRMU1rbG93SndPYV9uT3BHRlBmOWlkSnpWNzlrNkFLd0t0bzU0VDJQVE9LSHMyV0RfODV6M2tsWTdPRnZORkdJRkJNMlRqWklfV21TUDQtQ1ByTFdSOGJ6eHI2cTNxMm5kYVFOeVlkZXhjcUdMbGZPNjIxYzAzeFN3RWlCdG5Ubm91MmV2QkoyYWFlTERrSlJLdFczQQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T00:46:00.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Intel",
+   "region": "Japan",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSU5FY1YwcmpoRmZwV20wQTNOMHA2R1Rkdml2WG83T1lEZ2sxZWIxdDNrenBlbzNTVVpJczRDejhnVDRvb3lRMU1rbG93SndPYV9uT3BHRlBmOWlkSnpWNzlrNkFLd0t0bzU0VDJQVE9LSHMyV0RfODV6M2tsWTdPRnZORkdJRkJNMlRqWklfV21TUDQtQ1ByTFdSOGJ6eHI2cTNxMm5kYVFOeVlkZXhjcUdMbGZPNjIxYzAzeFN3RWlCdG5Ubm91MmV2QkoyYWFlTERrSlJLdFczQQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T02:29:03.022Z"
+  },
+  {
+   "id": "57a91a92aa8d",
+   "title": "Vaio launches 14-inch F14 laptop in Japan with 49% longer battery life",
+   "summary": "Vaio launches 14-inch F14 laptop in Japan with 49% longer battery life news.lavx.hu",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVJvYUI1clZlOEsyTXBSTjdJU1pOOWJiNUstS0QwY0hUQzZKckxFWkVickR2Um9zRzFPOXlZcTQ1cW5BU0dlRTg5Mk9XMllNZndGRzN5NE56MUFhUHRDZk05aFJ1YUpwM2oxd19NeEo4VUMzVDhMOWxNWW84MG05MXVYUTF6T2EyVGd4QjBWX3BqUVFFOXNRc0d5TndVLWc?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T00:22:42.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "news.lavx.hu",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVJvYUI1clZlOEsyTXBSTjdJU1pOOWJiNUstS0QwY0hUQzZKckxFWkVickR2Um9zRzFPOXlZcTQ1cW5BU0dlRTg5Mk9XMllNZndGRzN5NE56MUFhUHRDZk05aFJ1YUpwM2oxd19NeEo4VUMzVDhMOWxNWW84MG05MXVYUTF6T2EyVGd4QjBWX3BqUVFFOXNRc0d5TndVLWc?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T02:29:03.022Z"
+  },
+  {
+   "id": "126b3d6f01e7",
+   "title": "Google Forces Android Developers to Support Foldables by 2027 After iPhone Duo Launch",
+   "summary": "The post Google Forces Android Developers to Support Foldables by 2027 After iPhone Duo Launch appeared first on Android Headlines .",
+   "link": "https://www.androidheadlines.com/2026/11/google-android-foldable-app-requirements-2027.html",
+   "image": "https://www.androidheadlines.com/wp-content/uploads/2026/11/Google-Android-foldable-app-rules-featured.jpg",
+   "publishedAt": "2026-11-18T22:59:03.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Google",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Android Headlines",
+     "link": "https://www.androidheadlines.com/2026/11/google-android-foldable-app-requirements-2027.html"
+    }
+   ],
+   "firstSeen": "2026-11-19T02:29:03.022Z"
+  },
+  {
+   "id": "fd73b35e5cbc",
+   "title": "Caviar Unveils $23,000 GTA VI-Inspired iPhone Duo And Luxury Smart Glasses",
+   "summary": "Caviar Unveils $23,000 GTA VI-Inspired iPhone Duo And Luxury Smart Glasses ChannelNews.com.au",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVlmdkxCd0xqZVVoUFpkZjdScGVqQ09oRmRmQkNIbjZXM1U5LXN5ZnNUZk9zVks5RVdld1V3OGcya3k2U004WUI2Wk1venh2Yk8xUTNxR2EwM24xbVFIVXZmYkg2OHllcGtFLTFjbktMdnl5RDlLRGhEcWZ0MUstbGNWRDBGWTJsUEdxZm5WYmhoSEU3YnBsRmwyZmpZblczV0Y3WkREWQ?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T22:47:30.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Apple",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "ChannelNews.com.au",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVlmdkxCd0xqZVVoUFpkZjdScGVqQ09oRmRmQkNIbjZXM1U5LXN5ZnNUZk9zVks5RVdld1V3OGcya3k2U004WUI2Wk1venh2Yk8xUTNxR2EwM24xbVFIVXZmYkg2OHllcGtFLTFjbktMdnl5RDlLRGhEcWZ0MUstbGNWRDBGWTJsUEdxZm5WYmhoSEU3YnBsRmwyZmpZblczV0Y3WkREWQ?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-19T02:29:03.022Z"
+  },
+  {
+   "id": "6c40b5775a11",
+   "title": "Insta360 launches a pocket-sized E-Ink photo frame you can stick to your fridge or wear around your neck",
+   "summary": "Insta360 has recently launched a compact E-Ink photo display called the Toast. It is priced at 429 yuan ($64) for a single unit or 815 yuan ($122) for a two-pack. The device essentially functions as a pocket-sized digital photo frame that users can attach to a refrigerator, place",
+   "link": "https://www.gizmochina.com/2026/11/18/insta360-toast-pocket-sized-e-ink-photo-frame-launched-specs-price/",
+   "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/insta360-launches-a-pocket-sized-e-ink-photo-frame-you-can-stick-to-your-fridge-300x188.png?x47967",
+   "publishedAt": "2026-11-18T21:49:42.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Camera & Drone",
+   "brand": "Insta360",
+   "region": "China",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Gizmochina",
+     "link": "https://www.gizmochina.com/2026/11/18/insta360-toast-pocket-sized-e-ink-photo-frame-launched-specs-price/"
+    }
+   ],
+   "firstSeen": "2026-11-19T02:29:03.022Z"
+  },
+  {
    "id": "05fc6e04029d",
    "title": "The PlayStation Network goes down for some users as GTA 6's worldwide launch gets underway",
    "summary": "It's likely that GTA 6's popularity has pulled the service down.",
