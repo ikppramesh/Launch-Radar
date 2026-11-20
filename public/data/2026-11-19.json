@@ -2,6 +2,28 @@
  "date": "2026-11-19",
  "items": [
   {
+   "id": "395834b59036",
+   "title": "i.safe Mobile Launches Dual-SIM 5G Smartphones",
+   "summary": "i.safe Mobile Launches Dual-SIM 5G Smartphones Wisevoter",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYk90ZlJFNmMwcGlZOHlBNkdTd2VnWkdLSzFxVXBaUC1pOWozSXdSY3k4OU5sZmZOR1NyVHJTSHljaVV2RmptVktUQkRHSEhSdml0OEZHY0JJNnZld2FoVE96NXFlbnF1bXVDNDNGc0p5d1F0NVhNc2g0bzE5RW14Tld4V1FUY0hucjloNm5wNk5zVG8?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-19T17:20:41.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Global",
+   "confidence": 2,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Wisevoter",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYk90ZlJFNmMwcGlZOHlBNkdTd2VnWkdLSzFxVXBaUC1pOWozSXdSY3k4OU5sZmZOR1NyVHJTSHljaVV2RmptVktUQkRHSEhSdml0OEZHY0JJNnZld2FoVE96NXFlbnF1bXVDNDNGc0p5d1F0NVhNc2g0bzE5RW14Tld4V1FUY0hucjloNm5wNk5zVG8?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-20T11:18:18.636Z"
+  },
+  {
    "id": "10c2a38c9139",
    "title": "TUXEDO InfinityBook Pro 15 Gen11 Launches With Ryzen AI 9 HX 470 and Up to 128GB RAM",
    "summary": "TUXEDO InfinityBook Pro 15 Gen11 Launches With Ryzen AI 9 HX 470 and Up to 128GB RAM Techgenyz",
@@ -270,28 +292,6 @@
    "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
-   "id": "9259a4f5bc6d",
-   "title": "Honor Watch 6 Pro Global Launch: Specs, Price, and Release Date Revealed",
-   "summary": "Honor Watch 6 Pro Global Launch: Specs, Price, and Release Date Revealed Nokiamob",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUld2aXZ3dHRrRk1HY1JhTmpXSWVWRHBmMHZabmk3cWE1UXV4dk9kV2puaDh2VWJ5ME1tMUhLbGE3clVHZFB4ZnNrVmJsbFZHOXg3VkV5RXdYSmMxbm9BQTRXMnZjQnJoSWdJOU4yUFN1QTZZWWZVTlI4Q2EtODNPVnZiVUEwSnJteUVRdWxmWU5fdF9zeGZjRmVMd0MwZS1JcVg5czEzbFRxZFI0cnJ4VnV3?oc=5",
-   "image": "",
-   "publishedAt": "2026-11-19T11:16:24.000Z",
-   "date": "2026-11-19",
-   "status": "Launched",
-   "category": "Wearable",
-   "brand": "Honor",
-   "region": "Global",
-   "confidence": 2,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Nokiamob",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUld2aXZ3dHRrRk1HY1JhTmpXSWVWRHBmMHZabmk3cWE1UXV4dk9kV2puaDh2VWJ5ME1tMUhLbGE3clVHZFB4ZnNrVmJsbFZHOXg3VkV5RXdYSmMxbm9BQTRXMnZjQnJoSWdJOU4yUFN1QTZZWWZVTlI4Q2EtODNPVnZiVUEwSnJteUVRdWxmWU5fdF9zeGZjRmVMd0MwZS1JcVg5czEzbFRxZFI0cnJ4VnV3?oc=5"
-    }
-   ],
-   "firstSeen": "2026-11-20T02:13:48.619Z"
-  },
-  {
    "id": "45af239a306d",
    "title": "Approov 2027 Launches to Defeat Rented Device Farms and AI-Driven Mobile Fraud",
    "summary": "Approov 2027 Launches to Defeat Rented Device Farms and AI-Driven Mobile Fraud FF News",
@@ -358,6 +358,32 @@
    "firstSeen": "2026-11-19T20:26:28.163Z"
   },
   {
+   "id": "9259a4f5bc6d",
+   "title": "HONOR Watch 6 Pro launches globally",
+   "summary": "Ultra-bright display, premium aesthetics, advanced health management, professional sports tracking The post HONOR Watch 6 Pro launches globally appeared first on GadgetMatch .",
+   "link": "https://www.gadgetmatch.com/honor-watch-6-pro-launches-globally/",
+   "image": "",
+   "publishedAt": "2026-11-19T10:00:31.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Wearable",
+   "brand": "Honor",
+   "region": "Global",
+   "confidence": 3,
+   "aggregator": false,
+   "sources": [
+    {
+     "name": "Nokiamob",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUld2aXZ3dHRrRk1HY1JhTmpXSWVWRHBmMHZabmk3cWE1UXV4dk9kV2puaDh2VWJ5ME1tMUhLbGE3clVHZFB4ZnNrVmJsbFZHOXg3VkV5RXdYSmMxbm9BQTRXMnZjQnJoSWdJOU4yUFN1QTZZWWZVTlI4Q2EtODNPVnZiVUEwSnJteUVRdWxmWU5fdF9zeGZjRmVMd0MwZS1JcVg5czEzbFRxZFI0cnJ4VnV3?oc=5"
+    },
+    {
+     "name": "GadgetMatch",
+     "link": "https://www.gadgetmatch.com/honor-watch-6-pro-launches-globally/"
+    }
+   ],
+   "firstSeen": "2026-11-20T02:13:48.619Z"
+  },
+  {
    "id": "a557feb648f3",
    "title": "Honor Watch 6 Pro launches globally with 5,500-nit display and 18-day battery",
    "summary": "Honor launched the Watch 6 in global markets in June, after the Watch 6 Plus first arrived in China. The Watch 6 Pro then debuted in China in late September as a more premium follow-up to last year’s Watch 5 Pro. Honor has now taken the Watch 6 Pro global, with pre-orders opening",
@@ -383,6 +409,10 @@
     {
      "name": "Verge Magazine",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNajF2SEp6ZDBPcDBJZWxhS0c0U2l6Y0t4bnNvbGVQaS1DWWwyUlpJVVY2bjFfTEctNUplVy05UkE5NlBCa2hGMmktQV8ycTExWWdtYkZleGFkRXFjNDhpMVExY2FnRWtZUklxU3NWdDRxWVdHa0xNWWlydlFkdmQ4Z29KTUJRNnV5WmhUcUF5RFJXdHNWaU9EQk1rQkVETXpBUFU5MjFGTkdZektESXg0MU9rTlFNTlE0SVhGQzMxUVRudXRzVkNmTFBsaENTVUtremxtcUZHc3pPQ3c?oc=5"
+    },
+    {
+     "name": "Gadgets 360",
+     "link": "https://www.gadgets360.com/wearables/news/honor-watch-6-pro-launched-europe-price-availability-options-specifications-features-12353175"
     }
    ],
    "firstSeen": "2026-11-19T11:26:47.504Z"
@@ -439,6 +469,10 @@
     {
      "name": "Udaipur Kiran",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrbVJHdE9aT0p1Z3NlN3lMMEEycVhWcVVUVG0wTl9QSU9XUDBYNjUzUnhXUFgxQlhsLUJ3QndqXzBRWEhVdnpESUZ2NHZXRi1LQ3EwRzRaUGRoSU1Ta0w5NE9nd2tRSkpvaVZXNzN4NDlveEZBN2c?oc=5"
+    },
+    {
+     "name": "thedigitalbriefnews.com",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vTE1jZkxsSDJEdS1heVlPNTZfc0UwMTdOUHlTeFk1NmZQZ1Z6QjNZTzZrNDBJNTNtR1FhcHltV3hqR1RaNks2YVI2c0FfQk9jb3phaVJodzRPdm5LTGVPQmhKV2Q5VXpTLTVnNTluNmRsVnBQU3VEaFcxYw?oc=5"
     }
    ],
    "firstSeen": "2026-11-19T20:26:28.163Z"
@@ -1040,6 +1074,28 @@
     }
    ],
    "firstSeen": "2026-11-19T20:26:28.163Z"
+  },
+  {
+   "id": "90cc7f60510c",
+   "title": "Japanese brand announces new 4G feature phone",
+   "summary": "Japanese brand announces new 4G feature phone Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbm1Kbm5KY2FkcU5IQm5sUmp4RlViZi1vbDhjNVItdUFHWjkwTGtxSk1ad2JVU1hTX2Naa0ZRVUJXRmpPY3RlV3JkeFQ4bnktM3pwOHAzSlZ5OGNGdF9wMm01MXhNZTZ4TWNwR2pEaklPRF9iZmJVYTNvb0hKaHBzZXU4aTNNTTJjTTA2RlVObHJSQjhq?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-18T20:59:00.000Z",
+   "date": "2026-11-19",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "—",
+   "region": "Japan",
+   "confidence": 1,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Notebookcheck",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbm1Kbm5KY2FkcU5IQm5sUmp4RlViZi1vbDhjNVItdUFHWjkwTGtxSk1ad2JVU1hTX2Naa0ZRVUJXRmpPY3RlV3JkeFQ4bnktM3pwOHAzSlZ5OGNGdF9wMm01MXhNZTZ4TWNwR2pEaklPRF9iZmJVYTNvb0hKaHBzZXU4aTNNTTJjTTA2RlVObHJSQjhq?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-20T11:18:18.636Z"
   },
   {
    "id": "f04da7166890",

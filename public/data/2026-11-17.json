@@ -692,13 +692,17 @@
    "status": "Upcoming",
    "category": "Smartphone",
    "brand": "Xiaomi",
-   "region": "Global",
+   "region": "India",
    "confidence": 2,
    "aggregator": true,
    "sources": [
     {
      "name": "NDTV Profit",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGhNTWdLYlN1TmktWDNoejB2UllyQTBpR180UWwwUzZyWi1WNV9mNkJnTmNFamJhMV9QeWdwcGlVUUUzM0NMOV9EeXVQanFiMXRWbVMxNDZaVUdkU0dmWVdLLVM5Sndib1pmQ2tnVTRZd080VDR2ZkM4UHRJelFoWEJuMkV6SF9sRDVuRDFJUXRUa3czcmV3bjhUcThhVGY1XzJHczkzc2F6MGV3MHdmU2VaVEEzc0Q0bW1jcUV3VUx0VncybWF4Ymctc9IB0wFBVV95cUxQa21ScGZvTUw1VHRLUWNRdEhOVHFNRFJZVjFCTjE4QVpFZGROLUlDZ1c5SDgxbm4wQlJaTGFnVDh3LTQ1SFVYVG9EVFNWSzhWYVYwUFExSk9FeHE1QlJPeHE1Sm5JeHVhQ2thY1h3LU9FUi1jTE9LRnZwVDJJcXBoRThfa2NmbW9JR09XRlVDaWpBQkdzWi1MMjJMRFZxQWVVS3hXaEdqQktITktfM2t6UnF4QU9oU3BpMTlSUkN5SkJTOUlQV3RRbUJaLWw3bFFLZkpz?oc=5"
+    },
+    {
+     "name": "Times Now",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWjZYNEVsa2NwWlZBaWJWQ1FISzQ1dmxrQU9aVTA1Vm1QUWlOM2R1UjFKUV9UUW1STFZQVkxWZmNhdk8zc3MtU3F6TzBDZlZ2LXFoYVY2MFh3cjlETHZLd3gzOE5WU214WXp4SW9GNFBhdnhma3YzLTlXSHBmaFZlVmFHa2FKNlpuS1BLTXlkRjMxUWVKVU9pVkxPN2hNNFJWUWFrQ0gwOVpGcDB0VXhtdDRsVGRNMTlYS0IwNXpMWm9Oc0d5bmJnZk0wRQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-17T15:52:16.117Z"
@@ -999,7 +1003,7 @@
    "category": "Other gadget",
    "brand": "Huawei",
    "region": "China",
-   "confidence": 1,
+   "confidence": 3,
    "aggregator": false,
    "sources": [
     {
