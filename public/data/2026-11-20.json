@@ -45,6 +45,14 @@
     {
      "name": "Cincinnati Enquirer",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVDhYVzBUVERSNFdMakczd21rbkZzeVRweW8yX3pYZjJNMEJ5U0M5NFZmek9NRkxqQ1kzQnpkR1VUVHgwVkpQdjBCbmwwYmdDRU9BWVVfTHltMjJPZVc3SmQ0QXVDam8yNWZBT3EtMm9EcGVMZzNHMUhRR0hselc2T0R4ZDF4ZVVpUVhXVnV3dFdLd1QzSzdxb1lFeEFUUWhfbnpncXJhNUhVa2dxcU1OR1RTWjlqb3BFejJrNGk1VFRZTVJXNkNaZS10elpUMEZX?oc=5"
+    },
+    {
+     "name": "IndyStar",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORm83bEIzREpvdVcwdkxqR0FZWC16OEFyOXlMUW1PRk8tbEZFbUlSdGR4X3hZejNOMkttb3VsWnB6UlBKMmJEa0NQMnhHRXNkeXh6TXd3b1l1UV9aLVROTkFWWnVhTTY1ZHNJQlNLMTdlMzFRUWxmWE5OMUk3T1Q5OXlTbHpkdUkyTXpZbk84UkxkR0NVUW14UXVPaXltSk9YVGhPTXdBU183NFA1c3NiV1Nlcy1HOWVqZmhURWJ0Rk5uVU5adTR4alFocHRKdw?oc=5"
+    },
+    {
+     "name": "The Des Moines Register",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaDZRR3h4SE53SnpKdTEtWGhCWEIxN05RblpGc3lXSkVTRHBORk4tbXNTQ0owOHN3LWE4Q1JDR3NUVWZYMXUxZDh2bWY3YV9odnZGZm1GWS1IYjdiQVZRalk2REJ3YWFKSVV0YU9RcnFNcEZBTG1UTW9NeE0wQThuUUNYZEJRMlYyTTBFUi02dUNYTExGNnRiRTJWTXVCSGszbGtsS3oxaTJ6dXQtaGhJa2oyci1VUUYtVUlTcFJZMkh3YWttd1FIOVFMSkM1SFAxSVdpUGNIUkdQQQ?oc=5"
     }
    ],
    "firstSeen": "2026-11-20T19:57:52.227Z"
@@ -204,50 +212,6 @@
    "firstSeen": "2026-11-20T19:57:52.227Z"
   },
   {
-   "id": "5bb4a2c65a0e",
-   "title": "Dell XPS 16 Creator Edition Launched in India at ₹4.49 Lakh",
-   "summary": "Dell XPS 16 Creator Edition Launched in India at ₹4.49 Lakh thedigitalbriefnews.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83NkQ5MUpJbk9LSkQwWGs2U0pFZmhmLTlnbGJWcWQzMUpmcU9aVHE2X0xvd2x2TUMzd1ZBT3dfLTZpOFFBckNfd0dpQlhMbExhZnVNTW1oV3lmODkwU1BNN1JHT2xJV2pYNDRFLXpDelpZMmJwOGxlbW5CUmpUdw?oc=5",
-   "image": "",
-   "publishedAt": "2026-11-20T14:09:12.000Z",
-   "date": "2026-11-20",
-   "status": "Launched",
-   "category": "Laptop",
-   "brand": "Dell",
-   "region": "India",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "thedigitalbriefnews.com",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83NkQ5MUpJbk9LSkQwWGs2U0pFZmhmLTlnbGJWcWQzMUpmcU9aVHE2X0xvd2x2TUMzd1ZBT3dfLTZpOFFBckNfd0dpQlhMbExhZnVNTW1oV3lmODkwU1BNN1JHT2xJV2pYNDRFLXpDelpZMmJwOGxlbW5CUmpUdw?oc=5"
-    }
-   ],
-   "firstSeen": "2026-11-20T19:57:52.227Z"
-  },
-  {
-   "id": "502f5937ede7",
-   "title": "Lava Smart 4 Pro Launched at ₹10,999: 7000mAh Battery, Android 16 and 90Hz Display",
-   "summary": "Lava Smart 4 Pro Launched at ₹10,999: 7000mAh Battery, Android 16 and 90Hz Display Gogi Tech",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoaEVGUkhtQzQ1SHVpUm9ISm1KQld5OU5CVzZwQjh0Wi05REVZaXltRVR2bXRWaXdNRks4ZGdURXRFMml4dVMxZnJ6MC1EM1ZXYWNwb2NxdWTSAVhBVV95cUxQaGhFRlJIbUM0NUh1aVJvSEptSkJXeTlOQlc2cEI4dFotOURFWWl5bUVUdm10Vml3TUZLOGRnVEV0RTJpeHVTMWZyejAtRDNWV2FjcG9jcXVk?oc=5",
-   "image": "",
-   "publishedAt": "2026-11-20T13:06:51.000Z",
-   "date": "2026-11-20",
-   "status": "Launched",
-   "category": "Smartphone",
-   "brand": "Lava",
-   "region": "India",
-   "confidence": 3,
-   "aggregator": true,
-   "sources": [
-    {
-     "name": "Gogi Tech",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoaEVGUkhtQzQ1SHVpUm9ISm1KQld5OU5CVzZwQjh0Wi05REVZaXltRVR2bXRWaXdNRks4ZGdURXRFMml4dVMxZnJ6MC1EM1ZXYWNwb2NxdWTSAVhBVV95cUxQaGhFRlJIbUM0NUh1aVJvSEptSkJXeTlOQlc2cEI4dFotOURFWWl5bUVUdm10Vml3TUZLOGRnVEV0RTJpeHVTMWZyejAtRDNWV2FjcG9jcXVk?oc=5"
-    }
-   ],
-   "firstSeen": "2026-11-20T19:57:52.227Z"
-  },
-  {
    "id": "a0c7929bb0bf",
    "title": "Quantus Launches a Quantum-Secure Cold Wallet That Runs on Any Spare Phone",
    "summary": "Quantus Launches a Quantum-Secure Cold Wallet That Runs on Any Spare Phone The Quantum Insider",
@@ -287,6 +251,48 @@
     {
      "name": "Gadgets 360",
      "link": "https://www.gadgets360.com/mobiles/news/nothing-launch-date-teaser-design-specifications-12354447"
+    }
+   ],
+   "firstSeen": "2026-11-20T19:57:52.227Z"
+  },
+  {
+   "id": "5bb4a2c65a0e",
+   "title": "Dell XPS 16 Creator Edition Launched in India at ₹4.49 Lakh",
+   "summary": "Dell XPS 16 Creator Edition Launched in India at ₹4.49 Lakh thedigitalbriefnews.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83NkQ5MUpJbk9LSkQwWGs2U0pFZmhmLTlnbGJWcWQzMUpmcU9aVHE2X0xvd2x2TUMzd1ZBT3dfLTZpOFFBckNfd0dpQlhMbExhZnVNTW1oV3lmODkwU1BNN1JHT2xJV2pYNDRFLXpDelpZMmJwOGxlbW5CUmpUdw?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-20T11:30:00.000Z",
+   "date": "2026-11-20",
+   "status": "Launched",
+   "category": "Laptop",
+   "brand": "Dell",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "thedigitalbriefnews.com",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83NkQ5MUpJbk9LSkQwWGs2U0pFZmhmLTlnbGJWcWQzMUpmcU9aVHE2X0xvd2x2TUMzd1ZBT3dfLTZpOFFBckNfd0dpQlhMbExhZnVNTW1oV3lmODkwU1BNN1JHT2xJV2pYNDRFLXpDelpZMmJwOGxlbW5CUmpUdw?oc=5"
+    },
+    {
+     "name": "The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2xFZ0Nzc0pXVUt5SW9jc3RiR1ZCQmZhUWdGcFJWSVA1dkRrUi1icGxtdlc4cEJNZTJGRXJkZWh6MHZ6cEFZbzRxcjBHZy1adVBPZlJYQUJ2dmJfT1NHTEY5b3J3UXFETTBfbEtCOFU1bDBDYURCX2pZMmRjeHkydFNKaHFfY2NVOHhqb0NTSjVQUWxXNjZpNnZ1WkVXdGR1Snl1a3NJakMtbGhWbWZlb2syRU1BOW84UW1hRXJtOG5qY1piZUk3aVJHamY2bEJGd3dkdXY2LWgyWmhHYjZOWXhORGw2bjFOUHh5T0RkeWNOVW9kUnZTWFZfajRDRFM1OE5yemIzdUNaMUI1d1pVRk5n0gGXAkFVX3lxTFBFTG5VNHBvMjMyX29JWDVybHljTUZMRUJMaXRkcDB6dlRHLVB4UWEyS1E1TFRFMTdJR3hQZEF0MTF0eGZWbWZ0MC04SXUzNmRJZHU1cjNYcjBZdGVPdnRsdmNQV1dyN0QxRXFHVTNOck1DV3hUSjY5LXFnb1FQNTJpZVdSd0szSUFyMFNxNFJiV01zd0ZVM3BuSVNBZVVHUFdUOExJajhNdGpndEZ0amFJcnF5cVp6SzZpSXo4Mm84bzJVa2ZMSm5hc3RqR01TZldmUE5CaC04S1BUQzczSFc0RnAyUGw5TkxFbjFQWURlVm8zTUtVRVloNDAwZ1VzWHFOX3h2aDhKajF5b0tOTWtiZ3hrMnVYWQ?oc=5"
+    },
+    {
+     "name": "Udaipur Kiran",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDJGTmI1S1JIRmlESW1LbzZDb2tmTU9xWF8ySmRXTFQ1R0ZDblRqWVU4Q1U5V0dIUTUzazNVd1BrckxTRDdqbGdidk5CQU1kc21FbHJmTFE0VThndXQxMzV3QXg4eTFQM0d1WFBxcVBPT2Jocl9xTzFES3d2cGwxbVpJeUc?oc=5"
+    },
+    {
+     "name": "PaidFreeDroid",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdktSMjdBRURZWDF1eGI3Q2JSSjJoeGRHZmY3cmVqWlNhT2dMbjVfNU0xOEJxWGYyQTl5MEJISWhuV0o0NExZY1RfOS1jNndoZHppQVp4bE8yU0paWHItT1BSTjVTb0FHRjd0S3F6UHQ3QzlNV3I4Ty1kQVJxX004cUhwaFlZUTNQOHg0Q2wwbS1DZ2VTRUN5Zm53NkNMNW42VVJ1Ny00Q0loNjVwLTFEeHRIem9mVGNmZ2ZxZEo2NjBMd3UyMExXR1lFN0xHbjdiR25lV3ZhVXB1a1YxMl9UUTVPd3Voc3hXOEZBZkE1cjQ5amo0VmVqbHIwTTE?oc=5"
+    },
+    {
+     "name": "TechloMedia",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1hIbklyRFpUaGxwb1hCQVRVVnJTUGIwY2dNVkhEdng4WkNyY1dBRm5mUXVRR3lvekx0YmhSRFNMdWkzYWVDcUt0UjNXTU1neG9fM3dJSU9sbGVYdDBzajdBbmlPdFNuUlNYOXlXU2VuOEJSbUlGaVN3Z24yem44YW0tYkp4OE4tVXQzMjFoM3VvLTZsWVlNdGJaaFI2V0RnT3I5SkExbnR1M0kyX0ZlUE0wMjBNSVdQdWFSSXZWb1R5c0djV1U2cEVn0gHKAUFVX3lxTFBHWEhuSXJEWlRobHBvWEJBVFVWclNQYjBjZ01WSER2eDhaQ3JjV0FGbmZRdVFHeW96THRiaFJEU0x1aTNhZUNxS3RSM1dNTWd4b18zd0lJT2xsZVh0MHNqN0FuaU90U25SU1g5eVdTZW44QlJtSUZpU3dnbjJ6bjhhbS1iSng4Ti1VdDMyMWgzdW8tNmxZWU10YlpoUjZXRGdPcjlKQTFudHUzSTJfRmVQTTAyME1JV1B1YVJJdlZvVHlzR2NXVTZwRWc?oc=5"
+    },
+    {
+     "name": "Business Upturn",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHZqMWRwRC1zUi1BVktoX2pNV3hXRDVUU0N2cnI2ZFNMZzM0SHdHTXFBbGpJMGVMMGpUTkpYX0lrN3dZd21ueFdkX1I2NlpDTUxsb2dENnBqY2JIUUdHLTU1TU9mMFBfbk1zWHNaNkEtZDVvYS1SWDNlb3NfQ3FDMlR6czNuYy1jVEFSWEhGenhxZFJYbkNDZzY3a2R2VXZNTXc0bWpXOFp6VGIzWjAyVGhia3dGcWx3WVVwMjhn?oc=5"
     }
    ],
    "firstSeen": "2026-11-20T19:57:52.227Z"
@@ -395,6 +401,10 @@
     {
      "name": "Business Upturn",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHZqMWRwRC1zUi1BVktoX2pNV3hXRDVUU0N2cnI2ZFNMZzM0SHdHTXFBbGpJMGVMMGpUTkpYX0lrN3dZd21ueFdkX1I2NlpDTUxsb2dENnBqY2JIUUdHLTU1TU9mMFBfbk1zWHNaNkEtZDVvYS1SWDNlb3NfQ3FDMlR6czNuYy1jVEFSWEhGenhxZFJYbkNDZzY3a2R2VXZNTXc0bWpXOFp6VGIzWjAyVGhia3dGcWx3WVVwMjhn?oc=5"
+    },
+    {
+     "name": "varindia",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczU5S21QTmwwM09WZTBUbTREZENCUEpGeHJwbFhWYUZPRVpDRUVlaC1hajgtZDlZQUQtQlpnWUFMaURGNDdzMm9kNldyWHJVQlJTcF82eFJILW5MeDd1Q3BOaGdUcVFwbXdQSjZVSWhHNFJxVy10ODVjRHJWeDRmLU9UUFR5ZEpmRkVyNmh0RkJHRlZrU2tNSg?oc=5"
     }
    ],
    "firstSeen": "2026-11-20T11:18:18.636Z"
@@ -586,6 +596,36 @@
     }
    ],
    "firstSeen": "2026-11-20T11:18:18.636Z"
+  },
+  {
+   "id": "502f5937ede7",
+   "title": "Lava Smart 4 Pro Launched at ₹10,999: 7000mAh Battery, Android 16 and 90Hz Display",
+   "summary": "Lava Smart 4 Pro Launched at ₹10,999: 7000mAh Battery, Android 16 and 90Hz Display Gogi Tech",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoaEVGUkhtQzQ1SHVpUm9ISm1KQld5OU5CVzZwQjh0Wi05REVZaXltRVR2bXRWaXdNRks4ZGdURXRFMml4dVMxZnJ6MC1EM1ZXYWNwb2NxdWTSAVhBVV95cUxQaGhFRlJIbUM0NUh1aVJvSEptSkJXeTlOQlc2cEI4dFotOURFWWl5bUVUdm10Vml3TUZLOGRnVEV0RTJpeHVTMWZyejAtRDNWV2FjcG9jcXVk?oc=5",
+   "image": "",
+   "publishedAt": "2026-11-20T07:40:22.000Z",
+   "date": "2026-11-20",
+   "status": "Launched",
+   "category": "Smartphone",
+   "brand": "Lava",
+   "region": "India",
+   "confidence": 3,
+   "aggregator": true,
+   "sources": [
+    {
+     "name": "Gogi Tech",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoaEVGUkhtQzQ1SHVpUm9ISm1KQld5OU5CVzZwQjh0Wi05REVZaXltRVR2bXRWaXdNRks4ZGdURXRFMml4dVMxZnJ6MC1EM1ZXYWNwb2NxdWTSAVhBVV95cUxQaGhFRlJIbUM0NUh1aVJvSEptSkJXeTlOQlc2cEI4dFotOURFWWl5bUVUdm10Vml3TUZLOGRnVEV0RTJpeHVTMWZyejAtRDNWV2FjcG9jcXVk?oc=5"
+    },
+    {
+     "name": "IT Voice Media",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGxSVHN1Z1YwWjZpRy0tdF9UN3cxd1NRYnN2WUZoVkNnbGswODJ4VXNibE5PbVZuTEc0bUdOeDFHLW5nMXhJVFFhOTBvZnZ0dmJuQ3hYRDRFVW03elFvYnNxQVctR2pmc1FTekpRZ2NPcFE3aDNkdk83TEF3eHB3TS1KclNtMnVjT2o2TWtEZDF6NFl0dUpWQWs2V0k?oc=5"
+    },
+    {
+     "name": "www.nationpathindia.com",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWlWZ2lKZzM1dm0xTzJnYzZQbUt2aldkVDE2dXVmdEJVUmltTHdYRHozLW9aSUNIRi0tZjJhOGhFcEFtaHpSMDlyZkRWRlFmVWw3bEpaVEJOaHhhVlJUSk9ISFg0THdqWURvLUotNkFiczhTUGRKU3FxUUZqYzBaNDB3NU5lQ3B2cjFMT0R3MG5DdmdCTkZIbHBkdnpMcUNqdkEtT0JwQWtCMHM?oc=5"
+    }
+   ],
+   "firstSeen": "2026-11-20T19:57:52.227Z"
   },
   {
    "id": "38840f7e9fae",
